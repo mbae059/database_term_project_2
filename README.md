@@ -64,3 +64,5 @@ Director(director_name, director_year, **team_id**, income)
 
 <a name="user">User(user_id, user_name, user_password, **team_id**, user_type)</a>
 > team_id(Team) : on delete set null
+> 
+> 
