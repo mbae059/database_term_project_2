@@ -14,6 +14,9 @@ Schema change proposal
 
 [Player_Trade_Status](#player_trade_status)
 
+Schema
+------------
+
 # User
 - admin
 - player
