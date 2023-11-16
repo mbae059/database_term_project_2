@@ -49,7 +49,6 @@ User(user_ID, user_name, team_id, type)
 type kind:
 
 admin, player, agent, owner, director 
-
 """
 def user(cursor):
     print('create user')
