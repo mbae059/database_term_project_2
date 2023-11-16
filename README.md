@@ -4,7 +4,7 @@ KBO baseball database system
 
 Schema change proposal
 --------
-[Agent : player_id](#Agent : player_id)
+[Agent : player_id](#change_player_id)
 
 1. User
 - admin
@@ -35,4 +35,4 @@ Player_record(**player_id**, start_date, end_date, **team_id**)
 > player_id(Player) : on delete no action
 > team_id(Team) : on delete no action
 
-<a name="Agent : player_id">Agent(agent_name, age, contact_info)</a>
+<a name="change_player_id">Agent(agent_name, age, contact_info)</a>
