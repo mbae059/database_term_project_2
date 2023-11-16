@@ -17,7 +17,6 @@ Schema change proposal
 2. Function
 - to lazy to write this down. See PDF
 
-fdsa
 3. Database Schema
 > Database Schema will be changed as it is not determined yet
 > This is the abstract version and used to see the overall flow
