@@ -10,6 +10,10 @@ Schema change proposal
 
 [User](#user)
 
+[Player_Agent](#player_agent)
+
+[Player_Trade_Status](#player_trade_status)
+
 # User
 - admin
 - player
@@ -39,8 +43,7 @@ Player_record(**player_id**, start_date, end_date, **team_id**)
 > player_id(Player) : on delete no action
 > team_id(Team) : on delete no action
 
-<a name="agent"></a>
-Agent(agent_name, age, contact_info)
+<a name="agent">Agent(agent_name, age, contact_info)</a>
 ```
 Subject : Field player_id should be deleted
 Reason :
@@ -72,7 +75,7 @@ Reason :
 1. admin, player, owner, agent should be able to login as well
 ```
 
-Player_Agent(**player_id**, **agent_id**, team_id, contract_date, contract_term, budget)
+<a name="player_agent">Player_Agent(**player_id**, **agent_id**, team_id, contract_date, contract_term, budget)</a>
 > player_id(Player) : on delete no action
 > agent_id(Agent) : on delete no action
 ```
@@ -81,7 +84,7 @@ Reason :
 1. budget is not a suitable word
 ```
 
-Player_Trade_Status(date, **team_id**, **player_id**, player_state)
+<a name="player_trade_status">Player_Trade_Status(date, **team_id**, **player_id**, player_state)</a>
 > team_id(Team) : on delete no action
 > player_id(Player) : on delete no action
 ```
@@ -94,4 +97,15 @@ Team_Award(**awards_id**, year, **team_id**)
 > awards_id(Award) : on delete cascade
 > team_id(Team) : on delete cascade
 
-Individual_Award()
+Individual_Award(**awards_id**, year, **player_id**)
+> awards_id(Award) : on delete cascade
+> player_id(Player) : on delete cascade
+
+Awards(awards_name)
+
+Baseball_Records(**team1_id**, **team2_id**, **baseball_stadium_id**, score)
+> team1_id(Team) : on delete cascade
+> team2_id(Team) : on delete cascade
+> baseball_stadium_id(Baseball_Stadium) : on delete no action
+
+Baseball_Stadium(location, area, capacity)
