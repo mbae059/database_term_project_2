@@ -11,7 +11,8 @@ class User:
 
         result = cursor.fetchall()
 
-        if password is result[0][0]: # should be fixed when the database schema is determined
+        # TODO result[0][0] should be fixed when the database schema is determined
+        if password is result[0][0]:
             print('You logged in as a {blank}')
             name = cursor.execute(f'get id from database')
             self.id = name
