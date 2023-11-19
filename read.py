@@ -72,5 +72,8 @@ def read_data_process(read_schema_functions_list, cursor):
 
 
 def read_data(read_schema_functions_list, cursor):
-    read_data_menu()
-    read_data_process(cursor)
+    if not read_schema_functions_list:
+        print('No Authorization')
+        return
+    read_data_menu(read_schema_functions_list)
+    read_data_process(read_schema_functions_list, cursor)

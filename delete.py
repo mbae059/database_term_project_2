@@ -16,5 +16,8 @@ def delete_data_process(delete_schema_functions_list, cursor):
 
 
 def delete_data(delete_schema_functions_list, cursor):
+    if not delete_schema_functions_list:
+        print('No Authorization')
+        return
     delete_data_menu(delete_schema_functions_list)
     delete_data_process(delete_schema_functions_list, cursor)

@@ -1,3 +1,5 @@
+import read
+import update
 from user_interface import UserInterface
 import create
 import read
@@ -5,7 +7,7 @@ import update
 import delete
 
 
-class Player(UserInterface):
+class Agent(UserInterface):
     register_schema_functions = {
     }
     read_schema_functions = {
@@ -24,9 +26,14 @@ class Player(UserInterface):
         'baseball_stadium': read.baseball_stadium,
     }
     update_schema_functions = {
-        'player': (update.player, read.player),
+        'agent': (update.agent, read.agent),
+        'player_agent': (update.player_agent, read.player_agent),
+        'player_trading': (update.player_trading, read.player_trading),
+        'team_awards': (update.team_awards, read.team_awards),
     }
     delete_schema_functions = {
+        'player_agent': (delete.player_agent, read.player_agent),
+        'player_trading': (delete.player_trading, read.player_trading),
     }
     register_schema_functions_list = list(register_schema_functions)
     read_schema_functions_list = list(read_schema_functions)

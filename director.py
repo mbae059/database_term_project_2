@@ -1,3 +1,5 @@
+import read
+import update
 from user_interface import UserInterface
 import create
 import read
@@ -5,8 +7,10 @@ import update
 import delete
 
 
-class Player(UserInterface):
+class Director(UserInterface):
     register_schema_functions = {
+        'player': (create.player, read.player),
+        'player_record': (create.player_record, read.player_record),
     }
     read_schema_functions = {
         'player': read.player,
@@ -25,8 +29,11 @@ class Player(UserInterface):
     }
     update_schema_functions = {
         'player': (update.player, read.player),
+        'player_record': (update.player_record, read.player_record),
     }
     delete_schema_functions = {
+        'player': (delete.player, read.player),
+        'player_record': (delete.player_record, read.player_record),
     }
     register_schema_functions_list = list(register_schema_functions)
     read_schema_functions_list = list(read_schema_functions)

@@ -10,8 +10,3 @@ class UserInterface(metaclass=ABCMeta):
     @abstractmethod
     def query(self, cursor):
         pass
-
-
-
-
-

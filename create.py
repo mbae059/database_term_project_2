@@ -139,6 +139,10 @@ def register_data_process(register_schema_functions_list, cursor):
     except IndexError:
         print('Index Out of Bound')
 
+
 def register_data(register_schema_functions_list, cursor):
+    if not register_schema_functions_list:
+        print('No Authorization')
+        return
     register_data_menu(register_schema_functions_list)
     register_data_process(register_schema_functions_list, cursor)
