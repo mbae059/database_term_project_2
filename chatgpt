@@ -1,0 +1,15 @@
+class User(metaclass=ABCMeta):
+    def __init__(self):
+        self.id = ""
+
+    def login(self, cursor):
+        id = input("ID: ")
+        password = getpass.getpass("password: ")
+
+        cursor.execute(f'select password from user where user_id={id}')
+
+        result = cursor.fetchall()
+
+this is the implementation for User interface and various class like admin, player implements User class.
+when this is logged in in the main function, i want the variable to be injected into admin or player.
+how can i do this

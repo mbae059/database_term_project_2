@@ -1,25 +1,21 @@
 import sys
-input = sys.stdin.readline
-N, M = map(int, input().split())
 
-matrix = [input() for _ in range(N)]
+import test1
 
-dp = [[0]*(M+1) for _ in range(N+1)]
 
-for i in range(N):
-    dp[i][0] = 1
+class Test:
+    def __init__(self):
+        self.bar = 3
+    # does something that has nothing to do with Test.bar
+    def do_something(self):
+        pass
 
-for j in range(M):
-    dp[0][j] = 1
+    # def __init__(self, test_class: test1.test_interface=None):
+    #     self.test_class = test_class
+    # def set_test_class(self, test_interface_implementation):
+    #     self.test_class = test_interface_implementation
 
-answer =0
-for i in range(1,N):
-    for j in range(1,M):
-        dp[i][j] = 1
-        if matrix[i-1][j-1]==matrix[i][j] and matrix[i-1][j]==matrix[i][j-1] and matrix[i][j]!=matrix[i-1][j]:
-            dp[i][j] = min(dp[i-1][j-1], dp[i-1][j], dp[i][j-1]) + 1
 
-for i in range(N):
-    for j in range(M):
-        answer += dp[i][j]
-print(answer)
+test = Test()
+test.set_test_class(test1.test_interface_implementation_1())
+test.test_class.print_test()

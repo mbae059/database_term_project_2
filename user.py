@@ -1,33 +1,66 @@
 import getpass
-class User:
-    def __init__(self):
-        self.id = ""
 
-    def login(self, cursor):
+import psycopg2
+
+from user_interface import UserInterface
+from admin import Admin
+
+# TODO implement
+def get_user_information(user_information):
+    pass
+
+
+class User:
+    def __init__(self, user_interface: UserInterface = None):
+        self.user_id = ""
+        self.user_name = ""
+        self.team_id = ""
+        self.user_type = ""
+        self.user_interface = user_interface # using Dependency Injection
+
+    def login(self, cursor: psycopg2.cursor):
         id = input("ID: ")
         password = getpass.getpass("password: ")
 
-        cursor.execute(f'select password from user where user_id={id}')
+        # TODO get user information using id and password
+        cursor.execute(f'TODO get user information using id and password')
 
-        result = cursor.fetchall()
+        result = cursor.fetchone()
 
-        # TODO result[0][0] should be fixed when the database schema is determined
-        if password is result[0][0]:
-            print('You logged in as a {blank}')
-            name = cursor.execute(f'get id from database')
-            self.id = name
-            return True
-        else:
+        if result is None:
             return False
-        # if id and password matches then pass
-        # if it doesn't then return false
+
+        user_name, team_id, user_type = get_user_information(result)
+        self.user_id = id
+        self.user_name = user_name
+        self.team_id = team_id
+        self.user_type = user_type
+
+        print(f'You logged in as a {user_type}')
+
+        if user_type is 'admin':
+            self.set_user_type(Admin())
+        elif user_type is 'player':
+            self.set_user_type(Player())
+        elif user_type is 'director':
+            self.set_user_type(Director())
+        elif user_type is 'owner':
+            self.set_user_type(Owner())
+        elif user_type is 'agent':
+            self.set_user_type(Agent())
+        elif user_type is 'general_user':
+            self.set_user_type(GeneralUser())
+        else:
+            print('Fatal Error. Database User schema user_type is contaminated')
+            return False
+
+        return True
+
+    def set_user_type(self, user_interface: UserInterface):
+        self.user_interface = user_interface
 
     def get_menu(self):
-        print("implement get_menu!")
+        self.user_interface.get_menu()
 
-    def query(self, cursor):
-        print("implement query")
-
-    def error(self):
-        print("Error! The input is incorrect!")
-
+    def query(self, cursor: psycopg2.cursor):
+        self.user_interface.query(cursor)
