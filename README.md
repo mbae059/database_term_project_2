@@ -29,8 +29,8 @@ Schema
 - to lazy to write this down. See PDF
 
 # Database Schema
-> Database Schema will be changed as it is not determined yet
-> This is the abstract version and used to see the overall flow
+> Database Schema will be changed as it is not determined yet.
+> This is the abstract version and should be used to see the overall flow
 
 > Every Schema PK is the default id that is given when creating the schema
 
