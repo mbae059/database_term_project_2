@@ -85,6 +85,8 @@ Reason :
 Subject : If budget means 계약금, then it should be changed
 Reason :
 1. budget is not a suitable word
+
+budget -> contract_payment 
 ```
 
 <a name="player_trade_status">Player_Trade_Status(date, **team_id**, **player_id**, player_state)</a>
