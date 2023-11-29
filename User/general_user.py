@@ -2,7 +2,7 @@ from user_interface import UserInterface
 from CRUD import read, delete, update, create
 
 
-class Admin(UserInterface):
+class General_User(UserInterface):
     register_schema_functions = {
         'player': (create.player, read.player),
         'player_record': (create.player_record, read.player_record),
