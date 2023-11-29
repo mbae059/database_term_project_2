@@ -27,7 +27,8 @@ CREATE TABLE Owner (
     owner_id INT PRIMARY KEY,
     team_id INT,
     owner_name VARCHAR(10),
-    owner_age INT
+    owner_age INT,
+    budget INT
 );
 CREATE TABLE Team (
     team_id INT PRIMARY KEY,
