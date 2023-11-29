@@ -42,7 +42,7 @@ Schema
 > FK explanation<br>
 > field(schema) : on delete ...
 
-Player(player_name, team_name, **team_id**, position, uniform_number, birth, income, agent_id, phone_number)
+Player(player_name, team_name, **team_id**, position, uniform_number, birth, income, agent_id)
 > team_id(Team) : on delete set null.
 
 Player_record(**player_id**, start_date, end_date, **team_id**)
