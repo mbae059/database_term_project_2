@@ -1,6 +1,3 @@
 .idea
 *.pdf
 .venv
-test.py
-test1.py
-chatgpt.txt
