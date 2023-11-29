@@ -4,8 +4,6 @@ from random_date import generate_random_date
 
 file = open('./player_agent.sql', 'w')
 
-j = 1
-cnt = 0
 start_date = datetime(2018, 1, 1)
 end_date = datetime(2023, 12, 1)
 
