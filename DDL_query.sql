@@ -8,7 +8,6 @@ CREATE TABLE Player (
     birth VARCHAR(15),
     income INT,
     agent_id INT,
-    phone_number VARCHAR(20)
 );
 
 CREATE TABLE Player_Record (
