@@ -1,10 +1,5 @@
-import read
-import update
+from CRUD import read, delete, update, create
 from user_interface import UserInterface
-import create
-import read
-import update
-import delete
 
 
 class Owner(UserInterface):

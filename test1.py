@@ -1,15 +1,9 @@
-from abc import *
+import sys
 
+input = sys.stdin.readline
+n = int(input())
 
-class test_interface(metaclass=ABCMeta):
-    def __init__(self):
-        self.string = "123"
-
-    @abstractmethod
-    def print_test(self):
-        print("123")
-
-
-class test_interface_implementation_1(test_interface):
-    def print_test(self):
-        print("456")
+dict = {}
+for _ in range(n):
+    a, b = map(int, input().split())
+    print(a,b)

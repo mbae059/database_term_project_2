@@ -1,8 +1,5 @@
 from user_interface import UserInterface
-import create
-import read
-import update
-import delete
+from CRUD import read, delete, update, create
 
 
 class Admin(UserInterface):
