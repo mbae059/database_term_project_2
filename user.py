@@ -3,7 +3,7 @@ import getpass
 import psycopg2
 
 from user_interface import UserInterface
-from admin import Admin
+from User.admin import Admin
 
 # TODO implement
 def get_user_information(user_information):
