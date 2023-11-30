@@ -81,25 +81,9 @@ Reason :
 1. admin, player, owner, agent should be able to login as well
 ```
 
-<a name="player_agent">Player_Agent(**player_id**, **agent_id**, team_id, contract_date, contract_term, budget)</a>
+<a name="player_agent">Player_Agent(**player_id**, **agent_id**, team_id, contract_date, contract_term, contract_payment)</a>
 > player_id(Player) : on delete no action
 > agent_id(Agent) : on delete no action
-```
-Subject : If budget means 계약금, then it should be changed
-Reason :
-1. budget is not a suitable word
-
-budget -> contract_payment 
-```
-
-<a name="player_trade_status">Player_Trade_Status(date, **team_id**, **player_id**, player_state)</a>
-> team_id(Team) : on delete no action
-> player_id(Player) : on delete no action
-```
-Subject : This schema should be deleted if player could be traded only if agent is present
-Reason :
-1. If there player could be traded only when agent is present, then this schema servers the same purpose as Player_Agent?
-```
 
 Team_Award(**awards_id**, year, **team_id**)
 > awards_id(Award) : on delete cascade
