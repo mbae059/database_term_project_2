@@ -50,7 +50,7 @@ Team(team_name, **owner_id**, **director_id**, establishment_year)
 Director(director_name, director_year, **team_id**, income)
 > team_id(Team) : on delete set null
 
-Client(client_id, client_name, client_password, **team_id**, client_type)
+Client(client_name, client_password, **team_id**, client_type)
 > team_id(Team) : on delete set null
 
 Player_Agent(**player_id**, **agent_id**, team_id, contract_date, contract_term, contract_payment)
