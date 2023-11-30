@@ -1,5 +1,5 @@
 .idea
 *.pdf
 .venv
-*.sql
+.create_dummy_date.sql
 *.txt
