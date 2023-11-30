@@ -46,13 +46,14 @@ CREATE TABLE Director (
 );
 
 CREATE TABLE Client (
-    Client_id INT PRIMARY KEY,
-    Client_name VARCHAR(20),
-    Client_password VARCHAR(25),
+    client_id INT PRIMARY KEY,
+    client_name VARCHAR(20),
+    client_password VARCHAR(25),
     team_id INT,
-    Client_type VARCHAR(10)
+    client_type VARCHAR(10)
 );
 CREATE TABLE Player_Agent (
+    player_agent_id INT PRIMARY KEY,
     player_id INT,
     agent_id INT,
     team_id INT,
@@ -61,11 +62,13 @@ CREATE TABLE Player_Agent (
     contract_payment INT
 );
 CREATE TABLE Team_Award (
+    team_award INT PRIMARY KEY
     awards_id INT,
     year INT,
     team_id INT
 );
 CREATE TABLE Individual_Award (
+    individual_award INT PRIMARY KEY
     awards_id INT,
     year INT,
     player_id INT
@@ -75,7 +78,7 @@ CREATE TABLE Awards (
     awards_name VARCHAR(255)
 );
 CREATE TABLE Baseball_Records (
-    records_id INT PRIMARY KEY,
+    baseball_records_id INT PRIMARY KEY,
     team1_id INT,
     team2_id INT,
     baseball_stadium_id INT,
@@ -83,7 +86,7 @@ CREATE TABLE Baseball_Records (
 );
 CREATE TABLE Baseball_Stadium (
     baseball_stadium_id INT PRIMARY KEY,
-    location VARCHAR(30),
+    location VARCHAR(255),
     area VARCHAR(20),
     capacity INT
 );
