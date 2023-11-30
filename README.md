@@ -2,19 +2,8 @@
 
 KBO baseball database system
 
-# Change Test 1
-
 Schema change proposal
 --------
-[Agent](#agent)
-
-[Owner](#owner)
-
-[User](#user)
-
-[Player_Agent](#player_agent)
-
-[Player_Trade_Status](#player_trade_status)
 
 Schema
 ------------
@@ -49,9 +38,9 @@ Player_record(**player_id**, start_date, end_date, **team_id**)
 > player_id(Player) : on delete no action
 > team_id(Team) : on delete no action
 
-<a name="agent">Agent(agent_name, age, contact_info)</a>
+Agent(agent_name, age, contact_info)
 
-<a name="owner">Owner(**team_id**, owner_name, owner_age, budget)</a>
+Owner(**team_id**, owner_name, owner_age, budget)
 > team_id(Team) : on delete cascade
 
 Team(team_name, **owner_id**, **director_id**, establishment_year)
@@ -61,10 +50,10 @@ Team(team_name, **owner_id**, **director_id**, establishment_year)
 Director(director_name, director_year, **team_id**, income)
 > team_id(Team) : on delete set null
 
-<a name="user">Client(client_id, client_name, client_password, **team_id**, client_type)</a>
+Client(client_id, client_name, client_password, **team_id**, client_type)
 > team_id(Team) : on delete set null
 
-<a name="player_agent">Player_Agent(**player_id**, **agent_id**, team_id, contract_date, contract_term, contract_payment)</a>
+Player_Agent(**player_id**, **agent_id**, team_id, contract_date, contract_term, contract_payment)
 > player_id(Player) : on delete no action
 > agent_id(Agent) : on delete no action
 
