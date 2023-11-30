@@ -1,8 +1,8 @@
 from datetime import datetime
 import random
-from random_date import generate_random_date
+from create_dummy_data.generate_raw.generate_random_date import generate_random_date
 
-file = open('./player.sql', 'w')
+file = open('sql/player.sql', 'w')
 
 j = 1
 cnt = 0

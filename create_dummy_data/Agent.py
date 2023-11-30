@@ -1,8 +1,7 @@
-from datetime import datetime
 import random
-from generate_name import get_name
-from generate_phone_number import get_phone_number
-file = open('./agent.sql', 'w')
+from create_dummy_data.generate_raw.generate_name import get_name
+from create_dummy_data.generate_raw.generate_phone_number import get_phone_number
+file = open('sql/agent.sql', 'w')
 
 
 N = 100

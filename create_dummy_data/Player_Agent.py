@@ -1,8 +1,8 @@
 from datetime import datetime
 import random
-from random_date import generate_random_date
+from create_dummy_data.generate_raw.generate_random_date import generate_random_date
 
-file = open('./player_agent.sql', 'w')
+file = open('sql/player_agent.sql', 'w')
 
 start_date = datetime(2018, 1, 1)
 end_date = datetime(2023, 12, 1)
