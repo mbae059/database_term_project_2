@@ -53,6 +53,16 @@ Director(director_name, director_year, **team_id**, income)
 Client(client_name, client_password, **team_id**, client_type)
 > team_id(Team) : on delete set null
 
+```
+list of client_type
+admin
+player
+director
+owner
+agent
+general_user
+GM (general_manager)
+```
 Player_Agent(**player_id**, **agent_id**, team_id, contract_date, contract_term, contract_payment)
 > player_id(Player) : on delete no action
 > agent_id(Agent) : on delete no action
