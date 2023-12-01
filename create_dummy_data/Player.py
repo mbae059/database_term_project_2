@@ -9,7 +9,6 @@ cnt = 0
 start_date = datetime(1980, 1, 1)
 end_date = datetime(1990, 12, 31)
 
-
 # 10 team
 # 10 players in one team
 for i in range(1, 11):
