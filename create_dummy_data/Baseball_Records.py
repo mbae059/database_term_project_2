@@ -17,4 +17,4 @@ for i in range(1, 300):
 
     score = str(team1_score) + ':' + str(team2_score)
 
-    file.write(f"insert into baseball_records values ('{i}', '{team1_id}', '{team2_id}', '{baseball_stadium_id}', '{score}')\n")
+    file.write(f"insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values ({team1_id}, {team2_id}, {baseball_stadium_id}, '{score}');\n")

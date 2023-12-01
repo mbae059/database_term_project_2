@@ -14,13 +14,13 @@ client_type_list = [
     'GM', #general_manager
     ]
 for i in range(1,N+1):
-    file.write(f"insert into client values ('{i}', '{get_name()}', '{get_name()}', '{random.randint(1,10)}', '{random.choice(client_type_list)}')\n")
+    file.write(f"insert into client (client_name, client_password, team_id, client_type) values ('{get_name()}', '{get_name()}', {random.randint(1,10)}, '{random.choice(client_type_list)}');\n")
 
 # user_for_login
-file.write(f"insert into client values ('{N+1}', 'admin', 'admin', '{random.randint(1,10)}', 'admin')\n")
-file.write(f"insert into client values ('{N+2}', 'player', 'player', '{random.randint(1,10)}', 'player')\n")
-file.write(f"insert into client values ('{N+3}', 'director', 'director', '{random.randint(1,10)}', 'director')\n")
-file.write(f"insert into client values ('{N+4}', 'owner', 'owner', '{random.randint(1,10)}', 'owner')\n")
-file.write(f"insert into client values ('{N+5}', 'agent', 'agent', '{random.randint(1,10)}', 'agent')\n")
-file.write(f"insert into client values ('{N+6}', 'general_user', 'general_user', '{random.randint(1,10)}', 'general_user')\n")
-file.write(f"insert into client values ('{N+7}', 'GM', 'GM', '{random.randint(1,10)}', 'GM')\n")
+file.write(f"insert into client (client_name, client_password, team_id, client_type) values ('admin', 'admin', {random.randint(1,10)}, 'admin');\n")
+file.write(f"insert into client (client_name, client_password, team_id, client_type) values ('player', 'player', {random.randint(1,10)}, 'player');\n")
+file.write(f"insert into client (client_name, client_password, team_id, client_type) values ('director', 'director', {random.randint(1,10)}, 'director');\n")
+file.write(f"insert into client (client_name, client_password, team_id, client_type) values ('owner', 'owner', {random.randint(1,10)}, 'owner');\n")
+file.write(f"insert into client (client_name, client_password, team_id, client_type) values ('agent', 'agent', {random.randint(1,10)}, 'agent');\n")
+file.write(f"insert into client (client_name, client_password, team_id, client_type) values ('general_user', 'general_user', {random.randint(1,10)}, 'general_user');\n")
+file.write(f"insert into client (client_name, client_password, team_id, client_type) values ('GM', 'GM', {random.randint(1,10)}, 'GM');\n")

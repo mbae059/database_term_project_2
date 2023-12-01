@@ -6,4 +6,4 @@ for i in range(1, 300):
     location = get_name()
     area = random.randint(10000,1000000)
     capacity = random.randint(2000,100000)
-    file.write(f"insert into baseball_stadium values ('{i}', '{location}', '{area}', '{capacity}')\n")
+    file.write(f"insert into baseball_stadium (location, area, capacity) values ('{location}', {area}, {capacity});\n")

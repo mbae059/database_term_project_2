@@ -6,4 +6,4 @@ for i in range(1, 20):
     awards_id = random.randint(1,100)
     year = random.randint(2015,2023)
     team_id = random.randint(1,10)
-    file.write(f"insert into awards values ('{i}', '{awards_id}', '{year}', '{team_id}')\n")
+    file.write(f"insert into team_award (awards_id, year, team_id) values ('{awards_id}', {year}, {team_id});\n")

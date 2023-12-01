@@ -1,3482 +1,2896 @@
-insert into agent values ('1', 'WJN6IYcV', '55', '010-8008-2288')
-insert into agent values ('2', 'vdOaaGj0', '37', '010-8249-0101')
-insert into agent values ('3', 'DrsRvvr', '24', '010-3446-2998')
-insert into agent values ('4', 'xfyqh8', '34', '010-2404-1820')
-insert into agent values ('5', '9ETQn4WL8', '41', '010-5490-0407')
-insert into agent values ('6', 'SRQ4M', '22', '010-5217-1115')
-insert into agent values ('7', 'JZBCCnPqQ', '26', '010-5659-0642')
-insert into agent values ('8', 'Mq1OQbzl', '50', '010-1968-0343')
-insert into agent values ('9', 'yME8W9', '56', '010-5813-6602')
-insert into agent values ('10', 'atJ8KdozZ', '34', '010-4916-9518')
-insert into agent values ('11', 'CMHro5fX', '29', '010-6216-4254')
-insert into agent values ('12', 'cd7lFV5', '42', '010-0369-6838')
-insert into agent values ('13', 'icoD7U1hJ', '41', '010-7280-4798')
-insert into agent values ('14', 'QE80F', '54', '010-2269-8038')
-insert into agent values ('15', 'VYcbXW', '48', '010-2353-5260')
-insert into agent values ('16', 'zToBJzTQ', '35', '010-9011-8271')
-insert into agent values ('17', 'EdWlP2GZ', '50', '010-5693-4628')
-insert into agent values ('18', 'paJ7S', '41', '010-0815-6011')
-insert into agent values ('19', '4b1ln5fQ', '49', '010-4228-5460')
-insert into agent values ('20', 'waQeBsV', '31', '010-9736-2532')
-insert into agent values ('21', 'lA3sYo2P', '36', '010-0884-8119')
-insert into agent values ('22', 'e5mHOgVC', '21', '010-0698-1408')
-insert into agent values ('23', 'ZS5jC', '25', '010-8419-8456')
-insert into agent values ('24', 'B1WBZyChr', '27', '010-3862-2694')
-insert into agent values ('25', 'd7Usbc', '47', '010-9443-3316')
-insert into agent values ('26', 'KMwR2', '44', '010-5576-7379')
-insert into agent values ('27', 'Xkuhqwbz', '49', '010-7714-4729')
-insert into agent values ('28', 'G8Y0fibn', '45', '010-3434-8508')
-insert into agent values ('29', 'didiaGM', '40', '010-1171-5380')
-insert into agent values ('30', 'o2PGLo', '57', '010-5951-7448')
-insert into agent values ('31', '6gIGmzrv', '60', '010-1168-4653')
-insert into agent values ('32', 'f2ONVxa', '51', '010-2790-9438')
-insert into agent values ('33', 'RhseguPcN', '24', '010-0764-2097')
-insert into agent values ('34', 'MwhyE4hzl', '54', '010-4312-6949')
-insert into agent values ('35', 'PgxuyUKPp', '34', '010-1173-7825')
-insert into agent values ('36', 'LOdjH2x', '38', '010-6406-1974')
-insert into agent values ('37', '3USD9sDRP', '28', '010-6908-5776')
-insert into agent values ('38', 'N3PVGuuY', '60', '010-7420-4992')
-insert into agent values ('39', 'YTGZPY', '27', '010-4798-6337')
-insert into agent values ('40', 'TAu19tziz', '40', '010-1201-8064')
-insert into agent values ('41', 'l0nEt1dA', '46', '010-2337-0433')
-insert into agent values ('42', 'fFNWUPt', '58', '010-8353-8751')
-insert into agent values ('43', 'SFdMxyO', '33', '010-7240-0712')
-insert into agent values ('44', 'pppTV', '34', '010-5517-5030')
-insert into agent values ('45', 'o7utfgvB', '57', '010-4357-4089')
-insert into agent values ('46', 'nUkGd', '38', '010-8182-5896')
-insert into agent values ('47', 'lfX7fSFaS', '40', '010-2852-5973')
-insert into agent values ('48', 'Vf3qC', '37', '010-4394-9278')
-insert into agent values ('49', 'KrogOU', '53', '010-0527-5704')
-insert into agent values ('50', '8RJwzb', '39', '010-3210-8113')
-insert into agent values ('51', 'RI0AQoAUM', '34', '010-5705-4216')
-insert into agent values ('52', 'yyjr6FF', '56', '010-2943-0457')
-insert into agent values ('53', '2RLyqiNGr', '29', '010-4499-4548')
-insert into agent values ('54', 'xZtxPvOUz', '35', '010-0416-9696')
-insert into agent values ('55', 'N25M4701Y', '27', '010-7925-6717')
-insert into agent values ('56', 'Aci8DJ', '38', '010-4923-9471')
-insert into agent values ('57', 'Lz7RS', '44', '010-0085-3994')
-insert into agent values ('58', 'GarVU6rb0', '27', '010-8217-3061')
-insert into agent values ('59', 'hzSuc', '43', '010-7367-8627')
-insert into agent values ('60', '2ll8tB', '52', '010-8574-7288')
-insert into agent values ('61', 'UZqbLv', '20', '010-6290-4240')
-insert into agent values ('62', 'HWLHK', '49', '010-9420-7592')
-insert into agent values ('63', '0RE6mR', '26', '010-0329-9813')
-insert into agent values ('64', 'nOXCN7s9l', '44', '010-9129-2237')
-insert into agent values ('65', 'fIqlgJ0', '59', '010-3434-4238')
-insert into agent values ('66', 'E4UDxH1N', '44', '010-2057-1304')
-insert into agent values ('67', 'Fyi8UP65F', '48', '010-5517-6252')
-insert into agent values ('68', '3ffAAKVha', '42', '010-1014-6401')
-insert into agent values ('69', 'bTPZBYw', '41', '010-9449-3273')
-insert into agent values ('70', 'IzQM3CD', '34', '010-7365-1086')
-insert into agent values ('71', 'aMEIPf1w', '33', '010-4305-4664')
-insert into agent values ('72', 'YO9oJ4Y', '22', '010-5683-3480')
-insert into agent values ('73', 'Itq7fGMe', '44', '010-1548-5227')
-insert into agent values ('74', 'sSSFFW', '50', '010-8024-0877')
-insert into agent values ('75', '1wVW7Q', '47', '010-0974-2613')
-insert into agent values ('76', 'WVCbRXNE', '48', '010-2326-2745')
-insert into agent values ('77', 'HWhz0Cso', '21', '010-5835-0276')
-insert into agent values ('78', 'AbFjvCO', '57', '010-6649-9302')
-insert into agent values ('79', 'hfM3U', '25', '010-4116-1379')
-insert into agent values ('80', 'x35k2lF', '45', '010-0027-3747')
-insert into agent values ('81', 'YhJW2N', '22', '010-9561-7490')
-insert into agent values ('82', 'XlagXE', '28', '010-5572-3901')
-insert into agent values ('83', 'mKgtnM', '48', '010-5403-4143')
-insert into agent values ('84', 'IM8Jk8fr', '54', '010-0522-7090')
-insert into agent values ('85', 'Bss0uOndH', '27', '010-1738-8608')
-insert into agent values ('86', 'VPVa2b2', '49', '010-9616-1345')
-insert into agent values ('87', 'yH7A51J8', '38', '010-6939-7055')
-insert into agent values ('88', 'xOoow', '43', '010-4881-7707')
-insert into agent values ('89', 'aL4Wia9XK', '54', '010-9828-7203')
-insert into agent values ('90', 'XLkfI4kW', '37', '010-5878-1239')
-insert into agent values ('91', 'wpNITV', '40', '010-2749-3756')
-insert into agent values ('92', 'ChNehe03p', '52', '010-7110-2091')
-insert into agent values ('93', 'sjiGM', '28', '010-4605-9824')
-insert into agent values ('94', 'MPO2yB2O', '34', '010-7867-0786')
-insert into agent values ('95', 'TciJh2aic', '20', '010-1677-9904')
-insert into agent values ('96', '4ZPAANu', '59', '010-8505-4128')
-insert into agent values ('97', 'ZJCj5G', '34', '010-6053-0422')
-insert into agent values ('98', '29yBQW', '24', '010-1097-1474')
-insert into agent values ('99', 'bNR7qSdfn', '24', '010-4351-0907')
-insert into agent values ('100', 'OxXaPyt', '58', '010-9108-9501')
+drop table if exists Player;
+drop table if exists Agent;
+drop table if exists Owner;
+drop table if exists Team;
+drop table if exists Director;
+drop table if exists Client;
+drop table if exists Player_Agent;
+drop table if exists Team_Award;
+drop table if exists Individual_Award;
+drop table if exists Awards;
+drop table if exists Baseball_Records;
+drop table if exists Baseball_Stadium;
+insert into agent (agent_name, age, contact_info) values ('gcXFF', 27, '010-9629-9654');
+insert into agent (agent_name, age, contact_info) values ('jtRoYkY3', 55, '010-9507-9428');
+insert into agent (agent_name, age, contact_info) values ('K2AHyInhZ', 55, '010-1856-0453');
+insert into agent (agent_name, age, contact_info) values ('2o6h1Lt', 25, '010-3398-6752');
+insert into agent (agent_name, age, contact_info) values ('U3RCF', 39, '010-3159-8735');
+insert into agent (agent_name, age, contact_info) values ('uiMZGs', 34, '010-6663-8458');
+insert into agent (agent_name, age, contact_info) values ('CLDHr', 20, '010-6308-1422');
+insert into agent (agent_name, age, contact_info) values ('3mKm5', 53, '010-2733-2870');
+insert into agent (agent_name, age, contact_info) values ('omHSfy', 20, '010-9434-3718');
+insert into agent (agent_name, age, contact_info) values ('TxvUaA', 25, '010-4091-1129');
+insert into agent (agent_name, age, contact_info) values ('R9Hy7Q', 29, '010-0123-8677');
+insert into agent (agent_name, age, contact_info) values ('vHOijxtB', 57, '010-5793-9166');
+insert into agent (agent_name, age, contact_info) values ('unkEkM', 52, '010-4257-4162');
+insert into agent (agent_name, age, contact_info) values ('0GYv8OYFn', 27, '010-2328-8061');
+insert into agent (agent_name, age, contact_info) values ('Yhg4DB', 47, '010-9646-7992');
+insert into agent (agent_name, age, contact_info) values ('w3YzT2u', 47, '010-0629-2063');
+insert into agent (agent_name, age, contact_info) values ('HOIUyZ9g', 22, '010-3348-6860');
+insert into agent (agent_name, age, contact_info) values ('e2FfhUDV', 42, '010-5831-5241');
+insert into agent (agent_name, age, contact_info) values ('KnLAf', 29, '010-4304-8425');
+insert into agent (agent_name, age, contact_info) values ('pzdFWjGy3', 55, '010-0820-8453');
+insert into agent (agent_name, age, contact_info) values ('g2vFvevic', 45, '010-8490-3980');
+insert into agent (agent_name, age, contact_info) values ('DX9iAz', 38, '010-2702-1022');
+insert into agent (agent_name, age, contact_info) values ('GCeEb2', 54, '010-8384-6861');
+insert into agent (agent_name, age, contact_info) values ('aFHsxA', 21, '010-1662-8389');
+insert into agent (agent_name, age, contact_info) values ('KT4v9Wl', 45, '010-7039-6515');
+insert into agent (agent_name, age, contact_info) values ('gdxzQg', 23, '010-4788-0934');
+insert into agent (agent_name, age, contact_info) values ('MvA1I2av', 50, '010-8637-5232');
+insert into agent (agent_name, age, contact_info) values ('AmL8uk3Q', 51, '010-6255-4048');
+insert into agent (agent_name, age, contact_info) values ('A7URZf', 48, '010-5897-6809');
+insert into agent (agent_name, age, contact_info) values ('3vN6RqsNj', 26, '010-8239-5891');
+insert into agent (agent_name, age, contact_info) values ('sWc1qMU', 27, '010-8709-0003');
+insert into agent (agent_name, age, contact_info) values ('q6V6z', 41, '010-4853-6801');
+insert into agent (agent_name, age, contact_info) values ('u5LZ5', 30, '010-6441-7654');
+insert into agent (agent_name, age, contact_info) values ('Df8vasz', 48, '010-6581-2346');
+insert into agent (agent_name, age, contact_info) values ('OXoE02Yq', 47, '010-7566-2092');
+insert into agent (agent_name, age, contact_info) values ('SoUOj', 22, '010-8992-0871');
+insert into agent (agent_name, age, contact_info) values ('JpsvHvZdA', 54, '010-9722-2731');
+insert into agent (agent_name, age, contact_info) values ('4fGPPu', 40, '010-7512-9081');
+insert into agent (agent_name, age, contact_info) values ('Ek5Kn0', 58, '010-8769-4033');
+insert into agent (agent_name, age, contact_info) values ('TcLEuZU', 30, '010-6077-3372');
+insert into agent (agent_name, age, contact_info) values ('dNcsv', 49, '010-0340-8554');
+insert into agent (agent_name, age, contact_info) values ('NxAMtGzX', 22, '010-1458-6401');
+insert into agent (agent_name, age, contact_info) values ('mldF2LWNP', 54, '010-6443-5577');
+insert into agent (agent_name, age, contact_info) values ('Q75jbzq4', 59, '010-4944-2641');
+insert into agent (agent_name, age, contact_info) values ('EfGxMX', 49, '010-5669-8359');
+insert into agent (agent_name, age, contact_info) values ('cqemVj', 32, '010-9246-6015');
+insert into agent (agent_name, age, contact_info) values ('2H5zWp', 35, '010-7704-9490');
+insert into agent (agent_name, age, contact_info) values ('6fV2GOWA', 31, '010-8464-3679');
+insert into agent (agent_name, age, contact_info) values ('tBdBu', 20, '010-2901-1846');
+insert into agent (agent_name, age, contact_info) values ('Pcgclw8eq', 28, '010-7009-3123');
+insert into agent (agent_name, age, contact_info) values ('uN8wvvA', 29, '010-9166-3994');
+insert into agent (agent_name, age, contact_info) values ('dVKHbye', 52, '010-0297-9042');
+insert into agent (agent_name, age, contact_info) values ('LDBZqKQL', 52, '010-8212-0975');
+insert into agent (agent_name, age, contact_info) values ('JNV8vxBa', 21, '010-8274-9469');
+insert into agent (agent_name, age, contact_info) values ('1v6r6JIQj', 58, '010-2163-4887');
+insert into agent (agent_name, age, contact_info) values ('SqGT6o', 21, '010-3508-8552');
+insert into agent (agent_name, age, contact_info) values ('XSiXB', 44, '010-1780-7712');
+insert into agent (agent_name, age, contact_info) values ('VSL5B', 24, '010-1061-4986');
+insert into agent (agent_name, age, contact_info) values ('45wMayh', 35, '010-0164-5676');
+insert into agent (agent_name, age, contact_info) values ('wdYty', 60, '010-3881-5457');
+insert into agent (agent_name, age, contact_info) values ('uyLbaRsRU', 57, '010-6651-5742');
+insert into agent (agent_name, age, contact_info) values ('aQic6v2s', 38, '010-1373-1817');
+insert into agent (agent_name, age, contact_info) values ('ZuEQKwYwt', 29, '010-9017-8870');
+insert into agent (agent_name, age, contact_info) values ('9ueJAa', 35, '010-5974-6694');
+insert into agent (agent_name, age, contact_info) values ('JjDaT3', 30, '010-1670-1677');
+insert into agent (agent_name, age, contact_info) values ('isB9C4tL6', 34, '010-5899-1115');
+insert into agent (agent_name, age, contact_info) values ('Wy4xvc', 56, '010-1100-2872');
+insert into agent (agent_name, age, contact_info) values ('RIXEmPSt8', 25, '010-4545-0557');
+insert into agent (agent_name, age, contact_info) values ('wvmFv1aH', 36, '010-8890-3023');
+insert into agent (agent_name, age, contact_info) values ('Y3AYufr0', 41, '010-8786-1521');
+insert into agent (agent_name, age, contact_info) values ('3cb6CciIm', 50, '010-3237-8313');
+insert into agent (agent_name, age, contact_info) values ('aWxhpjpRQ', 43, '010-8018-6179');
+insert into agent (agent_name, age, contact_info) values ('hWrhhYvn', 58, '010-9815-6339');
+insert into agent (agent_name, age, contact_info) values ('yeHYrqbC', 60, '010-3396-3442');
+insert into agent (agent_name, age, contact_info) values ('7Ltq9cLe2', 35, '010-5760-0127');
+insert into agent (agent_name, age, contact_info) values ('eKC1x', 22, '010-2068-3512');
+insert into agent (agent_name, age, contact_info) values ('ej6bMAi', 40, '010-6108-0963');
+insert into agent (agent_name, age, contact_info) values ('Cq4XzLwXd', 29, '010-8514-7874');
+insert into agent (agent_name, age, contact_info) values ('xS9oS5Ah', 25, '010-2196-0451');
+insert into agent (agent_name, age, contact_info) values ('IKrHSTg', 56, '010-6765-2134');
+insert into agent (agent_name, age, contact_info) values ('W6zhN', 48, '010-4835-8479');
+insert into agent (agent_name, age, contact_info) values ('I2dbW9X', 45, '010-8028-5241');
+insert into agent (agent_name, age, contact_info) values ('GFgalY', 21, '010-8826-0485');
+insert into agent (agent_name, age, contact_info) values ('dBwFHA3mw', 60, '010-0470-0331');
+insert into agent (agent_name, age, contact_info) values ('YbuYy', 38, '010-4002-9319');
+insert into agent (agent_name, age, contact_info) values ('qJq3jzc3', 40, '010-3418-7398');
+insert into agent (agent_name, age, contact_info) values ('dlP42kSO', 30, '010-2226-5570');
+insert into agent (agent_name, age, contact_info) values ('26Mk1', 40, '010-0971-0177');
+insert into agent (agent_name, age, contact_info) values ('VGXasuvz', 56, '010-2145-5329');
+insert into agent (agent_name, age, contact_info) values ('JlAtcp', 38, '010-6255-8491');
+insert into agent (agent_name, age, contact_info) values ('IxODk4V', 51, '010-2905-0454');
+insert into agent (agent_name, age, contact_info) values ('Wj3bZ1', 60, '010-2390-2205');
+insert into agent (agent_name, age, contact_info) values ('SjPm5cPR', 56, '010-0767-7525');
+insert into agent (agent_name, age, contact_info) values ('D6lc2jR', 21, '010-0608-4625');
+insert into agent (agent_name, age, contact_info) values ('SYen0JDc', 40, '010-7051-7274');
+insert into agent (agent_name, age, contact_info) values ('VGZPdYKKl', 37, '010-7485-9289');
+insert into agent (agent_name, age, contact_info) values ('8zHVYjdlJ', 59, '010-2438-1035');
+insert into agent (agent_name, age, contact_info) values ('aU5O7', 59, '010-0482-3852');
+insert into agent (agent_name, age, contact_info) values ('cFl4Cjs', 23, '010-5007-8235');
+insert into agent (agent_name, age, contact_info) values ('gMW1S', 56, '010-9993-8694');
 
-insert into awards values ('1', 'team_award_#1')
-insert into awards values ('2', 'team_award_#2')
-insert into awards values ('3', 'team_award_#3')
-insert into awards values ('4', 'team_award_#4')
-insert into awards values ('5', 'team_award_#5')
-insert into awards values ('6', 'team_award_#6')
-insert into awards values ('7', 'team_award_#7')
-insert into awards values ('8', 'team_award_#8')
-insert into awards values ('9', 'team_award_#9')
-insert into awards values ('10', 'team_award_#10')
-insert into awards values ('11', 'team_award_#11')
-insert into awards values ('12', 'team_award_#12')
-insert into awards values ('13', 'team_award_#13')
-insert into awards values ('14', 'team_award_#14')
-insert into awards values ('15', 'team_award_#15')
-insert into awards values ('16', 'team_award_#16')
-insert into awards values ('17', 'team_award_#17')
-insert into awards values ('18', 'team_award_#18')
-insert into awards values ('19', 'team_award_#19')
-insert into awards values ('20', 'team_award_#20')
-insert into awards values ('21', 'team_award_#21')
-insert into awards values ('22', 'team_award_#22')
-insert into awards values ('23', 'team_award_#23')
-insert into awards values ('24', 'team_award_#24')
-insert into awards values ('25', 'team_award_#25')
-insert into awards values ('26', 'team_award_#26')
-insert into awards values ('27', 'team_award_#27')
-insert into awards values ('28', 'team_award_#28')
-insert into awards values ('29', 'team_award_#29')
-insert into awards values ('30', 'team_award_#30')
-insert into awards values ('31', 'team_award_#31')
-insert into awards values ('32', 'team_award_#32')
-insert into awards values ('33', 'team_award_#33')
-insert into awards values ('34', 'team_award_#34')
-insert into awards values ('35', 'team_award_#35')
-insert into awards values ('36', 'team_award_#36')
-insert into awards values ('37', 'team_award_#37')
-insert into awards values ('38', 'team_award_#38')
-insert into awards values ('39', 'team_award_#39')
-insert into awards values ('40', 'team_award_#40')
-insert into awards values ('41', 'team_award_#41')
-insert into awards values ('42', 'team_award_#42')
-insert into awards values ('43', 'team_award_#43')
-insert into awards values ('44', 'team_award_#44')
-insert into awards values ('45', 'team_award_#45')
-insert into awards values ('46', 'team_award_#46')
-insert into awards values ('47', 'team_award_#47')
-insert into awards values ('48', 'team_award_#48')
-insert into awards values ('49', 'team_award_#49')
-insert into awards values ('50', 'team_award_#50')
-insert into awards values ('51', 'team_award_#51')
-insert into awards values ('52', 'team_award_#52')
-insert into awards values ('53', 'team_award_#53')
-insert into awards values ('54', 'team_award_#54')
-insert into awards values ('55', 'team_award_#55')
-insert into awards values ('56', 'team_award_#56')
-insert into awards values ('57', 'team_award_#57')
-insert into awards values ('58', 'team_award_#58')
-insert into awards values ('59', 'team_award_#59')
-insert into awards values ('60', 'team_award_#60')
-insert into awards values ('61', 'team_award_#61')
-insert into awards values ('62', 'team_award_#62')
-insert into awards values ('63', 'team_award_#63')
-insert into awards values ('64', 'team_award_#64')
-insert into awards values ('65', 'team_award_#65')
-insert into awards values ('66', 'team_award_#66')
-insert into awards values ('67', 'team_award_#67')
-insert into awards values ('68', 'team_award_#68')
-insert into awards values ('69', 'team_award_#69')
-insert into awards values ('70', 'team_award_#70')
-insert into awards values ('71', 'team_award_#71')
-insert into awards values ('72', 'team_award_#72')
-insert into awards values ('73', 'team_award_#73')
-insert into awards values ('74', 'team_award_#74')
-insert into awards values ('75', 'team_award_#75')
-insert into awards values ('76', 'team_award_#76')
-insert into awards values ('77', 'team_award_#77')
-insert into awards values ('78', 'team_award_#78')
-insert into awards values ('79', 'team_award_#79')
-insert into awards values ('80', 'team_award_#80')
-insert into awards values ('81', 'team_award_#81')
-insert into awards values ('82', 'team_award_#82')
-insert into awards values ('83', 'team_award_#83')
-insert into awards values ('84', 'team_award_#84')
-insert into awards values ('85', 'team_award_#85')
-insert into awards values ('86', 'team_award_#86')
-insert into awards values ('87', 'team_award_#87')
-insert into awards values ('88', 'team_award_#88')
-insert into awards values ('89', 'team_award_#89')
-insert into awards values ('90', 'team_award_#90')
-insert into awards values ('91', 'team_award_#91')
-insert into awards values ('92', 'team_award_#92')
-insert into awards values ('93', 'team_award_#93')
-insert into awards values ('94', 'team_award_#94')
-insert into awards values ('95', 'team_award_#95')
-insert into awards values ('96', 'team_award_#96')
-insert into awards values ('97', 'team_award_#97')
-insert into awards values ('98', 'team_award_#98')
-insert into awards values ('99', 'team_award_#99')
-insert into awards values ('100', 'team_award_#100')
-insert into awards values ('101', 'individual_award_#1')
-insert into awards values ('102', 'individual_award_#2')
-insert into awards values ('103', 'individual_award_#3')
-insert into awards values ('104', 'individual_award_#4')
-insert into awards values ('105', 'individual_award_#5')
-insert into awards values ('106', 'individual_award_#6')
-insert into awards values ('107', 'individual_award_#7')
-insert into awards values ('108', 'individual_award_#8')
-insert into awards values ('109', 'individual_award_#9')
-insert into awards values ('110', 'individual_award_#10')
-insert into awards values ('111', 'individual_award_#11')
-insert into awards values ('112', 'individual_award_#12')
-insert into awards values ('113', 'individual_award_#13')
-insert into awards values ('114', 'individual_award_#14')
-insert into awards values ('115', 'individual_award_#15')
-insert into awards values ('116', 'individual_award_#16')
-insert into awards values ('117', 'individual_award_#17')
-insert into awards values ('118', 'individual_award_#18')
-insert into awards values ('119', 'individual_award_#19')
-insert into awards values ('120', 'individual_award_#20')
-insert into awards values ('121', 'individual_award_#21')
-insert into awards values ('122', 'individual_award_#22')
-insert into awards values ('123', 'individual_award_#23')
-insert into awards values ('124', 'individual_award_#24')
-insert into awards values ('125', 'individual_award_#25')
-insert into awards values ('126', 'individual_award_#26')
-insert into awards values ('127', 'individual_award_#27')
-insert into awards values ('128', 'individual_award_#28')
-insert into awards values ('129', 'individual_award_#29')
-insert into awards values ('130', 'individual_award_#30')
-insert into awards values ('131', 'individual_award_#31')
-insert into awards values ('132', 'individual_award_#32')
-insert into awards values ('133', 'individual_award_#33')
-insert into awards values ('134', 'individual_award_#34')
-insert into awards values ('135', 'individual_award_#35')
-insert into awards values ('136', 'individual_award_#36')
-insert into awards values ('137', 'individual_award_#37')
-insert into awards values ('138', 'individual_award_#38')
-insert into awards values ('139', 'individual_award_#39')
-insert into awards values ('140', 'individual_award_#40')
-insert into awards values ('141', 'individual_award_#41')
-insert into awards values ('142', 'individual_award_#42')
-insert into awards values ('143', 'individual_award_#43')
-insert into awards values ('144', 'individual_award_#44')
-insert into awards values ('145', 'individual_award_#45')
-insert into awards values ('146', 'individual_award_#46')
-insert into awards values ('147', 'individual_award_#47')
-insert into awards values ('148', 'individual_award_#48')
-insert into awards values ('149', 'individual_award_#49')
-insert into awards values ('150', 'individual_award_#50')
-insert into awards values ('151', 'individual_award_#51')
-insert into awards values ('152', 'individual_award_#52')
-insert into awards values ('153', 'individual_award_#53')
-insert into awards values ('154', 'individual_award_#54')
-insert into awards values ('155', 'individual_award_#55')
-insert into awards values ('156', 'individual_award_#56')
-insert into awards values ('157', 'individual_award_#57')
-insert into awards values ('158', 'individual_award_#58')
-insert into awards values ('159', 'individual_award_#59')
-insert into awards values ('160', 'individual_award_#60')
-insert into awards values ('161', 'individual_award_#61')
-insert into awards values ('162', 'individual_award_#62')
-insert into awards values ('163', 'individual_award_#63')
-insert into awards values ('164', 'individual_award_#64')
-insert into awards values ('165', 'individual_award_#65')
-insert into awards values ('166', 'individual_award_#66')
-insert into awards values ('167', 'individual_award_#67')
-insert into awards values ('168', 'individual_award_#68')
-insert into awards values ('169', 'individual_award_#69')
-insert into awards values ('170', 'individual_award_#70')
-insert into awards values ('171', 'individual_award_#71')
-insert into awards values ('172', 'individual_award_#72')
-insert into awards values ('173', 'individual_award_#73')
-insert into awards values ('174', 'individual_award_#74')
-insert into awards values ('175', 'individual_award_#75')
-insert into awards values ('176', 'individual_award_#76')
-insert into awards values ('177', 'individual_award_#77')
-insert into awards values ('178', 'individual_award_#78')
-insert into awards values ('179', 'individual_award_#79')
-insert into awards values ('180', 'individual_award_#80')
-insert into awards values ('181', 'individual_award_#81')
-insert into awards values ('182', 'individual_award_#82')
-insert into awards values ('183', 'individual_award_#83')
-insert into awards values ('184', 'individual_award_#84')
-insert into awards values ('185', 'individual_award_#85')
-insert into awards values ('186', 'individual_award_#86')
-insert into awards values ('187', 'individual_award_#87')
-insert into awards values ('188', 'individual_award_#88')
-insert into awards values ('189', 'individual_award_#89')
-insert into awards values ('190', 'individual_award_#90')
-insert into awards values ('191', 'individual_award_#91')
-insert into awards values ('192', 'individual_award_#92')
-insert into awards values ('193', 'individual_award_#93')
-insert into awards values ('194', 'individual_award_#94')
-insert into awards values ('195', 'individual_award_#95')
-insert into awards values ('196', 'individual_award_#96')
-insert into awards values ('197', 'individual_award_#97')
-insert into awards values ('198', 'individual_award_#98')
-insert into awards values ('199', 'individual_award_#99')
-insert into awards values ('200', 'individual_award_#100')
+insert into awards (awards_name) values ('team_award_#1');
+insert into awards (awards_name) values ('team_award_#2');
+insert into awards (awards_name) values ('team_award_#3');
+insert into awards (awards_name) values ('team_award_#4');
+insert into awards (awards_name) values ('team_award_#5');
+insert into awards (awards_name) values ('team_award_#6');
+insert into awards (awards_name) values ('team_award_#7');
+insert into awards (awards_name) values ('team_award_#8');
+insert into awards (awards_name) values ('team_award_#9');
+insert into awards (awards_name) values ('team_award_#10');
+insert into awards (awards_name) values ('team_award_#11');
+insert into awards (awards_name) values ('team_award_#12');
+insert into awards (awards_name) values ('team_award_#13');
+insert into awards (awards_name) values ('team_award_#14');
+insert into awards (awards_name) values ('team_award_#15');
+insert into awards (awards_name) values ('team_award_#16');
+insert into awards (awards_name) values ('team_award_#17');
+insert into awards (awards_name) values ('team_award_#18');
+insert into awards (awards_name) values ('team_award_#19');
+insert into awards (awards_name) values ('team_award_#20');
+insert into awards (awards_name) values ('team_award_#21');
+insert into awards (awards_name) values ('team_award_#22');
+insert into awards (awards_name) values ('team_award_#23');
+insert into awards (awards_name) values ('team_award_#24');
+insert into awards (awards_name) values ('team_award_#25');
+insert into awards (awards_name) values ('team_award_#26');
+insert into awards (awards_name) values ('team_award_#27');
+insert into awards (awards_name) values ('team_award_#28');
+insert into awards (awards_name) values ('team_award_#29');
+insert into awards (awards_name) values ('team_award_#30');
+insert into awards (awards_name) values ('team_award_#31');
+insert into awards (awards_name) values ('team_award_#32');
+insert into awards (awards_name) values ('team_award_#33');
+insert into awards (awards_name) values ('team_award_#34');
+insert into awards (awards_name) values ('team_award_#35');
+insert into awards (awards_name) values ('team_award_#36');
+insert into awards (awards_name) values ('team_award_#37');
+insert into awards (awards_name) values ('team_award_#38');
+insert into awards (awards_name) values ('team_award_#39');
+insert into awards (awards_name) values ('team_award_#40');
+insert into awards (awards_name) values ('team_award_#41');
+insert into awards (awards_name) values ('team_award_#42');
+insert into awards (awards_name) values ('team_award_#43');
+insert into awards (awards_name) values ('team_award_#44');
+insert into awards (awards_name) values ('team_award_#45');
+insert into awards (awards_name) values ('team_award_#46');
+insert into awards (awards_name) values ('team_award_#47');
+insert into awards (awards_name) values ('team_award_#48');
+insert into awards (awards_name) values ('team_award_#49');
+insert into awards (awards_name) values ('team_award_#50');
+insert into awards (awards_name) values ('team_award_#51');
+insert into awards (awards_name) values ('team_award_#52');
+insert into awards (awards_name) values ('team_award_#53');
+insert into awards (awards_name) values ('team_award_#54');
+insert into awards (awards_name) values ('team_award_#55');
+insert into awards (awards_name) values ('team_award_#56');
+insert into awards (awards_name) values ('team_award_#57');
+insert into awards (awards_name) values ('team_award_#58');
+insert into awards (awards_name) values ('team_award_#59');
+insert into awards (awards_name) values ('team_award_#60');
+insert into awards (awards_name) values ('team_award_#61');
+insert into awards (awards_name) values ('team_award_#62');
+insert into awards (awards_name) values ('team_award_#63');
+insert into awards (awards_name) values ('team_award_#64');
+insert into awards (awards_name) values ('team_award_#65');
+insert into awards (awards_name) values ('team_award_#66');
+insert into awards (awards_name) values ('team_award_#67');
+insert into awards (awards_name) values ('team_award_#68');
+insert into awards (awards_name) values ('team_award_#69');
+insert into awards (awards_name) values ('team_award_#70');
+insert into awards (awards_name) values ('team_award_#71');
+insert into awards (awards_name) values ('team_award_#72');
+insert into awards (awards_name) values ('team_award_#73');
+insert into awards (awards_name) values ('team_award_#74');
+insert into awards (awards_name) values ('team_award_#75');
+insert into awards (awards_name) values ('team_award_#76');
+insert into awards (awards_name) values ('team_award_#77');
+insert into awards (awards_name) values ('team_award_#78');
+insert into awards (awards_name) values ('team_award_#79');
+insert into awards (awards_name) values ('team_award_#80');
+insert into awards (awards_name) values ('team_award_#81');
+insert into awards (awards_name) values ('team_award_#82');
+insert into awards (awards_name) values ('team_award_#83');
+insert into awards (awards_name) values ('team_award_#84');
+insert into awards (awards_name) values ('team_award_#85');
+insert into awards (awards_name) values ('team_award_#86');
+insert into awards (awards_name) values ('team_award_#87');
+insert into awards (awards_name) values ('team_award_#88');
+insert into awards (awards_name) values ('team_award_#89');
+insert into awards (awards_name) values ('team_award_#90');
+insert into awards (awards_name) values ('team_award_#91');
+insert into awards (awards_name) values ('team_award_#92');
+insert into awards (awards_name) values ('team_award_#93');
+insert into awards (awards_name) values ('team_award_#94');
+insert into awards (awards_name) values ('team_award_#95');
+insert into awards (awards_name) values ('team_award_#96');
+insert into awards (awards_name) values ('team_award_#97');
+insert into awards (awards_name) values ('team_award_#98');
+insert into awards (awards_name) values ('team_award_#99');
+insert into awards (awards_name) values ('team_award_#100');
+insert into awards (awards_name) values ('individual_award_#1');
+insert into awards (awards_name) values ('individual_award_#2');
+insert into awards (awards_name) values ('individual_award_#3');
+insert into awards (awards_name) values ('individual_award_#4');
+insert into awards (awards_name) values ('individual_award_#5');
+insert into awards (awards_name) values ('individual_award_#6');
+insert into awards (awards_name) values ('individual_award_#7');
+insert into awards (awards_name) values ('individual_award_#8');
+insert into awards (awards_name) values ('individual_award_#9');
+insert into awards (awards_name) values ('individual_award_#10');
+insert into awards (awards_name) values ('individual_award_#11');
+insert into awards (awards_name) values ('individual_award_#12');
+insert into awards (awards_name) values ('individual_award_#13');
+insert into awards (awards_name) values ('individual_award_#14');
+insert into awards (awards_name) values ('individual_award_#15');
+insert into awards (awards_name) values ('individual_award_#16');
+insert into awards (awards_name) values ('individual_award_#17');
+insert into awards (awards_name) values ('individual_award_#18');
+insert into awards (awards_name) values ('individual_award_#19');
+insert into awards (awards_name) values ('individual_award_#20');
+insert into awards (awards_name) values ('individual_award_#21');
+insert into awards (awards_name) values ('individual_award_#22');
+insert into awards (awards_name) values ('individual_award_#23');
+insert into awards (awards_name) values ('individual_award_#24');
+insert into awards (awards_name) values ('individual_award_#25');
+insert into awards (awards_name) values ('individual_award_#26');
+insert into awards (awards_name) values ('individual_award_#27');
+insert into awards (awards_name) values ('individual_award_#28');
+insert into awards (awards_name) values ('individual_award_#29');
+insert into awards (awards_name) values ('individual_award_#30');
+insert into awards (awards_name) values ('individual_award_#31');
+insert into awards (awards_name) values ('individual_award_#32');
+insert into awards (awards_name) values ('individual_award_#33');
+insert into awards (awards_name) values ('individual_award_#34');
+insert into awards (awards_name) values ('individual_award_#35');
+insert into awards (awards_name) values ('individual_award_#36');
+insert into awards (awards_name) values ('individual_award_#37');
+insert into awards (awards_name) values ('individual_award_#38');
+insert into awards (awards_name) values ('individual_award_#39');
+insert into awards (awards_name) values ('individual_award_#40');
+insert into awards (awards_name) values ('individual_award_#41');
+insert into awards (awards_name) values ('individual_award_#42');
+insert into awards (awards_name) values ('individual_award_#43');
+insert into awards (awards_name) values ('individual_award_#44');
+insert into awards (awards_name) values ('individual_award_#45');
+insert into awards (awards_name) values ('individual_award_#46');
+insert into awards (awards_name) values ('individual_award_#47');
+insert into awards (awards_name) values ('individual_award_#48');
+insert into awards (awards_name) values ('individual_award_#49');
+insert into awards (awards_name) values ('individual_award_#50');
+insert into awards (awards_name) values ('individual_award_#51');
+insert into awards (awards_name) values ('individual_award_#52');
+insert into awards (awards_name) values ('individual_award_#53');
+insert into awards (awards_name) values ('individual_award_#54');
+insert into awards (awards_name) values ('individual_award_#55');
+insert into awards (awards_name) values ('individual_award_#56');
+insert into awards (awards_name) values ('individual_award_#57');
+insert into awards (awards_name) values ('individual_award_#58');
+insert into awards (awards_name) values ('individual_award_#59');
+insert into awards (awards_name) values ('individual_award_#60');
+insert into awards (awards_name) values ('individual_award_#61');
+insert into awards (awards_name) values ('individual_award_#62');
+insert into awards (awards_name) values ('individual_award_#63');
+insert into awards (awards_name) values ('individual_award_#64');
+insert into awards (awards_name) values ('individual_award_#65');
+insert into awards (awards_name) values ('individual_award_#66');
+insert into awards (awards_name) values ('individual_award_#67');
+insert into awards (awards_name) values ('individual_award_#68');
+insert into awards (awards_name) values ('individual_award_#69');
+insert into awards (awards_name) values ('individual_award_#70');
+insert into awards (awards_name) values ('individual_award_#71');
+insert into awards (awards_name) values ('individual_award_#72');
+insert into awards (awards_name) values ('individual_award_#73');
+insert into awards (awards_name) values ('individual_award_#74');
+insert into awards (awards_name) values ('individual_award_#75');
+insert into awards (awards_name) values ('individual_award_#76');
+insert into awards (awards_name) values ('individual_award_#77');
+insert into awards (awards_name) values ('individual_award_#78');
+insert into awards (awards_name) values ('individual_award_#79');
+insert into awards (awards_name) values ('individual_award_#80');
+insert into awards (awards_name) values ('individual_award_#81');
+insert into awards (awards_name) values ('individual_award_#82');
+insert into awards (awards_name) values ('individual_award_#83');
+insert into awards (awards_name) values ('individual_award_#84');
+insert into awards (awards_name) values ('individual_award_#85');
+insert into awards (awards_name) values ('individual_award_#86');
+insert into awards (awards_name) values ('individual_award_#87');
+insert into awards (awards_name) values ('individual_award_#88');
+insert into awards (awards_name) values ('individual_award_#89');
+insert into awards (awards_name) values ('individual_award_#90');
+insert into awards (awards_name) values ('individual_award_#91');
+insert into awards (awards_name) values ('individual_award_#92');
+insert into awards (awards_name) values ('individual_award_#93');
+insert into awards (awards_name) values ('individual_award_#94');
+insert into awards (awards_name) values ('individual_award_#95');
+insert into awards (awards_name) values ('individual_award_#96');
+insert into awards (awards_name) values ('individual_award_#97');
+insert into awards (awards_name) values ('individual_award_#98');
+insert into awards (awards_name) values ('individual_award_#99');
+insert into awards (awards_name) values ('individual_award_#100');
 
-insert into baseball_records values ('1', '1', '7', '51', '4:6')
-insert into baseball_records values ('2', '6', '8', '21', '9:1')
-insert into baseball_records values ('3', '3', '5', '27', '7:9')
-insert into baseball_records values ('4', '3', '6', '9', '4:10')
-insert into baseball_records values ('5', '9', '7', '61', '5:2')
-insert into baseball_records values ('6', '8', '6', '51', '3:7')
-insert into baseball_records values ('7', '3', '5', '15', '2:4')
-insert into baseball_records values ('8', '10', '1', '56', '9:9')
-insert into baseball_records values ('9', '1', '10', '75', '3:5')
-insert into baseball_records values ('10', '4', '10', '68', '10:7')
-insert into baseball_records values ('11', '2', '5', '31', '10:3')
-insert into baseball_records values ('12', '7', '8', '15', '6:7')
-insert into baseball_records values ('13', '4', '6', '86', '7:3')
-insert into baseball_records values ('14', '6', '10', '2', '10:2')
-insert into baseball_records values ('15', '2', '1', '23', '3:1')
-insert into baseball_records values ('16', '4', '6', '25', '8:4')
-insert into baseball_records values ('17', '4', '10', '28', '5:4')
-insert into baseball_records values ('18', '3', '8', '48', '5:6')
-insert into baseball_records values ('19', '5', '9', '56', '10:5')
-insert into baseball_records values ('20', '4', '3', '37', '8:10')
-insert into baseball_records values ('21', '7', '10', '53', '10:7')
-insert into baseball_records values ('22', '3', '10', '89', '5:7')
-insert into baseball_records values ('23', '3', '2', '41', '3:4')
-insert into baseball_records values ('24', '2', '10', '57', '2:5')
-insert into baseball_records values ('25', '1', '9', '24', '6:8')
-insert into baseball_records values ('26', '4', '6', '76', '4:9')
-insert into baseball_records values ('27', '2', '10', '2', '8:4')
-insert into baseball_records values ('28', '9', '8', '63', '6:6')
-insert into baseball_records values ('29', '5', '1', '56', '4:5')
-insert into baseball_records values ('30', '2', '10', '71', '8:5')
-insert into baseball_records values ('31', '2', '1', '59', '7:1')
-insert into baseball_records values ('32', '9', '8', '67', '2:9')
-insert into baseball_records values ('33', '10', '9', '77', '6:1')
-insert into baseball_records values ('34', '7', '6', '73', '10:1')
-insert into baseball_records values ('35', '1', '8', '70', '8:5')
-insert into baseball_records values ('36', '3', '2', '43', '7:3')
-insert into baseball_records values ('37', '1', '8', '87', '2:3')
-insert into baseball_records values ('38', '4', '1', '8', '1:8')
-insert into baseball_records values ('39', '2', '4', '24', '2:7')
-insert into baseball_records values ('40', '1', '9', '22', '4:2')
-insert into baseball_records values ('41', '5', '1', '73', '3:5')
-insert into baseball_records values ('42', '4', '9', '92', '10:6')
-insert into baseball_records values ('43', '5', '8', '5', '6:3')
-insert into baseball_records values ('44', '7', '2', '67', '5:1')
-insert into baseball_records values ('45', '6', '10', '71', '1:6')
-insert into baseball_records values ('46', '7', '10', '22', '6:3')
-insert into baseball_records values ('47', '8', '4', '69', '9:9')
-insert into baseball_records values ('48', '1', '4', '58', '1:6')
-insert into baseball_records values ('49', '8', '4', '66', '7:10')
-insert into baseball_records values ('50', '7', '5', '47', '9:3')
-insert into baseball_records values ('51', '3', '8', '86', '3:8')
-insert into baseball_records values ('52', '4', '9', '78', '6:7')
-insert into baseball_records values ('53', '7', '6', '93', '5:3')
-insert into baseball_records values ('54', '7', '1', '48', '7:1')
-insert into baseball_records values ('55', '10', '5', '42', '4:9')
-insert into baseball_records values ('56', '9', '7', '71', '1:5')
-insert into baseball_records values ('57', '1', '10', '41', '2:8')
-insert into baseball_records values ('58', '8', '9', '32', '6:6')
-insert into baseball_records values ('59', '2', '7', '2', '9:5')
-insert into baseball_records values ('60', '6', '1', '22', '1:3')
-insert into baseball_records values ('61', '10', '3', '87', '5:6')
-insert into baseball_records values ('62', '6', '4', '55', '2:1')
-insert into baseball_records values ('63', '5', '8', '70', '9:3')
-insert into baseball_records values ('64', '1', '6', '27', '2:1')
-insert into baseball_records values ('65', '9', '7', '92', '1:4')
-insert into baseball_records values ('66', '10', '1', '47', '4:7')
-insert into baseball_records values ('67', '7', '8', '58', '9:8')
-insert into baseball_records values ('68', '5', '4', '35', '2:10')
-insert into baseball_records values ('69', '9', '7', '45', '1:5')
-insert into baseball_records values ('70', '8', '2', '75', '9:2')
-insert into baseball_records values ('71', '10', '8', '58', '5:10')
-insert into baseball_records values ('72', '7', '6', '14', '6:8')
-insert into baseball_records values ('73', '9', '8', '80', '7:9')
-insert into baseball_records values ('74', '7', '10', '10', '9:9')
-insert into baseball_records values ('75', '6', '5', '77', '4:10')
-insert into baseball_records values ('76', '3', '5', '4', '5:4')
-insert into baseball_records values ('77', '1', '3', '3', '6:3')
-insert into baseball_records values ('78', '7', '9', '54', '2:9')
-insert into baseball_records values ('79', '5', '9', '71', '6:7')
-insert into baseball_records values ('80', '10', '4', '91', '3:5')
-insert into baseball_records values ('81', '5', '6', '50', '6:5')
-insert into baseball_records values ('82', '8', '4', '10', '6:3')
-insert into baseball_records values ('83', '7', '10', '71', '3:2')
-insert into baseball_records values ('84', '5', '7', '86', '7:7')
-insert into baseball_records values ('85', '7', '4', '70', '1:7')
-insert into baseball_records values ('86', '8', '1', '3', '2:3')
-insert into baseball_records values ('87', '4', '6', '14', '4:10')
-insert into baseball_records values ('88', '1', '3', '94', '9:8')
-insert into baseball_records values ('89', '8', '5', '83', '2:7')
-insert into baseball_records values ('90', '2', '6', '73', '8:1')
-insert into baseball_records values ('91', '7', '6', '5', '3:4')
-insert into baseball_records values ('92', '5', '8', '70', '7:4')
-insert into baseball_records values ('93', '10', '2', '96', '6:10')
-insert into baseball_records values ('94', '1', '6', '31', '6:2')
-insert into baseball_records values ('95', '1', '7', '11', '4:6')
-insert into baseball_records values ('96', '8', '7', '76', '2:3')
-insert into baseball_records values ('97', '2', '6', '41', '3:4')
-insert into baseball_records values ('98', '1', '10', '85', '3:10')
-insert into baseball_records values ('99', '9', '7', '16', '4:10')
-insert into baseball_records values ('100', '1', '5', '64', '5:9')
-insert into baseball_records values ('101', '8', '6', '54', '1:8')
-insert into baseball_records values ('102', '8', '9', '14', '7:3')
-insert into baseball_records values ('103', '10', '7', '77', '3:9')
-insert into baseball_records values ('104', '4', '7', '78', '9:2')
-insert into baseball_records values ('105', '9', '8', '91', '7:1')
-insert into baseball_records values ('106', '4', '9', '20', '6:6')
-insert into baseball_records values ('107', '1', '3', '68', '7:2')
-insert into baseball_records values ('108', '6', '3', '73', '10:8')
-insert into baseball_records values ('109', '3', '7', '46', '5:9')
-insert into baseball_records values ('110', '7', '1', '3', '3:2')
-insert into baseball_records values ('111', '8', '5', '86', '9:3')
-insert into baseball_records values ('112', '10', '3', '69', '7:5')
-insert into baseball_records values ('113', '10', '7', '38', '8:1')
-insert into baseball_records values ('114', '8', '6', '48', '2:3')
-insert into baseball_records values ('115', '8', '7', '29', '4:3')
-insert into baseball_records values ('116', '6', '4', '13', '4:8')
-insert into baseball_records values ('117', '1', '10', '10', '5:5')
-insert into baseball_records values ('118', '4', '8', '17', '4:10')
-insert into baseball_records values ('119', '8', '9', '11', '2:4')
-insert into baseball_records values ('120', '7', '10', '85', '3:1')
-insert into baseball_records values ('121', '10', '6', '73', '6:7')
-insert into baseball_records values ('122', '9', '6', '81', '1:8')
-insert into baseball_records values ('123', '10', '7', '45', '2:6')
-insert into baseball_records values ('124', '10', '1', '22', '1:1')
-insert into baseball_records values ('125', '3', '8', '66', '3:4')
-insert into baseball_records values ('126', '4', '7', '65', '8:5')
-insert into baseball_records values ('127', '4', '2', '3', '8:8')
-insert into baseball_records values ('128', '5', '8', '42', '5:6')
-insert into baseball_records values ('129', '8', '4', '59', '1:7')
-insert into baseball_records values ('130', '7', '1', '67', '9:1')
-insert into baseball_records values ('131', '4', '10', '64', '10:6')
-insert into baseball_records values ('132', '2', '6', '51', '5:10')
-insert into baseball_records values ('133', '6', '9', '75', '3:4')
-insert into baseball_records values ('134', '1', '3', '65', '3:8')
-insert into baseball_records values ('135', '4', '1', '20', '1:3')
-insert into baseball_records values ('136', '8', '10', '87', '1:1')
-insert into baseball_records values ('137', '2', '3', '10', '8:2')
-insert into baseball_records values ('138', '5', '8', '6', '4:10')
-insert into baseball_records values ('139', '6', '8', '64', '4:8')
-insert into baseball_records values ('140', '9', '4', '63', '6:4')
-insert into baseball_records values ('141', '1', '10', '5', '4:5')
-insert into baseball_records values ('142', '8', '6', '72', '5:3')
-insert into baseball_records values ('143', '8', '3', '79', '3:8')
-insert into baseball_records values ('144', '10', '3', '7', '3:5')
-insert into baseball_records values ('145', '1', '9', '74', '7:2')
-insert into baseball_records values ('146', '5', '1', '3', '9:5')
-insert into baseball_records values ('147', '8', '1', '79', '1:2')
-insert into baseball_records values ('148', '2', '6', '7', '7:2')
-insert into baseball_records values ('149', '7', '6', '68', '1:6')
-insert into baseball_records values ('150', '5', '6', '28', '6:4')
-insert into baseball_records values ('151', '3', '6', '53', '6:8')
-insert into baseball_records values ('152', '5', '8', '72', '4:8')
-insert into baseball_records values ('153', '1', '2', '28', '9:1')
-insert into baseball_records values ('154', '8', '2', '20', '6:4')
-insert into baseball_records values ('155', '8', '10', '100', '9:10')
-insert into baseball_records values ('156', '4', '1', '50', '4:4')
-insert into baseball_records values ('157', '8', '3', '82', '5:2')
-insert into baseball_records values ('158', '8', '6', '29', '3:7')
-insert into baseball_records values ('159', '2', '5', '3', '2:8')
-insert into baseball_records values ('160', '5', '1', '3', '3:10')
-insert into baseball_records values ('161', '9', '1', '86', '4:8')
-insert into baseball_records values ('162', '5', '9', '47', '9:2')
-insert into baseball_records values ('163', '3', '5', '43', '9:7')
-insert into baseball_records values ('164', '8', '7', '28', '9:7')
-insert into baseball_records values ('165', '6', '2', '78', '8:1')
-insert into baseball_records values ('166', '5', '10', '38', '7:8')
-insert into baseball_records values ('167', '4', '2', '81', '3:8')
-insert into baseball_records values ('168', '2', '1', '57', '4:10')
-insert into baseball_records values ('169', '6', '2', '77', '6:3')
-insert into baseball_records values ('170', '3', '4', '61', '1:8')
-insert into baseball_records values ('171', '5', '3', '61', '10:1')
-insert into baseball_records values ('172', '7', '9', '3', '9:1')
-insert into baseball_records values ('173', '5', '8', '74', '2:4')
-insert into baseball_records values ('174', '5', '1', '48', '4:4')
-insert into baseball_records values ('175', '4', '1', '41', '7:6')
-insert into baseball_records values ('176', '8', '4', '51', '10:3')
-insert into baseball_records values ('177', '9', '4', '38', '8:5')
-insert into baseball_records values ('178', '9', '7', '51', '2:7')
-insert into baseball_records values ('179', '7', '3', '71', '7:6')
-insert into baseball_records values ('180', '1', '5', '60', '4:7')
-insert into baseball_records values ('181', '9', '2', '57', '5:3')
-insert into baseball_records values ('182', '5', '1', '3', '4:1')
-insert into baseball_records values ('183', '2', '6', '56', '1:9')
-insert into baseball_records values ('184', '9', '1', '72', '3:5')
-insert into baseball_records values ('185', '3', '7', '22', '1:10')
-insert into baseball_records values ('186', '3', '6', '81', '9:7')
-insert into baseball_records values ('187', '2', '4', '8', '10:10')
-insert into baseball_records values ('188', '2', '7', '82', '6:6')
-insert into baseball_records values ('189', '10', '1', '47', '1:6')
-insert into baseball_records values ('190', '9', '2', '6', '10:7')
-insert into baseball_records values ('191', '4', '2', '100', '9:9')
-insert into baseball_records values ('192', '3', '10', '90', '8:9')
-insert into baseball_records values ('193', '8', '1', '84', '2:3')
-insert into baseball_records values ('194', '7', '8', '63', '5:6')
-insert into baseball_records values ('195', '7', '4', '79', '7:10')
-insert into baseball_records values ('196', '5', '9', '19', '6:7')
-insert into baseball_records values ('197', '10', '6', '31', '8:7')
-insert into baseball_records values ('198', '7', '6', '28', '2:4')
-insert into baseball_records values ('199', '1', '5', '69', '1:1')
-insert into baseball_records values ('200', '7', '9', '27', '1:8')
-insert into baseball_records values ('201', '8', '6', '40', '9:2')
-insert into baseball_records values ('202', '9', '6', '74', '1:4')
-insert into baseball_records values ('203', '4', '7', '64', '6:1')
-insert into baseball_records values ('204', '4', '5', '30', '3:1')
-insert into baseball_records values ('205', '9', '7', '41', '6:2')
-insert into baseball_records values ('206', '2', '1', '10', '2:6')
-insert into baseball_records values ('207', '3', '5', '69', '8:7')
-insert into baseball_records values ('208', '10', '4', '90', '3:3')
-insert into baseball_records values ('209', '6', '1', '14', '6:2')
-insert into baseball_records values ('210', '2', '7', '50', '1:2')
-insert into baseball_records values ('211', '5', '3', '37', '1:8')
-insert into baseball_records values ('212', '7', '4', '55', '10:7')
-insert into baseball_records values ('213', '4', '7', '63', '9:1')
-insert into baseball_records values ('214', '10', '2', '88', '7:1')
-insert into baseball_records values ('215', '2', '9', '87', '10:4')
-insert into baseball_records values ('216', '9', '2', '30', '8:1')
-insert into baseball_records values ('217', '6', '3', '36', '6:10')
-insert into baseball_records values ('218', '6', '2', '96', '6:9')
-insert into baseball_records values ('219', '7', '6', '6', '1:3')
-insert into baseball_records values ('220', '10', '1', '23', '10:3')
-insert into baseball_records values ('221', '10', '2', '56', '7:1')
-insert into baseball_records values ('222', '5', '2', '50', '1:2')
-insert into baseball_records values ('223', '7', '1', '10', '5:1')
-insert into baseball_records values ('224', '8', '5', '86', '3:8')
-insert into baseball_records values ('225', '2', '10', '19', '8:10')
-insert into baseball_records values ('226', '7', '5', '77', '6:6')
-insert into baseball_records values ('227', '6', '8', '5', '1:7')
-insert into baseball_records values ('228', '7', '10', '91', '1:6')
-insert into baseball_records values ('229', '6', '8', '95', '6:2')
-insert into baseball_records values ('230', '7', '6', '50', '7:4')
-insert into baseball_records values ('231', '6', '1', '20', '8:3')
-insert into baseball_records values ('232', '7', '2', '48', '2:1')
-insert into baseball_records values ('233', '1', '4', '9', '4:1')
-insert into baseball_records values ('234', '2', '3', '95', '7:10')
-insert into baseball_records values ('235', '7', '2', '66', '5:5')
-insert into baseball_records values ('236', '2', '6', '2', '10:1')
-insert into baseball_records values ('237', '4', '6', '35', '4:6')
-insert into baseball_records values ('238', '10', '2', '42', '5:2')
-insert into baseball_records values ('239', '7', '3', '60', '7:5')
-insert into baseball_records values ('240', '9', '4', '29', '5:8')
-insert into baseball_records values ('241', '1', '4', '17', '10:1')
-insert into baseball_records values ('242', '2', '10', '83', '1:8')
-insert into baseball_records values ('243', '6', '7', '64', '8:9')
-insert into baseball_records values ('244', '1', '4', '5', '1:9')
-insert into baseball_records values ('245', '5', '7', '96', '3:10')
-insert into baseball_records values ('246', '4', '6', '99', '1:1')
-insert into baseball_records values ('247', '1', '4', '91', '2:5')
-insert into baseball_records values ('248', '7', '6', '19', '4:9')
-insert into baseball_records values ('249', '2', '3', '7', '5:9')
-insert into baseball_records values ('250', '6', '7', '51', '2:10')
-insert into baseball_records values ('251', '3', '2', '98', '8:7')
-insert into baseball_records values ('252', '10', '3', '18', '8:10')
-insert into baseball_records values ('253', '2', '9', '46', '2:1')
-insert into baseball_records values ('254', '4', '5', '42', '9:6')
-insert into baseball_records values ('255', '3', '6', '68', '4:9')
-insert into baseball_records values ('256', '6', '8', '45', '10:4')
-insert into baseball_records values ('257', '9', '1', '53', '10:6')
-insert into baseball_records values ('258', '7', '5', '16', '6:9')
-insert into baseball_records values ('259', '5', '2', '47', '8:3')
-insert into baseball_records values ('260', '4', '1', '13', '2:9')
-insert into baseball_records values ('261', '1', '6', '73', '1:6')
-insert into baseball_records values ('262', '9', '4', '65', '9:1')
-insert into baseball_records values ('263', '9', '8', '15', '3:10')
-insert into baseball_records values ('264', '7', '5', '68', '9:2')
-insert into baseball_records values ('265', '9', '1', '6', '3:10')
-insert into baseball_records values ('266', '6', '9', '63', '10:8')
-insert into baseball_records values ('267', '2', '9', '52', '4:3')
-insert into baseball_records values ('268', '4', '5', '86', '7:7')
-insert into baseball_records values ('269', '7', '10', '85', '3:10')
-insert into baseball_records values ('270', '8', '6', '79', '2:10')
-insert into baseball_records values ('271', '5', '7', '59', '3:10')
-insert into baseball_records values ('272', '10', '2', '26', '6:4')
-insert into baseball_records values ('273', '8', '7', '9', '10:1')
-insert into baseball_records values ('274', '4', '3', '23', '1:3')
-insert into baseball_records values ('275', '8', '6', '59', '4:8')
-insert into baseball_records values ('276', '10', '4', '92', '7:9')
-insert into baseball_records values ('277', '10', '3', '22', '7:8')
-insert into baseball_records values ('278', '5', '3', '68', '1:8')
-insert into baseball_records values ('279', '3', '10', '27', '10:4')
-insert into baseball_records values ('280', '1', '8', '71', '4:2')
-insert into baseball_records values ('281', '6', '3', '73', '9:9')
-insert into baseball_records values ('282', '8', '6', '76', '1:3')
-insert into baseball_records values ('283', '3', '2', '68', '1:9')
-insert into baseball_records values ('284', '4', '9', '18', '5:2')
-insert into baseball_records values ('285', '6', '1', '78', '3:10')
-insert into baseball_records values ('286', '4', '9', '17', '10:3')
-insert into baseball_records values ('287', '7', '2', '62', '9:7')
-insert into baseball_records values ('288', '9', '10', '11', '1:10')
-insert into baseball_records values ('289', '2', '8', '5', '3:4')
-insert into baseball_records values ('290', '1', '10', '15', '1:5')
-insert into baseball_records values ('291', '4', '9', '43', '9:7')
-insert into baseball_records values ('292', '7', '8', '68', '1:5')
-insert into baseball_records values ('293', '8', '1', '61', '4:3')
-insert into baseball_records values ('294', '7', '1', '43', '5:10')
-insert into baseball_records values ('295', '9', '6', '35', '7:2')
-insert into baseball_records values ('296', '4', '6', '17', '6:2')
-insert into baseball_records values ('297', '4', '10', '57', '2:1')
-insert into baseball_records values ('298', '5', '3', '69', '6:9')
-insert into baseball_records values ('299', '9', '5', '51', '7:4')
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (9, 3, 13, '5:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 10, 57, '5:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 3, 63, '1:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (9, 1, 16, '1:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 7, 35, '6:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 7, 96, '5:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 6, 53, '7:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 6, 40, '6:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 5, 58, '4:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 10, 65, '6:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 5, 54, '2:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 10, 97, '1:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 10, 33, '2:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 2, 78, '9:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 5, 68, '5:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 6, 58, '8:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 5, 52, '6:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 10, 49, '6:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 5, 85, '3:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 7, 10, '4:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 10, 84, '6:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 2, 94, '1:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 9, 53, '1:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 10, 77, '1:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 3, 26, '4:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 2, 6, '1:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 9, 78, '10:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 9, 4, '1:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 4, 83, '7:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 5, 63, '3:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 6, 74, '8:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 2, 50, '5:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 2, 59, '5:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 9, 2, '5:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 9, 13, '2:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 10, 88, '2:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 3, 94, '3:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 2, 5, '6:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 10, 2, '3:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (9, 5, 67, '9:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 7, 13, '10:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 4, 12, '7:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 1, 50, '2:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 3, 28, '10:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 1, 20, '5:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 8, 93, '6:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (9, 7, 63, '5:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 3, 81, '8:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 6, 50, '1:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 3, 48, '1:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 2, 39, '1:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 8, 93, '10:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 1, 35, '1:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 7, 56, '5:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (9, 10, 41, '5:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (9, 7, 15, '5:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 10, 78, '7:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 8, 100, '3:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 1, 89, '8:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 8, 49, '1:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 2, 1, '4:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 6, 13, '7:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 1, 39, '6:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 9, 52, '5:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 2, 93, '4:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 4, 81, '1:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 4, 10, '8:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 3, 35, '3:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 3, 39, '5:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 9, 64, '7:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 7, 59, '4:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 7, 45, '1:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 1, 58, '6:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 1, 28, '10:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 5, 4, '6:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 6, 95, '7:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 1, 63, '3:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 6, 47, '5:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 8, 11, '8:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 10, 22, '4:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 5, 48, '8:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 6, 16, '3:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 8, 47, '10:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 10, 87, '7:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 10, 46, '4:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 5, 12, '8:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (9, 10, 75, '5:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 3, 65, '3:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 6, 55, '10:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 9, 71, '8:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 6, 61, '7:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 4, 59, '8:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 3, 53, '1:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 10, 56, '1:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 7, 64, '5:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 2, 52, '9:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 3, 8, '5:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 1, 48, '9:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 7, 13, '10:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 1, 32, '5:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 4, 57, '9:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 8, 17, '8:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 5, 46, '9:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 4, 69, '2:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 4, 54, '4:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 9, 65, '6:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 8, 97, '10:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (9, 3, 60, '8:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 9, 10, '3:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 2, 89, '5:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 5, 44, '8:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 5, 51, '3:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 9, 11, '1:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 9, 78, '5:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (9, 3, 95, '9:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 2, 82, '6:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 6, 7, '7:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 5, 68, '4:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 3, 45, '7:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 9, 67, '1:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 5, 98, '1:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 2, 58, '7:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 4, 65, '6:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 8, 18, '6:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 9, 49, '5:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 8, 26, '1:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 3, 40, '7:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 4, 76, '2:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 7, 90, '6:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 7, 27, '8:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 2, 67, '5:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 7, 33, '5:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 10, 4, '7:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 9, 21, '2:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 8, 58, '4:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 5, 67, '8:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 6, 1, '6:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 10, 14, '10:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 2, 35, '10:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 2, 21, '4:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 7, 77, '1:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 7, 97, '6:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 9, 48, '4:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 7, 72, '6:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 6, 26, '2:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 1, 83, '1:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 8, 69, '9:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (9, 3, 15, '10:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 4, 60, '5:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 2, 96, '5:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 7, 67, '5:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 8, 53, '9:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 7, 65, '6:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 4, 28, '6:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 4, 34, '4:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 2, 86, '2:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 8, 26, '4:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 5, 20, '5:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 7, 79, '8:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 10, 37, '8:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 7, 76, '5:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 2, 41, '10:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 7, 19, '8:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 6, 12, '10:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 9, 73, '2:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 8, 73, '2:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 9, 93, '3:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 4, 80, '2:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 3, 81, '5:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 1, 74, '5:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 9, 36, '4:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 8, 80, '7:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 5, 55, '2:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (9, 5, 91, '2:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 1, 57, '6:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 6, 76, '7:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 4, 51, '5:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 4, 98, '6:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (9, 4, 32, '7:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 4, 79, '2:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 10, 45, '9:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 4, 79, '2:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (9, 10, 13, '1:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (9, 1, 19, '8:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 1, 24, '6:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 2, 63, '8:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 5, 13, '9:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 2, 77, '7:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 2, 75, '7:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 8, 60, '7:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 10, 100, '1:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 6, 61, '9:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 2, 86, '9:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 7, 39, '10:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 1, 55, '3:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 3, 6, '9:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 9, 7, '10:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 4, 51, '8:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 9, 84, '9:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 3, 70, '10:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 6, 96, '10:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 7, 34, '3:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 5, 34, '10:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 6, 13, '5:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 7, 53, '2:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (9, 7, 1, '10:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 5, 62, '9:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 5, 25, '9:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 5, 42, '3:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 3, 80, '5:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 4, 58, '1:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 9, 88, '3:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 3, 33, '10:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 9, 46, '8:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 5, 11, '10:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 2, 6, '6:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 1, 20, '2:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 9, 24, '1:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 9, 60, '8:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 4, 50, '7:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 8, 96, '5:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 1, 80, '8:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 6, 92, '1:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 4, 2, '6:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 7, 86, '7:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 8, 51, '5:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 10, 27, '4:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 9, 23, '7:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 5, 94, '6:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (9, 8, 22, '2:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 3, 56, '7:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 3, 91, '5:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (9, 10, 66, '9:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 2, 82, '8:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 9, 71, '10:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 3, 82, '9:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 1, 19, '1:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 8, 74, '3:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 1, 8, '5:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 9, 31, '10:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 3, 4, '5:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 5, 40, '2:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 6, 5, '9:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 4, 81, '7:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 4, 88, '8:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 10, 79, '10:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 2, 87, '7:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 6, 2, '6:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 6, 67, '8:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 4, 56, '8:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 10, 97, '7:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 8, 36, '4:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 8, 54, '3:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 8, 21, '4:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 9, 4, '6:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 1, 39, '6:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 6, 68, '9:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 1, 24, '1:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 2, 40, '9:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 7, 38, '2:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (9, 8, 98, '6:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 6, 45, '10:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 1, 99, '8:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 9, 10, '6:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 5, 90, '2:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 8, 51, '1:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 8, 44, '10:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 1, 32, '3:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 1, 10, '6:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 10, 23, '6:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 1, 68, '3:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 5, 6, '8:1');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 9, 5, '2:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (9, 4, 4, '8:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 10, 18, '5:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 2, 85, '10:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 7, 58, '7:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 2, 17, '7:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 4, 50, '6:4');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 10, 96, '9:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (3, 9, 52, '8:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 10, 2, '7:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 2, 65, '10:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (10, 1, 65, '9:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 8, 93, '5:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (9, 6, 58, '6:7');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 1, 80, '5:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (6, 8, 47, '8:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (1, 6, 50, '7:6');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (9, 3, 97, '5:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 3, 16, '6:10');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (8, 10, 24, '10:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 3, 40, '6:2');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 1, 44, '9:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (4, 6, 60, '3:9');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (5, 6, 86, '6:8');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (7, 9, 23, '3:5');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (2, 3, 86, '2:3');
+insert into baseball_records (team1_id, team2_id, baseball_stadium_id, score) values (9, 10, 69, '4:8');
 
-insert into baseball_stadium values ('1', 'DBPY2WH', '166872', '40789')
-insert into baseball_stadium values ('2', 'jtG1cBMY', '640643', '79412')
-insert into baseball_stadium values ('3', 'bISb31ZP', '88080', '54894')
-insert into baseball_stadium values ('4', 'kiJMNEU91', '136767', '61318')
-insert into baseball_stadium values ('5', 'SCNB6z7y', '51997', '37872')
-insert into baseball_stadium values ('6', '0ztYW', '481004', '45657')
-insert into baseball_stadium values ('7', 'tBoTU6gpG', '468745', '57254')
-insert into baseball_stadium values ('8', '7iPmdjcA', '969959', '85832')
-insert into baseball_stadium values ('9', '2BJPN', '208601', '63412')
-insert into baseball_stadium values ('10', 'AwYkjur', '778477', '99206')
-insert into baseball_stadium values ('11', '9GkSX2', '243995', '14321')
-insert into baseball_stadium values ('12', 'nPPzwBUzC', '328932', '69059')
-insert into baseball_stadium values ('13', 'siZ7L2', '83456', '26008')
-insert into baseball_stadium values ('14', 'yOYn3A', '882285', '21454')
-insert into baseball_stadium values ('15', 'q4PDN', '726411', '14817')
-insert into baseball_stadium values ('16', 'ucf4S', '584830', '81652')
-insert into baseball_stadium values ('17', 'dsAa4vlKP', '826373', '23288')
-insert into baseball_stadium values ('18', 'IAhOC', '354676', '84437')
-insert into baseball_stadium values ('19', 'EE98c', '638817', '94315')
-insert into baseball_stadium values ('20', 'SfnD00GKe', '127652', '32550')
-insert into baseball_stadium values ('21', 'bZDpjVhh', '72252', '67814')
-insert into baseball_stadium values ('22', 'csB8ay', '803402', '91789')
-insert into baseball_stadium values ('23', 'rylff', '197980', '22723')
-insert into baseball_stadium values ('24', 'aMDAZq', '267551', '28406')
-insert into baseball_stadium values ('25', 'NEJ0JxXI', '22622', '82882')
-insert into baseball_stadium values ('26', '7ybP6tdyI', '675073', '24449')
-insert into baseball_stadium values ('27', 'cPczKI', '595634', '77108')
-insert into baseball_stadium values ('28', 'vd2KeJ', '129697', '49500')
-insert into baseball_stadium values ('29', 'QHtHj', '470602', '35164')
-insert into baseball_stadium values ('30', '90ZYxv', '999840', '75311')
-insert into baseball_stadium values ('31', '5cNf6hF04', '512847', '12465')
-insert into baseball_stadium values ('32', 'P13qs', '323019', '48423')
-insert into baseball_stadium values ('33', 'aKj1W6SCu', '279594', '69216')
-insert into baseball_stadium values ('34', 'EteJPugi', '826356', '89508')
-insert into baseball_stadium values ('35', 'F4Ch7ZZD', '801023', '63311')
-insert into baseball_stadium values ('36', 'KfkxEN', '41304', '64675')
-insert into baseball_stadium values ('37', '7Nt5d', '755538', '31507')
-insert into baseball_stadium values ('38', 'ne5b75', '96400', '90144')
-insert into baseball_stadium values ('39', 'a52aWxK', '137612', '89413')
-insert into baseball_stadium values ('40', 'XiHtWus', '626127', '29876')
-insert into baseball_stadium values ('41', '3MZG4p', '910131', '50343')
-insert into baseball_stadium values ('42', 'rdztMFR', '129040', '51756')
-insert into baseball_stadium values ('43', 'KIAxt', '273076', '61983')
-insert into baseball_stadium values ('44', 'V8PAyT', '870927', '47519')
-insert into baseball_stadium values ('45', 'd1nwO', '800911', '12081')
-insert into baseball_stadium values ('46', 'VOUOBhUA5', '983290', '76334')
-insert into baseball_stadium values ('47', 'jnJRt', '522085', '75060')
-insert into baseball_stadium values ('48', 'IEAtaH', '361107', '77110')
-insert into baseball_stadium values ('49', 'KhQgwW', '299283', '82087')
-insert into baseball_stadium values ('50', 'iArm4', '461656', '66585')
-insert into baseball_stadium values ('51', 'Jrojn91O', '170077', '25290')
-insert into baseball_stadium values ('52', '7mXhbL', '164040', '93113')
-insert into baseball_stadium values ('53', 'HFeVMH', '142002', '97936')
-insert into baseball_stadium values ('54', '82aqy9LiW', '726365', '91683')
-insert into baseball_stadium values ('55', 'wLTUvyF', '76957', '63916')
-insert into baseball_stadium values ('56', 'RDAyiUD', '631138', '81455')
-insert into baseball_stadium values ('57', 'nWI17', '162289', '68351')
-insert into baseball_stadium values ('58', 'BRleyqmBa', '653350', '68844')
-insert into baseball_stadium values ('59', 'qg2kSU', '901924', '12012')
-insert into baseball_stadium values ('60', 'WmKq0gm3', '690417', '83294')
-insert into baseball_stadium values ('61', '0GuyBzcmH', '155218', '61183')
-insert into baseball_stadium values ('62', '81s3jt', '563012', '27549')
-insert into baseball_stadium values ('63', 'LpNduy5', '24753', '10740')
-insert into baseball_stadium values ('64', 'kSsKFc', '775926', '9420')
-insert into baseball_stadium values ('65', '7fjJyVd', '807016', '11420')
-insert into baseball_stadium values ('66', 'zvGmpy', '945559', '44849')
-insert into baseball_stadium values ('67', 'zjrZVt3uI', '582269', '26026')
-insert into baseball_stadium values ('68', 'AkpeP', '148107', '91350')
-insert into baseball_stadium values ('69', 'y8O1u', '314575', '34619')
-insert into baseball_stadium values ('70', 'pR6BlGHer', '748961', '7509')
-insert into baseball_stadium values ('71', 'VqjNux', '485870', '45734')
-insert into baseball_stadium values ('72', 'gYhtbi9FA', '700678', '70643')
-insert into baseball_stadium values ('73', 'hX4BHaEX', '639534', '63213')
-insert into baseball_stadium values ('74', 'zzjqW', '624887', '48998')
-insert into baseball_stadium values ('75', '6EImnW', '211907', '14024')
-insert into baseball_stadium values ('76', 'LMOJ780Bu', '320172', '11674')
-insert into baseball_stadium values ('77', 'okwGW', '932581', '78512')
-insert into baseball_stadium values ('78', 'OwpOcHlP', '435082', '29389')
-insert into baseball_stadium values ('79', 'BjnbKyWCC', '605665', '25465')
-insert into baseball_stadium values ('80', 'U1B9uN', '10914', '13697')
-insert into baseball_stadium values ('81', 'wS5cBq5S', '370923', '90039')
-insert into baseball_stadium values ('82', 'Oow9u', '403132', '26014')
-insert into baseball_stadium values ('83', 'LTZIOV1', '332868', '44863')
-insert into baseball_stadium values ('84', 'xcLpWj', '295814', '85747')
-insert into baseball_stadium values ('85', 'eWO2kT', '897856', '45624')
-insert into baseball_stadium values ('86', 'sM5gn', '292926', '24403')
-insert into baseball_stadium values ('87', 'yIpz8T', '179783', '47603')
-insert into baseball_stadium values ('88', 'UQpMYbgT', '565470', '5723')
-insert into baseball_stadium values ('89', '1oVn1Il', '634393', '38237')
-insert into baseball_stadium values ('90', 'fh7htznTN', '294491', '83480')
-insert into baseball_stadium values ('91', 'jbgxu', '218893', '57272')
-insert into baseball_stadium values ('92', 'p5ADzFU7', '807910', '49120')
-insert into baseball_stadium values ('93', 'bKPHqK', '643799', '32187')
-insert into baseball_stadium values ('94', 'COxsrFa', '411310', '3424')
-insert into baseball_stadium values ('95', 'yHu9y', '182461', '72810')
-insert into baseball_stadium values ('96', 'NLCXhQ', '517337', '23916')
-insert into baseball_stadium values ('97', 'tIReIOWhO', '989379', '90821')
-insert into baseball_stadium values ('98', 'p8f5Ap', '323199', '95793')
-insert into baseball_stadium values ('99', 'io3WU', '185121', '78812')
-insert into baseball_stadium values ('100', 'EPlXszC', '204601', '34225')
-insert into baseball_stadium values ('101', 'JZuHNvo', '755801', '5957')
-insert into baseball_stadium values ('102', '94Knyq', '830794', '81329')
-insert into baseball_stadium values ('103', 'xi1Mapau', '73376', '73594')
-insert into baseball_stadium values ('104', 'jOfHIw', '757166', '33507')
-insert into baseball_stadium values ('105', 'isBALtO', '363659', '16060')
-insert into baseball_stadium values ('106', '7QgiYjO', '965826', '38834')
-insert into baseball_stadium values ('107', 'obKyDPH', '831691', '7397')
-insert into baseball_stadium values ('108', 'kaI9cveTK', '27400', '8777')
-insert into baseball_stadium values ('109', 'PuPIy', '231602', '38163')
-insert into baseball_stadium values ('110', 'cEhG9lL', '29929', '33921')
-insert into baseball_stadium values ('111', '44KZftibj', '385972', '61942')
-insert into baseball_stadium values ('112', '2sOv3dP', '735610', '44548')
-insert into baseball_stadium values ('113', 'YWnGtc', '706266', '76813')
-insert into baseball_stadium values ('114', 'CE5Up1', '213622', '91409')
-insert into baseball_stadium values ('115', 'ts45ZW3', '153430', '20007')
-insert into baseball_stadium values ('116', 'BhxNJstaH', '107264', '41535')
-insert into baseball_stadium values ('117', 'ORLsudW', '925273', '11965')
-insert into baseball_stadium values ('118', '41tdN', '395265', '95244')
-insert into baseball_stadium values ('119', 'KDeTcSw', '222742', '14904')
-insert into baseball_stadium values ('120', 'VEZQ6cBX', '604982', '2611')
-insert into baseball_stadium values ('121', 'N4hhXHD', '284700', '42614')
-insert into baseball_stadium values ('122', 'DAU4r', '179438', '63733')
-insert into baseball_stadium values ('123', '3HbJ1gTRI', '270795', '59053')
-insert into baseball_stadium values ('124', 'KiLxrdM', '275576', '28534')
-insert into baseball_stadium values ('125', 'SuwCY', '885338', '76074')
-insert into baseball_stadium values ('126', 'Pswn5', '410879', '63855')
-insert into baseball_stadium values ('127', 'yDIpqk', '735885', '54413')
-insert into baseball_stadium values ('128', 'pFmeY4', '955229', '51318')
-insert into baseball_stadium values ('129', 'Vp3pI', '17151', '3325')
-insert into baseball_stadium values ('130', '2HcB14rzw', '671012', '81583')
-insert into baseball_stadium values ('131', 'VKvlsOpC', '105243', '73697')
-insert into baseball_stadium values ('132', 'NuVcs', '313206', '74722')
-insert into baseball_stadium values ('133', 'hBkkulYi9', '820840', '27130')
-insert into baseball_stadium values ('134', 'vF71ExGP', '733963', '49021')
-insert into baseball_stadium values ('135', 'Ee42UE3og', '214436', '85266')
-insert into baseball_stadium values ('136', 'qce3Rtn', '561526', '79633')
-insert into baseball_stadium values ('137', 'tlipBt', '552347', '96619')
-insert into baseball_stadium values ('138', 'vSQrBLDj', '237231', '12709')
-insert into baseball_stadium values ('139', 'vAavEc', '943580', '59154')
-insert into baseball_stadium values ('140', 'MIAFoR', '746190', '76231')
-insert into baseball_stadium values ('141', 'yRNQXohIt', '433460', '51318')
-insert into baseball_stadium values ('142', 'gEwMsX0LD', '804535', '89123')
-insert into baseball_stadium values ('143', 'rxISuPZ7', '773717', '48774')
-insert into baseball_stadium values ('144', 'fED0N7hQ', '631633', '95107')
-insert into baseball_stadium values ('145', 'WL95UVJh', '61474', '57349')
-insert into baseball_stadium values ('146', '2ijTvpi', '440884', '22506')
-insert into baseball_stadium values ('147', 'qjk7vk', '399883', '35300')
-insert into baseball_stadium values ('148', 'Yqh6MNx', '792617', '35555')
-insert into baseball_stadium values ('149', 'JEDQm', '91857', '64952')
-insert into baseball_stadium values ('150', 'WPSQZFAO', '684395', '95954')
-insert into baseball_stadium values ('151', 'yPXkS', '63321', '32261')
-insert into baseball_stadium values ('152', 'xmkoL4h', '603917', '72187')
-insert into baseball_stadium values ('153', 'Q6Et3fQ', '389609', '8296')
-insert into baseball_stadium values ('154', 'GdNs4Y', '200090', '97905')
-insert into baseball_stadium values ('155', '6PbIyTE', '682991', '19549')
-insert into baseball_stadium values ('156', 'uNGs8ae3', '994951', '77928')
-insert into baseball_stadium values ('157', '0LIJEZy', '24797', '86009')
-insert into baseball_stadium values ('158', 'smt8bNmYU', '533396', '34523')
-insert into baseball_stadium values ('159', 'zSS0C5', '299102', '49371')
-insert into baseball_stadium values ('160', 'bQPo25H', '889397', '50182')
-insert into baseball_stadium values ('161', 'WTPjL4', '133799', '99859')
-insert into baseball_stadium values ('162', 'VjqHiW', '213427', '99302')
-insert into baseball_stadium values ('163', 'qkXU4vzN', '517023', '67445')
-insert into baseball_stadium values ('164', 'tYWAuI5nS', '972302', '69240')
-insert into baseball_stadium values ('165', 'I9Raxb', '60588', '83456')
-insert into baseball_stadium values ('166', '1AcpFmnnK', '701311', '41242')
-insert into baseball_stadium values ('167', '3YpVvlb', '855036', '64656')
-insert into baseball_stadium values ('168', 'ZEGCf', '673115', '13486')
-insert into baseball_stadium values ('169', 'EnXpQmD', '503225', '3508')
-insert into baseball_stadium values ('170', 'gdUKDMJ8e', '964288', '81108')
-insert into baseball_stadium values ('171', '9F5INJL', '451491', '58178')
-insert into baseball_stadium values ('172', 'X6g6ke', '631235', '60192')
-insert into baseball_stadium values ('173', 'DeC8OV', '195073', '16946')
-insert into baseball_stadium values ('174', 'Dx1RIxUG', '107322', '6674')
-insert into baseball_stadium values ('175', 'eJastJ', '748976', '18799')
-insert into baseball_stadium values ('176', 'Or2eCji', '636494', '49760')
-insert into baseball_stadium values ('177', 'yBj0y', '992494', '95904')
-insert into baseball_stadium values ('178', 'YiddbrK', '761119', '32037')
-insert into baseball_stadium values ('179', 'XPQL3c0Y', '266905', '7353')
-insert into baseball_stadium values ('180', '6GIiLf', '494432', '59173')
-insert into baseball_stadium values ('181', 'RAkFc4v', '600584', '30674')
-insert into baseball_stadium values ('182', 'vZvRE', '905516', '39484')
-insert into baseball_stadium values ('183', 'ZSBxjLpQ', '388881', '76562')
-insert into baseball_stadium values ('184', 'N15CZTy7', '33493', '77909')
-insert into baseball_stadium values ('185', 'cnzBWM', '377566', '96728')
-insert into baseball_stadium values ('186', 'rvN5orP', '884725', '73596')
-insert into baseball_stadium values ('187', 'vXLMcOYb', '697112', '71151')
-insert into baseball_stadium values ('188', '3v55TEWt', '519008', '58295')
-insert into baseball_stadium values ('189', 'Jicsi', '570891', '2839')
-insert into baseball_stadium values ('190', 'q1skv', '285853', '35847')
-insert into baseball_stadium values ('191', 'BUPOyZw', '935014', '26368')
-insert into baseball_stadium values ('192', 'IlRx5wO5Y', '200902', '73072')
-insert into baseball_stadium values ('193', 'P2S8C', '759905', '63767')
-insert into baseball_stadium values ('194', '93LG0', '999802', '78275')
-insert into baseball_stadium values ('195', 'YvNoU', '608204', '31027')
-insert into baseball_stadium values ('196', 'vqBRcVW', '532225', '35238')
-insert into baseball_stadium values ('197', 'Se3nrgP', '945184', '73713')
-insert into baseball_stadium values ('198', '0mhiuZMp0', '782725', '77992')
-insert into baseball_stadium values ('199', 'ao7FUkcMo', '863385', '19709')
-insert into baseball_stadium values ('200', 'XjrE5vf', '373379', '53573')
-insert into baseball_stadium values ('201', 'gBGcA', '151722', '95256')
-insert into baseball_stadium values ('202', '3qbm7k', '712599', '29725')
-insert into baseball_stadium values ('203', 'dCdFns0', '488288', '81148')
-insert into baseball_stadium values ('204', 'xpp95W8n', '95447', '54897')
-insert into baseball_stadium values ('205', 'NoU1uLKg', '296951', '72717')
-insert into baseball_stadium values ('206', 'jeBMclxj', '622738', '83982')
-insert into baseball_stadium values ('207', '1fqAnD', '166205', '82225')
-insert into baseball_stadium values ('208', 'oBbsw5RVn', '457176', '81104')
-insert into baseball_stadium values ('209', 'oCFYf2xx', '15102', '25746')
-insert into baseball_stadium values ('210', 'XIhds', '615447', '18068')
-insert into baseball_stadium values ('211', 'JumIDbil8', '965841', '11127')
-insert into baseball_stadium values ('212', 'JMRWoGPQx', '888522', '5005')
-insert into baseball_stadium values ('213', 'Viv5iUAV', '209535', '64611')
-insert into baseball_stadium values ('214', 'JT8wTh8h', '818292', '37214')
-insert into baseball_stadium values ('215', 'vuc9yjULX', '934391', '88213')
-insert into baseball_stadium values ('216', 'bD5QH', '605210', '68081')
-insert into baseball_stadium values ('217', '9mue7', '438999', '60598')
-insert into baseball_stadium values ('218', 'RJqVQh', '38399', '69359')
-insert into baseball_stadium values ('219', 'stx5UJhK', '799701', '50057')
-insert into baseball_stadium values ('220', '9q04jO', '747607', '43732')
-insert into baseball_stadium values ('221', 'BIbJkvLWD', '294558', '72177')
-insert into baseball_stadium values ('222', 'XsL1B0', '13786', '20615')
-insert into baseball_stadium values ('223', 'pz8AcV', '599947', '12738')
-insert into baseball_stadium values ('224', 'BWxamcvN', '162730', '45836')
-insert into baseball_stadium values ('225', 'rUKRbt4', '751502', '44216')
-insert into baseball_stadium values ('226', 'gxQrFQ0', '162152', '44274')
-insert into baseball_stadium values ('227', 'qzqWig', '830830', '96008')
-insert into baseball_stadium values ('228', 'XOoEFp', '803240', '4310')
-insert into baseball_stadium values ('229', 'Bo8lH', '130020', '31014')
-insert into baseball_stadium values ('230', 'rqCTigT', '294013', '14540')
-insert into baseball_stadium values ('231', 'e6KHHv', '788213', '61939')
-insert into baseball_stadium values ('232', 'nLg8G', '490800', '26075')
-insert into baseball_stadium values ('233', '7VW2wdkV', '342686', '30546')
-insert into baseball_stadium values ('234', 'u5XZ5F', '170200', '44215')
-insert into baseball_stadium values ('235', 'EUYyylZ', '393725', '6466')
-insert into baseball_stadium values ('236', 't8IkTGq', '695338', '57875')
-insert into baseball_stadium values ('237', 'We5xmG05M', '139475', '8810')
-insert into baseball_stadium values ('238', 'F78bDsYU8', '133444', '60949')
-insert into baseball_stadium values ('239', 'V00I4ej9', '169603', '4939')
-insert into baseball_stadium values ('240', 'MjwGTU', '384983', '29809')
-insert into baseball_stadium values ('241', 'fJxoZ3', '228038', '14010')
-insert into baseball_stadium values ('242', 'jq9CYX', '507013', '34686')
-insert into baseball_stadium values ('243', 'qDfppnkC', '963743', '71819')
-insert into baseball_stadium values ('244', 'ANRAiQ', '719227', '36057')
-insert into baseball_stadium values ('245', 'n0DrgOW', '583747', '82455')
-insert into baseball_stadium values ('246', 'Igahq3', '263303', '4042')
-insert into baseball_stadium values ('247', 'A8M6DQ', '813607', '71429')
-insert into baseball_stadium values ('248', 'sh0H5', '124267', '81611')
-insert into baseball_stadium values ('249', 'HSiMUBF04', '801010', '73622')
-insert into baseball_stadium values ('250', 'VW58L', '576145', '77077')
-insert into baseball_stadium values ('251', 'kbhLBJJ', '564765', '20619')
-insert into baseball_stadium values ('252', 'qTzd5bN', '577763', '86361')
-insert into baseball_stadium values ('253', 'STpR7', '336919', '30439')
-insert into baseball_stadium values ('254', 'fpznZ41u', '816453', '85926')
-insert into baseball_stadium values ('255', 'aN7mh4', '962381', '12348')
-insert into baseball_stadium values ('256', 'uxHMGiv', '953466', '82088')
-insert into baseball_stadium values ('257', 'CuX4GkP', '772578', '79472')
-insert into baseball_stadium values ('258', 'AhY8tl2s', '96869', '89917')
-insert into baseball_stadium values ('259', 'sAv3Xq39', '394400', '22206')
-insert into baseball_stadium values ('260', 'opdkv', '710476', '18538')
-insert into baseball_stadium values ('261', 'Vz1N8kY', '460771', '68395')
-insert into baseball_stadium values ('262', 'ENwAZ', '474440', '16702')
-insert into baseball_stadium values ('263', 'kmb0A', '627189', '67501')
-insert into baseball_stadium values ('264', 'CqAthyL', '802278', '81977')
-insert into baseball_stadium values ('265', 'JkNDRzs', '726719', '27396')
-insert into baseball_stadium values ('266', 'Eb78ISjMm', '93021', '56867')
-insert into baseball_stadium values ('267', 'Vjo17dZps', '725688', '85132')
-insert into baseball_stadium values ('268', '6PUd8T', '692615', '54597')
-insert into baseball_stadium values ('269', '9lhV7k', '972188', '6502')
-insert into baseball_stadium values ('270', 'bpNrn', '102412', '63922')
-insert into baseball_stadium values ('271', 'BqCERlQ', '607546', '88769')
-insert into baseball_stadium values ('272', 'rBaX3', '106062', '40745')
-insert into baseball_stadium values ('273', 'F8OkM', '636036', '39638')
-insert into baseball_stadium values ('274', '4qeCw', '846495', '59544')
-insert into baseball_stadium values ('275', 'VTyEtKZI', '772626', '93102')
-insert into baseball_stadium values ('276', '4gIRlc', '769443', '77748')
-insert into baseball_stadium values ('277', '2Hbnr', '943652', '17623')
-insert into baseball_stadium values ('278', '8WqU66lD', '561140', '7220')
-insert into baseball_stadium values ('279', 'ItRMTqm', '446468', '12701')
-insert into baseball_stadium values ('280', 'Cki9Spu', '277225', '18302')
-insert into baseball_stadium values ('281', 'tGQsDUagF', '969805', '55770')
-insert into baseball_stadium values ('282', 'B573mo17c', '534893', '79071')
-insert into baseball_stadium values ('283', 'm3hbZ', '826689', '13943')
-insert into baseball_stadium values ('284', 'ulTdoV', '410257', '99706')
-insert into baseball_stadium values ('285', 'Yvv1H9y', '867549', '60169')
-insert into baseball_stadium values ('286', 'IvedAUV', '836747', '72692')
-insert into baseball_stadium values ('287', 'soW6W', '786300', '31357')
-insert into baseball_stadium values ('288', 'a0jyvfuM', '940085', '2348')
-insert into baseball_stadium values ('289', 'zzYAhd56w', '65364', '6764')
-insert into baseball_stadium values ('290', 'N9dqHd', '42025', '55388')
-insert into baseball_stadium values ('291', 'qy1AAB', '449244', '36053')
-insert into baseball_stadium values ('292', 'qqEUl', '45502', '27950')
-insert into baseball_stadium values ('293', 'OBBKvg3', '726490', '51019')
-insert into baseball_stadium values ('294', '4yelz3', '423334', '89157')
-insert into baseball_stadium values ('295', 'OpPrv3r', '135976', '35269')
-insert into baseball_stadium values ('296', 'yCBOxQe', '717053', '57862')
-insert into baseball_stadium values ('297', 'vpHXfaJ6', '573062', '49508')
-insert into baseball_stadium values ('298', 'WEWVGqKhn', '991983', '44337')
-insert into baseball_stadium values ('299', 'PsFlEoq', '639496', '2236')
+insert into baseball_stadium (location, area, capacity) values ('qzCxPklW', 63983, 13494);
+insert into baseball_stadium (location, area, capacity) values ('9paNN', 506441, 9159);
+insert into baseball_stadium (location, area, capacity) values ('Nv1Ok32', 495402, 48328);
+insert into baseball_stadium (location, area, capacity) values ('UW0u2', 780343, 92283);
+insert into baseball_stadium (location, area, capacity) values ('Jy9deJk39', 605212, 88238);
+insert into baseball_stadium (location, area, capacity) values ('wdWoZ2k', 901628, 75350);
+insert into baseball_stadium (location, area, capacity) values ('Bk3yjJldn', 653483, 37822);
+insert into baseball_stadium (location, area, capacity) values ('5mSfuuEg1', 674565, 36937);
+insert into baseball_stadium (location, area, capacity) values ('fbLjd9', 144053, 57370);
+insert into baseball_stadium (location, area, capacity) values ('2ksmV', 530212, 27139);
+insert into baseball_stadium (location, area, capacity) values ('Gf4dxRd', 525557, 27464);
+insert into baseball_stadium (location, area, capacity) values ('VIE8Gq', 41140, 45009);
+insert into baseball_stadium (location, area, capacity) values ('1yNhkcAXr', 612131, 40388);
+insert into baseball_stadium (location, area, capacity) values ('LpcSIqc', 428463, 59118);
+insert into baseball_stadium (location, area, capacity) values ('DZwCERCxZ', 851197, 91026);
+insert into baseball_stadium (location, area, capacity) values ('cHjR6', 349304, 5464);
+insert into baseball_stadium (location, area, capacity) values ('iuLWI', 182939, 31348);
+insert into baseball_stadium (location, area, capacity) values ('xF0ZYN', 367697, 33938);
+insert into baseball_stadium (location, area, capacity) values ('f3Qlh', 434403, 39384);
+insert into baseball_stadium (location, area, capacity) values ('ou6OM2Z', 972824, 32801);
+insert into baseball_stadium (location, area, capacity) values ('YnXEmQdOz', 113187, 91998);
+insert into baseball_stadium (location, area, capacity) values ('8fWnnh7K', 722736, 27678);
+insert into baseball_stadium (location, area, capacity) values ('bkvhJKi5x', 502155, 29156);
+insert into baseball_stadium (location, area, capacity) values ('lzEW9Mq', 681786, 73346);
+insert into baseball_stadium (location, area, capacity) values ('eLZm1', 147508, 73951);
+insert into baseball_stadium (location, area, capacity) values ('BxwwUGI5', 148689, 17740);
+insert into baseball_stadium (location, area, capacity) values ('WK3wP', 530232, 42319);
+insert into baseball_stadium (location, area, capacity) values ('QpZddd', 735392, 18647);
+insert into baseball_stadium (location, area, capacity) values ('8jO4PMiOG', 100609, 46269);
+insert into baseball_stadium (location, area, capacity) values ('qkHN3', 152431, 4984);
+insert into baseball_stadium (location, area, capacity) values ('Sw0Hity', 264420, 6747);
+insert into baseball_stadium (location, area, capacity) values ('BmV9sDfLy', 502017, 78123);
+insert into baseball_stadium (location, area, capacity) values ('U2npBN', 379322, 31958);
+insert into baseball_stadium (location, area, capacity) values ('1flbT2', 385519, 22435);
+insert into baseball_stadium (location, area, capacity) values ('GN9QkLz4Z', 234844, 12048);
+insert into baseball_stadium (location, area, capacity) values ('Dy2Qsi7', 328488, 76276);
+insert into baseball_stadium (location, area, capacity) values ('L06IUopq', 654537, 44568);
+insert into baseball_stadium (location, area, capacity) values ('fqNH6', 920380, 9306);
+insert into baseball_stadium (location, area, capacity) values ('r5GkUI', 422508, 41229);
+insert into baseball_stadium (location, area, capacity) values ('5wfxLi', 988481, 28481);
+insert into baseball_stadium (location, area, capacity) values ('BVpBjFK', 294221, 5468);
+insert into baseball_stadium (location, area, capacity) values ('PZRfnGM', 886714, 28127);
+insert into baseball_stadium (location, area, capacity) values ('YMgui8', 145398, 41953);
+insert into baseball_stadium (location, area, capacity) values ('DDE7kkx', 96986, 50082);
+insert into baseball_stadium (location, area, capacity) values ('ot9cv', 465589, 49816);
+insert into baseball_stadium (location, area, capacity) values ('TNjLBRgg', 363289, 54668);
+insert into baseball_stadium (location, area, capacity) values ('LgTTK', 181972, 23544);
+insert into baseball_stadium (location, area, capacity) values ('k2irk', 800327, 87942);
+insert into baseball_stadium (location, area, capacity) values ('1erUVtMLX', 139516, 31037);
+insert into baseball_stadium (location, area, capacity) values ('NgiDc59be', 836290, 51469);
+insert into baseball_stadium (location, area, capacity) values ('rNLhnktl', 628127, 36964);
+insert into baseball_stadium (location, area, capacity) values ('WSGW9', 966357, 29584);
+insert into baseball_stadium (location, area, capacity) values ('Sdedllmej', 582469, 35430);
+insert into baseball_stadium (location, area, capacity) values ('DqWWZF9v', 57595, 27357);
+insert into baseball_stadium (location, area, capacity) values ('RFped3E2', 585285, 94427);
+insert into baseball_stadium (location, area, capacity) values ('Y1kXRfnz3', 414679, 24591);
+insert into baseball_stadium (location, area, capacity) values ('0mkK5ze', 361690, 37585);
+insert into baseball_stadium (location, area, capacity) values ('j45aWLk1', 880730, 99647);
+insert into baseball_stadium (location, area, capacity) values ('uI3G2mSH', 718785, 75791);
+insert into baseball_stadium (location, area, capacity) values ('u6y4IrXaJ', 816643, 42410);
+insert into baseball_stadium (location, area, capacity) values ('9TAILGq0k', 778237, 71203);
+insert into baseball_stadium (location, area, capacity) values ('bg911M8V', 286627, 51986);
+insert into baseball_stadium (location, area, capacity) values ('EsPVfxUg', 90471, 8571);
+insert into baseball_stadium (location, area, capacity) values ('jlmwa', 313312, 64980);
+insert into baseball_stadium (location, area, capacity) values ('BSJ6nO', 673366, 68330);
+insert into baseball_stadium (location, area, capacity) values ('MaL0F', 202364, 96293);
+insert into baseball_stadium (location, area, capacity) values ('UeT0m4', 789280, 13586);
+insert into baseball_stadium (location, area, capacity) values ('GVCdIJTb', 217427, 81189);
+insert into baseball_stadium (location, area, capacity) values ('YhqAG', 704839, 10957);
+insert into baseball_stadium (location, area, capacity) values ('LJftbWO', 62496, 79711);
+insert into baseball_stadium (location, area, capacity) values ('B2l95I9E', 359884, 10282);
+insert into baseball_stadium (location, area, capacity) values ('5gGJ5X', 792777, 24325);
+insert into baseball_stadium (location, area, capacity) values ('yiO4ZOt', 126453, 82447);
+insert into baseball_stadium (location, area, capacity) values ('miQKB0r', 414145, 7356);
+insert into baseball_stadium (location, area, capacity) values ('FUpkTlX', 801007, 97991);
+insert into baseball_stadium (location, area, capacity) values ('tGluj', 444754, 20992);
+insert into baseball_stadium (location, area, capacity) values ('GFZFTgLu', 727952, 97005);
+insert into baseball_stadium (location, area, capacity) values ('4NxnldYt', 544197, 98479);
+insert into baseball_stadium (location, area, capacity) values ('9DBzYRcJB', 682725, 40282);
+insert into baseball_stadium (location, area, capacity) values ('annzDv', 27900, 5941);
+insert into baseball_stadium (location, area, capacity) values ('uhpiQNf', 848018, 64538);
+insert into baseball_stadium (location, area, capacity) values ('FfhPcKfyP', 350835, 90102);
+insert into baseball_stadium (location, area, capacity) values ('kOlgwOtx5', 298600, 96988);
+insert into baseball_stadium (location, area, capacity) values ('NRtf0', 321305, 57316);
+insert into baseball_stadium (location, area, capacity) values ('VApAvz', 978000, 49221);
+insert into baseball_stadium (location, area, capacity) values ('eo88k', 363705, 76816);
+insert into baseball_stadium (location, area, capacity) values ('ZHmVUw3', 15968, 78879);
+insert into baseball_stadium (location, area, capacity) values ('druz2sk', 417474, 62915);
+insert into baseball_stadium (location, area, capacity) values ('IFU99DI', 248589, 53445);
+insert into baseball_stadium (location, area, capacity) values ('hs3oSZh', 27996, 79747);
+insert into baseball_stadium (location, area, capacity) values ('MajAhYO', 730122, 93786);
+insert into baseball_stadium (location, area, capacity) values ('7lhvX9', 751831, 31867);
+insert into baseball_stadium (location, area, capacity) values ('3uFIFYM', 312244, 88805);
+insert into baseball_stadium (location, area, capacity) values ('lEo4A', 369909, 5918);
+insert into baseball_stadium (location, area, capacity) values ('RqVqA', 279203, 18897);
+insert into baseball_stadium (location, area, capacity) values ('JwnNmC', 350265, 66749);
+insert into baseball_stadium (location, area, capacity) values ('t0fzo', 194351, 4894);
+insert into baseball_stadium (location, area, capacity) values ('wg46HFrVN', 250103, 55327);
+insert into baseball_stadium (location, area, capacity) values ('WGRiw', 200949, 48452);
+insert into baseball_stadium (location, area, capacity) values ('d2fvBEh', 169509, 89263);
+insert into baseball_stadium (location, area, capacity) values ('LWOgDHdqg', 956748, 43049);
+insert into baseball_stadium (location, area, capacity) values ('97FPARV5', 58444, 21458);
+insert into baseball_stadium (location, area, capacity) values ('ouZgV', 728673, 12842);
+insert into baseball_stadium (location, area, capacity) values ('1dfRJ', 701661, 97315);
+insert into baseball_stadium (location, area, capacity) values ('HyMZ2plx', 122305, 53922);
+insert into baseball_stadium (location, area, capacity) values ('TxUCf2', 201162, 38336);
+insert into baseball_stadium (location, area, capacity) values ('9zVR4YduX', 386016, 98899);
+insert into baseball_stadium (location, area, capacity) values ('yQSDvpT', 888272, 3118);
+insert into baseball_stadium (location, area, capacity) values ('gQADAC', 342626, 75105);
+insert into baseball_stadium (location, area, capacity) values ('bMy2AD', 869850, 71352);
+insert into baseball_stadium (location, area, capacity) values ('R1aYs0', 164462, 52816);
+insert into baseball_stadium (location, area, capacity) values ('G1ylyn', 359338, 5278);
+insert into baseball_stadium (location, area, capacity) values ('IJMva', 689378, 21119);
+insert into baseball_stadium (location, area, capacity) values ('z7Oq8Jkz', 586712, 4113);
+insert into baseball_stadium (location, area, capacity) values ('713lwouKH', 663274, 12144);
+insert into baseball_stadium (location, area, capacity) values ('a7vc2', 130562, 97526);
+insert into baseball_stadium (location, area, capacity) values ('wnXVdFN', 291720, 92586);
+insert into baseball_stadium (location, area, capacity) values ('YLGPC', 510560, 42172);
+insert into baseball_stadium (location, area, capacity) values ('ajBsWTxVO', 904191, 86069);
+insert into baseball_stadium (location, area, capacity) values ('Q41RCw', 430183, 35143);
+insert into baseball_stadium (location, area, capacity) values ('KjpBZllG', 558917, 80587);
+insert into baseball_stadium (location, area, capacity) values ('FDlXioXt', 633842, 3518);
+insert into baseball_stadium (location, area, capacity) values ('12RsFI', 688128, 18640);
+insert into baseball_stadium (location, area, capacity) values ('bP9qf', 164894, 97903);
+insert into baseball_stadium (location, area, capacity) values ('f8v5WY', 104380, 62262);
+insert into baseball_stadium (location, area, capacity) values ('iXFapaG', 310776, 66527);
+insert into baseball_stadium (location, area, capacity) values ('IVQOwgC', 221942, 51989);
+insert into baseball_stadium (location, area, capacity) values ('rwfaqKAE2', 636238, 47210);
+insert into baseball_stadium (location, area, capacity) values ('brOwD2e', 309416, 78123);
+insert into baseball_stadium (location, area, capacity) values ('H3zDg', 970449, 19945);
+insert into baseball_stadium (location, area, capacity) values ('lAwOd2', 588800, 61027);
+insert into baseball_stadium (location, area, capacity) values ('GWhLEO', 655499, 76149);
+insert into baseball_stadium (location, area, capacity) values ('cvgQ3Y', 399449, 97926);
+insert into baseball_stadium (location, area, capacity) values ('K2vBDu6E', 550109, 91799);
+insert into baseball_stadium (location, area, capacity) values ('bl9ShRgj6', 567421, 36534);
+insert into baseball_stadium (location, area, capacity) values ('pU8RI', 807535, 8965);
+insert into baseball_stadium (location, area, capacity) values ('WnMxC', 433342, 81351);
+insert into baseball_stadium (location, area, capacity) values ('YV9tvfr', 858680, 6397);
+insert into baseball_stadium (location, area, capacity) values ('JCbO39A5N', 842100, 3043);
+insert into baseball_stadium (location, area, capacity) values ('99OVwdQH', 31457, 22827);
+insert into baseball_stadium (location, area, capacity) values ('0XoEMof9', 531225, 13853);
+insert into baseball_stadium (location, area, capacity) values ('U3EhM', 317390, 3957);
+insert into baseball_stadium (location, area, capacity) values ('FPSXA0y', 802298, 77611);
+insert into baseball_stadium (location, area, capacity) values ('eLw1vxK', 104097, 78087);
+insert into baseball_stadium (location, area, capacity) values ('DRrona', 711795, 58669);
+insert into baseball_stadium (location, area, capacity) values ('BIxt2Y5C', 401452, 15867);
+insert into baseball_stadium (location, area, capacity) values ('dZ18g', 917039, 40487);
+insert into baseball_stadium (location, area, capacity) values ('Z7WC4ZF', 53972, 79742);
+insert into baseball_stadium (location, area, capacity) values ('Z2WmEpLOt', 505478, 83114);
+insert into baseball_stadium (location, area, capacity) values ('B9aWL65c', 866668, 82694);
+insert into baseball_stadium (location, area, capacity) values ('EoewtGE', 935392, 83527);
+insert into baseball_stadium (location, area, capacity) values ('jhMOs', 270228, 36812);
+insert into baseball_stadium (location, area, capacity) values ('ClP8X', 945127, 80234);
+insert into baseball_stadium (location, area, capacity) values ('QDZPY1t', 964310, 81823);
+insert into baseball_stadium (location, area, capacity) values ('SHfAxNmpo', 531037, 58310);
+insert into baseball_stadium (location, area, capacity) values ('Rvm1mnZQ', 865317, 48765);
+insert into baseball_stadium (location, area, capacity) values ('JwUa2', 934045, 21747);
+insert into baseball_stadium (location, area, capacity) values ('XWhgV1wC', 162116, 81510);
+insert into baseball_stadium (location, area, capacity) values ('T22V7et', 518454, 75270);
+insert into baseball_stadium (location, area, capacity) values ('yGPnHA5', 844133, 33084);
+insert into baseball_stadium (location, area, capacity) values ('elJoU6', 107024, 30013);
+insert into baseball_stadium (location, area, capacity) values ('dBdCNZ', 826770, 35486);
+insert into baseball_stadium (location, area, capacity) values ('u2bJuaS', 923944, 52002);
+insert into baseball_stadium (location, area, capacity) values ('DTz9YV', 783026, 98941);
+insert into baseball_stadium (location, area, capacity) values ('EjJ0lKqy', 741228, 71692);
+insert into baseball_stadium (location, area, capacity) values ('oB8zQf', 481379, 6873);
+insert into baseball_stadium (location, area, capacity) values ('BzOxUwu', 672622, 76151);
+insert into baseball_stadium (location, area, capacity) values ('9NuiX82zw', 909769, 73995);
+insert into baseball_stadium (location, area, capacity) values ('8EpjzpBg', 660952, 45899);
+insert into baseball_stadium (location, area, capacity) values ('zRV4BL', 524132, 30530);
+insert into baseball_stadium (location, area, capacity) values ('kBeQ4PIL', 677428, 86337);
+insert into baseball_stadium (location, area, capacity) values ('xs7jvb8w3', 800733, 57018);
+insert into baseball_stadium (location, area, capacity) values ('k1S0ZMQk', 439498, 96239);
+insert into baseball_stadium (location, area, capacity) values ('N8gvyz', 725701, 39060);
+insert into baseball_stadium (location, area, capacity) values ('2DjcKc', 29422, 74843);
+insert into baseball_stadium (location, area, capacity) values ('fjjipeV2M', 151060, 23324);
+insert into baseball_stadium (location, area, capacity) values ('vbz8d', 18847, 72209);
+insert into baseball_stadium (location, area, capacity) values ('n0WsE', 819566, 82863);
+insert into baseball_stadium (location, area, capacity) values ('IgRQnAqW', 829330, 28819);
+insert into baseball_stadium (location, area, capacity) values ('xMQEOc8e', 531326, 52871);
+insert into baseball_stadium (location, area, capacity) values ('wgr2GF', 462180, 73087);
+insert into baseball_stadium (location, area, capacity) values ('Uns47bwRl', 488861, 67201);
+insert into baseball_stadium (location, area, capacity) values ('lme3cMNX', 645769, 28784);
+insert into baseball_stadium (location, area, capacity) values ('qxCDMu', 565320, 25366);
+insert into baseball_stadium (location, area, capacity) values ('gggDQ', 470127, 68580);
+insert into baseball_stadium (location, area, capacity) values ('SLAOLh', 962061, 78622);
+insert into baseball_stadium (location, area, capacity) values ('mhv5tGvg', 349882, 99025);
+insert into baseball_stadium (location, area, capacity) values ('UrpSy', 300360, 52936);
+insert into baseball_stadium (location, area, capacity) values ('fDsGk2d', 277988, 71863);
+insert into baseball_stadium (location, area, capacity) values ('fvYC2', 206265, 89628);
+insert into baseball_stadium (location, area, capacity) values ('iHV8SA', 576336, 88325);
+insert into baseball_stadium (location, area, capacity) values ('QWL6Unr', 174966, 32088);
+insert into baseball_stadium (location, area, capacity) values ('IFTMeext', 661213, 57261);
+insert into baseball_stadium (location, area, capacity) values ('bjdIroW0', 759198, 71412);
+insert into baseball_stadium (location, area, capacity) values ('PCRoO', 221568, 11252);
+insert into baseball_stadium (location, area, capacity) values ('MZXXN4', 635962, 83894);
+insert into baseball_stadium (location, area, capacity) values ('LlSXGy', 585450, 22657);
+insert into baseball_stadium (location, area, capacity) values ('bIBGWadB', 292259, 32715);
+insert into baseball_stadium (location, area, capacity) values ('t85yLFa', 656713, 58477);
+insert into baseball_stadium (location, area, capacity) values ('PonLn', 293732, 14573);
+insert into baseball_stadium (location, area, capacity) values ('deBl1', 231931, 44805);
+insert into baseball_stadium (location, area, capacity) values ('YYShqEc', 275936, 51642);
+insert into baseball_stadium (location, area, capacity) values ('SLUh9', 252373, 71415);
+insert into baseball_stadium (location, area, capacity) values ('fnXXtLwvz', 847846, 33321);
+insert into baseball_stadium (location, area, capacity) values ('7w6GzrD', 815367, 95681);
+insert into baseball_stadium (location, area, capacity) values ('0C4tp6Umd', 988728, 98693);
+insert into baseball_stadium (location, area, capacity) values ('4xYVi', 893821, 83167);
+insert into baseball_stadium (location, area, capacity) values ('zdyNU4', 324609, 21451);
+insert into baseball_stadium (location, area, capacity) values ('uK4bjS', 484847, 37404);
+insert into baseball_stadium (location, area, capacity) values ('V2jAC', 488116, 81882);
+insert into baseball_stadium (location, area, capacity) values ('juyBG2', 885540, 89417);
+insert into baseball_stadium (location, area, capacity) values ('PsgKV', 872246, 56005);
+insert into baseball_stadium (location, area, capacity) values ('ql2W4RpU', 372004, 81530);
+insert into baseball_stadium (location, area, capacity) values ('pCzGtk', 464977, 16823);
+insert into baseball_stadium (location, area, capacity) values ('HYBrcz', 427871, 70280);
+insert into baseball_stadium (location, area, capacity) values ('sv0QlZ', 392207, 96274);
+insert into baseball_stadium (location, area, capacity) values ('1TOzF05', 896116, 35865);
+insert into baseball_stadium (location, area, capacity) values ('ONqkyH8', 746056, 57914);
+insert into baseball_stadium (location, area, capacity) values ('8k5if96Ze', 384021, 3857);
+insert into baseball_stadium (location, area, capacity) values ('oEKiBv', 791284, 19002);
+insert into baseball_stadium (location, area, capacity) values ('eryjm', 72589, 72664);
+insert into baseball_stadium (location, area, capacity) values ('2QB1n2', 680888, 73735);
+insert into baseball_stadium (location, area, capacity) values ('q0TLcEi', 797429, 46891);
+insert into baseball_stadium (location, area, capacity) values ('h4hTX', 231508, 49547);
+insert into baseball_stadium (location, area, capacity) values ('jpb6KK3', 637984, 93967);
+insert into baseball_stadium (location, area, capacity) values ('xhXct', 904408, 11411);
+insert into baseball_stadium (location, area, capacity) values ('qRXJGxo', 631209, 70747);
+insert into baseball_stadium (location, area, capacity) values ('RQNEnLk', 738468, 66050);
+insert into baseball_stadium (location, area, capacity) values ('8AtIFOq', 551279, 97760);
+insert into baseball_stadium (location, area, capacity) values ('Q6PR85', 826369, 36136);
+insert into baseball_stadium (location, area, capacity) values ('99RubQ', 352599, 47037);
+insert into baseball_stadium (location, area, capacity) values ('zpFIk', 459386, 51325);
+insert into baseball_stadium (location, area, capacity) values ('pnVNQW', 374103, 69986);
+insert into baseball_stadium (location, area, capacity) values ('dBOUwBbR', 916110, 56546);
+insert into baseball_stadium (location, area, capacity) values ('kDoEL', 671523, 50899);
+insert into baseball_stadium (location, area, capacity) values ('NwPbeCrmk', 475659, 21275);
+insert into baseball_stadium (location, area, capacity) values ('hUMFsk', 808475, 86605);
+insert into baseball_stadium (location, area, capacity) values ('weUjyTug', 643870, 51744);
+insert into baseball_stadium (location, area, capacity) values ('HSJ1mpe', 34311, 36028);
+insert into baseball_stadium (location, area, capacity) values ('rfysv', 165683, 34642);
+insert into baseball_stadium (location, area, capacity) values ('yPAoghaI', 586841, 40324);
+insert into baseball_stadium (location, area, capacity) values ('2rBTXthF', 577945, 57621);
+insert into baseball_stadium (location, area, capacity) values ('98l3D', 386168, 27367);
+insert into baseball_stadium (location, area, capacity) values ('xZ1Z5FaW', 140816, 37928);
+insert into baseball_stadium (location, area, capacity) values ('9FXv5xOz', 56529, 78065);
+insert into baseball_stadium (location, area, capacity) values ('cexyYmA3', 635546, 5107);
+insert into baseball_stadium (location, area, capacity) values ('U0su53', 244150, 81252);
+insert into baseball_stadium (location, area, capacity) values ('iCOm5B3I', 311069, 14554);
+insert into baseball_stadium (location, area, capacity) values ('aNn5PQW', 138919, 44110);
+insert into baseball_stadium (location, area, capacity) values ('WTUX13eHe', 679322, 2009);
+insert into baseball_stadium (location, area, capacity) values ('S0KS7qu', 892501, 60017);
+insert into baseball_stadium (location, area, capacity) values ('cyFTDXxct', 197883, 2128);
+insert into baseball_stadium (location, area, capacity) values ('9zrO28', 445837, 85982);
+insert into baseball_stadium (location, area, capacity) values ('8QrZvXrp', 508369, 9334);
+insert into baseball_stadium (location, area, capacity) values ('wuPONCvV', 135267, 43500);
+insert into baseball_stadium (location, area, capacity) values ('IsC8ffyQi', 813996, 69579);
+insert into baseball_stadium (location, area, capacity) values ('WLpxjnu0', 433358, 94228);
+insert into baseball_stadium (location, area, capacity) values ('xV7WM9', 589425, 62925);
+insert into baseball_stadium (location, area, capacity) values ('MDEVoDgCN', 226167, 39704);
+insert into baseball_stadium (location, area, capacity) values ('rXqqcA', 306730, 46137);
+insert into baseball_stadium (location, area, capacity) values ('uU0exymK', 166486, 42522);
+insert into baseball_stadium (location, area, capacity) values ('vZ2iBd', 140981, 58708);
+insert into baseball_stadium (location, area, capacity) values ('vdo28a', 246203, 39631);
+insert into baseball_stadium (location, area, capacity) values ('xqO9DbzD', 332022, 7165);
+insert into baseball_stadium (location, area, capacity) values ('zIE6MY7', 748470, 97968);
+insert into baseball_stadium (location, area, capacity) values ('NmHmysI', 404951, 74280);
+insert into baseball_stadium (location, area, capacity) values ('bMl7jjOrY', 504894, 13827);
+insert into baseball_stadium (location, area, capacity) values ('xBX64zw', 660687, 16868);
+insert into baseball_stadium (location, area, capacity) values ('A61NvbCO', 542384, 94613);
+insert into baseball_stadium (location, area, capacity) values ('7V16yVYwn', 805466, 91813);
+insert into baseball_stadium (location, area, capacity) values ('0e8L3PF', 821150, 9734);
+insert into baseball_stadium (location, area, capacity) values ('BhmEPGhN', 808148, 66468);
+insert into baseball_stadium (location, area, capacity) values ('yDilhCA', 135446, 67113);
+insert into baseball_stadium (location, area, capacity) values ('sdltGm', 541964, 7889);
+insert into baseball_stadium (location, area, capacity) values ('K0mz0D8', 139408, 17470);
+insert into baseball_stadium (location, area, capacity) values ('rJQzY', 159790, 24288);
+insert into baseball_stadium (location, area, capacity) values ('fzxV5wFH', 964264, 32479);
+insert into baseball_stadium (location, area, capacity) values ('VowORQjn', 274784, 83318);
+insert into baseball_stadium (location, area, capacity) values ('F4WgB', 364955, 17149);
+insert into baseball_stadium (location, area, capacity) values ('xwhMX4s', 85424, 88028);
+insert into baseball_stadium (location, area, capacity) values ('DYgHVq4D0', 923728, 79634);
+insert into baseball_stadium (location, area, capacity) values ('2nDxGMD81', 520442, 87741);
+insert into baseball_stadium (location, area, capacity) values ('qhL5pbchR', 194117, 17966);
+insert into baseball_stadium (location, area, capacity) values ('36bJ8Zgo', 661317, 47085);
+insert into baseball_stadium (location, area, capacity) values ('QEOq1Nz3', 601466, 46263);
+insert into baseball_stadium (location, area, capacity) values ('ia7aeuqb', 213963, 48971);
+insert into baseball_stadium (location, area, capacity) values ('UJV4z2yl', 955477, 59729);
+insert into baseball_stadium (location, area, capacity) values ('KHJN5', 813003, 35711);
+insert into baseball_stadium (location, area, capacity) values ('50PQm2Gk', 554224, 4057);
+insert into baseball_stadium (location, area, capacity) values ('nIcyrlIQU', 507476, 18753);
+insert into baseball_stadium (location, area, capacity) values ('48svSj', 363208, 54952);
+insert into baseball_stadium (location, area, capacity) values ('NtsednG', 624299, 75616);
+insert into baseball_stadium (location, area, capacity) values ('6OtVIt', 741133, 51908);
+insert into baseball_stadium (location, area, capacity) values ('brX2W', 411863, 81968);
+insert into baseball_stadium (location, area, capacity) values ('OUKy6', 13781, 81577);
+insert into baseball_stadium (location, area, capacity) values ('IrKCZGpC', 326748, 82168);
+insert into baseball_stadium (location, area, capacity) values ('VlowV', 765411, 29815);
+insert into baseball_stadium (location, area, capacity) values ('waaFC', 468506, 70926);
+insert into baseball_stadium (location, area, capacity) values ('nHr54WQ', 769911, 87975);
 
-insert into client values ('1', 'L3M6Gj', 'SAOPrOp', '9', 'agent')
-insert into client values ('2', '3AurcG8gN', '0xmYXtK', '1', 'agent')
-insert into client values ('3', 'klsVlTMOU', 'QBi9Pog', '6', 'general_user')
-insert into client values ('4', 'xvKVtvE', '4xQD43', '5', 'admin')
-insert into client values ('5', 'dR5UsL', 'vHYMr01De', '4', 'director')
-insert into client values ('6', 'Ck6AWRawt', 'EP9SDe', '1', 'GM')
-insert into client values ('7', 'g1hQN', '1ncJjE', '7', 'agent')
-insert into client values ('8', 'fJnKn', '1JMUFy0Qy', '3', 'director')
-insert into client values ('9', '5ZSaU7', 'Hfh7uyCX', '8', 'GM')
-insert into client values ('10', 'rDiftjV', '5nAjk', '8', 'general_user')
-insert into client values ('11', 'IHRAcB', 'IMeZOwmB', '9', 'general_user')
-insert into client values ('12', '9utjX6j', 'dX75rL', '1', 'owner')
-insert into client values ('13', 'YcAKB', 'rKv1DU', '6', 'player')
-insert into client values ('14', '5X4K3rc', '2futm', '1', 'director')
-insert into client values ('15', '3ywED1Qd', 'KEViid', '5', 'agent')
-insert into client values ('16', '4YJe6f0sk', 'eaFXBVgCL', '8', 'admin')
-insert into client values ('17', 'ip8tuSCC', 'hxE3QM', '1', 'owner')
-insert into client values ('18', 'sCwh7MKTw', 'ShY5Sw', '3', 'general_user')
-insert into client values ('19', 'axSWk', 'mFTQUPT', '2', 'player')
-insert into client values ('20', 'gZGt0', 'lHBnrlkfi', '10', 'admin')
-insert into client values ('21', '0dxTwyv3F', 'RvxiYrHi', '5', 'player')
-insert into client values ('22', '16XGwjK7', 'CaXrdj', '4', 'agent')
-insert into client values ('23', 'GzcGUc3', 'Wptv4UGiy', '10', 'agent')
-insert into client values ('24', 'lNVM50Z4', 'F05Oy', '7', 'admin')
-insert into client values ('25', 'gb20TA4S', 'KYMaTGSF', '2', 'GM')
-insert into client values ('26', 'cj3NyTAh', 'eDGhtH', '10', 'player')
-insert into client values ('27', 'ri6SXr', '1ybVr6pM', '1', 'general_user')
-insert into client values ('28', '9W2Wh', 'XbTORgv', '5', 'admin')
-insert into client values ('29', 'q5vcZM', 'nYOyHGONO', '4', 'admin')
-insert into client values ('30', '5Yt4j0', '1lTVeMn8', '3', 'admin')
-insert into client values ('31', '6oxHPVrGr', 'pvKIN3', '1', 'GM')
-insert into client values ('32', 'Yuv1uD', 'N6rZ0', '1', 'player')
-insert into client values ('33', 'Mt7gwB', 'ycf3gS', '3', 'GM')
-insert into client values ('34', '9mv7wwErR', 'RACeyh4', '3', 'director')
-insert into client values ('35', 'b8ra9', 'HiGeYl', '6', 'owner')
-insert into client values ('36', 'te9LO', 'E4fKH16Sl', '10', 'owner')
-insert into client values ('37', 'AvxqE', 'ayI3hGimx', '2', 'owner')
-insert into client values ('38', 'Up0zgn', 'KhK5OE', '6', 'player')
-insert into client values ('39', 'TdYM9aB9', 'POvI3shnj', '1', 'GM')
-insert into client values ('40', 'N5xG5BL9V', 'ZGJadfOD7', '8', 'general_user')
-insert into client values ('41', 'Nco0VqM3', 'c9G1y', '1', 'director')
-insert into client values ('42', '3uaNxlwj', 'gb1istr', '1', 'general_user')
-insert into client values ('43', 'BtyPGeKg', 'GwnjE', '10', 'director')
-insert into client values ('44', 'IkSMyqLbH', 'gLZjE0Ss', '9', 'GM')
-insert into client values ('45', 'Ynb1x1yG', 'p9Rp3W', '10', 'GM')
-insert into client values ('46', 'd3Tdf', 'wq43wGt', '2', 'GM')
-insert into client values ('47', '0TOObeoKq', '7GNh3', '10', 'player')
-insert into client values ('48', 'MWXQn0we', '3zXx7T', '4', 'admin')
-insert into client values ('49', 'djcCdU74', 'Oxde50Ki', '4', 'admin')
-insert into client values ('50', 'WETdEr', 'TkABPSf3F', '5', 'agent')
-insert into client values ('51', 'MrIPnq', 'h9R55AV', '1', 'player')
-insert into client values ('52', 'NMv6H4dl', 'NhKanvId', '2', 'agent')
-insert into client values ('53', 'LEMj3u', 'Qozmqul', '6', 'agent')
-insert into client values ('54', 'StjEpB', 'DNIXMp415', '7', 'agent')
-insert into client values ('55', '0qPQ3NV', '1d8qriY', '5', 'agent')
-insert into client values ('56', 'nKFmPWWh', 'ZXjch1q7', '1', 'agent')
-insert into client values ('57', 'jfp2HrB', 'cWD0zTN', '2', 'admin')
-insert into client values ('58', 'fW7kGolPt', 'GA3juSq', '2', 'director')
-insert into client values ('59', 'wFYMTN5Ue', '4oE3JnJn', '4', 'player')
-insert into client values ('60', 'iB780pAA', 'ms6ViOS4', '9', 'director')
-insert into client values ('61', 'ocTdgExh', 'A5sIycaW', '3', 'admin')
-insert into client values ('62', '1HE1FtX', 'mUk3Sdmcw', '9', 'player')
-insert into client values ('63', 'G0tVgiR', 'C3kZwWqM', '3', 'GM')
-insert into client values ('64', 'AuaX8Oq', '8j7qn', '10', 'GM')
-insert into client values ('65', 'XQvso', 'BjtBFfj', '1', 'director')
-insert into client values ('66', 'gKUOQBtdZ', 'RZtlnWxaL', '4', 'owner')
-insert into client values ('67', 'eyZ8RkM', '58FA8V', '6', 'agent')
-insert into client values ('68', 'VJHbrr02Q', 'QLpKTJbQf', '2', 'GM')
-insert into client values ('69', 'MOlrpX4', 'AkV0ox4', '7', 'general_user')
-insert into client values ('70', 'NB9OuEbNo', 'zyTVJGS', '10', 'GM')
-insert into client values ('71', 'Pg3UEjBns', 'I1C4RXWg', '4', 'admin')
-insert into client values ('72', 'J9aR4br0A', 'fo277B', '5', 'director')
-insert into client values ('73', 'WiFvvW', 'd05eFbe', '9', 'owner')
-insert into client values ('74', '7zKpXFjVP', 'xW6bOh3', '9', 'general_user')
-insert into client values ('75', 'AoKVE6XDz', 'h0hhux7Y7', '9', 'GM')
-insert into client values ('76', 'BX2u0z', 'kXPtS', '6', 'director')
-insert into client values ('77', '0qYosMT', 'pN187', '2', 'player')
-insert into client values ('78', 'DsCjbWBE', '4SWSY', '2', 'general_user')
-insert into client values ('79', 'vn1sV7g9', 'HC3etR', '1', 'director')
-insert into client values ('80', 'vnZI4aD', '1CfZWdi8', '10', 'admin')
-insert into client values ('81', 'uoBgQZSt', 'gpP2pEL', '4', 'admin')
-insert into client values ('82', 'Xwx0X', '18US8', '1', 'admin')
-insert into client values ('83', 'GMpgcNG', 'BNn4IC', '6', 'agent')
-insert into client values ('84', 'IIJ5PX', 'RSLulwxa', '8', 'general_user')
-insert into client values ('85', 'hlrk2Nwn', 'JPemy6G', '8', 'GM')
-insert into client values ('86', 'trG9QrR', '1D3AmkjVd', '5', 'GM')
-insert into client values ('87', 'hOxLKV7', 'szhWILxo', '4', 'admin')
-insert into client values ('88', '7HMgy', 'UJtqf', '3', 'player')
-insert into client values ('89', 'P3dkc11', 'ThZdBIF', '8', 'admin')
-insert into client values ('90', 'ktBQonFJC', 'ic4HKI', '4', 'admin')
-insert into client values ('91', 'j3HWhBZj', 'rnqYMPW9', '10', 'director')
-insert into client values ('92', '5d3rViwQU', '0d1rH', '10', 'admin')
-insert into client values ('93', '75FZw', 'LcY2zl', '6', 'GM')
-insert into client values ('94', 'MXHIoS8U', 'AR4VgXdO', '8', 'general_user')
-insert into client values ('95', 'XKYbp', 'O78ogxSXH', '4', 'general_user')
-insert into client values ('96', 'H8BFU', '3UrP5jqgD', '7', 'admin')
-insert into client values ('97', 'i7IxWN', 'B2XtgfVEv', '2', 'player')
-insert into client values ('98', 'GWwSk', 'GXlTDGe', '6', 'agent')
-insert into client values ('99', 'uc4DbzkF', 'GWINj7XN', '5', 'admin')
-insert into client values ('100', 'Fe0xC', 'W92fgIfW7', '5', 'agent')
-insert into client values ('101', 'ZfdLvekxc', 'LX3Ht', '4', 'GM')
-insert into client values ('102', '1OcR9jcu', 'WVMDodbW', '6', 'owner')
-insert into client values ('103', '6C3mr', 'HARJMamzZ', '2', 'admin')
-insert into client values ('104', 'eM1Kcf', 'hxvVnMNW', '6', 'general_user')
-insert into client values ('105', 'DLjei', 'kyBtKH2', '1', 'director')
-insert into client values ('106', '2Mgayd7', 'wP3VH8jOJ', '9', 'owner')
-insert into client values ('107', '5UCAtcr', 'fEU7DVpA', '7', 'general_user')
-insert into client values ('108', 'qtrWY', '7Pmne', '4', 'GM')
-insert into client values ('109', 'rDmodMS', 'bYafqkrne', '5', 'player')
-insert into client values ('110', '2wSwQaid', 'GZVjmfn', '2', 'admin')
-insert into client values ('111', 'SVrmbtfL7', '2CuNAMA', '1', 'director')
-insert into client values ('112', 'DsC4Zvti9', 'EhYVvq8kG', '5', 'player')
-insert into client values ('113', 'romQSB', 'w9O7QpdG', '7', 'director')
-insert into client values ('114', '0yuLY', '8oArI', '3', 'general_user')
-insert into client values ('115', 'c1BBswBx', 'tOn87xmQb', '5', 'player')
-insert into client values ('116', 'ZCWyRlQ', 'z7nZQh0SS', '1', 'director')
-insert into client values ('117', 'f6Ag1zYm', 'HG8ehvK3', '8', 'admin')
-insert into client values ('118', 'uck7jqt', 'ZwhLF', '5', 'owner')
-insert into client values ('119', 'Dz6fcW7W', 'ffc8f6rQg', '1', 'admin')
-insert into client values ('120', 'OYaSy2g', 'AatcUpCyt', '8', 'player')
-insert into client values ('121', '2MrQW', 'rE3BCY0cC', '10', 'admin')
-insert into client values ('122', '3ph0YxI', 'TiIKb04l', '10', 'general_user')
-insert into client values ('123', 'DfmGF', 'OMvM5Ddz', '7', 'player')
-insert into client values ('124', '2edUqO0w', 'Ktets8j', '10', 'owner')
-insert into client values ('125', 'HB1NQ', 'BTyNI2Npz', '7', 'general_user')
-insert into client values ('126', 'IV913NW', 'B99M1', '5', 'agent')
-insert into client values ('127', '8D4Yq', 'aAR08', '1', 'general_user')
-insert into client values ('128', 'NBXAMACQY', '5sDNwyP', '5', 'player')
-insert into client values ('129', 'kDM1r7EI7', 'zcIIlZ0z', '4', 'agent')
-insert into client values ('130', '8CkTW8A4', '4cLBj', '5', 'GM')
-insert into client values ('131', 'VlSbNh1YC', 'EbAsC', '6', 'agent')
-insert into client values ('132', 'kTomxCBK6', '7ggM0SzTL', '1', 'owner')
-insert into client values ('133', 'yEDvc', '2YPkxs4eA', '6', 'admin')
-insert into client values ('134', 'CRvbxwh', 'mipkkV', '9', 'player')
-insert into client values ('135', 'yKsU4m', '1oOcjjd8', '4', 'general_user')
-insert into client values ('136', 'X5Vdv', 'Ty59zUQTY', '5', 'agent')
-insert into client values ('137', 'cHfINoOh', 'yttTeRCK', '7', 'player')
-insert into client values ('138', '2PL1QAr54', 'yCQAdq', '1', 'agent')
-insert into client values ('139', 'z5hWZCJ', '94fGfS9', '1', 'player')
-insert into client values ('140', 'aFcqt3', '3LMSO', '3', 'admin')
-insert into client values ('141', 'Uc1N3Nn', 'PNacV0v', '9', 'general_user')
-insert into client values ('142', 'gl485c2', 'aXOIs8e', '4', 'agent')
-insert into client values ('143', 'GdAFUJ', 'YNbZBF', '10', 'director')
-insert into client values ('144', '0kcLxnWcE', 'F5gdGgM', '9', 'GM')
-insert into client values ('145', 'JF0kXm', 'CiXna', '9', 'owner')
-insert into client values ('146', 'TTZ02MsS', 'mAg8p9L', '3', 'GM')
-insert into client values ('147', 'Wun7h', 'IzGsg0u5', '1', 'player')
-insert into client values ('148', 'Pys5bi', '3TfKTG35', '6', 'player')
-insert into client values ('149', 'cXR8efrjm', 'uo9tBBdI', '2', 'admin')
-insert into client values ('150', 'oqPuG4o', '5zpM8Jg', '3', 'admin')
-insert into client values ('151', 'ln8KGQn', 'aTezEI8q', '8', 'owner')
-insert into client values ('152', 'aScZuA', 'uvEbmMO', '9', 'owner')
-insert into client values ('153', 'xh9Ckj', 'h5KfxB', '5', 'player')
-insert into client values ('154', 'hfJo4Ax0t', 'YqQnBRmH', '2', 'GM')
-insert into client values ('155', 'L0VTrlaz', 'Hzreqs8x', '7', 'GM')
-insert into client values ('156', 'mRtBf', 'PAWAZC', '5', 'admin')
-insert into client values ('157', '3E92lBcR', 'bjiRD', '6', 'admin')
-insert into client values ('158', 'K3k4vla', 'wzSujb6', '7', 'player')
-insert into client values ('159', 'vR1NtjkE', 'zvFZ1s', '9', 'agent')
-insert into client values ('160', 'K53ME', 'kwqhQ6', '2', 'director')
-insert into client values ('161', 'xdvzD', 'dvU57TWB3', '7', 'agent')
-insert into client values ('162', 'MtyP3vo', 'Dw1tUN', '10', 'general_user')
-insert into client values ('163', 'n2OA7', 'QqHmhD', '1', 'owner')
-insert into client values ('164', 'nNdhKwiA', 'DMfBgi9g', '2', 'director')
-insert into client values ('165', 'ZCN6Btt4M', '8BRMEDx', '3', 'owner')
-insert into client values ('166', 'ZZCzv', 'YhaArIAzb', '6', 'director')
-insert into client values ('167', 'PsVmCI1', 'cfgxJ', '5', 'agent')
-insert into client values ('168', 'zN99t', 'gYCBJX', '3', 'owner')
-insert into client values ('169', 'BMgvsI', '8TcPpj', '4', 'owner')
-insert into client values ('170', 'cQg0fj', 'R0FhvGuJ', '1', 'owner')
-insert into client values ('171', '4lHJndki', 'e2jHiK1J', '8', 'general_user')
-insert into client values ('172', '1S09q', 'JAPs8L', '8', 'player')
-insert into client values ('173', '5sYQzDQ', 'Jb9g2trf', '10', 'director')
-insert into client values ('174', '6822rsgP', 'RxGujQ', '7', 'player')
-insert into client values ('175', '8xeiYTUaB', 'jHyL3HcZ1', '2', 'GM')
-insert into client values ('176', 'ayWw5eB6', '7WvlxM5', '4', 'player')
-insert into client values ('177', '224b1JO', 'lXgMpZe7', '10', 'owner')
-insert into client values ('178', '9mkvBg', 'tWoFaFDw', '2', 'director')
-insert into client values ('179', 'Dit2AABm', 'OSaz5BAa', '7', 'owner')
-insert into client values ('180', 'Iyq9I', 'p2sGdtw', '3', 'GM')
-insert into client values ('181', 'RidllgtK', 'PK3tNpwZ', '1', 'agent')
-insert into client values ('182', '9yw7U', 'RSFunGVc', '4', 'admin')
-insert into client values ('183', 'RFJROh5iD', 'GYGaMOH', '6', 'agent')
-insert into client values ('184', 'zgnkCYs', 'JrDleEiY', '1', 'admin')
-insert into client values ('185', '42KeOE', 'EmtMFV', '10', 'general_user')
-insert into client values ('186', 'UAkDQmMB', '3H4Qa', '7', 'general_user')
-insert into client values ('187', 'SH4qyQ', 'wyUxoVrMe', '8', 'player')
-insert into client values ('188', '3IPeN7X', 'eBBbdU', '2', 'director')
-insert into client values ('189', 'AD0Hkspne', 'k0iYm', '7', 'general_user')
-insert into client values ('190', 'xUEwFHwz', 'UZNZK6', '7', 'admin')
-insert into client values ('191', 'sn1kES', 'LXSAXEQ', '10', 'GM')
-insert into client values ('192', 'dxRXXBpX', 'ybGCo4tF', '8', 'owner')
-insert into client values ('193', 'pzd0BPXv1', 'tqKfaEAPv', '10', 'player')
-insert into client values ('194', 'wAPlfI0', '0fs9N9', '3', 'general_user')
-insert into client values ('195', '6YwoSB', 'IVKwRV', '6', 'GM')
-insert into client values ('196', 'xOWYOtv8', 'r38Z2F4', '6', 'agent')
-insert into client values ('197', 'VZk1lA', '5OKqZ', '9', 'admin')
-insert into client values ('198', 'JTyR5', 'YedJl4ChD', '2', 'admin')
-insert into client values ('199', 'eJSyTyun', 'n2biX', '8', 'general_user')
-insert into client values ('200', 'x9OxcsXX', 'TPBd8obx4', '5', 'agent')
-insert into client values ('201', 'wwEzvgD', 'PAtaAmsO', '10', 'admin')
-insert into client values ('202', 'WxcU5KLa', 'WG2xnknHM', '10', 'general_user')
-insert into client values ('203', 'BPWB7', 'I9KzYz', '8', 'director')
-insert into client values ('204', 'bk303tWe', 'AqODZ', '9', 'player')
-insert into client values ('205', 'RbtJg', 'faAXWQuG', '8', 'owner')
-insert into client values ('206', '3s1XwlvO', 'TFPafiZ', '3', 'GM')
-insert into client values ('207', 'Vix8wfrk', 'iQAoI', '6', 'agent')
-insert into client values ('208', 'sk9PLQAze', 'Bv9sV1Q', '6', 'agent')
-insert into client values ('209', '34L8tU', 'MT0SUUn8', '4', 'director')
-insert into client values ('210', 'tqUbd8Z', 'm4d6VEs', '5', 'director')
-insert into client values ('211', 'MqpUDk', 'RRYKYHFq', '3', 'director')
-insert into client values ('212', 'XajhfLX', 'LoTA4B', '10', 'director')
-insert into client values ('213', 'rZ217', '8DFZy2KL8', '6', 'GM')
-insert into client values ('214', 'U6WfY', 'DXdT8eak', '9', 'agent')
-insert into client values ('215', 'zqjpgPC', 'korE9N4Ml', '4', 'player')
-insert into client values ('216', 'doMhv', 'ivBnWv', '10', 'owner')
-insert into client values ('217', 'hC0YP', 'IHRoCq', '1', 'admin')
-insert into client values ('218', 'VuJWHC', '4CaX6LxL', '4', 'owner')
-insert into client values ('219', 'YAtuadF', 'LXpQn01v', '10', 'player')
-insert into client values ('220', 'hrsnwAU6', 'JMRUFZRZd', '7', 'agent')
-insert into client values ('221', 'Vd7iJh', 'SzTnjT', '1', 'admin')
-insert into client values ('222', 'S61Tids5', 'FUdCEe', '7', 'owner')
-insert into client values ('223', 'wnKnxNCQ', 'iEHX5G', '1', 'player')
-insert into client values ('224', 'd03ZSmyV', 'rG1pw3Y', '10', 'GM')
-insert into client values ('225', 'FvnKgDe', 'kCF2NDQq', '8', 'agent')
-insert into client values ('226', 'Jbm8H', 'cfF9Sb', '9', 'general_user')
-insert into client values ('227', '2CohjLq', 'A3RFg', '10', 'player')
-insert into client values ('228', 'Mk0rPP0', 'MFmxx0I', '3', 'player')
-insert into client values ('229', 'cPCc4h', 'L9dtlKo', '9', 'director')
-insert into client values ('230', 'RYvuRup', 'OSSLU', '10', 'agent')
-insert into client values ('231', 'YBsBX', '3DJms', '1', 'owner')
-insert into client values ('232', '1AFv8MYPQ', 'EAitVU', '9', 'admin')
-insert into client values ('233', 'wFqnu', '8mq8jcIGo', '8', 'director')
-insert into client values ('234', '5XjxR', 'kXi4p9', '9', 'director')
-insert into client values ('235', 'F89S1VXd', '5MkoRZ', '7', 'player')
-insert into client values ('236', '22jlv62', 'rqeg1G1', '8', 'player')
-insert into client values ('237', 'BJmswS9Ae', 'uryICKp', '9', 'general_user')
-insert into client values ('238', 'cr0vWEab', 'uXmdD1', '3', 'director')
-insert into client values ('239', 'pE0S5k', 'tNXJ9', '2', 'general_user')
-insert into client values ('240', 'GV9aRPxA', 'QcKVr4ikG', '4', 'director')
-insert into client values ('241', 'gu0Yg', 'r2vdZ9Jf', '2', 'agent')
-insert into client values ('242', 'FChQen', 'vydhCIwqJ', '3', 'GM')
-insert into client values ('243', 'wdGbeS', 'aurpf', '10', 'director')
-insert into client values ('244', 'Q9lhPf2MR', '6TF06T0', '9', 'owner')
-insert into client values ('245', 'rV04Yav1', 'W6hykAZC', '5', 'GM')
-insert into client values ('246', 'lcVoHV', 'ypl7Gx', '1', 'director')
-insert into client values ('247', 'ZVATk2', '4a0pM', '10', 'player')
-insert into client values ('248', 'hl4sZ', 'XLgUcB6', '6', 'owner')
-insert into client values ('249', 'sYcJer', 'oXECtX', '10', 'general_user')
-insert into client values ('250', 'lFeG55', 'kPSbw', '9', 'GM')
-insert into client values ('251', 'v6bQ4uZZb', 'bZGjX', '9', 'owner')
-insert into client values ('252', 'DYPwG3R', 'JWK3ZGx7', '3', 'director')
-insert into client values ('253', 'sgaeGDT', 'ZJWEwuVPj', '9', 'owner')
-insert into client values ('254', 'l3EbF', 'NteOCzE', '9', 'player')
-insert into client values ('255', 'QcwLwFk', 'ZBQxq', '8', 'owner')
-insert into client values ('256', 'zrhyG', 'khVanXMm3', '9', 'owner')
-insert into client values ('257', 'muqx0X5', 'btfuB', '10', 'general_user')
-insert into client values ('258', 'aHTVeO', 'EWFeKRwt', '2', 'player')
-insert into client values ('259', '7rVe8OH', 'mW7Ge1', '2', 'admin')
-insert into client values ('260', 'fqB2dlr', 'yXABm', '5', 'player')
-insert into client values ('261', 'qunEOrJMW', 'uApqyM', '8', 'player')
-insert into client values ('262', 'kEM8lUA', 'U3p9xTH', '1', 'GM')
-insert into client values ('263', 'AuJqEco1f', 'RxPoww0a', '2', 'admin')
-insert into client values ('264', 'aREQ4W', '0ipQcR', '8', 'GM')
-insert into client values ('265', 'kGEFO8GY', 'MzvPiBZRd', '10', 'owner')
-insert into client values ('266', '92K0n1ezP', 'P0gYtuh', '6', 'general_user')
-insert into client values ('267', 'RtRzV', '86GYcI1Y', '5', 'admin')
-insert into client values ('268', '0gcNkY', 'CD4tLzc2', '9', 'GM')
-insert into client values ('269', 'E3bYYSewk', '44WSyQ', '8', 'agent')
-insert into client values ('270', 'tnzkhYuy4', '1PIZa', '3', 'agent')
-insert into client values ('271', 'u1UHHhD', 'phSiVoXf', '7', 'player')
-insert into client values ('272', 'pFKB0', 'xyM3tqRh', '10', 'director')
-insert into client values ('273', 'wQ0nE', 'GE7hY3kI', '8', 'general_user')
-insert into client values ('274', 'oJFl9', 'NEiQwOyi', '8', 'director')
-insert into client values ('275', 'YNeYiMRQ', 'nSI9qW', '5', 'player')
-insert into client values ('276', '0GJOdJb', 'Hp0uQ', '5', 'general_user')
-insert into client values ('277', '2Co4mQnfz', 'Q8seFB', '8', 'GM')
-insert into client values ('278', 'IQvEaS', 'OxFkG', '5', 'owner')
-insert into client values ('279', 'LMWcvp', 'oAj1upn', '1', 'admin')
-insert into client values ('280', 'mulo8KXw', 'FJSdHpe', '9', 'player')
-insert into client values ('281', 'KwNQp2c', 'ANaGTjoJ', '4', 'general_user')
-insert into client values ('282', 'B36dvF4dI', 'Hp52H0V', '6', 'admin')
-insert into client values ('283', 'aM8Q1LJt', '3fzFhn6XM', '4', 'admin')
-insert into client values ('284', 'X2dcm', 'wSVUAxSs', '1', 'agent')
-insert into client values ('285', '86VRQ5BM', 'EQRKC', '6', 'director')
-insert into client values ('286', 'lg7QV', 'Yggk1fA', '4', 'agent')
-insert into client values ('287', 'DjkEQDFiI', 'fcCnc', '4', 'admin')
-insert into client values ('288', 'SWGaRk', 'R3o0d', '10', 'GM')
-insert into client values ('289', 'kpFtpfh', 'kZyeQ4', '5', 'general_user')
-insert into client values ('290', 'UqF4kZx', '9EDbTMi8Z', '2', 'director')
-insert into client values ('291', 'YtzEU', 'Uok1hST', '5', 'director')
-insert into client values ('292', 'b5B84s', 'lSL6zEt', '9', 'GM')
-insert into client values ('293', 'XKKF742', 'voX50PB', '8', 'GM')
-insert into client values ('294', 'dO4YbT', 'tVbWlrQsP', '3', 'admin')
-insert into client values ('295', 'uA2MBG', 'xiUbrD', '3', 'general_user')
-insert into client values ('296', 'BCNJgtFr4', 'XIGXha', '10', 'director')
-insert into client values ('297', 'xiAfgGj', 'gDurr', '2', 'admin')
-insert into client values ('298', 'xxVLiSz', 'UO8Ujx', '3', 'agent')
-insert into client values ('299', 'YnTnDYY8C', 't4gblg', '7', 'GM')
-insert into client values ('300', 'WhWs8', 'LlR4I', '2', 'general_user')
-insert into client values ('301', 'gLhdb', 'rbbegKO', '3', 'director')
-insert into client values ('302', 'lg4dCm9h6', 'qh9JOBk', '3', 'general_user')
-insert into client values ('303', 'nGyLOeM1', 'EFQVnhB', '3', 'general_user')
-insert into client values ('304', 'yT0gL1XW3', 'RP6co4r', '4', 'director')
-insert into client values ('305', 'btZOEVaO', 'bXJcFr', '7', 'admin')
-insert into client values ('306', 'XuPrhNR4', '3VSiHIlfT', '1', 'admin')
-insert into client values ('307', 'xQuQHT2G', 'ft7MYMaS', '7', 'director')
-insert into client values ('308', 'UCysQKzE', 'UdTf7cq', '1', 'general_user')
-insert into client values ('309', 'tfUUtuy', 'nqgnPBe4', '10', 'director')
-insert into client values ('310', 'YRfe0M', '1lDcz', '3', 'owner')
-insert into client values ('311', 'lMEmpF', 'qRhhA', '7', 'owner')
-insert into client values ('312', 'IZtE9', 'dQDkWoL', '9', 'general_user')
-insert into client values ('313', '5JIX5VQ', '89NtN9l', '1', 'admin')
-insert into client values ('314', 'e5cW1Zg72', 'jFeVE', '4', 'admin')
-insert into client values ('315', 'Kv5ijf', 'OCiKiO', '2', 'agent')
-insert into client values ('316', 'u7oKPdg', 'JQdvD', '3', 'general_user')
-insert into client values ('317', 'WJNDX', '30UP8X8', '10', 'agent')
-insert into client values ('318', 'vAI6dT', 'JnGEI', '8', 'agent')
-insert into client values ('319', '4iPwG', '3IvzK', '1', 'GM')
-insert into client values ('320', 'gXy7mBg', 'SStrtSefr', '8', 'admin')
-insert into client values ('321', 'deqcerWd', 'b82hWwpG', '5', 'admin')
-insert into client values ('322', 'br0WrhKYK', 'CNtj1O', '10', 'owner')
-insert into client values ('323', 'nKrB4r2o', 'EeiE77ic', '1', 'general_user')
-insert into client values ('324', 'iPCfF', 'rA9dnKj', '8', 'director')
-insert into client values ('325', 'rns7R7Kui', '2J4X4ZBRf', '8', 'admin')
-insert into client values ('326', 'Etx64r', 'oFWUhF', '3', 'GM')
-insert into client values ('327', 'a7qE6Fs', 'NaqVqWe0T', '5', 'general_user')
-insert into client values ('328', '64oHTvO', 't7At8OpFa', '7', 'general_user')
-insert into client values ('329', '91Xs732Bv', 'D4JlQOx', '2', 'admin')
-insert into client values ('330', 'K7pvScC', 'NQpb5', '1', 'general_user')
-insert into client values ('331', 'UESPD4P', 'd76YI2V3n', '7', 'agent')
-insert into client values ('332', 'mA2F4QV', '4qdiW', '7', 'director')
-insert into client values ('333', 'X8Hyybhy', 'b0HQr9', '10', 'admin')
-insert into client values ('334', 'MoUh8c', 'xIbcrsKd', '8', 'GM')
-insert into client values ('335', 'KBXNM2hc', 'krGWuEkbR', '4', 'general_user')
-insert into client values ('336', 'fRIDt', 'GMmSUjJZy', '10', 'admin')
-insert into client values ('337', 'KPKM4', 'Z8RPK0aSS', '10', 'player')
-insert into client values ('338', 'ATfkJL', 'zQ1pfwOX', '7', 'director')
-insert into client values ('339', 'tTNDLv68', 'muo3kit', '4', 'GM')
-insert into client values ('340', 'uaymZAB', 'J7iJAjvi7', '10', 'director')
-insert into client values ('341', 'PV8SOfi', '877Evz', '8', 'director')
-insert into client values ('342', 'nIWk6ds', 'J01tMo', '7', 'admin')
-insert into client values ('343', 'NPU3uZZM', 'iSz9rz', '9', 'player')
-insert into client values ('344', 'vrNe1Nc', 'cgRBUyQ', '5', 'admin')
-insert into client values ('345', '1n00Lkk1X', 'VDfrtf', '3', 'director')
-insert into client values ('346', 'EP6v3D', 'HhtWaV6', '10', 'agent')
-insert into client values ('347', 'U8iPbIb', 'mYSNV9', '5', 'admin')
-insert into client values ('348', 'j9bBvA8j8', 'DIqx282rA', '7', 'admin')
-insert into client values ('349', 'xDPHaFtQA', 'X7ytv35u', '2', 'owner')
-insert into client values ('350', 'vGbFOxTiU', 'UodxIeor7', '2', 'owner')
-insert into client values ('351', 'm7qDW838', '0ye8yuM', '9', 'owner')
-insert into client values ('352', 'XuuPz', 'VeTFRI5gR', '7', 'GM')
-insert into client values ('353', 'ff9rDaP', 'MNHmRex', '5', 'general_user')
-insert into client values ('354', '4eguqor', '4LGCr9j', '9', 'player')
-insert into client values ('355', 'gRBxS9oee', 'l4KVpPPE', '5', 'general_user')
-insert into client values ('356', 'ow9iA', 'eFTl99', '2', 'general_user')
-insert into client values ('357', 'joeMz', 'l6qt12y', '3', 'director')
-insert into client values ('358', 'hxmrjVs', 'XdvnEkhc', '7', 'general_user')
-insert into client values ('359', 'ITP1D8b7', 'TpgIj', '9', 'player')
-insert into client values ('360', 'cmwDmjGhE', 'lXjGX1', '2', 'agent')
-insert into client values ('361', 'CUtCU', 'f352eB', '3', 'owner')
-insert into client values ('362', 'wQR1n', 'd7MrL', '2', 'admin')
-insert into client values ('363', 'RL86GOXQ', '2eeLSWzu3', '4', 'director')
-insert into client values ('364', 'qPM6xuTC7', 'pkiJpOPR', '7', 'general_user')
-insert into client values ('365', 'IAVJA87bI', 'q4AAfOhg', '3', 'admin')
-insert into client values ('366', 'ZhnfG', '26kevMhO', '9', 'admin')
-insert into client values ('367', 'aqph9mOhX', 'QFYVoJlVm', '2', 'player')
-insert into client values ('368', '0y2nJPOKm', 'yjiYrL', '2', 'owner')
-insert into client values ('369', 'bb9oRDi6Z', '3MHxw60', '10', 'GM')
-insert into client values ('370', 'SyGMgn2', 'whzaEf', '8', 'agent')
-insert into client values ('371', 'xRKgNHLJ7', 'IkMN5bfQP', '4', 'director')
-insert into client values ('372', 'g9l6ccpSH', '5VSn6Nu', '8', 'player')
-insert into client values ('373', 'B1t7ITp3S', 'WmwXcx', '6', 'GM')
-insert into client values ('374', 'EhG1W8O', 'DzwJWRUkr', '4', 'owner')
-insert into client values ('375', 'OzeB7nv5i', '63bpNn', '4', 'player')
-insert into client values ('376', 'y3dtE', 'CnQcZMBmf', '9', 'GM')
-insert into client values ('377', 'bgOrKIM0', 'pAAitYc', '9', 'director')
-insert into client values ('378', 'SUnLxH', '4DrIl', '8', 'admin')
-insert into client values ('379', 'WkSK28', '2OkxG3', '1', 'admin')
-insert into client values ('380', 'jw0t3smYg', 'Bdxkc', '6', 'admin')
-insert into client values ('381', 'bZB3KM9kK', 'PVUxzL', '4', 'GM')
-insert into client values ('382', 'RjUCNjBB', 'twuQLj8C', '2', 'GM')
-insert into client values ('383', 'Fwr7oF5A', 'BckrD', '2', 'general_user')
-insert into client values ('384', 'tlJOPYr1s', 'gyPQLH', '6', 'owner')
-insert into client values ('385', 'FlarQ', '7hYw6', '5', 'player')
-insert into client values ('386', 'FMzae4', 'EAj2M', '2', 'admin')
-insert into client values ('387', 'XVe6FqbT', 'L6cEzQjcu', '2', 'director')
-insert into client values ('388', 'Kxg4B2', 'HoM7Lb', '8', 'admin')
-insert into client values ('389', 'EccBJp', 'Zn4dtKH', '4', 'owner')
-insert into client values ('390', 'gBIAZbgQE', 'n5xplnqS0', '1', 'general_user')
-insert into client values ('391', 'XDgupYkNf', 'iQesZi', '3', 'director')
-insert into client values ('392', 'hmtfsS', 'xB8iLXjU', '5', 'GM')
-insert into client values ('393', 'RAOmkX', '8Y3sAi', '10', 'admin')
-insert into client values ('394', 'gewhiRl6O', 'x8c3Gtf', '9', 'general_user')
-insert into client values ('395', 'FSYH9', 'cLNQTyUEu', '9', 'player')
-insert into client values ('396', 'nZZ4QMdh', '8dzh0H', '5', 'general_user')
-insert into client values ('397', 'xYGKv', 'UrkATCxJ', '5', 'player')
-insert into client values ('398', '4mwQyo', 'SdYDIXV', '4', 'agent')
-insert into client values ('399', 'GdNhEH1', '6REMK', '2', 'GM')
-insert into client values ('400', 'S6YWHOol', 'VysYK', '1', 'GM')
-insert into client values ('401', '4Cgi1vEVJ', 'R7mrfP', '1', 'director')
-insert into client values ('402', 'D1WARUHh', '21yBGvndC', '1', 'admin')
-insert into client values ('403', 'vZoDneBud', 'T3bzDlX', '4', 'agent')
-insert into client values ('404', 'rhzxjoF', 'iYxkG', '2', 'director')
-insert into client values ('405', 'yr1HLsN4i', 'T9tNpD0', '3', 'player')
-insert into client values ('406', 'KzED0AY', 'GxWm3Q', '7', 'GM')
-insert into client values ('407', 'K0Suj', 'riwFcWL', '2', 'admin')
-insert into client values ('408', '4xkNaRj', 'nN7O5Hs6T', '4', 'agent')
-insert into client values ('409', '92MdA', 'KJSAW', '10', 'agent')
-insert into client values ('410', 'qNgLCNObY', 'slIMhJ5GP', '4', 'owner')
-insert into client values ('411', 'w9j8WJJ', 'CvBorkB', '7', 'director')
-insert into client values ('412', 'dFv4ItzV', 'IH87z', '7', 'GM')
-insert into client values ('413', 'goK0usn', 'HV7XTpo3a', '3', 'player')
-insert into client values ('414', 'mazLxs', 'jCMjYQvRV', '10', 'GM')
-insert into client values ('415', 'KsJmcam', '6Bvz4TRG', '4', 'GM')
-insert into client values ('416', 'IYvbe0', 'Byv0u', '1', 'GM')
-insert into client values ('417', 'jFcfWmt', 'HoOfonNxG', '7', 'player')
-insert into client values ('418', 'inUyXMsZi', 'NNMrboc', '1', 'director')
-insert into client values ('419', 'QlfAqSzX', 'L94NbBA', '1', 'general_user')
-insert into client values ('420', 'arShTl', 'yhr9hwlr', '7', 'GM')
-insert into client values ('421', '3k31VcTCq', 'ySKvR9tfu', '5', 'owner')
-insert into client values ('422', 'ZxVxnsgAl', 'XKaQiabV', '8', 'director')
-insert into client values ('423', 't2zjLZuQq', 'lYj5k2mpJ', '9', 'agent')
-insert into client values ('424', 'Hf89brk', 'VaVltuJ', '2', 'player')
-insert into client values ('425', 'yaKvQ', 'OlrVQ8', '1', 'GM')
-insert into client values ('426', 'n61ThHAlx', 'wy4Hm646', '4', 'director')
-insert into client values ('427', 'AiETJ1Ai', 'vS5IQ', '1', 'admin')
-insert into client values ('428', '3KTyZiV', 'oWs29', '8', 'owner')
-insert into client values ('429', 'cbLnye4P', 'EwMK7OnV', '10', 'GM')
-insert into client values ('430', 'Im4DNBCj', 'ImYtR', '8', 'owner')
-insert into client values ('431', '6bsd1LeZk', 'RMwYZLF6H', '2', 'director')
-insert into client values ('432', 'Zb8UWwmTO', '3Xw3zm6L', '8', 'general_user')
-insert into client values ('433', 'X55WmERO', 'aOcUAWUi', '9', 'general_user')
-insert into client values ('434', 'pFuWwrn6N', '0ChaqpcnT', '4', 'director')
-insert into client values ('435', 'xrXQ3A9W', 'Ld8mgRbyS', '9', 'player')
-insert into client values ('436', 'E8bgz', '2wxNqMG', '9', 'agent')
-insert into client values ('437', 'qNLwG', '3gLSmx47q', '4', 'admin')
-insert into client values ('438', 'RO7vK91Gk', 'Xyn1W', '8', 'director')
-insert into client values ('439', 'r3T4eUmp', 'CThOIv', '1', 'general_user')
-insert into client values ('440', '3WDtmFN', 'CrYgaC', '3', 'general_user')
-insert into client values ('441', 'grCBGa46', '8mE7V', '1', 'GM')
-insert into client values ('442', 'a7LtlV', 'axJsxkz', '3', 'owner')
-insert into client values ('443', 'vTmik', '4sjuF', '10', 'director')
-insert into client values ('444', 'FbmvYZ', 'hNxMP', '1', 'owner')
-insert into client values ('445', '21KOgG', 'hDmvv2T', '4', 'player')
-insert into client values ('446', 'UgfRWZnx9', 'SG0N2rtJ', '6', 'director')
-insert into client values ('447', 'CphgwRkQ', 'FDYElQyFO', '4', 'director')
-insert into client values ('448', 'iVg9002R', 'ar9bxbdD', '1', 'director')
-insert into client values ('449', 'GJQiuLY', 't4B1b', '1', 'general_user')
-insert into client values ('450', 'BpvmNVE', 'Unwfjp', '2', 'director')
-insert into client values ('451', 'EAIWmmEj5', '7GWIMo', '7', 'admin')
-insert into client values ('452', 'SVkXq4', 'wXuXTq9', '7', 'general_user')
-insert into client values ('453', '7Z7MA1', 'hlDtPhG0Y', '10', 'general_user')
-insert into client values ('454', 'eI5BEV30x', '2kyQ9', '8', 'owner')
-insert into client values ('455', 'InRI3x4k', 'cNlw5bKw', '7', 'director')
-insert into client values ('456', 'VcTWKG', 'ZBGCXK', '6', 'director')
-insert into client values ('457', 'pwtBfIQy2', 'COKNlSok', '10', 'general_user')
-insert into client values ('458', 'i6Ur1NCz', 'oLB0M5z5i', '10', 'general_user')
-insert into client values ('459', 'IBBzKM', 'cccksKu', '1', 'player')
-insert into client values ('460', 'WJ1aXF', 'T4CP0HP', '3', 'owner')
-insert into client values ('461', 'K7eori', 'jIwDxXGuC', '4', 'owner')
-insert into client values ('462', '4SgPcLG', 'qxdvs', '1', 'admin')
-insert into client values ('463', 'W4ifoTC', '3mOfkNz', '3', 'owner')
-insert into client values ('464', '6JkrU1BRN', 'mvDPJCX', '8', 'director')
-insert into client values ('465', 'vbiDHlR', 'NreQNjme2', '5', 'owner')
-insert into client values ('466', '2QvxwJfOg', 'mUyX7rXgI', '4', 'admin')
-insert into client values ('467', 'ccsO6OsTF', 'FHzksZK', '9', 'player')
-insert into client values ('468', 'KB2ja5', 'nGXA19TJD', '1', 'owner')
-insert into client values ('469', 'Rdlnmi', 'f89Va', '9', 'player')
-insert into client values ('470', 'xFMUn2', 'beafYQ', '6', 'owner')
-insert into client values ('471', '03672J', '5S8DVCI4', '10', 'agent')
-insert into client values ('472', 'Gu1mD9', 'DsV2M', '1', 'director')
-insert into client values ('473', '2qEob', 'vlOlXQ1B', '1', 'general_user')
-insert into client values ('474', 'gSW1c', '4lsB1Ek', '2', 'general_user')
-insert into client values ('475', 'Y20uaDY', 'Lfwq7Spk', '5', 'owner')
-insert into client values ('476', 'I2xmA', '4SwpGf', '3', 'GM')
-insert into client values ('477', 'iocnPNr', 'bgj9RO', '9', 'agent')
-insert into client values ('478', '8ZEBxG', 'yZ0qA0', '6', 'general_user')
-insert into client values ('479', '1An0BlBuu', 'yFd0EI', '4', 'admin')
-insert into client values ('480', 'jVSH90KL', '98jlY', '6', 'admin')
-insert into client values ('481', '8vCACe', 'PQS6qyr', '10', 'player')
-insert into client values ('482', 'fZWuuD', 'nTUny', '10', 'general_user')
-insert into client values ('483', 'xI3sq', 'PUH2EE', '6', 'admin')
-insert into client values ('484', 'z2fz9', 'mby92bfo', '3', 'player')
-insert into client values ('485', 'Vmvel', '2Q2a3B9', '7', 'player')
-insert into client values ('486', 'lQ2toUZ', 'P9C6yHe', '5', 'admin')
-insert into client values ('487', 'DeXti', '6hAsy', '6', 'admin')
-insert into client values ('488', 'zrciUp', 'XMCEaX', '3', 'owner')
-insert into client values ('489', 'kXNvxP', 'IyRCJgq', '10', 'agent')
-insert into client values ('490', 'TEyWMIx', 'DdNc7WBg', '3', 'GM')
-insert into client values ('491', 'zquDNvW', '27H75I', '8', 'agent')
-insert into client values ('492', 'k5hQkhQ2H', '7CSFe', '8', 'player')
-insert into client values ('493', 'e7jfCuHh', 'foOTGfGO', '4', 'owner')
-insert into client values ('494', 'mSpYtu', 'tvYsGfXa', '8', 'admin')
-insert into client values ('495', 'pO6psS', 'zT5C37X', '3', 'director')
-insert into client values ('496', 'uyUyx', 'Yk7vum7', '3', 'owner')
-insert into client values ('497', 'ls7yCt0', 'jl2kM', '5', 'admin')
-insert into client values ('498', 'isEDDd', 'zofK7', '1', 'agent')
-insert into client values ('499', '2YWcJpM', 'jSB5t3MC', '10', 'owner')
-insert into client values ('500', 't9H8kdy1I', 'oGhgAhDae', '5', 'player')
-insert into client values ('501', 'Ky7cLy', 'zZKIQPnL', '10', 'admin')
-insert into client values ('502', 'bb2Fs', 'QPkcXVdk', '8', 'general_user')
-insert into client values ('503', 'zAktGr3G', 'MIBTU5', '7', 'player')
-insert into client values ('504', 'WFXk6Jj', 'qWDc9', '3', 'director')
-insert into client values ('505', 'y1CZNR', 'Kh3yzzq3', '3', 'owner')
-insert into client values ('506', 'g9b8Ks', 'R1wtDCeMd', '6', 'player')
-insert into client values ('507', 'FlhYS6Q', 'olXaTe', '4', 'player')
-insert into client values ('508', 'Ipq2lGnxl', 'Cf6yAhrk', '2', 'player')
-insert into client values ('509', 'enzgN', 'TPaXQCQL', '3', 'owner')
-insert into client values ('510', 'nFigw', 'S29d2Ek', '5', 'GM')
-insert into client values ('511', 'rifMsnQ8M', '1wWNncM', '1', 'director')
-insert into client values ('512', 'nFfYddkQ', 'R7OpY', '6', 'agent')
-insert into client values ('513', '9IXhCjpvj', '1PL5jL', '1', 'agent')
-insert into client values ('514', 'hgKGxMS', '6Bl3F', '9', 'agent')
-insert into client values ('515', 'gGNwSZ7e6', 'lNJubAi', '7', 'GM')
-insert into client values ('516', '6RKBLe5Vp', '26Ry6', '1', 'owner')
-insert into client values ('517', '32aD4ND', 'vdBNaoMI', '7', 'director')
-insert into client values ('518', 'WCVoSsjGN', '5QENVm', '6', 'general_user')
-insert into client values ('519', 'rYCEsZlL', 'LDfE5BV', '2', 'GM')
-insert into client values ('520', 'duBTUynr', 'mVMLBSUm', '2', 'general_user')
-insert into client values ('521', 'qVQtIdz', 'lBW4vKP', '3', 'player')
-insert into client values ('522', 'UVITifT', 'Mj3rf', '7', 'player')
-insert into client values ('523', '79pnQc3pQ', 'O5qlnqh7g', '4', 'agent')
-insert into client values ('524', 'SCAqjAUt', 'ud1wEuTgt', '8', 'general_user')
-insert into client values ('525', 'MbvNZ8mAc', 'wVTf5qnf', '7', 'owner')
-insert into client values ('526', 'b9y5x', 'VrkOpYnrx', '7', 'director')
-insert into client values ('527', '5gHn7QX', 'JHR5t', '4', 'general_user')
-insert into client values ('528', 'pvjf1YQ0j', 'jUCnmBh', '6', 'general_user')
-insert into client values ('529', 'tPxQ7x', 'gKmuV', '3', 'admin')
-insert into client values ('530', 'xNzyl0G', 'K00rdkyA5', '8', 'general_user')
-insert into client values ('531', '6yWeF', 'TPMVmg1', '10', 'owner')
-insert into client values ('532', 'OsIcywpo', 'DQkrsIa3', '5', 'player')
-insert into client values ('533', 'v8DRbS', 'wIFqXm', '5', 'GM')
-insert into client values ('534', 'VrkyuOB42', 'MqDLXLV', '7', 'player')
-insert into client values ('535', 'vZB2Lb', 'OB5ne', '2', 'agent')
-insert into client values ('536', 'PHGuKy9', 'lfrTsWX', '6', 'general_user')
-insert into client values ('537', 'RYzYYlwBt', '9BZ5fLd', '4', 'owner')
-insert into client values ('538', 'ADwzKL7', 'YY9Hn', '10', 'GM')
-insert into client values ('539', 'wYQnZ9', 'ioybFyrP', '2', 'player')
-insert into client values ('540', '9cLYjQgRR', '2nXnNXl', '10', 'agent')
-insert into client values ('541', '6tSDo', 'w2s2D', '2', 'agent')
-insert into client values ('542', 'rNhjlC', 'gX0Wy', '8', 'admin')
-insert into client values ('543', 'h0gzrLT5p', 'W3JQerDq', '1', 'GM')
-insert into client values ('544', 'ydakMDz', 'MIKCGZ', '9', 'general_user')
-insert into client values ('545', 'Z6e2l', '9w8OEDi7', '8', 'player')
-insert into client values ('546', 'VDAbN', 'SfUDhGqY4', '5', 'general_user')
-insert into client values ('547', 'GtcxSEOYn', 'DQ8CHD', '7', 'general_user')
-insert into client values ('548', '1CLl2', 'ppK10qK6', '9', 'agent')
-insert into client values ('549', 'LszXADXOg', 'sEZSh0xi', '10', 'player')
-insert into client values ('550', 'UQEcwf', 'YWuK8Q', '2', 'owner')
-insert into client values ('551', 'q38bEsX', 'rSRl5Q', '3', 'player')
-insert into client values ('552', 'yzA9l', 'seS7YB31', '6', 'general_user')
-insert into client values ('553', '6bkPocfT6', 's5SEy', '6', 'agent')
-insert into client values ('554', '3cngW8w', 'jUnEs', '4', 'GM')
-insert into client values ('555', 'dDD9oD', 'ztaN5yMKy', '9', 'owner')
-insert into client values ('556', 'UcDjo', 'sFupgGg', '9', 'agent')
-insert into client values ('557', 'ezhrIXSb', 'UmyGIHnge', '10', 'owner')
-insert into client values ('558', 'LyU3f3s', 'gbfnIWVta', '1', 'GM')
-insert into client values ('559', 'DiosUU', 'ueRBoRJQ', '7', 'player')
-insert into client values ('560', 'SDwu0rPM', 'gDCzRr', '6', 'admin')
-insert into client values ('561', 'wTIdJBZI', 'LRsAJA', '1', 'admin')
-insert into client values ('562', 'DjWFR', 'o1ilFm', '5', 'GM')
-insert into client values ('563', 'YaCzcd', 'XivMvA6', '5', 'owner')
-insert into client values ('564', 'bcrec0QsU', 'igCuraCxs', '5', 'GM')
-insert into client values ('565', 'ROcKT', '8bk03S', '9', 'director')
-insert into client values ('566', 'pmheE', 'UPRyHkj', '2', 'agent')
-insert into client values ('567', 'uJweYAcq', 'mvGQcVE1W', '7', 'general_user')
-insert into client values ('568', 'BvZpmJVsR', '68yn3GgDH', '10', 'GM')
-insert into client values ('569', '6Bfrv', 'GXLCEhC', '2', 'agent')
-insert into client values ('570', 'QFn26F', 'RbWSRCu', '5', 'player')
-insert into client values ('571', 'qFKRyo', 'cNFtuOiZG', '7', 'owner')
-insert into client values ('572', 'OHKtq6l', 'eZExh', '1', 'admin')
-insert into client values ('573', 'F4T8MW', 'eoirlMWH', '5', 'general_user')
-insert into client values ('574', '5SEASZa42', 'KDsxvr', '1', 'agent')
-insert into client values ('575', 'e1eNaEOl', 'jTrLTv', '5', 'player')
-insert into client values ('576', 'l5ZneoH', 'nM6FHBXy', '10', 'admin')
-insert into client values ('577', 'FQJ5te', 'jwYZdA', '10', 'player')
-insert into client values ('578', 'yMbLjL', '5kdPt', '5', 'GM')
-insert into client values ('579', 'L4Id27BP', 'oeKgcmDOr', '3', 'admin')
-insert into client values ('580', 'CScbU', '27CDSB4dg', '2', 'player')
-insert into client values ('581', 'moFzVehG', 'Gv685G5Np', '2', 'GM')
-insert into client values ('582', 'mCN7Q3', 'BRy7QlotL', '4', 'admin')
-insert into client values ('583', 'Z795uQ7', '7JwhwtZl', '10', 'general_user')
-insert into client values ('584', 'L9wFC', 'dZ8cK3', '7', 'GM')
-insert into client values ('585', 'b61NY', 'w65N8yMA2', '5', 'owner')
-insert into client values ('586', 'CWcCaoO', 'qr95EBs0', '1', 'player')
-insert into client values ('587', 'AHiDv4K9O', 'uKu07LA', '1', 'agent')
-insert into client values ('588', 'zjYxqu', 'GfmhW', '3', 'general_user')
-insert into client values ('589', 'ce1yzL7TE', '0Sgbj', '6', 'admin')
-insert into client values ('590', 'hZ1Meh', 'OVbYd', '6', 'director')
-insert into client values ('591', 'ode2Q', 'vhR4KRHq1', '5', 'owner')
-insert into client values ('592', '8BHB6AVk', 'HQWMNY4Z', '10', 'agent')
-insert into client values ('593', 'zVnapq0', 'eKRG5qWva', '7', 'owner')
-insert into client values ('594', 'X0AXYVCu', '9wbOGyhY9', '3', 'director')
-insert into client values ('595', 'csGcO', 'wXTyXa', '5', 'director')
-insert into client values ('596', 'y2DBqb', '1eXY2', '1', 'owner')
-insert into client values ('597', 'INZ5MMsV', 'pT643l', '7', 'agent')
-insert into client values ('598', 'M0Rz94B', 'ZymTaXI', '7', 'player')
-insert into client values ('599', '1bMByG', '4f7aPsd', '9', 'player')
-insert into client values ('600', 'jxyVOYR', 'Q09CM41', '1', 'GM')
-insert into client values ('601', 'XGJfYZ', 'xWtDmb9zv', '7', 'player')
-insert into client values ('602', 'WJiMe', 'eyFkTnv', '3', 'player')
-insert into client values ('603', 'l1SkqGwvI', '8SZlKc8ES', '4', 'admin')
-insert into client values ('604', 'ixRHRs', 'sOOTkkeD', '10', 'GM')
-insert into client values ('605', '5K066GX', 'HxZS2Wv0l', '1', 'player')
-insert into client values ('606', 'r1uARiXI8', 'hncgS', '5', 'director')
-insert into client values ('607', '5boCHGN', '1DE44wQfz', '2', 'agent')
-insert into client values ('608', 'Rl4TMXun', 'I3SZmc', '8', 'player')
-insert into client values ('609', 'wPAAzHI', 't2G76k', '5', 'general_user')
-insert into client values ('610', 'qXaGwz7', 'f6s4k7', '9', 'general_user')
-insert into client values ('611', 'RCBICUjG', 'UYg9H', '7', 'player')
-insert into client values ('612', 'vaTlgZI', 'KQoO0JHv', '9', 'player')
-insert into client values ('613', '2qJBBLui', 'vI1P0', '5', 'director')
-insert into client values ('614', 'nxYV22b', 'mH6ajl8', '10', 'general_user')
-insert into client values ('615', 'gaw4F', 'Hrx3Wa', '2', 'GM')
-insert into client values ('616', 'qZezq', 'ikVhUAR4', '10', 'GM')
-insert into client values ('617', 'XD7eLl8BJ', 'QwMO5Wyu', '1', 'owner')
-insert into client values ('618', '21M7LOa37', 'gcKe5', '9', 'agent')
-insert into client values ('619', 'Ofpe7F', 'WjzKjMXgS', '7', 'general_user')
-insert into client values ('620', '1aXed', '1PvynfK', '2', 'general_user')
-insert into client values ('621', 'OoqLJBLS', 'w5dkNldi', '8', 'player')
-insert into client values ('622', 'VSPcnwH8', 'INAYRW', '1', 'general_user')
-insert into client values ('623', 'Ur4HK', '3YYlU', '1', 'agent')
-insert into client values ('624', 'c3YS9Wc', '4VojjH6', '7', 'agent')
-insert into client values ('625', 'pEOJCx', 'pkihhv', '10', 'director')
-insert into client values ('626', 'LgMt9', 'uHcNx31Ji', '8', 'admin')
-insert into client values ('627', 'YFNe9', 'neBmC6L', '9', 'owner')
-insert into client values ('628', 'QuczJ', 'nJ2AoiYM', '9', 'general_user')
-insert into client values ('629', 'hD7cuKmO0', 'XDYyVtTI', '5', 'GM')
-insert into client values ('630', 'VOuQ4', 'BDEHsv9', '1', 'player')
-insert into client values ('631', 'HbZtT', 'AUpGLwDgN', '4', 'owner')
-insert into client values ('632', 'rs0LMJw', '9xNYBy8', '6', 'GM')
-insert into client values ('633', 'VF9lS', 'bt8RJT', '9', 'owner')
-insert into client values ('634', 'iN46B', 'RMVBw', '10', 'director')
-insert into client values ('635', 'rCany', 'Ej6zn', '4', 'general_user')
-insert into client values ('636', 'Bfpfvn', 'vg8dyenV', '4', 'owner')
-insert into client values ('637', '4LFZgP6UC', 'q7GepDN', '10', 'admin')
-insert into client values ('638', 'J11p7R', 'AnQ04P0O', '2', 'admin')
-insert into client values ('639', 'dxSrw0', '288Q03Cbg', '1', 'general_user')
-insert into client values ('640', 'WQWb2', 'K8bVmt', '8', 'agent')
-insert into client values ('641', 'AnMZE0e', 'nP4JXFq', '10', 'director')
-insert into client values ('642', '7evKS', 'wq8Qn', '9', 'general_user')
-insert into client values ('643', '2FQrVLDt', 'SWYr8', '6', 'owner')
-insert into client values ('644', 'r7iN1', 'ROlK3', '8', 'GM')
-insert into client values ('645', '0uk5sO', '1ttLF2irK', '10', 'director')
-insert into client values ('646', 'r0wY0f', 'd0K8cH', '2', 'owner')
-insert into client values ('647', 'LsitqW', 'Rb3FLR3', '9', 'owner')
-insert into client values ('648', '7GUAEIXK', 'dpwhZr', '6', 'GM')
-insert into client values ('649', 'rjuLtGrnm', 'Gmw7h7t', '10', 'agent')
-insert into client values ('650', 'aq2Xtcu', '8tcz9Lcu3', '5', 'agent')
-insert into client values ('651', '1Ol3GAR', 'UY96L', '2', 'agent')
-insert into client values ('652', 'yfBWB2C', 'hJ1fq4XJ', '2', 'director')
-insert into client values ('653', 'EyhCl', 'jhzP6LGKH', '9', 'owner')
-insert into client values ('654', 'P4SWga', 'YIBHoGG', '5', 'admin')
-insert into client values ('655', 'nDIoYUIq2', 'XjlpeZLu', '6', 'general_user')
-insert into client values ('656', '7irrJEpw', 'd1FP8q', '1', 'admin')
-insert into client values ('657', 'xlqiAFj', 'r4O8QhUn', '7', 'agent')
-insert into client values ('658', 'P3YPQcxl', 'uECEMR4mO', '2', 'GM')
-insert into client values ('659', 'JvTVcZrnk', 'olAqo', '7', 'admin')
-insert into client values ('660', 'djRIgcWQ8', 'nq9ST', '10', 'director')
-insert into client values ('661', 'To88M3DF', 'XtV0WOTx', '8', 'general_user')
-insert into client values ('662', 'b6G6ZKzf', '0EK6ul', '2', 'owner')
-insert into client values ('663', '8lhWlPPV', 'i8IAOMP', '6', 'GM')
-insert into client values ('664', 'c3kRfT9iT', 'StRJU941K', '6', 'director')
-insert into client values ('665', 'n0wZcQ', '0KJwpDoHo', '4', 'general_user')
-insert into client values ('666', 'f6Wyy', 'Qr0de', '2', 'owner')
-insert into client values ('667', 'RwO8M', 'MB5yC', '2', 'admin')
-insert into client values ('668', '1bOEvWb7e', 'z5usiGD', '3', 'agent')
-insert into client values ('669', 'zjFZFcS', '2lqz63J', '10', 'agent')
-insert into client values ('670', 't0FmJ', 'hNAQakoX', '2', 'agent')
-insert into client values ('671', 'RV1U1k', 'l0mEH3gC', '6', 'admin')
-insert into client values ('672', 'xLVC6', 'V4tT8f', '6', 'director')
-insert into client values ('673', 'oT3N9Up', 'EFeaRkW', '2', 'director')
-insert into client values ('674', 'WFkrRJbsw', 'Y1eRsYJPD', '3', 'owner')
-insert into client values ('675', 'fMcX5Pw', '2CWjg', '4', 'general_user')
-insert into client values ('676', 'Ay6AUPf', 'at5W7x', '3', 'player')
-insert into client values ('677', 'RSwwVZU', 'fPDeu', '10', 'admin')
-insert into client values ('678', '9WvnC', 'EBAQlo', '1', 'GM')
-insert into client values ('679', 'LYXaa', '1uZFDBjlu', '3', 'GM')
-insert into client values ('680', 'OBT0qZNS', 'xUaYje', '8', 'director')
-insert into client values ('681', 'gyugNEZUA', '4o4Qk', '8', 'owner')
-insert into client values ('682', '3NGDCBY', 'DrPm6vYj', '5', 'general_user')
-insert into client values ('683', 'OhHYlhRF', 'wJHjFgS', '7', 'director')
-insert into client values ('684', '4uP25Sfk9', 'CzcYUeEI', '6', 'admin')
-insert into client values ('685', 'BaYEudV', '9CU8u', '9', 'admin')
-insert into client values ('686', 'KENn6', 'X62l92l', '6', 'owner')
-insert into client values ('687', '8XNjkoNW', 'pqvLtUHi', '10', 'agent')
-insert into client values ('688', 'adnXR8', '0SrMB', '10', 'owner')
-insert into client values ('689', '518VKrT', 'eOjpC', '8', 'GM')
-insert into client values ('690', 'cy5qzQq', '1ITtD', '5', 'director')
-insert into client values ('691', 'bMkKy9YP', 'ahkXgiyo', '2', 'director')
-insert into client values ('692', '9c3dW4RpI', 't7QJF', '1', 'GM')
-insert into client values ('693', 'xQ2VmZ', '4BEF0', '3', 'admin')
-insert into client values ('694', 'eD33X', '9dbaWJfK', '6', 'GM')
-insert into client values ('695', 'mnnefS8fH', 'KcKON', '3', 'admin')
-insert into client values ('696', 'sXQLcQ', 'Uuxw6', '2', 'GM')
-insert into client values ('697', 'A8rnD', 'YJc9rn', '7', 'admin')
-insert into client values ('698', 'WZammFeZ2', 'QKgxCk3md', '3', 'owner')
-insert into client values ('699', '3VaCcY', 'bZGvu', '7', 'owner')
-insert into client values ('700', 'GZmlH', 'roeTGX', '8', 'owner')
-insert into client values ('701', 'cSNBaIWr', 'OnOPvSFeO', '1', 'general_user')
-insert into client values ('702', '4ptEHLV', 'NzkkSp', '7', 'agent')
-insert into client values ('703', '85jBcApk', 'NpPoF', '8', 'owner')
-insert into client values ('704', 'FEpZpntKd', 'LcdfM', '7', 'director')
-insert into client values ('705', 'khJ39', 'fzutVV', '2', 'director')
-insert into client values ('706', '3sIrYy', 'TQIEI6', '9', 'director')
-insert into client values ('707', '5M9g6U', 'hgSNRNXR', '8', 'admin')
-insert into client values ('708', 'ruOU93Ps', 'zEnny', '2', 'general_user')
-insert into client values ('709', 'KsRbOmDm', 'usvrY8QA', '6', 'owner')
-insert into client values ('710', 'JV5glaQ', 'lICZ0', '4', 'player')
-insert into client values ('711', 'KjhFNlW', 'AUYXUt', '2', 'director')
-insert into client values ('712', 'tljqbm7c', 'x5YBq', '9', 'general_user')
-insert into client values ('713', 'rfCuS', 'OoJSzXv', '6', 'owner')
-insert into client values ('714', '831zlTg', 'bCuaJxs', '6', 'GM')
-insert into client values ('715', 'pAr0p0n', 'S6N2P', '1', 'general_user')
-insert into client values ('716', 'z4M5H', 'tAPLuX', '4', 'director')
-insert into client values ('717', 'SWHpb', 'NOzGAxi', '9', 'admin')
-insert into client values ('718', 'GdD9C', '9XN7N7i', '6', 'GM')
-insert into client values ('719', '2crkcA04', 'EFl84j9', '9', 'GM')
-insert into client values ('720', 'FQkyN7', 'MQ2BE', '3', 'general_user')
-insert into client values ('721', 'ejLnLp', 'nXy0dM', '9', 'general_user')
-insert into client values ('722', 'X5WbAv1jE', 'Mz85vmTOF', '4', 'agent')
-insert into client values ('723', 'QRjky88', 'fukPABw', '7', 'owner')
-insert into client values ('724', 'GEfkeu', 'LQxohy', '9', 'admin')
-insert into client values ('725', 'b6t8ndu', 'AnKs8sr', '4', 'GM')
-insert into client values ('726', 'bYetPh25', 'W9T2hM2', '3', 'general_user')
-insert into client values ('727', 'kdgCa', '7g3I53lt', '7', 'admin')
-insert into client values ('728', 'gOwVQZ6vm', 'jxz2B', '3', 'owner')
-insert into client values ('729', '4wMRa06o', 'Cl09U7g5', '3', 'owner')
-insert into client values ('730', 'ujtFi', 't0WvoiC', '2', 'director')
-insert into client values ('731', '1dBEw6', 'Ajd9M8', '5', 'player')
-insert into client values ('732', 'eAWldz', 'SU51Sw1', '10', 'owner')
-insert into client values ('733', 'F9nOv', '3MZNn', '8', 'GM')
-insert into client values ('734', 'lkvnr', 'pBoIFKDVS', '4', 'player')
-insert into client values ('735', 'tnPEqnKi', 'o15vtBmn', '10', 'general_user')
-insert into client values ('736', 'EVqp6KQ', 'MLNGjAEz', '2', 'admin')
-insert into client values ('737', '8qNakZ0dr', 'njRzC6Xcf', '10', 'director')
-insert into client values ('738', 'tCk2sk', 'ZN848', '5', 'admin')
-insert into client values ('739', 'iIXwrm7T', 'cZzNj', '7', 'general_user')
-insert into client values ('740', 'HBGep8', '3GWhke', '1', 'admin')
-insert into client values ('741', 'wKuM8', 'BDDCQ0', '7', 'general_user')
-insert into client values ('742', 'FIC1xpCM', 'igrA2IWqL', '3', 'owner')
-insert into client values ('743', 'PNEXJ', 'fDInNG7', '8', 'agent')
-insert into client values ('744', 'dZNf8LF9', 'SvXRkZ', '4', 'admin')
-insert into client values ('745', 'ADZQtN', 'MWksE', '1', 'general_user')
-insert into client values ('746', 'YAfqu', '93bBU', '10', 'director')
-insert into client values ('747', 'Tfb6P6s', '4at2a', '5', 'owner')
-insert into client values ('748', 'tQtZZ', 'Z8o9g84', '8', 'owner')
-insert into client values ('749', 'VG7WYihi', 'q58AE', '5', 'admin')
-insert into client values ('750', 'CjtjsE7O', 'C9yFL', '1', 'player')
-insert into client values ('751', 'cbZV6C', 'dI0aeo', '4', 'admin')
-insert into client values ('752', 'NcGN6Pqx', '53Bfp', '1', 'owner')
-insert into client values ('753', '8RwpJlhPv', 'sYAwTEbe', '5', 'director')
-insert into client values ('754', 'arxCF68W', '9pr4S', '10', 'general_user')
-insert into client values ('755', '42b3r', 'bnpWlXT2', '2', 'player')
-insert into client values ('756', 'RtCQQ7', 'hdCbjBBx', '2', 'agent')
-insert into client values ('757', 'MGas3fF', 'km6DgIDi', '5', 'GM')
-insert into client values ('758', 'vw3taYJ', 'iSZl8KHv', '7', 'player')
-insert into client values ('759', '9uweiIp9', 'TJYRsre', '8', 'director')
-insert into client values ('760', 'Dp3KWV', 'RMAEF0kj', '10', 'agent')
-insert into client values ('761', 'PEohf2lF', 'zvfAZzg5', '4', 'director')
-insert into client values ('762', 'ar3J2', 'rbULBf6', '4', 'director')
-insert into client values ('763', 'sQymKD6', 'zOj5qImf', '1', 'GM')
-insert into client values ('764', '78eAqy4', 'CabJ4', '1', 'GM')
-insert into client values ('765', 'bkI2TqrB', 'Ku5Dvf', '10', 'agent')
-insert into client values ('766', 'rz5f0JoKf', 'IK8dxYC', '3', 'agent')
-insert into client values ('767', 'iIhEvi61', 'ywzwj5g4q', '4', 'director')
-insert into client values ('768', 'fxTC1Qk', 'TAehAtJ', '9', 'general_user')
-insert into client values ('769', 'sC9IJkMYx', 'IKPmK', '1', 'GM')
-insert into client values ('770', 'HvgnYVZWI', '8zNSOp', '6', 'admin')
-insert into client values ('771', 'SoL9d', 'I0KruP', '2', 'player')
-insert into client values ('772', 'Jpljpgnv', 'VSs7WU4J', '5', 'GM')
-insert into client values ('773', 'TjpxEL', 'nhoHay', '1', 'agent')
-insert into client values ('774', 'aYe2ER', 'AIRgTzOGg', '3', 'GM')
-insert into client values ('775', 'rJENwxLDF', 'vBeEZ6N2', '5', 'agent')
-insert into client values ('776', 'DfZPZ', 'jTHGjY', '6', 'admin')
-insert into client values ('777', '2TL2xlk', 'bB4jGBpf3', '6', 'director')
-insert into client values ('778', '59IRC', 'YxIBmk', '1', 'agent')
-insert into client values ('779', 'FduJy', 'LJBLn', '8', 'owner')
-insert into client values ('780', 'GdijvQOj', 'o1wKjp', '9', 'owner')
-insert into client values ('781', 'HuqYe', '3lnomBNN', '2', 'GM')
-insert into client values ('782', 'QHwQh2LH9', 'SLBPh', '10', 'GM')
-insert into client values ('783', 'mJX7D', 'hbzMlg', '2', 'player')
-insert into client values ('784', 'YtESVbq', 'JxH48S', '7', 'agent')
-insert into client values ('785', 'ow9n1', 'D4DlI4PO', '8', 'general_user')
-insert into client values ('786', '4wQ12nr', 'iBoDL', '3', 'GM')
-insert into client values ('787', 'vGCbPN', 'Il2fOCGH', '2', 'owner')
-insert into client values ('788', 'S5je8', 'mW6D6im1', '1', 'owner')
-insert into client values ('789', 'LYYaGN', '5DZCn5', '7', 'director')
-insert into client values ('790', 'HF89WAlM', 'RHp3iota', '5', 'admin')
-insert into client values ('791', '0cwmA', '7fMmDSu', '4', 'agent')
-insert into client values ('792', 'nKjTJMQjf', '5zbSuE', '6', 'admin')
-insert into client values ('793', 'g7Yy6p', 'vZbGWt', '7', 'owner')
-insert into client values ('794', 'WLfONAm', 'l5zybr3', '1', 'GM')
-insert into client values ('795', 'dd0dz2qKh', 'DA30srd', '5', 'director')
-insert into client values ('796', 'MM8wFZ5Up', 'BucvP', '6', 'director')
-insert into client values ('797', 'id5gn', 'gAkz2OO', '2', 'owner')
-insert into client values ('798', 'jRAqnj', 'DZJ5h3D0', '6', 'agent')
-insert into client values ('799', 'gBc9Jc', 'Ukeh2Kd', '7', 'admin')
-insert into client values ('800', 'IK1QZp', 'd255DL', '8', 'general_user')
-insert into client values ('801', 'deV1zA0g', '8bHLgVX', '6', 'GM')
-insert into client values ('802', 'YRnYwUwI', 'clrXQShYT', '8', 'director')
-insert into client values ('803', '03i8arLhm', 'O358wQKDW', '8', 'general_user')
-insert into client values ('804', 'QfciI6R', 'QLBsywsah', '3', 'director')
-insert into client values ('805', '6oZhcy', 'CvNjDSj', '5', 'owner')
-insert into client values ('806', 'bYcrlwOz', 'EEtobz65', '2', 'player')
-insert into client values ('807', 'NJ66s', 'ZswMePyxQ', '1', 'owner')
-insert into client values ('808', 'NphFow1c', 'nmy8L', '1', 'admin')
-insert into client values ('809', '21ARtmm', 'ierm1G', '6', 'player')
-insert into client values ('810', 't3EPuVTEG', 'Fe1PDVK', '6', 'GM')
-insert into client values ('811', 'je2qElX8', '0kZUrcLk', '8', 'agent')
-insert into client values ('812', 'm6DDq138', '6JMKQWEo', '8', 'owner')
-insert into client values ('813', 'dQ7Q0t', 'xiq3biswb', '7', 'agent')
-insert into client values ('814', 'ZvgfnMLuL', '2CqtS0Tm', '7', 'general_user')
-insert into client values ('815', 'boLKWPXR', 'QkobOm9j', '3', 'player')
-insert into client values ('816', 'SD9fDI0RR', 'nbOh2O', '4', 'player')
-insert into client values ('817', 'ySVi1A5m', 'pwNak0V', '1', 'owner')
-insert into client values ('818', 'NDiRz6H7f', 'o5afqyK0', '2', 'agent')
-insert into client values ('819', 'eMLCwCEY', 'PhU1NyTLY', '2', 'player')
-insert into client values ('820', 'MsHr8', 'IDVHCF4K', '3', 'agent')
-insert into client values ('821', 'pGdifzU9B', 'AsCKpOUc', '10', 'player')
-insert into client values ('822', '44b9GX7MF', 'qkIeEl', '9', 'general_user')
-insert into client values ('823', '4dAZJEBd', '1gvLWD', '8', 'GM')
-insert into client values ('824', '9H8vC', 'G62zIl', '1', 'owner')
-insert into client values ('825', 'OMxJSLtIx', 'JUjMBOGm4', '5', 'director')
-insert into client values ('826', '9mDTK0i', '24whwO', '9', 'general_user')
-insert into client values ('827', 'MZDsTs5', 'Sejjwt7', '1', 'owner')
-insert into client values ('828', 'aYCcAo', '0yV2qW', '3', 'agent')
-insert into client values ('829', 'YY5TAY', 'Cl4TkkKy', '5', 'owner')
-insert into client values ('830', 'U6AyHFtHR', 'fJL4B72', '8', 'GM')
-insert into client values ('831', 'RKmddD', 'M5EI6VcNQ', '7', 'owner')
-insert into client values ('832', 'GNomNz', 'HsxWl', '2', 'GM')
-insert into client values ('833', 'lrVveeHgP', '4bWT3', '5', 'general_user')
-insert into client values ('834', 'SD8KDbO', 'joZLLj', '10', 'owner')
-insert into client values ('835', 'vge8Cpk4Q', 'JLvu7L', '3', 'player')
-insert into client values ('836', 'O3vGUi', '8wWyAIbHL', '9', 'admin')
-insert into client values ('837', 'hOQ2KXaOF', 'nRP75', '5', 'director')
-insert into client values ('838', 'l8A5YeMmk', '9CTXz', '10', 'admin')
-insert into client values ('839', '2e6IGqJ', 'r9xV4XO', '6', 'GM')
-insert into client values ('840', '3LAn2Bc', 't5konT', '4', 'general_user')
-insert into client values ('841', 'EcllmVW', 'b45Wy5', '1', 'player')
-insert into client values ('842', 'quLbgca', 'lkR6L8D', '2', 'director')
-insert into client values ('843', 'lKWQ2aN0', 'lXrc36K', '9', 'general_user')
-insert into client values ('844', 'WxccTfTF', '31sANuncQ', '6', 'agent')
-insert into client values ('845', '63hAyWG8s', 'GzgeJut', '7', 'agent')
-insert into client values ('846', 'OlwTb01', 'sxlKlkQ', '2', 'player')
-insert into client values ('847', 'oCKpzqb0', 'dhhsHAdTw', '1', 'general_user')
-insert into client values ('848', '3uhRa4JV', 'nMi6c', '8', 'GM')
-insert into client values ('849', 'qS2QI7w', 'jhGKuVb6', '4', 'GM')
-insert into client values ('850', '7Wqh2', 'jQJ9U', '1', 'GM')
-insert into client values ('851', '8in7mS', 'NPYsx', '5', 'player')
-insert into client values ('852', 'laHm5', 'jaqsH', '3', 'director')
-insert into client values ('853', 'vZpVj', 'Z3DUum', '9', 'director')
-insert into client values ('854', 'fqj5BKQ', 'oKH9O', '9', 'agent')
-insert into client values ('855', 'CMW3ti', '0Ivj7', '8', 'general_user')
-insert into client values ('856', '15eMTv8k', 'Rv55pwIKT', '2', 'owner')
-insert into client values ('857', 'zSL4M2e', 'TWQMWFma', '2', 'owner')
-insert into client values ('858', '5J5jN', 'sU1Au3yp', '2', 'player')
-insert into client values ('859', 'KIZ2hugYi', 'xIPRwX', '5', 'owner')
-insert into client values ('860', 'UxTtPML', 'ZLEooMv', '4', 'GM')
-insert into client values ('861', 'yNrFr4bMp', '9Lzip', '3', 'owner')
-insert into client values ('862', 'HYwnze', 'KntI4', '8', 'director')
-insert into client values ('863', 'NAaG5V', '6bkOHY', '5', 'director')
-insert into client values ('864', 'PHk0PBax', 'LjGCRe5', '1', 'admin')
-insert into client values ('865', 'We3CVTHs', '5To7L', '8', 'admin')
-insert into client values ('866', 'EsrMp', 'JFyYK6U', '6', 'GM')
-insert into client values ('867', 'xUT3CUY', 'J4vEuMY', '10', 'admin')
-insert into client values ('868', 'lyRx7E', 'G2Pa3hAz', '6', 'agent')
-insert into client values ('869', 'IzEQKS1i', 'jACtuWt', '7', 'agent')
-insert into client values ('870', 'Twuja', 'UXKMZ', '7', 'director')
-insert into client values ('871', 'O5wZA', 'fp4Of5D7', '9', 'GM')
-insert into client values ('872', 'IBbL3', 'GamSHe', '6', 'agent')
-insert into client values ('873', 'eFKfl31', 'oaBXlDZB', '2', 'owner')
-insert into client values ('874', 'uCdJkW', 'vtc5EtjAf', '8', 'owner')
-insert into client values ('875', 'LNwAWML9', 'Dx2BlW', '1', 'agent')
-insert into client values ('876', 'MGIq1', 'chL2YT', '2', 'GM')
-insert into client values ('877', 'rHGuIPbN', 'jrQDB5a0', '2', 'admin')
-insert into client values ('878', 'PqZQxvy', '0VDA9Usi', '4', 'admin')
-insert into client values ('879', 'WJYTK', 'YIigx', '4', 'owner')
-insert into client values ('880', 'yLzeR', 'aEXDq', '6', 'GM')
-insert into client values ('881', 'n7QsZx5', 'sMogiU', '10', 'agent')
-insert into client values ('882', '091PAQ', 'dE9iw', '1', 'owner')
-insert into client values ('883', '74tOkUa', 'umextNco', '7', 'GM')
-insert into client values ('884', '9jRw4D', 'bZ67tWF', '9', 'admin')
-insert into client values ('885', 'hF5PZNyR', 'EAQ7TQg', '2', 'GM')
-insert into client values ('886', '98S9P', 'B64qFWvq', '8', 'admin')
-insert into client values ('887', 'F7xETS', 'lX9umPV', '6', 'admin')
-insert into client values ('888', 'WHm0xV', 'dA1qo0lf', '3', 'owner')
-insert into client values ('889', 'Nty6obcxT', 'DNMkCSS', '10', 'GM')
-insert into client values ('890', 'xXOlC', 'hVghl', '4', 'admin')
-insert into client values ('891', 'KBvpxd2WR', 'PB0ga2', '8', 'GM')
-insert into client values ('892', 'HwMdWR', 'L26uUo', '8', 'general_user')
-insert into client values ('893', 'wo0Innm', 'zXCJp', '1', 'player')
-insert into client values ('894', 'rMPE3S', 'dpFaXzCS', '2', 'owner')
-insert into client values ('895', 'Z2VNsgwf', '32N9b', '4', 'director')
-insert into client values ('896', 'Wt5FviUU', '84Y7e', '4', 'owner')
-insert into client values ('897', 'CUjJQ', 'HcVmOOaWA', '9', 'GM')
-insert into client values ('898', '1QQjScnU', 'JGiBtWzE', '3', 'admin')
-insert into client values ('899', '7KGnMy', 'h2di36', '10', 'general_user')
-insert into client values ('900', 'LLxyupw', 'xSeAsOf', '3', 'agent')
-insert into client values ('901', 'qX4ACL1', '7wtMJ', '6', 'admin')
-insert into client values ('902', 'Hro25m', 'cLunSo', '3', 'director')
-insert into client values ('903', 'QYXvyqkG', 'gRKUf0l', '7', 'player')
-insert into client values ('904', 'clRFdzo', 'hky0wR7', '1', 'general_user')
-insert into client values ('905', '5OrhqK', 'eJdCci', '3', 'general_user')
-insert into client values ('906', 'uXSj9JJVX', '8gS1YLT', '5', 'general_user')
-insert into client values ('907', 'tp12fy', 'yEW79A7Hg', '2', 'admin')
-insert into client values ('908', 'Z74N6R', 'Su2jKt', '1', 'owner')
-insert into client values ('909', 'wQbfKyyz', 'lYJAYmD', '6', 'director')
-insert into client values ('910', 'CfT1EAPb', 'QuLO8', '1', 'agent')
-insert into client values ('911', 'UAa2X', 'LsZSFIHU', '4', 'GM')
-insert into client values ('912', 'MoCbfQsm6', 'U9Bhf5v', '6', 'GM')
-insert into client values ('913', 'bOFbgWBmH', '0BAGj6', '8', 'agent')
-insert into client values ('914', '7hAB38', 'kcIuVD', '6', 'general_user')
-insert into client values ('915', 'akzLyX', 'E8uTd5', '2', 'general_user')
-insert into client values ('916', 'nUDJcgEF', 'NHgWIe', '6', 'director')
-insert into client values ('917', 'DVA4ON', 'NfSGfsI', '5', 'GM')
-insert into client values ('918', 'V11Fc4', 'c4TtDG9', '10', 'GM')
-insert into client values ('919', 'dhaQEDXW', 'qI6RKTGso', '1', 'admin')
-insert into client values ('920', 'odKuXh7f', 'yQNIuM', '4', 'general_user')
-insert into client values ('921', 'BGT6xaTR', 'o91GrsrTc', '2', 'director')
-insert into client values ('922', 'MVqq2', 'SDhKkPQ2', '7', 'admin')
-insert into client values ('923', 'eSyKG', 'PlqRN4M', '10', 'director')
-insert into client values ('924', 'umONRxfB', 'Jsw0q', '3', 'GM')
-insert into client values ('925', 'faNAHX', '6oEJBvZdV', '2', 'admin')
-insert into client values ('926', '5MlntC1D', 'qNNlRKw0', '8', 'general_user')
-insert into client values ('927', 'blrYwjcDY', 'pkCgxYfdN', '3', 'director')
-insert into client values ('928', '7GQUL', 'zHw9P', '6', 'admin')
-insert into client values ('929', '3OoBr2Y', 'CfOjD', '5', 'director')
-insert into client values ('930', 'i8KdftFGo', 'FfkAD02', '2', 'director')
-insert into client values ('931', 'TFesbdx', 'rlRYjFbn', '6', 'owner')
-insert into client values ('932', '9moQbIMN', 'uYBhmN70W', '7', 'GM')
-insert into client values ('933', 'sHD2q2', 'qcnRFG', '2', 'admin')
-insert into client values ('934', 'SMvQzpk', 'LcrPpQ', '8', 'admin')
-insert into client values ('935', '0ulgSFL', '7ngjPipA', '3', 'director')
-insert into client values ('936', 'dtUFV', 'QnYFHZB9J', '2', 'agent')
-insert into client values ('937', '0UF2zDnAF', 'pV0hFpKjD', '4', 'GM')
-insert into client values ('938', 'i6SVs', 'lgCC8', '6', 'player')
-insert into client values ('939', 'ugjc55kk', '8siYL', '3', 'admin')
-insert into client values ('940', 'oIjorN', '5dkQoW', '3', 'admin')
-insert into client values ('941', 'gXMvsmO', 'RNFSry', '6', 'owner')
-insert into client values ('942', 'sbJCwq', 'eGk5h', '5', 'owner')
-insert into client values ('943', 'NmDuDOH', 'MATSl', '1', 'GM')
-insert into client values ('944', 'ldc9wsB', 'lQzk1pl', '2', 'player')
-insert into client values ('945', 'f73k7qF', '29sX7liNY', '1', 'player')
-insert into client values ('946', 'bSxvSi', 'UalxW3', '10', 'owner')
-insert into client values ('947', '1ehB17', 'raNTTD', '4', 'player')
-insert into client values ('948', 'UBio4Ho', '1cMAwJh', '5', 'director')
-insert into client values ('949', 'YaMRzEUbj', 'SesMDtX', '6', 'admin')
-insert into client values ('950', 'flg8EslIM', 'sh2dDFs', '2', 'admin')
-insert into client values ('951', 'JLwNx', 'xFwi20t', '9', 'player')
-insert into client values ('952', 'kNwTkanG', '8sDPEP9', '2', 'agent')
-insert into client values ('953', 'fE6TRFcV4', 'KNC7So', '3', 'owner')
-insert into client values ('954', 'PdUI8', 'jHyvHEfF', '6', 'agent')
-insert into client values ('955', 'Kfydimh', 'hXpCg4E', '9', 'owner')
-insert into client values ('956', 'JC3o7JOa', 'k9RKXVsAg', '9', 'admin')
-insert into client values ('957', 'QpHmqJ5', 'lpB2uovCn', '8', 'admin')
-insert into client values ('958', '401j4vYFg', '8AAXF', '8', 'agent')
-insert into client values ('959', 'JBRB4EB', '4mM6L', '4', 'director')
-insert into client values ('960', 'gPorNS0', 'OZV49', '9', 'owner')
-insert into client values ('961', 'FQ9Q2aDso', 'nF1ijU', '1', 'agent')
-insert into client values ('962', 'g5CFldx', '8KYh05pe0', '2', 'general_user')
-insert into client values ('963', 'QZCwbl', 'DgCCm', '1', 'general_user')
-insert into client values ('964', 'utpiiZ', 'C6biwwA3', '8', 'admin')
-insert into client values ('965', 'QlO4FZebB', 'YzSdV2yWk', '10', 'director')
-insert into client values ('966', 'IuIxJk', '0PNMQ', '6', 'owner')
-insert into client values ('967', 'RTj4c', 'GzRLUvlV', '6', 'agent')
-insert into client values ('968', 'M2L9Y', 'kPfWF8L1O', '8', 'director')
-insert into client values ('969', '1yPKSq', 'Zo2pS', '7', 'agent')
-insert into client values ('970', 'xIwzw5u5T', 'TQqjGYRL9', '10', 'player')
-insert into client values ('971', '7py6feo', 'si9ky', '8', 'player')
-insert into client values ('972', 'biNNSw', 'TjLZZxBIh', '3', 'agent')
-insert into client values ('973', 'YrMGQ', 'nwVV8e4vM', '9', 'admin')
-insert into client values ('974', '7gWOulZ5J', 'SEzpckjb0', '3', 'general_user')
-insert into client values ('975', 'kIsPLXVqW', 'WpGlp', '9', 'player')
-insert into client values ('976', 'yZErxVH', 'W9VcrWW', '9', 'director')
-insert into client values ('977', 'qRzkih', 'BrdERafZ', '1', 'agent')
-insert into client values ('978', 'eudxdKMCI', 'iPHkBSlrJ', '6', 'player')
-insert into client values ('979', '2AClc7VCX', 'nEXmocW5', '4', 'owner')
-insert into client values ('980', 'p94rt8Yov', '0lTEbgA5V', '6', 'player')
-insert into client values ('981', 'YGJmo7D', 'fqcUgmI', '1', 'director')
-insert into client values ('982', 'S2rX4e', 'unlZ5fM32', '7', 'GM')
-insert into client values ('983', 'nDSgb3pL', '59Zt5HV', '3', 'GM')
-insert into client values ('984', 'UaT5FfA0s', 'sGbh1q4B', '8', 'general_user')
-insert into client values ('985', 'iv7Flm4KU', 'gvLILO', '4', 'GM')
-insert into client values ('986', 'iQGnLOPt', 'FaoiW', '2', 'admin')
-insert into client values ('987', 'txSamy', 'XnmB48X', '8', 'general_user')
-insert into client values ('988', 'DiKRuY', 'YnIelE', '7', 'director')
-insert into client values ('989', 'No9gIzju', 'anBs1IOjC', '6', 'agent')
-insert into client values ('990', 'BG6eV', '6mbHvp', '5', 'admin')
-insert into client values ('991', 'JdmfWiL2U', 'FmwCZXd', '1', 'owner')
-insert into client values ('992', 'bwSZRW6i0', 'VE70Hdm3', '1', 'player')
-insert into client values ('993', 'vf4FRz0Px', 'RRWmCMRnv', '1', 'GM')
-insert into client values ('994', 'CRYKa', '7v50DMJG', '2', 'director')
-insert into client values ('995', 'OPVOb', 'UE2ZlNDT', '9', 'admin')
-insert into client values ('996', '4QdfXtFRI', 'LrwaS', '8', 'general_user')
-insert into client values ('997', 'ypNNRb2xD', 'zOYrvYNi', '5', 'admin')
-insert into client values ('998', 'AClbLaN2d', 'WEyg9j2tM', '4', 'admin')
-insert into client values ('999', 'oga9R62', '2oIGzP', '8', 'owner')
-insert into client values ('1000', '4TEQe', 'zLzgEbXG', '6', 'GM')
-insert into client values ('1001', 'admin', 'admin', '2', 'admin')
-insert into client values ('1002', 'player', 'player', '9', 'player')
-insert into client values ('1003', 'director', 'director', '7', 'director')
-insert into client values ('1004', 'owner', 'owner', '1', 'owner')
-insert into client values ('1005', 'agent', 'agent', '6', 'agent')
-insert into client values ('1006', 'general_user', 'general_user', '5', 'general_user')
-insert into client values ('1007', 'GM', 'GM', '6', 'GM')
+insert into client (client_name, client_password, team_id, client_type) values ('YQkHqK8Cf', 'rOBbE3', 3, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('GqHgtEp', 'ncdN0v79', 3, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('NXluTJ', 'F0h6UcT', 7, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('4bOcjc5OI', 'xMfUa', 3, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('eMIdHlpR', 'Ad9g4YT', 10, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('XFJEa9', 'ZvvM4LpP', 10, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('aTmRB', 'B0oFvm', 9, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('dSr53', '84tWGCN', 10, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('GwNY3wlo', 'vwnEwLIV', 1, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('E6ioXQzw', 'Rq5t6B', 3, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('tWTRQL', 'WKv73DGO', 8, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('34FgUKPP', 'HwkicD', 6, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('GUYwS', 'MaB5N', 10, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('Bv6iZ', 'ZvwyQkVN', 9, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('cM76g', 'XcLEw0FR', 3, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('htvsvl', 'FzC8M', 10, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('jkef43g', 'nMOE11Pj', 6, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('FoXKZjR', 'ArdMhb', 1, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('VfODOvY', 'DulWHnm2Y', 5, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('vbN7IdCsX', 'mzlJr4', 4, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('eXfSiZmb', 'SJR14n', 4, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('S8ueRZpO', '2jygmOq', 6, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('2u3lLzt', 'Z6wl4', 2, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('EtszWeGIN', 'KLjKVxtL', 7, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('ZNAEi', 'xp0AxId', 1, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('GUQmq', '3snh3JnV', 6, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('y4mYP', 'k8tjufRAT', 7, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('U8GfB', 'OTDB9', 5, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('N69mFstv3', 'x7ad9', 6, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('8hjQc1sJ', 'hNSiU', 4, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('VaDAp', 'EVXCFte0', 5, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('DSHKtBl', 'enWhUgG', 1, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('tRxinV0', 'fbJQJ9DL', 10, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('bOnYw0uu', 'W2NsPay', 4, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('c3JSYPJ', '25PBUh', 5, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('X5u7aG', 'm8uPCPLc', 8, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('sjXHpWdd', 'gk6LI5KjI', 3, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('StGslY8', 'fKwXs', 8, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('SkDVz', 'M4sK6zA', 10, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('AjMHK2s', 'wBERZL70d', 2, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('1vXx5', 'VZ30d2Sf', 6, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('yCBASGD', 'mT3I6KIL', 4, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('uDwWH', '8ubNXlwjj', 9, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('EF4yG0HTY', 'iCkl3', 9, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('jqP0rd7l', '4t21fdL', 4, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('urp3a50', 'P368YZm', 1, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('Qn7i3D1M', 'V79r9e', 5, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('IkRopSR', 'YbjAD', 3, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('vEmisAXt', 'yb64SSTbb', 1, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('Fvg3Ht0QT', 'MvOxwu', 7, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('WgA0nxpNY', 'vz8Vd', 7, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('unwuyIr', 'GzFxUG', 9, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('W2imOxE', 'sEXic63', 3, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('prky9w', 'mbL1jfl', 7, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('ReIbI8', '25jShHa', 7, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('N9m0O9', 'PwrTX93x', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('7wwKDBVG', 'H4WDNiQB', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('PIRBonN', 'tP8tAB4', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('emaCajI4', 'huSfF', 5, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('1RPrbP6U0', 'ebPFodt5', 5, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('s4qLAT7', 'DeTWpf8', 3, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('zh1lLVYL', 'Tgi59hLG', 5, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('RQ1disj', 'l9hIMMesz', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('Mpve0', 'PQa2V4D', 8, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('HdV8Q', 'X5SzBh', 7, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('FKwfwshT', 's2Br2r', 3, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('MvealJ8', 'rbUBPrsf', 6, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('DSqeOykm', 'TzuLgMC4', 5, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('tZlGYAQ3', '9I1ALht', 6, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('5DSIKwkA', 'q4PhdtPF', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('OP15hQ', 'i4Vn9', 5, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('q91WmdG', 'msdCs', 6, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('RCDagMeuP', 'NBBh6npIR', 4, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('DHZv5', 'fNyCu3pZl', 4, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('BVOAzDv', 'Tx7Ej6A4', 10, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('UpqBXdL7F', 'aeVgv9VL', 9, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('xHVsGYQ', 'pTaMcj', 6, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('OFED2rr', 'DRmXCI', 6, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('oW6si', '0lPnGdQv6', 7, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('tZrGaV4q3', 'v0hhbI', 1, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('0BR6KRRE', 'tK2hTw', 2, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('M7LnKtyhX', 'k37gH', 6, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('PNdCwST', 'YuZ1rcIYR', 7, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('tdh4C', 'UohjUGHuq', 7, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('ulSsr', 'sF8JD0ESx', 9, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('wX6b6nPj', 'XiqcGHa', 6, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('1096p6R', 'CIrVDzW', 10, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('Ov2eIP4SB', 'HTx9J6Cfb', 2, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('LwCNMu7nJ', '4gcT4Qit', 2, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('0PsDNB', 'Lm4OW', 6, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('dYv7xYzTi', 'yw0LDtEiK', 5, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('s0lPvi', 'FarY8zl', 6, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('jFBIXD', 'xdQ9g', 2, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('FIKOh', '4iWYwXvOF', 4, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('wWws8cm5X', 'QvA3aw', 10, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('T4zOSAqoy', '9fdbJ8YW', 7, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('mLzF9dk', 'qnEnb', 3, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('vDRa2ayE', '3ZASbX7s5', 2, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('TY9EptxX4', 'XCrhNs', 6, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('9XehhewtV', 'WHwbIQ', 6, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('OBmfDp', 'EktE8dN', 2, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('BzzxvD5', 'qM4vSK', 5, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('J7TkR', 'naVMmQ', 3, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('m7oro6a', '8oEU9Yn', 2, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('NaItr', 'B7F4Z', 5, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('SNHLk', 'Aw0R3', 4, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('irKmdAVXe', 'DW34Awaz', 3, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('JwRtPYty', 'vpnnSUSe', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('ojqT7w', 'Tu6Yb98c', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('31mybUVV', '2LadOKN', 6, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('xrnKW', 'gQmst', 9, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('wDVyeS', 'oRxArGVmK', 8, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('VHor2y', 'fFfVyDsfO', 8, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('AwECSUI5Z', 'VifxGoQ1Q', 9, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('LFIl0Qsvv', 'bylhm4k', 7, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('8WT5XoEyH', 'qyjKj0kSe', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('Ij2Hp9w', '0Eazk02d', 4, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('CJUya8xnb', 'pYIQgah', 10, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('RdjNT', 'UO0jT0vH3', 7, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('QVhzG', 'cC2vY', 9, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('6z9nB', 'jBb9gdA', 4, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('Vjw24', 'j1V2p4', 6, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('s12v1', 'hoz9b', 8, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('pMFFkV', 'vz6vC4G', 3, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('xUobO', 'jdcAT5', 7, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('BqcMQ', 'iSfEWtjh', 6, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('p4V4PvjX', 'IzFTIEq', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('y09XIGd', 'kdJbY0', 5, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('oknZotw9O', 'TQZOoPk', 8, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('ZMO1TMaf', 'zm8eEu0', 6, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('MyGYtK', 'RSLqThev', 9, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('7uYW7x6Vk', 'Ym8Si', 9, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('odbgvQJ4', 'ufmpTa', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('SFDx6z', 'yL5Lz', 4, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('2zOAFc1', '0kgEOw3X', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('CBkCtwA3', 'kNvhwig', 8, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('eGzdE', 'eIzQn', 7, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('GpKcfWarR', 'MwadBCRpO', 3, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('Gs2kEiBP', 'AAkyxdo', 6, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('EbmuD8mpX', 'Y0tWjjkpF', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('lkH4vBcN', 'IrpQg', 7, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('b2gSTz8y', 't8M0SZ6l', 8, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('HWMVbshk', 'kooBs', 2, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('y8DaY1', 'v3OgyV', 5, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('spELTuv3', 'TrBL1UTbL', 8, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('pd6rgpv', 'Pb78mFe', 1, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('w5SnQbgy', 'xapuP4c', 6, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('oK6vlkg', 'Bf1zuf', 9, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('wRQmPT3iu', '0PAxQjQ', 8, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('T29z6N', 'HeTGhBBu', 2, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('UUaj0CMY3', '93C5j', 4, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('onINkxh', 'hVTgi', 7, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('LxeMD', 'iM7Safp', 6, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('Hq1CFthap', 'GYsB0', 6, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('GOIyhs', 'LZHR6G4Oo', 6, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('wKyupVI', 'ziktEq8v', 10, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('Y0yOv5', '6xnwi', 1, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('Li1gU', 'iVpkc', 1, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('LR1ySLKAe', 'cnMMwfs', 7, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('kMid0U', '3tRfh', 6, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('cNVTkoV', 'Ds5WIMZG', 4, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('sZgsZ0BnB', '3OI0dZ', 4, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('VrTbmBa', 'wPkhHPUm', 10, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('b5cLKBMkF', '3Elsdl', 10, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('FeZZZ', 'AWheK3', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('y4AlcDBY', 'isD3gAZNl', 3, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('nTfhqMEq', 'LlUgN', 9, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('Syuqlavf0', 'EFtuMADQ', 9, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('B9Jark7', 'K9wxhp4Ga', 7, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('PhwTuK9dX', 'PVVotBx3z', 8, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('vd9TY9h', 'omGaXp', 7, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('hLqMmjX', 'D8ON5', 10, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('DSBafVG7', 'h5pD16', 6, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('tE1q4E7I', 'TBg2EQD13', 3, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('zd1YJOn', '1oaiD', 1, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('CPmXIxu', 'i9SbDFm', 1, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('D3qxK', 'hw10t1ZMn', 2, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('CZncW', 'yJYEbTn', 7, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('a1LYR', 'vmupG', 3, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('qyjxqi', 'UvpiqRse', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('996Ge5nf', 'Qgx5b', 3, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('vA4rEz', 'Q69qbl', 6, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('32XMz', 'F7EWVkFe', 5, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('sBgTUVz', 'hFsmdYL88', 2, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('9IIJ6Ov', 's0P66SCo', 9, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('lqH8FQ', 'GVPWPFxW', 2, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('IePiL', '2SzfE2', 5, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('M3mDQIJBq', 'qOjfbOD', 8, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('d9iAw9OFu', 'J1uAs', 7, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('9Sdx3k', 'UgboYXa', 10, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('uwzLGtS', 'pYCc0mz', 2, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('vEPhBRnfH', 'wUSgfZ', 3, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('fXmFHwpsR', '9t41Phdo', 6, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('EGDY8u1', 'FILtSl', 7, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('0D1yU9', 'EP1eSz', 10, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('Z1qKS', '8r6Wk', 7, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('PBRlRyjaA', '8MY54rxPX', 9, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('xDe2Bjd', 'cG2Yi', 6, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('w51mzUPUf', 'ekjtyK', 5, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('y5eCeq5', 'kcufU', 5, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('qBVmYCO', 'XGFctU', 7, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('2C5N0g', 'WKxvNMG6D', 7, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('olHggXwzn', 'eI7NGD', 6, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('e3r9ZVd9d', 'OujnwoEEr', 4, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('RzeBSUl', '3zEbdKl', 5, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('1d9Z0', 'pweQjj4', 3, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('AxFiFo', 'J3hgb', 6, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('ycMWF', '192p6', 10, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('IU1o1CU', 'imX8TGDn', 3, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('BKTuP', 'kKeZsItIP', 2, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('ssOfY', 'Kwm9co', 9, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('SgmoP', 'XAPqxhL4', 7, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('SkbplB9', 'feG8AsGum', 2, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('6Nc2CdpoJ', 'niIW6k', 9, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('t4gzbn0', 'nbpkGvwla', 6, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('UDV6s', 'wTcbwQL', 8, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('p7kBR', '0wDXfbsmk', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('lixkpnS', 'dLbGzr', 9, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('5c5NQPDrS', 'UIAQpENq', 9, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('lNRMmPvGt', 'WNer5g2i', 3, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('pRAlbc2', 'QVGJ07Y', 4, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('lbP68X', 'XK0Mw', 8, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('EHq0Y', 'Acjfti', 3, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('xRojG', 'CW3radr', 8, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('jZWIRB3W', 'NIAwRknhm', 10, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('PpcfU3', 'M7Q2TPua', 8, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('aUhEU5ku1', 'arnPP1Mg', 8, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('QxJElYlU', 'ZVIue', 7, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('iQrgXdV9E', 'Twefr9gD', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('VvHaS', 'ZTPF8o', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('bVC3ea0rX', 'Beefv3DBg', 6, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('IPbg3Wxs', 'i302uW5M', 3, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('rXhN5O8oR', 'FwuxLtK', 9, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('6Amy90iQK', 'Y52WlVxS', 5, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('pdg8oC3mj', 'CxxFnX0tU', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('9AwQb8', 'bGoHXZuQ', 8, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('2VAhLn', 'ktSvVSmE', 8, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('sPnar8eeY', 'YiLRE5', 6, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('cJ6lEtrUV', 'WCZw1U23Q', 1, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('CVAZG9c2L', '3cjOIr', 5, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('gvZwpGoU', 'EyV6wIL8f', 10, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('t2Kge8w', 'TK20wEPXz', 9, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('cdQ3chvip', 'IkudDDtv', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('uvAXg09b', 'D4E1y3', 5, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('W3I4Y', 'JdJXaSf7', 10, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('zf4gtVqlx', 'F9wFqg', 1, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('Z57m6kR', 'kGKKv4rn', 10, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('BUw0Aahbx', 'ls5D0', 5, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('H7f5hlcRz', '5XuoiFjI', 3, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('Y3421o79', '8ly1KVW5', 6, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('buAeyjIkk', '6UvQnr9FV', 7, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('GcEFiR', 'uyKV3UbS', 9, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('Af2Jpz39', 'BcypHqRwC', 3, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('jGJqI', 'Xw2jVbrW', 6, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('6L6sp', 'ux1qRP', 5, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('WSTch', 'dkJdkY6', 6, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('ryr6KzK', 'K43EfNs', 10, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('iKbhyC', 'ia7IUNa9', 8, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('DPnvA59xZ', 'OwIcE', 1, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('NRCLPflk', 'axtQLisg', 2, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('vJzQQ6', '1G4nJ', 4, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('SAEEBY', 'PWaUCniN', 7, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('zI7T47H', 'St8LD5926', 6, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('CVgsGTr', '66hr1', 4, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('lhopwHq', '0wooFsz', 5, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('6XY4dX5', 'I6Uti2', 9, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('yeydFZ', 'pNVbjz', 5, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('qWybvPqYO', '7B5w1FUW', 5, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('PINliJ5BW', '2SMGQ1', 3, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('nuaJs3', 'rE5QK', 8, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('UrSA0VPo', 'mP1VmM', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('eXe1Y9qhp', 'muOu2', 1, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('I2CjSAOx', 'eOCfm64K1', 6, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('OLmOrXW', '9dt4fSUmS', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('VHbH9', 'wBjmKDj', 10, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('wcueU', 'DqFsbI0n5', 8, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('FDAUsZc', '309wAz', 2, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('0vZbfkpEF', '0mOVn', 2, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('eOshJR1fb', '148LolSU', 7, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('2vue0pJb', 'rMfhhkiMB', 8, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('DzPsqFN', 'YOtDUuP8', 8, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('zBdiVSLKs', 'NgskE', 8, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('1iNCG', 'ZDyGpCmj', 10, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('1abni', 'RFAYNitOg', 7, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('vfJhwq5', 'nqcnDVk', 1, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('0onrqK', 'JkBKKtUXT', 5, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('Nvt0Tw', '6PA46C3', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('hpyphyZc', 'LGTyhdY', 2, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('Vqgjw', 'BFbkKl', 6, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('cJYnDcVos', 'fA8KLn', 7, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('X6i6t6', 'JBPWFtB', 5, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('MeSHnep', 'NistkrJ', 4, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('6l5pKlk', 'f48eqTi', 10, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('US7nG8', 'DYWAN', 4, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('RB8u2Co6', 'GDVXrriBj', 3, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('22uDy4', 'i2yuL', 7, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('o2fOm', 'JBtmkiC5q', 2, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('GORvS', 'YdkV0MX', 2, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('NQE9S', 'JSJO9EA5O', 6, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('nYN8P32GD', 'XmYP5', 9, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('iwI6LKA', 'Kpt6N', 6, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('BJuxDL', 'ku5kapE', 4, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('4RZYD8A', '2ZNBv0vaa', 5, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('8MwJXM', 'v9jDya', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('Pxwfi1o', 'WKUc1Wx', 5, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('LnhQI', 'cpnFZUtO7', 2, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('FTEgf', 'xfcdElHc', 8, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('DIINX', 'Pq11mnzNA', 6, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('Ck1NtN7AS', 'bYQdEkNR', 6, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('BjPWunZ', 'PyVXj', 3, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('RUx5EtDu', '4SfmT00O', 9, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('rFiL8', 'z1BAFz3P4', 9, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('8CI9vRtY', 'peIvzopb', 8, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('AOvOFSGZ', 'yOkkJ', 7, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('8EU1BDOT', 'sWYiEssRn', 9, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('U8zyfPrQC', 'd7hC0', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('KStAkX', 'CWouH1', 6, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('JiLXel', 'kLia01YY', 5, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('S0wLAL0N2', '60LsEVV', 5, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('hMZYMzCnx', 'Mih0JQ8', 2, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('mci6T2M', 'tG7DetEM', 6, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('zSfF5', 'KR3V5kR', 9, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('M3FpmkGP', 'n9XmUO', 10, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('yBuGB7e', 'f3JkEsX', 2, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('9Mfx1fb', '2HASzBc2', 2, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('Bw8Oqc', 'NSguO8', 1, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('asU8O2PKd', 'CKB74oopn', 8, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('uY8M19', 'pRFwf', 8, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('BmIxbHha', 'w5esBq', 2, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('RkwH8Yf', 'TNJZr', 2, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('pYtbBOf', 'Z2iY5Rip', 9, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('KPqYx', 'S22tI', 5, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('1OiPS', '9EdFZiNwD', 7, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('Y81GUxp', '1zwaYo', 9, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('2ze4lo', 'aJSBbc', 5, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('wHjAFeOkI', 'Uwnl7sqs6', 10, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('XDufjDXz', 'b7xHflRAf', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('uJsqu7', 'ofucbPjvd', 2, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('nxSOE7', 'fGpBfG61Q', 3, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('c0JLS', 'YJOvBl', 2, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('wG6Pl5R2t', 'VU0DUuz', 6, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('0W83bWp', 'J7FMI3', 9, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('3yHKDBK', 'jEXWK', 2, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('5CxQf', 'UzjnaxdP', 10, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('gw3Dm', '9iZ4x', 5, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('v4gvw8', 'ztsgTF', 2, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('uzMFDI', 'ljV4ddo3r', 8, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('GYylQrH', '38jM12RY', 3, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('GVTbm', 'eletnCr', 9, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('2wAyCX2d', 'mxKI37a', 3, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('LH2s2', '2LQAT6w', 5, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('lX4vxI7', 'zsYLb', 10, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('MJYWuiGf', '7q9wP', 5, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('42oaN4N', '8IVI6', 6, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('CMLvM', 'VTW36', 8, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('Za2Fl', 'EVM717W', 3, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('WGlw7', 'xgRCky', 1, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('ad1vS', '5HfV25he', 3, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('xrk3Yl', 'W6s76IOi', 3, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('oA2haK', 'oiEKK', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('gQ4QHQdMV', '48UtrK', 5, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('XPt0Otm', 'AsOTSzp', 2, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('SzYgh', 'SDdgDfjn', 7, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('o6vd4w34', 'GAbfdw8g', 3, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('r147M5pv', 'GXfCW', 1, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('RHC2Gv', 'Ltedi0Ym', 4, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('vgjdO', 'yC12xtC', 7, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('MD88d', 'Z4w0Xorc', 3, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('FxsSG', 'TJ4Er', 9, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('xd7E9R', 'CTv1B', 2, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('qIw27', 'M2cmXFP0', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('0faEmw', 'I6DXq', 6, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('lDHRi', 'OIC3IVznO', 9, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('5G8mJ', 'ORmPe', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('oaccl1', 'ZT4eVKJ', 2, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('DxnVoz', 'wQi3Szc0', 9, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('egp9x', 'mOqxoO', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('1NUu0oghX', '9wdAyRm', 7, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('bxGNa', 'p9ZIki', 6, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('NHuvkRPSn', 'vfFVy0Wg', 9, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('mqzjsFB', 'TnevP', 7, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('rx0QB', 'CNjXP8', 4, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('yLbt7Na', 'elvyk', 7, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('wre3sGJ8p', 'rnbGii', 8, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('94PByD12', 'ryF983', 5, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('1LTpu', '2H2JV0jML', 8, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('ghwYOGzK', 'vXHtEE', 3, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('D02Gsg', 'YwVSG0O', 10, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('1IYiOndj', 'qQjPu1n', 2, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('H8eFx5yMW', 't0QRhGB3n', 7, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('xbAtL', 'NaDDTc3mR', 8, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('YkTNZrR', 'T7QVBB3g', 6, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('GYJoj7h', 'QjBWxNYPZ', 5, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('D60yorpsz', '6WMhMgbel', 9, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('zZAGZ', 'l9A8egCxF', 8, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('dil3wJpvV', 'jmNW3jL', 4, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('xx4DQ7', 'sVSRoGvg1', 1, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('ypDNylB', 'pSZ7yYe', 10, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('9JS85zUMl', 'sc5Q2Msm2', 7, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('b9g2hKHoz', 'Y7fIRLV1', 4, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('m6ONfV', '7wTlST', 10, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('QtAiTvnf', 'rN9c1FXK', 6, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('HHR9bFREf', '9Pl05QB', 1, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('wkCBcYO3', 'bAyimW4z', 10, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('x35AvP', 'nSlyeDwzz', 2, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('ynkd30Ui', 'EbzAl', 6, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('B2M7zVx2g', 'Cnk15Z', 3, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('WVvvQ', 'IHNtDJ', 4, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('kA3cTd5U', 'bLrOgFzfT', 1, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('jtttdh', 'xNdnWa3s', 7, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('7UiD11Q', 'pzF8Zh', 2, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('7kMtXq', 'ujN2fa7', 6, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('X2iPe', 'Vej3F2B', 6, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('AwdhIkAs', 'lCdmfBd', 9, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('wmBu1e7', '6MpVHrWm', 10, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('kUuwt4', '9R30js', 5, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('ZlApf', 'LR3Kng30M', 2, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('uX2zn', 'HiMrk2V', 9, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('q4QXB5YZO', 'a2rGvqE', 4, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('T89BQbLy', 'kvhTZ', 4, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('um4maoJ', 'ygxBdkZTE', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('RYdBWq', 'gBf2qeY', 10, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('uHwzcBSON', '7SCDAO', 10, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('jiWUEZPL', '7jjbSsWxJ', 10, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('N9UPNX', 'JuQ8qtd', 10, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('PzUHJy2', 'cnIz8xl', 10, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('im7xsI1Y', 'TGrOO', 7, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('gqmgis', 'wy23mhL10', 2, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('HXJXZ', 'wIBgfylkA', 5, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('M05eP', 'Ot3DOmiDG', 6, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('k5tekStie', 'GTROm', 6, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('GrCfZUY30', 'MYMvMYz', 5, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('iHBMjr4h', 'Ft6qIgC', 3, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('a865Ia', 'jwwocD', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('JhxUJEO2', 'dMtEdkH', 6, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('GjfnX', 'rpMnttm', 8, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('wEVblsP', 'LyAWH7H', 3, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('hVVCzmQaw', 'C8fInreF', 8, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('yO8zrYH', 'z4iMHqAd', 10, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('dF6mwn', 'Jqy6oCT', 9, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('W1mm67EN', 'uaurJ6zp4', 8, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('ynU2wcdSA', 'S2DqD0O', 2, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('nb0y9CM', 'BMZn7', 1, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('UmvINe', 'LHVPYsUT', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('b1lEjYO1k', 'NRrTzZFzm', 5, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('RScsZKtb9', 'oCeLPj08', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('y97RZAF', 'aIZhZlGrf', 6, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('8ggsG', 'iwyLyi', 6, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('TltrNIxya', 'WTiTOD', 9, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('CsHgzW9', 'N6pni9N', 10, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('oI4cPYLX', 'Jo54RLCP7', 2, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('3MpDwPND', 'xYeSiT', 2, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('lNHPbf', 'Xxl4i9gHK', 1, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('QHK1u', 'jDTltRbg1', 7, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('E3brOJ', 'KGYTC', 10, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('Px7MEf', 'dqxv4k8', 4, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('Ktypy', 'y9NlG7u0', 8, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('jbNiMYK4', 'pJq4x4', 9, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('A2vcEvo0', 'u9ebHh', 5, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('Mr1Gtctb', 'D4SyVlRx5', 10, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('2MAWwi', 'EsH5vAfkv', 5, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('BLEMFpp', 'aSra3L', 8, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('WSsoE5hiE', 'WOhHn', 1, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('iBjlNws', 'msAS3E', 7, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('QMhJ405h', 'pLgOsjWY', 1, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('MhC8e', 'mGkvE', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('cLYo0', 'kWxO5aaM', 8, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('p2Iwc9E', 'HUxo1k', 3, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('CFAVa', '3sDBO', 5, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('vzdpIHWD', 'w5HaW', 1, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('ZdQITVC3', 'sNlGH', 8, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('IXNR7XD', 'uC7D1j1', 5, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('EPFXmaPL', 'dhDjUeq', 7, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('LdOHsmS8T', '3Leo7P9', 7, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('k87lUUI', 'x1UA0', 10, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('lITkFXQ9', 'OecDYkj', 10, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('aDskQhHq', 'xPit9Dr1', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('cYZUhh', 'z9tbY7', 3, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('4kOyVwQW', 'NrkDJh', 9, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('GiZc1SHUL', 'u2TVDRCfU', 2, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('h5Bl8unt0', '8KClyJRm', 5, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('MumMGfJi', 'KuhiQA4p', 5, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('zVoOXK', 'KxPQs', 5, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('xuk1Lesw', 'BONuHY', 8, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('LFwwWw', 'giWfBl8Ic', 4, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('43SgW', '893VO0WLx', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('bPpqe96', 'NsZ5hMQWn', 4, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('wOfPt', 'xs26sC', 1, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('LPFD2GlN8', '2x3GyO', 6, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('6GnV1jo', 'K2RWQeFY', 3, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('kzpX4cMb', 'IgAyxC', 8, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('MWHOgz62', 'R1V7PCx5', 2, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('JgHTsNJ', 'LHsCRAxdN', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('biuuuHC', 'gfG0Cx4S', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('9WfJIf', 'D3vPge', 5, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('VI4GrvQa', 'jOyNjx1h0', 3, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('YF4NxxJ', 'GWvyr', 6, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('SKkl1RWIv', 'k9CF9tYtX', 2, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('utgh3U3', 'SemMJcF', 2, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('Mya3ncj', '3KnFW', 9, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('82f6s', 'pkLNm', 5, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('0PqgnN', 'VdcGOz4', 3, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('mRDAZHF2', 'fy0fdp', 3, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('A0HqwOJ', 'M02NDOjez', 1, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('CjGmJ8', 'zYAiXiakR', 8, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('7RRRV', 'EThh1Y', 8, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('zw9LhhAo', 'iaY23h', 6, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('pai8J', '1d8Nl', 9, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('V1OaZ7DSN', 'onkTp', 5, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('an9QoFa13', 'MMx1BIkJZ', 1, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('qxB2wMf', 'OVp5ofyDl', 9, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('WP8z9', '6YyvM0k', 5, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('zdh3BVD', 'evuZI', 10, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('bRmH1IF', 'OtOT2SE', 5, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('k0ACxytBB', 'zkKgxv', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('XnWNqOo', 'NuXcvUd', 10, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('KYwfuPl', 'Vtx22', 6, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('5tA4UUh', 'ZK8hDzAEp', 10, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('GVEGOQ', '9IMnElBY', 6, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('bGitFq30W', 'TWgaOQ4', 7, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('NAWsK51', 'rNoud', 4, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('1iFFDZDJG', 'ar5rnjv', 2, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('WPKbp', 'z6Oa4EyUn', 1, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('uy8znRi', 'Z9YdZw9', 2, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('ZUMFB', 'i7PtpD', 6, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('P7maSrV', 'cGxSJdwN', 7, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('JXnDq3ou2', '6cqj7v', 6, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('F9R3PL0', 'lslQqBE5O', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('blkYNUp43', '2gNAVeb', 5, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('DXiFk', '0l7QA', 1, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('2gy6bYrhn', 'tfbdQbymM', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('sm4ecPEF', 'ZCWu1K', 2, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('Ybld1QD', 'TdIy1fVV', 2, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('ZgiZm98', 'V410rpV', 6, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('wJQkszV', 'KeBxC', 1, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('mKlSHnRj', 'G0w907', 9, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('UTiuWJrLN', 'fOKZt', 10, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('nx3vjIUpB', 'MYGCtXrt', 7, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('PK0bCX', 'zh6SRENM', 1, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('DxZzv', 'w9bdpXd', 7, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('BV9Cj', 'Vem2kK2Y', 10, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('1rDKuMA', 'umSvxgV', 5, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('PvP7dUJ', 'qTIizEe0A', 1, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('76w3g', '8IxUA', 9, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('ec8cC2b', 'knNDAPshp', 10, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('G6jZ9', 'Bmnu5IG6u', 1, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('UkpALDLr', 'QmdB3', 6, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('5KnXHGNPZ', '9UFe85H', 2, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('WPtKzQx', 'ZVF8HYI', 4, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('U665W7vv', 'mFpww', 3, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('pZoPZ', 'RiA14Kgij', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('hy8Qxtcy8', 'kHs10M', 10, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('Q0f7zDbeo', 'Gtw12XO2', 2, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('tHNbq', 'ZfE53Hv', 2, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('fquoSg', '8G64nay', 6, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('Yk2Qo', 'zKy3Fu', 7, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('8mT1p', '1e6ko', 3, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('xzvpiSAT', 'lOI9O', 4, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('GEljuSd0W', 'e8a39O1', 2, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('AkI1w357b', 'cgHqjGt6', 1, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('xVS8oI3', 'SCO6tlNvK', 7, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('1WwbTbAkd', 'bwzK2WPm', 9, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('FdB2Vdtv', '6p6yKLxhL', 8, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('y8qzK', 'J3cbQj', 3, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('PK9ByM', 'RDu1mN', 2, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('XTFDmWoEu', 'kWA0fcp', 8, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('oKI71Y', 'JwHLfcfKO', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('q6NbhH', 'I9Syp', 3, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('Tu5xS', 'yBAGlpWbn', 5, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('iqAUvJhj', 'TuE5fJ0V', 1, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('qTqHcFwE8', 'muZ7I7', 5, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('71B8OP', 'cuQkjWc', 10, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('qgi1YMpw', '2miqEeH', 9, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('VZSn0l', '9dPA7ew', 9, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('xEEq7', 'FrOGd', 2, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('mVNvJhJ0', 'UryEi', 2, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('Kca5IZ', '3KtPyVnD', 6, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('xmaFGndN', 'TcIOxbCp7', 6, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('StNV7', 'voZVn', 5, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('Wdzbx', 'gSlYXZ', 8, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('690qyIiqE', 'd9R30', 10, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('yfTpa', '15XAIrl4i', 8, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('jYOdy', '5btin', 7, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('RWAmPf25m', 'EtJHhbn', 8, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('zQIGRJ', 'T1ND95gyJ', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('GCDUin9', 'Ww80NW', 2, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('gn0mpevc', 'SnHXogV', 9, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('kUFt3GxG', 'BObGc', 2, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('sE8f900', 'vmWNfbuu', 9, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('saPYnBlr', 'J3asZ', 9, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('Mxp9Gi8a', 'aeAygln9E', 5, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('7glTN', 'tQ7xjw5', 3, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('1K9QNbml', 'oKppJ', 1, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('7gLm0', 'Y8Vvd6U', 8, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('4hfIGP', 'Px7jZN7IP', 1, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('NhzuGAgtN', 'Pquxlgmx7', 9, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('ReetJt4', 'ak0ko', 10, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('uEvoit', 'OMag7QV', 10, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('lQZ2zZ', 'AkTOuFW1', 10, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('x3xPOEa', 'vbGOo', 9, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('s5IW34m34', 'UYgrG', 8, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('5UQx9', '06OAX1G0j', 6, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('VNSuw0l1B', 'JTHw6', 4, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('fIH5mdy', '8LNDMw8', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('Kirl30azA', 'i9koQnQxo', 1, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('Bc1VmCYKg', 'Hua063', 2, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('6N1ZoSdl', 'd49rA', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('E0Xzi', 'yc2x0TT', 10, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('v6uiVH4N', '0nIncj', 4, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('v238Exb', 'ZbsJD3O', 8, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('Rc2f694ts', 'kLZCn', 10, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('NJszEm', 'F98u8', 10, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('4C6105zdK', 'xEhmdR', 2, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('IC6lIgrgn', 'waFKp9MdR', 6, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('z9BMn2wef', 'MoJU0', 9, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('DKLezTi1h', 'CSB5c9y', 9, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('tGSx0wOaF', '9kZ0G7', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('XbXDBY5y', '8pk8unL7J', 4, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('KBztjjA5', '1w3eZjDS', 9, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('C1elDbo', 'nrbw7PkHT', 7, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('9NKXS', 'Rit5iU1', 7, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('m5L4MS7KF', 'V0yRy', 5, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('nfnUP3k', 'tp7xuH', 3, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('PzqqJeG1', 'NqRer', 6, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('nkD5m62s', 'PhqmY', 9, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('Ogli1Fs6s', 'VP1cWR5L', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('uTpnpRh', 'sW5YnGHI', 8, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('8hh5b', '3LOGjkoSn', 8, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('URf5d0', 'pUGfuNw', 6, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('dUiEN', 'xoTv49I', 2, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('KJMiD', 'JDBzweD5', 4, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('95SBVqEU', 'oLNo3Ee0', 5, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('3ftKx', 'edGAh', 7, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('cK0jUl', 'irUTVTY', 6, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('ztmYuesYW', 'JsjRK', 8, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('BT6sEB4', 'It11O', 5, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('opAYF', 'bpHWJQ', 8, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('zG4L5K6', 'yCoQHCj', 9, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('WNznf', 'rEsRM7S8', 4, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('q9jPiNOT', 'IcQUWe', 8, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('9yZQbO', 'hPUpQmq', 10, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('q0R2eDTUL', 'gORJL', 4, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('ADyry', 'rzb7oaaC', 8, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('tndNF', '3YOdz', 10, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('u746EUZ0a', 'Tx8nDIdep', 10, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('KxjMtufbg', 'WUnQq5nJE', 7, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('fwG8sbMk', 'oAooD', 4, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('zoqE73R', '25NSEBJ', 1, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('sAwUs', '3lLk9', 6, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('aHbxNcZkF', 'huRvx', 8, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('cVDjBo0T', 'PItfo53cA', 2, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('AGZx3Cj', 'kqovMvV', 8, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('3VNBpu', 'VDrEOUwn', 6, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('Y5T6h', 'Pi7zZP', 6, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('m7LWLHLO3', 'g2yhqwOz', 7, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('C0n0hnGg4', 'NEkXCK2Q', 6, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('tL2QJ', 'l8YaDM', 7, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('8b9UI', 'qVT2w5L', 1, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('Y7RwN3ua', 'n7O49uPKp', 2, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('Hkxg586', 'eYemamXEA', 5, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('NVDUHiy4P', 'Pim8H', 5, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('tl7W1LbOV', '7Y2Cd', 6, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('lkgk5oo', 'JQ7bQiK', 1, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('GHBFFCPp', 'QNKRvDmiP', 6, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('ln6R2aAm', 'pY7di2ObU', 8, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('Qe1CJJf', '3L5hb', 5, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('0rW069', 'cfQ0Tj1oK', 3, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('Gnasjr1jp', 'lWE0sJW', 3, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('8dmpV1Hu', 'c4fGAon', 6, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('hQFQY2', 'J8Y3C0h', 4, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('f1Cp7Q', 'oPuuZg4T', 1, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('caVJR', 'bXV0JaP6C', 9, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('5aGtOs', 'EP9Ki', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('N8mCTgqNB', '29PqHz', 10, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('ZxXISmJJY', 'qy14rqP', 6, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('0ZAgU', 'J6AqrV5b', 1, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('GSXIgayhj', '0J3Y3', 5, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('3SPBb2T', 'IqU64Bw', 2, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('ZThM4PBr', 'zZ0R5', 10, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('iq97AM1s3', '2EmYrNS', 2, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('lGXZMkRV', '3ldgcBIbl', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('Y0FFh5mi2', 'VfH5u', 10, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('ibQJOv', 'kEjgwoR', 2, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('gB4DiXGCQ', 'NeqexQaW7', 8, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('QzSXfrRGW', 'B3PlpIF', 1, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('RwhI1hWS', 'VCCA0D', 3, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('B0E4Tm0E', 'XB5xkgMSk', 9, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('QH9PTG9g', 'YwfSuh6', 3, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('QvpbgbKq', 'YUw4FJRy', 4, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('gQOT532O', 'Lyt2C', 10, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('AHF4dP5bJ', 'Xl0aeW3', 1, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('wKBAh', '1OgUH', 2, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('SLv8X', 'EJZzpe', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('ZeqZTt', '1a7wBzVW', 9, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('6wza3Lk9M', 'acllHQ', 9, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('deiVPsrSW', 'r7YAmDTz6', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('PZJRG', 'bHswcjUq', 6, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('ghIw1m29', '9VHCx', 3, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('5erbMClq', 'OVavd', 1, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('gxbgjsz7', 'Gg8tg9', 2, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('g3QTefAwP', 'BWdRHpr', 8, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('gjt4XA', 'Nq700', 1, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('hUZ3Bxjcc', 'sr68TTeOK', 10, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('f4tGkk5yN', 'JH2Nds3', 7, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('MB86i9aZ', 'cwEsAAf', 4, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('UbxmZ3DW', 'fY39QHqcD', 8, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('2UjXoC9', 'lk6u3SnWX', 3, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('raNaV', 'O34iHEELg', 4, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('JqOvcGTu', 'DCAN4', 1, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('2X3A11E', '6FEnVB', 4, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('cgrUdua', 'TFCOaN', 10, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('UNL6p', 'IfuFU', 2, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('xSg3iOI', 'WgiLElnH', 6, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('hHaLPA', '0Tsx4qU', 6, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('3Uk2y', 'hWsZtSe', 8, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('FZwCso0', '7K8JIW', 5, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('XCvkL', 'rXSmGR1a', 6, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('zep7H8E', 'Q910lCkV', 4, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('yFW5dLRz', 'pFvIrRc', 7, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('M31cOy3', 'UDFHQqu', 1, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('Kfr09J', '9IXWa4C3', 7, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('ZJRkTNvZ', 'mdUJiEBgU', 1, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('8XaqWBO', 'FaknO8w5v', 5, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('W4Ekx', 'SKXi3hS', 6, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('iau0Q', 'bmxjaYy', 9, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('BiD4Mc', 'Vm0ZlrG', 7, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('PKI4Vt', '8nDcxoUz', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('AjfCTCS', 'tPsqPHHS', 4, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('DC4eXrJ7', 'c3mwb5', 4, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('qGuIpUT', 'GzwzE4vSE', 6, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('8i5snHU', '4x85iT', 2, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('bAz2vJ', 'kdW4nFUX', 4, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('jReQknI7M', 'cg1NOi', 8, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('zt9Jb5gP', 'BvB5lp', 10, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('dGYn8JZn', '10qGF', 10, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('W7NCS', 'wH2lwI', 1, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('zdmTb', 'EzKiQDYC0', 1, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('AWKYNY', 'uY4mBJI1', 4, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('wSaA47ETl', '6gGsi', 4, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('UFIeZV', 'c1yfpuD', 2, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('uUF3UP', 'yaE9qQO6I', 2, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('eeBmAh', '39obS0kV', 8, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('MwNOxspY8', 'pjCpvNnyr', 8, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('OKAi0U', 'YxRWg5', 5, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('aib1Z49', 'v1qR2', 1, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('dDYfM', 'FXd19ova', 3, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('AtOa1nD', 'WdOMj6g', 1, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('5uM89', '4wgvk', 5, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('86nK6X', 'NrPmTyw', 10, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('CIjHsYk', 'jj7zL6', 9, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('VKAUJ2dOL', 'ZwChG', 5, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('arnZM', '1FamTUWX', 1, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('iJc4I8K3', 'ybn1r7Arf', 1, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('eQ3zV', 'mD1SIj1F', 9, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('R8njNRAdr', 'hUhwyxMAs', 8, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('GEXKu', 'AERTx', 7, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('WoPQ0', 'mTsdepNg', 2, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('T9ErV3BT', 'O1uVLOP', 7, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('ilw4cpRS0', 'r4pSGPt', 6, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('DUBME', 'UsCFgA', 10, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('KLIzw7jN', '2rGNz', 3, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('8cNVaIv', 'FkOI1', 6, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('1KqlqlAkO', '6LOYJAc', 10, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('yumVy', 'KOhiXRY', 4, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('k63nBZn', 'RLCbPjP', 5, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('z8Pqg', 'tLRjQEuaG', 10, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('7huCD', '80cDnec9', 4, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('p4l7k', 'eu1UQ', 8, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('m86lhYI0', 'UE5QC0Q1o', 3, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('TAl3U5N', 'OACqSSEc', 3, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('WfY3F', 'lAaqDIeuL', 7, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('VwEPzqOU', 'qCZUTNRhe', 5, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('Q0gZh', 'iuzvhlkVb', 3, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('LnsGk', '0rH4MCQ', 4, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('h4tcOWu', 'SrQ6wTG', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('IGonN', 'W95SN', 5, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('FaBXD', 'XJeiK', 10, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('cj6pFg', 'o0YkLe9Q', 1, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('nTYTs4OAN', 'IJjFwfj', 2, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('RiqQfzjUN', '3VKG1Z', 9, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('6fM5jmXfF', 'nTvsS', 1, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('cLDIF7YR', 'FV4jHDA', 10, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('ND3UEU', 'KtOFeZ', 8, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('rtX06IkL', 'x6yhmMidQ', 1, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('4ZxAs5yNU', 'BT82RQmzH', 3, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('Gi2dX1gYt', '2f6uJv', 7, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('AoKwoc', '0pwXVGSzM', 6, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('aOsW8', 'jk8EYEyo', 2, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('seock0gY3', 'F1tj1gDl', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('qUlghXgtY', 'V4ogL3Ao', 2, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('Wjycw', 'zmgefl', 5, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('kWY5Ch1', 'VxMRIS4F1', 7, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('31fGeXR6V', '7dQ4xY', 1, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('ujnvXe6', 'rAvpAc', 3, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('a0e1swj', '8tBoMoFZ', 5, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('aWJXfAP0', 'lLA8kF', 8, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('pcQc14', 'cWycPn', 7, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('AJe7VOs', 'kGISe4', 8, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('h694OU', 'rddrqCNq', 8, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('3sveJw3u', 'gNgpyGn1y', 5, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('FItTGp', 'xNn6RH', 7, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('qZY9M', 'GZWkEmWa', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('41Dc2dfN', 'fDe4a8', 8, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('eLcJ1', 'etnc8C', 2, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('cRlnw', '1i1BOL', 10, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('maWRI9k', 'C6TqPu', 8, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('kusogCuu', 'gHoVqO', 7, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('Ppoqes', 'gZo5O', 5, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('bxRV2', 'cd7QDU', 1, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('RPnIAJ1', '96WbKhq', 3, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('gN4jHbF', 'NHnX0f', 7, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('tohB3gQw', 'Gb9FX5u', 6, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('0Ou0pa', 'vr757td0', 2, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('LhVW7fvB', 'Tg6mJ', 6, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('ceVLvkk', 'sk1ZFZZ', 8, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('CKiTTApqV', 'USUEt4Zqc', 10, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('9iciWNg', 'pBi6ywp', 9, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('gviruuh', 'YnT345m9', 10, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('gOuW49', 'RfORamsx', 9, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('83UvJh', 'M2XCB7', 3, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('fP8Gj', 'TsMI4zrtW', 8, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('nlKyx', '7W8wR', 5, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('JOHUrDk', 'snYVyQBEh', 4, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('kNHUMC', 'Wo27rx', 5, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('uz2ISN1fP', 'Zl8u2XX', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('JY6DdInLu', 'Nb7ub4TJ', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('O7stsxjT', 'O6m04', 5, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('LELXGu', 'BEN1UpqZ', 8, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('WOrn4Gxj', '4b3D10FL', 5, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('t33BWywyM', 'fc8t1bb', 5, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('omb3Xguxr', 'D1DKt7', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('aJPAgRR', 'WsU3Pp', 10, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('3aqtoxtj', '0cBuwjB', 4, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('N0M6Y', 'wav8uz', 2, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('HzXjR6P', 'ssZNNGN', 8, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('v1z8FEeDM', 'RFdjhOzms', 10, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('w6h4YW', 'WTzAtiE', 1, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('kMY5Am', 'oai6RYU', 1, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('k0ek43M', '5Y9ev', 4, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('ir9Xfe9z', '4Ukfpkah', 2, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('8X9OnAxgv', 'yCETF7Rx', 5, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('YDMVX', 'q0kd0', 10, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('cDzI0', 'VvoLr5SO1', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('K63e8Z', 'sp1Cq51', 9, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('u6v4zpa0', 'juPdz8sRV', 10, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('3meqoyl', 'UyW0OoN8', 3, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('34ThRC', 'Qsae5', 9, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('Pv0XMlVj', '2m9wMYKoy', 3, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('kohvedp', 'tS9CGaX', 8, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('z2ndnUT8J', 'qhXxD7', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('WIn48UU', 'DPY3YQKxs', 6, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('6m47WXlW', '7AyJgPyvj', 2, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('K4AQ5Ad', 'JlrLT', 5, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('rbmGPzXcn', 'HxTRpCwuj', 3, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('MzKhjy', 'lg3muxD', 8, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('qz7OJd5RN', 'l2ET9N', 7, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('NxwbND', 'WRnyegS', 3, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('FrHh7B1oU', '9v7bX7', 8, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('nlCz97', 'WxkExoVX', 4, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('YbEf1h5N', 'IX8NdsDs', 7, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('AxAmfeK13', 'HwUdAT', 3, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('x87ON', '02Kr84WIW', 9, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('QqxHY', 'RndHj', 10, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('3jMcUBsCj', 'z3RIVBFtc', 10, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('DIW4E', 'EQgybN', 5, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('LD9laZDk', 'uXJllWT', 10, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('PGUBWg', 'dHpl5', 4, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('fNFOtY', 'U3i26S', 7, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('AJUNVyC', 'ZkPkKskQ', 5, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('4q6rr', 'OGaIhz', 5, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('Ixh7chli4', 'zicGZWv', 9, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('wRcR2DNc8', 'j6grnQL0', 3, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('Nej1Iy8L', 'vZX5sgVWm', 2, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('y0fuRIZL', 'i4sCx6OU', 3, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('0lLOf', '5ZqMI14V', 8, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('sYhPm', '308XGk', 4, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('9kP7KK', 'c6mfW', 8, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('2X6hw1', 'JeAjdZ', 9, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('5cu1BEnl', 'HLz7N1x5', 6, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('4g7SP', '9pOXsGZ0', 8, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('BZOAAJp', 'HI5vJ8Ih0', 5, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('e7GSPcd3K', 'H1NaVP', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('vujQsQ', 'nE3HpzUL', 7, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('fBCMD5aU3', 'j3ogCqDuJ', 1, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('P2cFvDc', 'S35yxt976', 1, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('i1t36', 'LUPFUNv', 4, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('HerofI', 'PrLlSBc', 10, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('9JxMVcuUJ', 'LlmEndv', 8, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('P0m1ua', '1n1e8', 6, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('OC4Au', '4fP32k', 9, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('gARpgdcSa', 'p5p9F5ocS', 8, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('RSCnIm', 'ZNxg5NS', 10, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('I6b63Hu9t', 'XhrPVo', 6, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('IMvjhRxK', 'eS7Uwa', 4, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('ZVE2B', '3UOQCL', 6, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('uFWvzqY', 'hMQ1MnnS', 3, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('npEemQSTc', 'CpnsuQch', 6, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('nXRLFti', 'wCkfT', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('FS7NJ62AN', 'pyFwM', 5, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('yNXqyi', '7Dse5', 1, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('1odU1', 'ZI5nc8', 2, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('agvgz', '1tvLk', 8, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('KBXE6keYw', 'EokEEH', 10, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('A5hAHTG3', 'oZqoG', 2, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('f8HGRZnrd', 'nwyBZCgG', 2, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('ZQgf17', 'qMW12x', 4, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('J6QJlQrQ', 'y4RrPY87', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('u02uEfXE8', 'LoLaCkZ', 7, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('3PYokRqmX', 'Gh9pj', 4, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('p64zTX1', '7AogEAG0', 6, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('9S9k2cO5', 'DChMUeGZ', 3, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('SSapQgB', 'NFk2Ci', 3, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('3RkiS12', 'SFlpSuepH', 2, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('iZMx3gi', '21bj9l', 10, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('GSQ5zi6', 'Z3gJg', 7, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('f48xA', 'zycSo', 1, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('b7lB2', 'PV1xEVXi1', 10, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('QxrnUM7LD', 'NisQo1w', 6, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('NWnA8xif', 'zMjqDX5z', 2, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('jK1qtEp', '48NCo', 10, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('p5mSq', 'nv8Gx9ZF', 9, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('KXEPFi', 'h5gxSE', 6, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('3ntTV2t', '7qNYB3kNo', 10, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('4ggmkotgd', 'Hqx0A', 9, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('Oy1xcN', 'D3qT1N8n', 8, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('I0DCP34uR', 'WgQvR', 2, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('jKOKs2CXp', 'xsn9qo', 4, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('hBhXQqI', 'cJbO5', 8, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('0vrKeu2Mw', 'ijdkZeCl', 5, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('gaB9t', 'rBBpw3NEi', 5, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('aKEkl', 'o53BsA9g', 9, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('ZYckR9IE', 'agPlrg2j', 9, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('WP3HC', 'E8lk7p', 3, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('l2toIO', 'aOsRQQWij', 6, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('EKk2M', 'eHNrQO', 8, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('MpfTJV', 't9HHR8yA2', 6, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('kRHHTffL', 'UX80VW', 6, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('Ey25CKt', 'C7p3NYO', 1, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('d1humFLN', 'vRrm0kz', 2, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('5gTe2', 'WtV6wKcHw', 4, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('066Ubb', '0ixXAF7e', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('b7pmnS8fG', 'WJSxzA', 7, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('wfGmKf', '0XVp3hNDp', 10, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('t4kzM2DW', 'iEf1if', 6, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('LV7A1p', 'wEwO5XM', 8, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('Xxr13g1e', '3JBlPM', 8, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('AwAMqxf', 'EkizSX3Jd', 6, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('r11itQp', 'GsgHEGGxO', 6, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('h0JivM', 'PJ1nAjU63', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('64PSVS', '0b7EIUD6', 7, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('ywCmnWxH', 'P4GBe1gLx', 5, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('XQbw5c2', '32yNkMiwn', 10, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('WtApDdUAW', 'I0kEuLw9', 2, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('QUVt26o', 'G2WlL', 3, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('U1tWB', 'dNuwrLuJ', 7, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('9q1qF5hOH', 'DnU9huE', 8, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('1Wvco', 'lijrN2', 5, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('BkbXjp', 'lkMcYxj', 7, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('IDzIl6V', 'txJ10WX7y', 1, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('ixIyD', 'eKi5K4', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('qTndJ', 'TibZwVc0', 8, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('WKawpp2', 'N8SL6jegR', 5, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('Dh2ed8th', 'IJtTn', 2, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('IIXPQ', 'WQIC1Z2', 5, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('qXlwRHP', 'QkO6AOo', 7, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('J4ERp', 'fWe2364NP', 9, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('xgXlopV', 'H50Re67yp', 10, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('MS3Bj', 'sJ0kOiy1d', 1, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('HL88qGq', 'Lblx1Y', 6, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('36yzYDI6r', 'Woav7ky', 5, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('3xd6Ym5', 'rGVDRrPA', 1, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('1DJzZ', 'UsUav', 1, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('Gh4wXJ', 'neASfwenG', 8, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('V3Fgd', 'hGCSEbh', 10, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('80rgdAFfG', 'fOhdREqo', 5, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('wpwzaI', 'eQ3vX', 6, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('fMMeMzNx2', '02a14b5', 10, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('XJ04ffd8X', 'GU8CO8of', 8, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('d61bYd', 'bT6VwMUd', 3, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('KxjL9mx', 'CQRc1wBvO', 4, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('f36OTjxm', 'QpSLac', 3, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('vgyBXS', 'FrYtQT', 7, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('Hj3mATpg', '6gJMe', 3, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('2Br0JdlOq', 'ISsjXOQs', 5, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('6wrlFzay2', 'RzLZM', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('Qqaz1aKk', 'F430md', 1, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('KEzQGRLk3', 'kbGsFGM', 3, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('4jRJVx7', 'I9FJgH7y', 9, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('S8iFKju', 'enRro', 5, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('RroWxSVX', 'DNAzp11', 1, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('RZQNQK', 't5fqT', 9, 'GM');
+insert into client (client_name, client_password, team_id, client_type) values ('zLpFP', 'VeMvwhlW9', 9, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('KCzEUO', 'pHqTW', 9, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('QNb2v09y', '6GqA5AIwf', 2, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('f4lcgze', 'UI1yfE', 1, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('sC7gJ', 'bzuTfxVh', 10, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('bcWPDL0', '8SvMuCq', 5, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('2z5IBRK', 'pCmfleS', 9, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('1Ulpv', '5UfeW', 10, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('5UzUkGWj', 'vGhc8H', 3, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('admin', 'admin', 4, 'admin');
+insert into client (client_name, client_password, team_id, client_type) values ('player', 'player', 5, 'player');
+insert into client (client_name, client_password, team_id, client_type) values ('director', 'director', 2, 'director');
+insert into client (client_name, client_password, team_id, client_type) values ('owner', 'owner', 9, 'owner');
+insert into client (client_name, client_password, team_id, client_type) values ('agent', 'agent', 10, 'agent');
+insert into client (client_name, client_password, team_id, client_type) values ('general_user', 'general_user', 3, 'general_user');
+insert into client (client_name, client_password, team_id, client_type) values ('GM', 'GM', 1, 'GM');
 
-insert into team values ('1', 'g7lnvjFn', '1993', '1', '810')
-insert into team values ('2', 'rN75S', '1989', '2', '983')
-insert into team values ('3', 'rGX1sCr', '2010', '3', '638')
-insert into team values ('4', 'pimew3EW', '1985', '4', '812')
-insert into team values ('5', '82k39lh', '1991', '5', '825')
-insert into team values ('6', 'ONaOje8', '1982', '6', '630')
-insert into team values ('7', 'JUkDgPv', '1980', '7', '963')
-insert into team values ('8', 'NCjHD', '2005', '8', '896')
-insert into team values ('9', '8dwjcU4', '1989', '9', '704')
-insert into team values ('10', 'bEBmXOA3', '1986', '10', '825')
+insert into director (director_name, director_year, team_id, income) values ('EvIkrw', '2000', 1, 705);
+insert into director (director_name, director_year, team_id, income) values ('UvmQVTl5', '2002', 2, 816);
+insert into director (director_name, director_year, team_id, income) values ('iUCqh0B', '1999', 3, 566);
+insert into director (director_name, director_year, team_id, income) values ('aLA4PDZ4u', '1998', 4, 731);
+insert into director (director_name, director_year, team_id, income) values ('u3y4TQ', '1980', 5, 688);
+insert into director (director_name, director_year, team_id, income) values ('KvOTJTXy', '1998', 6, 728);
+insert into director (director_name, director_year, team_id, income) values ('BFEsdNC', '1992', 7, 931);
+insert into director (director_name, director_year, team_id, income) values ('k4nwsm27', '1996', 8, 601);
+insert into director (director_name, director_year, team_id, income) values ('IKo0XGzW', '1991', 9, 565);
+insert into director (director_name, director_year, team_id, income) values ('WU3q2OcB', '1991', 10, 688);
 
-insert into awards values ('1', '152', '2022', '71')
-insert into awards values ('2', '124', '2015', '4')
-insert into awards values ('3', '188', '2018', '51')
-insert into awards values ('4', '144', '2017', '78')
-insert into awards values ('5', '173', '2021', '69')
-insert into awards values ('6', '149', '2016', '90')
-insert into awards values ('7', '154', '2020', '9')
-insert into awards values ('8', '172', '2017', '88')
-insert into awards values ('9', '176', '2018', '83')
-insert into awards values ('10', '161', '2018', '94')
-insert into awards values ('11', '135', '2023', '97')
-insert into awards values ('12', '118', '2019', '67')
-insert into awards values ('13', '151', '2023', '66')
-insert into awards values ('14', '136', '2016', '51')
-insert into awards values ('15', '144', '2017', '81')
-insert into awards values ('16', '194', '2020', '93')
-insert into awards values ('17', '123', '2019', '16')
-insert into awards values ('18', '130', '2022', '32')
-insert into awards values ('19', '198', '2021', '48')
+insert into individual_award (awards_id, year, player_id) values (125, 2017, 8);
+insert into individual_award (awards_id, year, player_id) values (180, 2017, 29);
+insert into individual_award (awards_id, year, player_id) values (198, 2018, 26);
+insert into individual_award (awards_id, year, player_id) values (130, 2022, 78);
+insert into individual_award (awards_id, year, player_id) values (115, 2021, 4);
+insert into individual_award (awards_id, year, player_id) values (111, 2020, 34);
+insert into individual_award (awards_id, year, player_id) values (138, 2017, 50);
+insert into individual_award (awards_id, year, player_id) values (125, 2015, 40);
+insert into individual_award (awards_id, year, player_id) values (139, 2017, 96);
+insert into individual_award (awards_id, year, player_id) values (146, 2023, 20);
+insert into individual_award (awards_id, year, player_id) values (180, 2016, 25);
+insert into individual_award (awards_id, year, player_id) values (184, 2021, 54);
+insert into individual_award (awards_id, year, player_id) values (172, 2018, 71);
+insert into individual_award (awards_id, year, player_id) values (104, 2022, 73);
+insert into individual_award (awards_id, year, player_id) values (192, 2015, 26);
+insert into individual_award (awards_id, year, player_id) values (176, 2016, 88);
+insert into individual_award (awards_id, year, player_id) values (166, 2022, 43);
+insert into individual_award (awards_id, year, player_id) values (184, 2015, 18);
+insert into individual_award (awards_id, year, player_id) values (198, 2023, 67);
 
-insert into owner values ('1', '1', 'rzD7q', '41', '533')
-insert into owner values ('2', '2', '6Y28wHWF', '66', '683')
-insert into owner values ('3', '3', '31JTM7HE', '68', '522')
-insert into owner values ('4', '4', 'YuiM8Q', '66', '972')
-insert into owner values ('5', '5', 'ZIcUFsQ', '59', '988')
-insert into owner values ('6', '6', 'Z0vzxQ2NS', '47', '696')
-insert into owner values ('7', '7', 'heyGFNRyT', '54', '774')
-insert into owner values ('8', '8', 'xodVVAM', '30', '750')
-insert into owner values ('9', '9', '2iUWeqx', '59', '600')
-insert into owner values ('10', '10', 'EKC8i5G2', '64', '588')
+insert into owner (team_id, owner_name, owner_age, budget) values (1, 'bo7w5o', 62, 778);
+insert into owner (team_id, owner_name, owner_age, budget) values (2, 'OODovz', 34, 805);
+insert into owner (team_id, owner_name, owner_age, budget) values (3, '2ESxQ0e', 65, 890);
+insert into owner (team_id, owner_name, owner_age, budget) values (4, '4OwbtMj', 57, 615);
+insert into owner (team_id, owner_name, owner_age, budget) values (5, 'ZdDkulnkQ', 34, 633);
+insert into owner (team_id, owner_name, owner_age, budget) values (6, 'NUxQEL2I', 30, 556);
+insert into owner (team_id, owner_name, owner_age, budget) values (7, 'd23Tva', 56, 744);
+insert into owner (team_id, owner_name, owner_age, budget) values (8, 'Nz9dzTKL9', 44, 763);
+insert into owner (team_id, owner_name, owner_age, budget) values (9, 'OnvqFB', 67, 910);
+insert into owner (team_id, owner_name, owner_age, budget) values (10, 'FqvyW', 34, 705);
 
-insert into player values ('1', 'player#1', 'team#1', '1', 'P', '2', '2001-03-20', '100', '1')
-insert into player values ('2', 'player#2', 'team#1', '1','C', '6', '1990-04-06', '85', '2')
-insert into player values ('3', 'player#3', 'team#1', '1', '1B', '44', '2002-10-24', '33', '3')
-insert into player values ('4', 'player#4', 'team#1', '1', '2B', '13', '1994-11-24', '48', '4')
-insert into player values ('5', 'player#5', 'team#1', '1', 'SS', '79', '1992-05-30', '3', '5')
-insert into player values ('6', 'player#6', 'team#1', '1', '3B', '80', '1998-01-27', '92', '6')
-insert into player values ('7', 'player#7', 'team#1', '1', 'LF', '61', '1992-06-20', '54', '7')
-insert into player values ('8', 'player#8', 'team#1', '1', 'CF', '86', '2002-04-30', '40', '8')
-insert into player values ('9', 'player#9', 'team#1', '1', 'RF', '87', '1996-01-08', '85', '9')
-insert into player values ('10', 'player#10', 'team#1', '1', 'DH', '29', '1995-08-15', '8', '10')
-insert into player values ('11', 'player#11', 'team#2', '2', 'P', '32', '1999-12-11', '77', '1')
-insert into player values ('12', 'player#12', 'team#2', '2','C', '33', '1992-10-09', '77', '2')
-insert into player values ('13', 'player#13', 'team#2', '2', '1B', '35', '1994-05-28', '71', '3')
-insert into player values ('14', 'player#14', 'team#2', '2', '2B', '69', '1994-10-16', '51', '4')
-insert into player values ('15', 'player#15', 'team#2', '2', 'SS', '42', '1991-09-02', '64', '5')
-insert into player values ('16', 'player#16', 'team#2', '2', '3B', '23', '1991-03-31', '15', '6')
-insert into player values ('17', 'player#17', 'team#2', '2', 'LF', '24', '1991-07-27', '82', '7')
-insert into player values ('18', 'player#18', 'team#2', '2', 'CF', '57', '1994-04-02', '8', '8')
-insert into player values ('19', 'player#19', 'team#2', '2', 'RF', '29', '1990-12-15', '82', '9')
-insert into player values ('20', 'player#20', 'team#2', '2', 'DH', '94', '2001-12-07', '26', '10')
-insert into player values ('21', 'player#21', 'team#3', '3', 'P', '96', '2000-05-28', '32', '1')
-insert into player values ('22', 'player#22', 'team#3', '3','C', '69', '1999-10-27', '31', '2')
-insert into player values ('23', 'player#23', 'team#3', '3', '1B', '38', '1994-09-01', '15', '3')
-insert into player values ('24', 'player#24', 'team#3', '3', '2B', '11', '1990-03-19', '76', '4')
-insert into player values ('25', 'player#25', 'team#3', '3', 'SS', '77', '2002-09-30', '62', '5')
-insert into player values ('26', 'player#26', 'team#3', '3', '3B', '79', '1998-11-28', '25', '6')
-insert into player values ('27', 'player#27', 'team#3', '3', 'LF', '61', '1991-07-17', '15', '7')
-insert into player values ('28', 'player#28', 'team#3', '3', 'CF', '21', '1996-11-15', '84', '8')
-insert into player values ('29', 'player#29', 'team#3', '3', 'RF', '29', '1996-04-15', '26', '9')
-insert into player values ('30', 'player#30', 'team#3', '3', 'DH', '31', '1999-04-10', '85', '10')
-insert into player values ('31', 'player#31', 'team#4', '4', 'P', '65', '1998-02-03', '26', '1')
-insert into player values ('32', 'player#32', 'team#4', '4','C', '6', '1995-10-08', '88', '2')
-insert into player values ('33', 'player#33', 'team#4', '4', '1B', '7', '1991-08-10', '77', '3')
-insert into player values ('34', 'player#34', 'team#4', '4', '2B', '41', '2000-06-12', '20', '4')
-insert into player values ('35', 'player#35', 'team#4', '4', 'SS', '10', '2003-10-30', '89', '5')
-insert into player values ('36', 'player#36', 'team#4', '4', '3B', '42', '1996-07-22', '78', '6')
-insert into player values ('37', 'player#37', 'team#4', '4', 'LF', '75', '1998-10-14', '59', '7')
-insert into player values ('38', 'player#38', 'team#4', '4', 'CF', '15', '1997-05-02', '24', '8')
-insert into player values ('39', 'player#39', 'team#4', '4', 'RF', '81', '1991-07-15', '91', '9')
-insert into player values ('40', 'player#40', 'team#4', '4', 'DH', '61', '1997-07-29', '33', '10')
-insert into player values ('41', 'player#41', 'team#5', '5', 'P', '64', '1998-10-19', '47', '1')
-insert into player values ('42', 'player#42', 'team#5', '5','C', '96', '1999-06-10', '14', '2')
-insert into player values ('43', 'player#43', 'team#5', '5', '1B', '43', '1994-12-19', '43', '3')
-insert into player values ('44', 'player#44', 'team#5', '5', '2B', '11', '1996-07-12', '16', '4')
-insert into player values ('45', 'player#45', 'team#5', '5', 'SS', '45', '1990-04-11', '97', '5')
-insert into player values ('46', 'player#46', 'team#5', '5', '3B', '84', '1991-01-18', '4', '6')
-insert into player values ('47', 'player#47', 'team#5', '5', 'LF', '21', '1990-10-26', '100', '7')
-insert into player values ('48', 'player#48', 'team#5', '5', 'CF', '27', '1990-10-10', '73', '8')
-insert into player values ('49', 'player#49', 'team#5', '5', 'RF', '29', '2000-12-20', '40', '9')
-insert into player values ('50', 'player#50', 'team#5', '5', 'DH', '30', '1996-10-12', '93', '10')
-insert into player values ('51', 'player#51', 'team#6', '6', 'P', '58', '2000-11-12', '36', '1')
-insert into player values ('52', 'player#52', 'team#6', '6','C', '40', '1994-10-02', '38', '2')
-insert into player values ('53', 'player#53', 'team#6', '6', '1B', '74', '2001-08-07', '64', '3')
-insert into player values ('54', 'player#54', 'team#6', '6', '2B', '46', '1993-03-29', '13', '4')
-insert into player values ('55', 'player#55', 'team#6', '6', 'SS', '83', '1995-12-26', '49', '5')
-insert into player values ('56', 'player#56', 'team#6', '6', '3B', '84', '1991-03-21', '83', '6')
-insert into player values ('57', 'player#57', 'team#6', '6', 'LF', '51', '2003-12-07', '88', '7')
-insert into player values ('58', 'player#58', 'team#6', '6', 'CF', '55', '1997-07-02', '25', '8')
-insert into player values ('59', 'player#59', 'team#6', '6', 'RF', '26', '2003-01-27', '45', '9')
-insert into player values ('60', 'player#60', 'team#6', '6', 'DH', '30', '2002-08-03', '72', '10')
-insert into player values ('61', 'player#61', 'team#7', '7', 'P', '34', '1994-02-17', '65', '1')
-insert into player values ('62', 'player#62', 'team#7', '7','C', '35', '2002-09-20', '97', '2')
-insert into player values ('63', 'player#63', 'team#7', '7', '1B', '69', '1990-12-27', '63', '3')
-insert into player values ('64', 'player#64', 'team#7', '7', '2B', '41', '1995-05-22', '51', '4')
-insert into player values ('65', 'player#65', 'team#7', '7', 'SS', '78', '1993-08-01', '59', '5')
-insert into player values ('66', 'player#66', 'team#7', '7', '3B', '83', '2002-12-07', '27', '6')
-insert into player values ('67', 'player#67', 'team#7', '7', 'LF', '52', '2003-06-22', '81', '7')
-insert into player values ('68', 'player#68', 'team#7', '7', 'CF', '56', '1993-11-06', '55', '8')
-insert into player values ('69', 'player#69', 'team#7', '7', 'RF', '89', '1998-03-02', '16', '9')
-insert into player values ('70', 'player#70', 'team#7', '7', 'DH', '31', '1998-12-22', '87', '10')
-insert into player values ('71', 'player#71', 'team#8', '8', 'P', '65', '2003-02-09', '35', '1')
-insert into player values ('72', 'player#72', 'team#8', '8','C', '68', '1994-10-15', '56', '2')
-insert into player values ('73', 'player#73', 'team#8', '8', '1B', '6', '2002-06-12', '21', '3')
-insert into player values ('74', 'player#74', 'team#8', '8', '2B', '42', '1995-08-27', '66', '4')
-insert into player values ('75', 'player#75', 'team#8', '8', 'SS', '79', '1995-11-09', '22', '5')
-insert into player values ('76', 'player#76', 'team#8', '8', '3B', '80', '1991-02-04', '28', '6')
-insert into player values ('77', 'player#77', 'team#8', '8', 'LF', '81', '1994-07-26', '28', '7')
-insert into player values ('78', 'player#78', 'team#8', '8', 'CF', '85', '1993-06-07', '99', '8')
-insert into player values ('79', 'player#79', 'team#8', '8', 'RF', '60', '1992-08-21', '7', '9')
-insert into player values ('80', 'player#80', 'team#8', '8', 'DH', '61', '2002-02-10', '71', '10')
-insert into player values ('81', 'player#81', 'team#9', '9', 'P', '4', '1998-02-23', '100', '1')
-insert into player values ('82', 'player#82', 'team#9', '9','C', '69', '1999-05-16', '19', '2')
-insert into player values ('83', 'player#83', 'team#9', '9', '1B', '39', '1999-01-02', '53', '3')
-insert into player values ('84', 'player#84', 'team#9', '9', '2B', '43', '2000-11-03', '63', '4')
-insert into player values ('85', 'player#85', 'team#9', '9', 'SS', '76', '1996-10-11', '60', '5')
-insert into player values ('86', 'player#86', 'team#9', '9', '3B', '47', '1995-01-21', '77', '6')
-insert into player values ('87', 'player#87', 'team#9', '9', 'LF', '80', '1999-09-22', '4', '7')
-insert into player values ('88', 'player#88', 'team#9', '9', 'CF', '87', '1995-07-09', '53', '8')
-insert into player values ('89', 'player#89', 'team#9', '9', 'RF', '23', '2001-05-28', '3', '9')
-insert into player values ('90', 'player#90', 'team#9', '9', 'DH', '95', '1991-06-15', '71', '10')
-insert into player values ('91', 'player#91', 'team#10', '10', 'P', '64', '1995-06-15', '66', '1')
-insert into player values ('92', 'player#92', 'team#10', '10','C', '66', '1998-04-11', '88', '2')
-insert into player values ('93', 'player#93', 'team#10', '10', '1B', '5', '1997-04-20', '5', '3')
-insert into player values ('94', 'player#94', 'team#10', '10', '2B', '43', '2003-07-08', '3', '4')
-insert into player values ('95', 'player#95', 'team#10', '10', 'SS', '79', '2001-09-25', '85', '5')
-insert into player values ('96', 'player#96', 'team#10', '10', '3B', '80', '1990-11-20', '83', '6')
-insert into player values ('97', 'player#97', 'team#10', '10', 'LF', '15', '2001-11-14', '54', '7')
-insert into player values ('98', 'player#98', 'team#10', '10', 'CF', '57', '1990-11-28', '76', '8')
-insert into player values ('99', 'player#99', 'team#10', '10', 'RF', '27', '1998-01-18', '23', '9')
-insert into player values ('100', 'player#100', 'team#10', '10', 'DH', '31', '2003-01-03', '54', '10')
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#1', 'team#1', 1, 'P', 64, '1991-05-02', 71, 1);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#2', 'team#1', 1,'C', 1, '1998-10-08', 64, 2);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#3', 'team#1', 1, '1B', 71, '1992-08-04', 66, 3);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#4', 'team#1', 1, '2B', 82, '1993-05-01', 77, 4);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#5', 'team#1', 1, 'SS', 19, '2001-09-16', 74, 5);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#6', 'team#1', 1, '3B', 84, '1990-12-25', 71, 6);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#7', 'team#1', 1, 'LF', 87, '1999-01-31', 44, 7);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#8', 'team#1', 1, 'CF', 26, '1991-12-22', 65, 8);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#9', 'team#1', 1, 'RF', 59, '1992-01-23', 32, 9);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#10', 'team#1', 1, 'DH', 28, '1997-02-07', 77, 10);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#11', 'team#2', 2, 'P', 32, '1996-11-30', 61, 1);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#12', 'team#2', 2,'C', 33, '1999-09-30', 69, 2);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#13', 'team#2', 2, '1B', 35, '1990-03-27', 62, 3);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#14', 'team#2', 2, '2B', 37, '1990-01-30', 98, 4);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#15', 'team#2', 2, 'SS', 75, '2001-11-20', 34, 5);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#16', 'team#2', 2, '3B', 28, '1995-09-01', 35, 6);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#17', 'team#2', 2, 'LF', 46, '1990-01-04', 7, 7);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#18', 'team#2', 2, 'CF', 78, '1990-06-25', 47, 8);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#19', 'team#2', 2, 'RF', 90, '2000-12-04', 73, 9);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#20', 'team#2', 2, 'DH', 92, '1995-09-17', 94, 10);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#21', 'team#3', 3, 'P', 65, '1990-11-06', 68, 1);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#22', 'team#3', 3,'C', 1, '1998-03-30', 73, 2);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#23', 'team#3', 3, '1B', 71, '1992-10-27', 9, 3);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#24', 'team#3', 3, '2B', 8, '2000-12-23', 55, 4);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#25', 'team#3', 3, 'SS', 11, '1999-10-14', 41, 5);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#26', 'team#3', 3, '3B', 23, '1994-07-29', 23, 6);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#27', 'team#3', 3, 'LF', 56, '1991-10-26', 85, 7);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#28', 'team#3', 3, 'CF', 57, '1998-10-24', 28, 8);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#29', 'team#3', 3, 'RF', 90, '1996-12-25', 48, 9);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#30', 'team#3', 3, 'DH', 30, '1994-05-01', 72, 10);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#31', 'team#4', 4, 'P', 98, '1996-02-26', 37, 1);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#32', 'team#4', 4,'C', 66, '1999-01-20', 85, 2);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#33', 'team#4', 4, '1B', 4, '1991-03-24', 88, 3);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#34', 'team#4', 4, '2B', 70, '1995-04-23', 34, 4);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#35', 'team#4', 4, 'SS', 78, '1993-07-17', 90, 5);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#36', 'team#4', 4, '3B', 80, '1993-05-10', 23, 6);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#37', 'team#4', 4, 'LF', 18, '2000-02-29', 41, 7);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#38', 'team#4', 4, 'CF', 86, '2003-02-06', 24, 8);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#39', 'team#4', 4, 'RF', 58, '1997-05-21', 45, 9);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#40', 'team#4', 4, 'DH', 62, '1998-01-25', 2, 10);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#41', 'team#5', 5, 'P', 96, '1999-12-23', 5, 1);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#42', 'team#5', 5,'C', 65, '1992-08-16', 6, 2);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#43', 'team#5', 5, '1B', 35, '1992-06-09', 44, 3);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#44', 'team#5', 5, '2B', 10, '1993-04-10', 7, 4);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#45', 'team#5', 5, 'SS', 75, '1992-12-09', 80, 5);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#46', 'team#5', 5, '3B', 47, '1993-05-15', 63, 6);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#47', 'team#5', 5, 'LF', 51, '1995-10-14', 47, 7);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#48', 'team#5', 5, 'CF', 84, '1996-07-05', 55, 8);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#49', 'team#5', 5, 'RF', 86, '1990-12-17', 70, 9);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#50', 'team#5', 5, 'DH', 29, '1993-06-28', 1, 10);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#51', 'team#6', 6, 'P', 98, '1994-05-25', 100, 1);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#52', 'team#6', 6,'C', 36, '1994-02-25', 35, 2);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#53', 'team#6', 6, '1B', 76, '2002-08-11', 83, 3);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#54', 'team#6', 6, '2B', 18, '1997-04-18', 90, 4);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#55', 'team#6', 6, 'SS', 84, '1994-09-02', 60, 5);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#56', 'team#6', 6, '3B', 94, '1993-11-01', 80, 6);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#57', 'team#6', 6, 'LF', 26, '1998-01-27', 9, 7);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#58', 'team#6', 6, 'CF', 91, '1998-04-26', 51, 8);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#59', 'team#6', 6, 'RF', 62, '1996-12-05', 79, 9);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#60', 'team#6', 6, 'DH', 95, '1990-05-08', 88, 10);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#61', 'team#7', 7, 'P', 70, '1994-02-08', 92, 1);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#62', 'team#7', 7,'C', 7, '1993-10-02', 94, 2);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#63', 'team#7', 7, '1B', 40, '1990-11-29', 68, 3);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#64', 'team#7', 7, '2B', 71, '1990-11-27', 24, 4);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#65', 'team#7', 7, 'SS', 73, '1997-08-24', 71, 5);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#66', 'team#7', 7, '3B', 75, '1990-08-24', 22, 6);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#67', 'team#7', 7, 'LF', 80, '2000-02-09', 49, 7);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#68', 'team#7', 7, 'CF', 87, '1990-09-14', 36, 8);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#69', 'team#7', 7, 'RF', 89, '1997-12-15', 22, 9);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#70', 'team#7', 7, 'DH', 25, '1992-10-02', 20, 10);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#71', 'team#8', 8, 'P', 7, '1990-07-07', 79, 1);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#72', 'team#8', 8,'C', 42, '2003-05-21', 20, 2);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#73', 'team#8', 8, '1B', 12, '1999-09-17', 13, 3);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#74', 'team#8', 8, '2B', 49, '1992-04-03', 83, 4);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#75', 'team#8', 8, 'SS', 18, '1992-04-23', 31, 5);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#76', 'team#8', 8, '3B', 53, '2000-11-24', 34, 6);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#77', 'team#8', 8, 'LF', 55, '1996-02-29', 62, 7);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#78', 'team#8', 8, 'CF', 56, '1995-02-03', 96, 8);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#79', 'team#8', 8, 'RF', 90, '1997-07-24', 70, 9);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#80', 'team#8', 8, 'DH', 94, '1991-07-07', 59, 10);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#81', 'team#9', 9, 'P', 34, '1998-09-22', 45, 1);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#82', 'team#9', 9,'C', 99, '1992-06-25', 23, 2);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#83', 'team#9', 9, '1B', 7, '1995-11-30', 64, 3);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#84', 'team#9', 9, '2B', 12, '1995-11-11', 46, 4);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#85', 'team#9', 9, 'SS', 48, '1998-10-31', 17, 5);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#86', 'team#9', 9, '3B', 51, '1992-09-10', 72, 6);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#87', 'team#9', 9, 'LF', 54, '1993-05-31', 84, 7);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#88', 'team#9', 9, 'CF', 24, '1995-01-30', 65, 8);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#89', 'team#9', 9, 'RF', 25, '2003-11-26', 77, 9);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#90', 'team#9', 9, 'DH', 26, '1998-06-18', 54, 10);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#91', 'team#10', 10, 'P', 32, '2001-01-29', 43, 1);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#92', 'team#10', 10,'C', 96, '2001-10-19', 85, 2);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#93', 'team#10', 10, '1B', 40, '2001-05-14', 9, 3);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#94', 'team#10', 10, '2B', 76, '2003-11-24', 91, 4);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#95', 'team#10', 10, 'SS', 79, '2003-03-16', 38, 5);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#96', 'team#10', 10, '3B', 51, '1991-06-24', 17, 6);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#97', 'team#10', 10, 'LF', 84, '1995-02-07', 93, 7);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#98', 'team#10', 10, 'CF', 87, '1998-08-28', 21, 8);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#99', 'team#10', 10, 'RF', 88, '1995-10-18', 13, 9);
+insert into player (player_name, team_name, team_id, position, uniform_number, birth, income, agent_id) values ('player#100', 'team#10', 10, 'DH', 30, '1997-08-01', 91, 10);
 
-insert into player_record values ('1', '69', '2015-02-11', '2016-09-19', '7')
-insert into player_record values ('1', '69', '2019-02-27', '2019-10-29', '7')
-insert into player_record values ('1', '69', '2022-07-27', '2022-09-15', '7')
-insert into player_record values ('1', '69', '2022-07-27', '2022-09-15', '7')
-insert into player_record values ('2', '9', '2014-06-28', '2015-12-08', '1')
-insert into player_record values ('2', '9', '2017-05-02', '2017-09-04', '1')
-insert into player_record values ('2', '9', '2018-10-09', '2021-12-24', '1')
-insert into player_record values ('2', '9', '2018-10-09', '2021-12-24', '1')
-insert into player_record values ('3', '90', '2006-10-02', '2012-11-30', '9')
-insert into player_record values ('3', '90', '2016-11-01', '2017-01-20', '9')
-insert into player_record values ('3', '90', '2017-10-10', '2020-01-25', '9')
-insert into player_record values ('3', '90', '2017-10-10', '2020-01-25', '9')
-insert into player_record values ('4', '67', '2018-07-03', '2018-08-22', '7')
-insert into player_record values ('4', '67', '2020-02-15', '2020-11-05', '7')
-insert into player_record values ('4', '67', '2022-06-12', '2023-05-11', '7')
-insert into player_record values ('4', '67', '2022-06-12', '2023-05-11', '7')
-insert into player_record values ('5', '84', '2018-02-16', '2018-03-22', '9')
-insert into player_record values ('5', '84', '2018-06-23', '2020-11-06', '9')
-insert into player_record values ('5', '84', '2022-05-19', '2023-08-10', '9')
-insert into player_record values ('5', '84', '2022-05-19', '2023-08-10', '9')
-insert into player_record values ('6', '98', '2006-02-20', '2010-05-14', '10')
-insert into player_record values ('6', '98', '2014-07-12', '2017-08-29', '10')
-insert into player_record values ('6', '98', '2018-04-27', '2021-12-29', '10')
-insert into player_record values ('6', '98', '2018-04-27', '2021-12-29', '10')
-insert into player_record values ('7', '30', '2015-01-21', '2015-04-23', '3')
-insert into player_record values ('7', '30', '2017-12-23', '2018-11-29', '3')
-insert into player_record values ('7', '30', '2020-08-31', '2023-11-15', '3')
-insert into player_record values ('7', '30', '2020-08-31', '2023-11-15', '3')
-insert into player_record values ('8', '23', '2011-09-10', '2016-09-23', '3')
-insert into player_record values ('8', '23', '2018-09-28', '2018-10-03', '3')
-insert into player_record values ('8', '23', '2022-05-31', '2022-08-18', '3')
-insert into player_record values ('8', '23', '2022-05-31', '2022-08-18', '3')
-insert into player_record values ('9', '39', '2017-06-29', '2017-07-13', '4')
-insert into player_record values ('9', '39', '2017-08-16', '2019-10-18', '4')
-insert into player_record values ('9', '39', '2020-11-03', '2023-10-23', '4')
-insert into player_record values ('9', '39', '2020-11-03', '2023-10-23', '4')
-insert into player_record values ('10', '84', '2016-04-20', '2018-03-27', '9')
-insert into player_record values ('10', '84', '2021-06-13', '2022-08-03', '9')
-insert into player_record values ('10', '84', '2022-11-01', '2023-03-09', '9')
-insert into player_record values ('10', '84', '2022-11-01', '2023-03-09', '9')
-insert into player_record values ('11', '13', '2009-05-26', '2013-11-19', '2')
-insert into player_record values ('11', '13', '2017-08-19', '2019-05-12', '2')
-insert into player_record values ('11', '13', '2019-10-25', '2023-07-20', '2')
-insert into player_record values ('11', '13', '2019-10-25', '2023-07-20', '2')
-insert into player_record values ('12', '76', '2012-02-16', '2014-11-11', '8')
-insert into player_record values ('12', '76', '2015-04-24', '2016-03-20', '8')
-insert into player_record values ('12', '76', '2019-09-18', '2021-09-16', '8')
-insert into player_record values ('12', '76', '2019-09-18', '2021-09-16', '8')
-insert into player_record values ('13', '62', '2018-03-24', '2020-10-08', '7')
-insert into player_record values ('13', '62', '2021-01-07', '2021-01-11', '7')
-insert into player_record values ('13', '62', '2021-05-04', '2023-11-03', '7')
-insert into player_record values ('13', '62', '2021-05-04', '2023-11-03', '7')
-insert into player_record values ('14', '97', '2020-03-12', '2020-07-13', '10')
-insert into player_record values ('14', '97', '2021-10-01', '2022-09-28', '10')
-insert into player_record values ('14', '97', '2022-09-28', '2023-06-14', '10')
-insert into player_record values ('14', '97', '2022-09-28', '2023-06-14', '10')
-insert into player_record values ('15', '95', '2017-03-19', '2017-08-13', '10')
-insert into player_record values ('15', '95', '2018-02-15', '2020-03-17', '10')
-insert into player_record values ('15', '95', '2022-11-23', '2023-10-09', '10')
-insert into player_record values ('15', '95', '2022-11-23', '2023-10-09', '10')
-insert into player_record values ('16', '35', '2019-03-30', '2020-07-07', '4')
-insert into player_record values ('16', '35', '2021-01-23', '2023-09-30', '4')
-insert into player_record values ('16', '35', '2023-11-10', '2023-11-23', '4')
-insert into player_record values ('16', '35', '2023-11-10', '2023-11-23', '4')
-insert into player_record values ('17', '32', '2011-05-05', '2013-09-22', '4')
-insert into player_record values ('17', '32', '2016-04-21', '2016-06-21', '4')
-insert into player_record values ('17', '32', '2020-02-22', '2021-10-17', '4')
-insert into player_record values ('17', '32', '2020-02-22', '2021-10-17', '4')
-insert into player_record values ('18', '8', '2017-05-28', '2020-06-19', '1')
-insert into player_record values ('18', '8', '2021-02-02', '2021-11-05', '1')
-insert into player_record values ('18', '8', '2023-05-19', '2023-11-16', '1')
-insert into player_record values ('18', '8', '2023-05-19', '2023-11-16', '1')
-insert into player_record values ('19', '78', '2012-04-24', '2014-12-23', '8')
-insert into player_record values ('19', '78', '2020-03-15', '2022-10-19', '8')
-insert into player_record values ('19', '78', '2022-12-17', '2023-10-13', '8')
-insert into player_record values ('19', '78', '2022-12-17', '2023-10-13', '8')
-insert into player_record values ('20', '100', '2019-05-05', '2019-09-22', '10')
-insert into player_record values ('20', '100', '2021-02-12', '2022-06-09', '10')
-insert into player_record values ('20', '100', '2022-09-07', '2022-12-20', '10')
-insert into player_record values ('20', '100', '2022-09-07', '2022-12-20', '10')
-insert into player_record values ('21', '20', '2017-02-25', '2018-08-13', '2')
-insert into player_record values ('21', '20', '2019-08-31', '2021-04-24', '2')
-insert into player_record values ('21', '20', '2021-11-13', '2022-04-01', '2')
-insert into player_record values ('21', '20', '2021-11-13', '2022-04-01', '2')
-insert into player_record values ('22', '25', '2019-11-13', '2019-12-07', '3')
-insert into player_record values ('22', '25', '2020-08-09', '2021-04-25', '3')
-insert into player_record values ('22', '25', '2021-08-20', '2022-02-21', '3')
-insert into player_record values ('22', '25', '2021-08-20', '2022-02-21', '3')
-insert into player_record values ('23', '69', '2013-07-24', '2015-10-06', '7')
-insert into player_record values ('23', '69', '2021-01-06', '2022-07-19', '7')
-insert into player_record values ('23', '69', '2023-07-14', '2023-07-30', '7')
-insert into player_record values ('23', '69', '2023-07-14', '2023-07-30', '7')
-insert into player_record values ('24', '69', '2014-01-29', '2015-01-20', '7')
-insert into player_record values ('24', '69', '2015-01-25', '2016-01-06', '7')
-insert into player_record values ('24', '69', '2016-12-08', '2019-05-22', '7')
-insert into player_record values ('24', '69', '2016-12-08', '2019-05-22', '7')
-insert into player_record values ('25', '19', '2006-06-11', '2020-05-01', '2')
-insert into player_record values ('25', '19', '2020-05-05', '2021-04-10', '2')
-insert into player_record values ('25', '19', '2021-08-24', '2023-05-22', '2')
-insert into player_record values ('25', '19', '2021-08-24', '2023-05-22', '2')
-insert into player_record values ('26', '33', '2007-07-03', '2008-11-01', '4')
-insert into player_record values ('26', '33', '2009-07-19', '2013-08-15', '4')
-insert into player_record values ('26', '33', '2020-04-13', '2020-07-02', '4')
-insert into player_record values ('26', '33', '2020-04-13', '2020-07-02', '4')
-insert into player_record values ('27', '58', '2016-01-14', '2016-12-07', '6')
-insert into player_record values ('27', '58', '2017-10-28', '2018-06-08', '6')
-insert into player_record values ('27', '58', '2019-09-26', '2021-01-01', '6')
-insert into player_record values ('27', '58', '2019-09-26', '2021-01-01', '6')
-insert into player_record values ('28', '6', '2016-04-28', '2016-09-03', '1')
-insert into player_record values ('28', '6', '2018-06-02', '2021-03-15', '1')
-insert into player_record values ('28', '6', '2022-06-15', '2022-12-19', '1')
-insert into player_record values ('28', '6', '2022-06-15', '2022-12-19', '1')
-insert into player_record values ('29', '45', '2006-06-24', '2009-10-11', '5')
-insert into player_record values ('29', '45', '2015-09-23', '2017-06-16', '5')
-insert into player_record values ('29', '45', '2018-03-12', '2020-04-10', '5')
-insert into player_record values ('29', '45', '2018-03-12', '2020-04-10', '5')
-insert into player_record values ('30', '81', '2014-03-28', '2014-11-15', '9')
-insert into player_record values ('30', '81', '2015-10-03', '2017-06-01', '9')
-insert into player_record values ('30', '81', '2019-10-21', '2020-02-29', '9')
-insert into player_record values ('30', '81', '2019-10-21', '2020-02-29', '9')
-insert into player_record values ('31', '82', '2014-12-31', '2015-08-13', '9')
-insert into player_record values ('31', '82', '2016-08-20', '2017-03-07', '9')
-insert into player_record values ('31', '82', '2020-02-13', '2022-03-23', '9')
-insert into player_record values ('31', '82', '2020-02-13', '2022-03-23', '9')
-insert into player_record values ('32', '36', '2013-12-31', '2014-06-17', '4')
-insert into player_record values ('32', '36', '2017-07-07', '2019-02-14', '4')
-insert into player_record values ('32', '36', '2021-01-28', '2022-05-15', '4')
-insert into player_record values ('32', '36', '2021-01-28', '2022-05-15', '4')
-insert into player_record values ('33', '60', '2019-05-14', '2019-07-15', '6')
-insert into player_record values ('33', '60', '2020-04-02', '2020-09-17', '6')
-insert into player_record values ('33', '60', '2021-08-01', '2022-05-27', '6')
-insert into player_record values ('33', '60', '2021-08-01', '2022-05-27', '6')
-insert into player_record values ('34', '28', '2013-09-19', '2014-02-14', '3')
-insert into player_record values ('34', '28', '2020-06-19', '2021-01-07', '3')
-insert into player_record values ('34', '28', '2022-05-09', '2022-10-05', '3')
-insert into player_record values ('34', '28', '2022-05-09', '2022-10-05', '3')
-insert into player_record values ('35', '50', '2014-08-10', '2015-01-22', '5')
-insert into player_record values ('35', '50', '2015-06-13', '2015-07-13', '5')
-insert into player_record values ('35', '50', '2022-01-08', '2022-02-23', '5')
-insert into player_record values ('35', '50', '2022-01-08', '2022-02-23', '5')
-insert into player_record values ('36', '36', '2012-02-09', '2013-02-09', '4')
-insert into player_record values ('36', '36', '2013-06-23', '2013-11-08', '4')
-insert into player_record values ('36', '36', '2018-03-11', '2023-08-07', '4')
-insert into player_record values ('36', '36', '2018-03-11', '2023-08-07', '4')
-insert into player_record values ('37', '67', '2018-12-04', '2019-12-16', '7')
-insert into player_record values ('37', '67', '2021-01-20', '2021-01-26', '7')
-insert into player_record values ('37', '67', '2021-03-08', '2022-04-01', '7')
-insert into player_record values ('37', '67', '2021-03-08', '2022-04-01', '7')
-insert into player_record values ('38', '73', '2017-11-09', '2019-09-15', '8')
-insert into player_record values ('38', '73', '2021-04-13', '2021-10-19', '8')
-insert into player_record values ('38', '73', '2022-01-11', '2023-08-13', '8')
-insert into player_record values ('38', '73', '2022-01-11', '2023-08-13', '8')
-insert into player_record values ('39', '23', '2009-12-31', '2010-07-02', '3')
-insert into player_record values ('39', '23', '2012-02-27', '2013-01-21', '3')
-insert into player_record values ('39', '23', '2014-05-30', '2019-05-26', '3')
-insert into player_record values ('39', '23', '2014-05-30', '2019-05-26', '3')
-insert into player_record values ('40', '6', '2016-06-14', '2018-05-07', '1')
-insert into player_record values ('40', '6', '2019-11-09', '2020-09-03', '1')
-insert into player_record values ('40', '6', '2020-11-26', '2023-07-05', '1')
-insert into player_record values ('40', '6', '2020-11-26', '2023-07-05', '1')
-insert into player_record values ('41', '66', '2018-01-17', '2018-12-15', '7')
-insert into player_record values ('41', '66', '2019-10-02', '2020-05-30', '7')
-insert into player_record values ('41', '66', '2021-04-08', '2022-01-25', '7')
-insert into player_record values ('41', '66', '2021-04-08', '2022-01-25', '7')
-insert into player_record values ('42', '85', '2013-04-09', '2014-03-27', '9')
-insert into player_record values ('42', '85', '2014-04-08', '2019-04-01', '9')
-insert into player_record values ('42', '85', '2022-11-18', '2023-10-25', '9')
-insert into player_record values ('42', '85', '2022-11-18', '2023-10-25', '9')
-insert into player_record values ('43', '95', '2016-12-02', '2017-07-25', '10')
-insert into player_record values ('43', '95', '2019-08-13', '2021-03-30', '10')
-insert into player_record values ('43', '95', '2021-10-12', '2022-04-09', '10')
-insert into player_record values ('43', '95', '2021-10-12', '2022-04-09', '10')
-insert into player_record values ('44', '38', '2013-07-05', '2015-02-23', '4')
-insert into player_record values ('44', '38', '2015-09-21', '2019-01-08', '4')
-insert into player_record values ('44', '38', '2019-08-30', '2021-08-17', '4')
-insert into player_record values ('44', '38', '2019-08-30', '2021-08-17', '4')
-insert into player_record values ('45', '3', '2018-04-20', '2018-11-19', '1')
-insert into player_record values ('45', '3', '2018-12-20', '2020-03-18', '1')
-insert into player_record values ('45', '3', '2022-04-25', '2023-01-22', '1')
-insert into player_record values ('45', '3', '2022-04-25', '2023-01-22', '1')
-insert into player_record values ('46', '12', '2011-02-18', '2013-09-09', '2')
-insert into player_record values ('46', '12', '2015-09-12', '2016-03-13', '2')
-insert into player_record values ('46', '12', '2016-10-18', '2022-09-03', '2')
-insert into player_record values ('46', '12', '2016-10-18', '2022-09-03', '2')
-insert into player_record values ('47', '38', '2017-11-30', '2018-05-22', '4')
-insert into player_record values ('47', '38', '2021-12-19', '2022-03-13', '4')
-insert into player_record values ('47', '38', '2022-12-23', '2023-06-09', '4')
-insert into player_record values ('47', '38', '2022-12-23', '2023-06-09', '4')
-insert into player_record values ('48', '17', '2007-01-06', '2007-05-13', '2')
-insert into player_record values ('48', '17', '2009-01-12', '2011-06-21', '2')
-insert into player_record values ('48', '17', '2011-09-16', '2021-04-12', '2')
-insert into player_record values ('48', '17', '2011-09-16', '2021-04-12', '2')
-insert into player_record values ('49', '93', '2012-04-28', '2013-06-06', '10')
-insert into player_record values ('49', '93', '2013-09-21', '2016-11-23', '10')
-insert into player_record values ('49', '93', '2019-06-02', '2019-08-03', '10')
-insert into player_record values ('49', '93', '2019-06-02', '2019-08-03', '10')
-insert into player_record values ('50', '87', '2015-06-27', '2018-08-10', '9')
-insert into player_record values ('50', '87', '2019-02-07', '2021-09-20', '9')
-insert into player_record values ('50', '87', '2022-09-29', '2022-12-12', '9')
-insert into player_record values ('50', '87', '2022-09-29', '2022-12-12', '9')
-insert into player_record values ('51', '36', '2011-07-28', '2016-03-24', '4')
-insert into player_record values ('51', '36', '2017-07-03', '2018-06-08', '4')
-insert into player_record values ('51', '36', '2021-11-01', '2022-08-25', '4')
-insert into player_record values ('51', '36', '2021-11-01', '2022-08-25', '4')
-insert into player_record values ('52', '91', '2011-11-30', '2012-09-02', '10')
-insert into player_record values ('52', '91', '2014-05-08', '2021-03-03', '10')
-insert into player_record values ('52', '91', '2023-03-15', '2023-06-19', '10')
-insert into player_record values ('52', '91', '2023-03-15', '2023-06-19', '10')
-insert into player_record values ('53', '19', '2009-05-31', '2012-05-08', '2')
-insert into player_record values ('53', '19', '2013-08-06', '2014-01-20', '2')
-insert into player_record values ('53', '19', '2016-06-29', '2021-04-24', '2')
-insert into player_record values ('53', '19', '2016-06-29', '2021-04-24', '2')
-insert into player_record values ('54', '35', '2018-12-29', '2020-02-08', '4')
-insert into player_record values ('54', '35', '2020-10-24', '2021-06-07', '4')
-insert into player_record values ('54', '35', '2021-08-19', '2022-02-10', '4')
-insert into player_record values ('54', '35', '2021-08-19', '2022-02-10', '4')
-insert into player_record values ('55', '43', '2011-09-19', '2012-02-14', '5')
-insert into player_record values ('55', '43', '2014-08-13', '2019-05-18', '5')
-insert into player_record values ('55', '43', '2020-06-28', '2023-02-07', '5')
-insert into player_record values ('55', '43', '2020-06-28', '2023-02-07', '5')
-insert into player_record values ('56', '19', '2009-06-28', '2014-12-28', '2')
-insert into player_record values ('56', '19', '2015-12-07', '2019-01-25', '2')
-insert into player_record values ('56', '19', '2020-10-08', '2022-10-31', '2')
-insert into player_record values ('56', '19', '2020-10-08', '2022-10-31', '2')
-insert into player_record values ('57', '43', '2009-12-18', '2015-11-30', '5')
-insert into player_record values ('57', '43', '2016-06-01', '2016-06-19', '5')
-insert into player_record values ('57', '43', '2019-12-16', '2022-01-04', '5')
-insert into player_record values ('57', '43', '2019-12-16', '2022-01-04', '5')
-insert into player_record values ('58', '53', '2017-03-04', '2017-04-14', '6')
-insert into player_record values ('58', '53', '2017-12-17', '2017-12-22', '6')
-insert into player_record values ('58', '53', '2022-01-28', '2023-06-08', '6')
-insert into player_record values ('58', '53', '2022-01-28', '2023-06-08', '6')
-insert into player_record values ('59', '52', '2010-07-20', '2012-10-16', '6')
-insert into player_record values ('59', '52', '2014-04-02', '2017-07-18', '6')
-insert into player_record values ('59', '52', '2019-07-02', '2021-07-17', '6')
-insert into player_record values ('59', '52', '2019-07-02', '2021-07-17', '6')
-insert into player_record values ('60', '81', '2014-02-05', '2016-03-12', '9')
-insert into player_record values ('60', '81', '2018-08-01', '2019-01-06', '9')
-insert into player_record values ('60', '81', '2019-01-13', '2019-03-30', '9')
-insert into player_record values ('60', '81', '2019-01-13', '2019-03-30', '9')
-insert into player_record values ('61', '56', '2007-01-21', '2007-11-26', '6')
-insert into player_record values ('61', '56', '2011-12-14', '2014-04-09', '6')
-insert into player_record values ('61', '56', '2014-11-21', '2022-10-06', '6')
-insert into player_record values ('61', '56', '2014-11-21', '2022-10-06', '6')
-insert into player_record values ('62', '18', '2012-03-03', '2015-08-15', '2')
-insert into player_record values ('62', '18', '2016-03-16', '2018-07-01', '2')
-insert into player_record values ('62', '18', '2021-03-05', '2023-06-19', '2')
-insert into player_record values ('62', '18', '2021-03-05', '2023-06-19', '2')
-insert into player_record values ('63', '3', '2018-06-12', '2018-12-25', '1')
-insert into player_record values ('63', '3', '2019-06-16', '2020-05-18', '1')
-insert into player_record values ('63', '3', '2022-03-12', '2023-10-30', '1')
-insert into player_record values ('63', '3', '2022-03-12', '2023-10-30', '1')
-insert into player_record values ('64', '66', '2018-12-12', '2020-05-14', '7')
-insert into player_record values ('64', '66', '2020-12-06', '2021-02-13', '7')
-insert into player_record values ('64', '66', '2021-08-21', '2022-01-26', '7')
-insert into player_record values ('64', '66', '2021-08-21', '2022-01-26', '7')
-insert into player_record values ('65', '37', '2016-10-04', '2019-05-18', '4')
-insert into player_record values ('65', '37', '2020-03-10', '2022-02-20', '4')
-insert into player_record values ('65', '37', '2022-11-21', '2023-11-10', '4')
-insert into player_record values ('65', '37', '2022-11-21', '2023-11-10', '4')
-insert into player_record values ('66', '29', '2013-12-26', '2014-02-23', '3')
-insert into player_record values ('66', '29', '2014-05-26', '2017-05-05', '3')
-insert into player_record values ('66', '29', '2021-01-25', '2023-11-02', '3')
-insert into player_record values ('66', '29', '2021-01-25', '2023-11-02', '3')
-insert into player_record values ('67', '59', '2018-03-14', '2018-06-02', '6')
-insert into player_record values ('67', '59', '2018-07-24', '2021-09-20', '6')
-insert into player_record values ('67', '59', '2022-02-26', '2022-12-09', '6')
-insert into player_record values ('67', '59', '2022-02-26', '2022-12-09', '6')
-insert into player_record values ('68', '78', '2012-05-12', '2012-12-12', '8')
-insert into player_record values ('68', '78', '2018-03-10', '2019-02-27', '8')
-insert into player_record values ('68', '78', '2020-08-12', '2023-04-06', '8')
-insert into player_record values ('68', '78', '2020-08-12', '2023-04-06', '8')
-insert into player_record values ('69', '95', '2017-08-14', '2020-02-07', '10')
-insert into player_record values ('69', '95', '2020-08-26', '2021-10-22', '10')
-insert into player_record values ('69', '95', '2021-12-27', '2022-03-17', '10')
-insert into player_record values ('69', '95', '2021-12-27', '2022-03-17', '10')
-insert into player_record values ('70', '60', '2018-03-19', '2018-10-04', '6')
-insert into player_record values ('70', '60', '2019-04-23', '2020-06-20', '6')
-insert into player_record values ('70', '60', '2022-01-09', '2023-03-10', '6')
-insert into player_record values ('70', '60', '2022-01-09', '2023-03-10', '6')
-insert into player_record values ('71', '45', '2006-03-04', '2008-02-26', '5')
-insert into player_record values ('71', '45', '2010-07-04', '2014-06-19', '5')
-insert into player_record values ('71', '45', '2019-04-04', '2022-05-31', '5')
-insert into player_record values ('71', '45', '2019-04-04', '2022-05-31', '5')
-insert into player_record values ('72', '37', '2014-08-07', '2014-09-10', '4')
-insert into player_record values ('72', '37', '2016-02-11', '2016-08-12', '4')
-insert into player_record values ('72', '37', '2016-09-26', '2018-03-16', '4')
-insert into player_record values ('72', '37', '2016-09-26', '2018-03-16', '4')
-insert into player_record values ('73', '95', '2018-09-18', '2018-11-08', '10')
-insert into player_record values ('73', '95', '2019-07-10', '2020-09-30', '10')
-insert into player_record values ('73', '95', '2022-01-03', '2022-11-11', '10')
-insert into player_record values ('73', '95', '2022-01-03', '2022-11-11', '10')
-insert into player_record values ('74', '46', '2010-08-09', '2012-08-30', '5')
-insert into player_record values ('74', '46', '2014-07-21', '2016-12-17', '5')
-insert into player_record values ('74', '46', '2022-11-05', '2023-03-27', '5')
-insert into player_record values ('74', '46', '2022-11-05', '2023-03-27', '5')
-insert into player_record values ('75', '53', '2017-10-05', '2019-08-24', '6')
-insert into player_record values ('75', '53', '2019-11-29', '2021-07-19', '6')
-insert into player_record values ('75', '53', '2021-12-08', '2022-03-19', '6')
-insert into player_record values ('75', '53', '2021-12-08', '2022-03-19', '6')
-insert into player_record values ('76', '29', '2013-06-30', '2017-03-17', '3')
-insert into player_record values ('76', '29', '2018-03-27', '2018-12-28', '3')
-insert into player_record values ('76', '29', '2019-01-15', '2023-02-26', '3')
-insert into player_record values ('76', '29', '2019-01-15', '2023-02-26', '3')
-insert into player_record values ('77', '16', '2010-01-01', '2010-05-17', '2')
-insert into player_record values ('77', '16', '2010-06-16', '2011-04-22', '2')
-insert into player_record values ('77', '16', '2011-06-02', '2011-07-30', '2')
-insert into player_record values ('77', '16', '2011-06-02', '2011-07-30', '2')
-insert into player_record values ('78', '15', '2009-11-24', '2012-02-29', '2')
-insert into player_record values ('78', '15', '2013-11-16', '2016-05-23', '2')
-insert into player_record values ('78', '15', '2020-04-09', '2021-01-09', '2')
-insert into player_record values ('78', '15', '2020-04-09', '2021-01-09', '2')
-insert into player_record values ('79', '77', '2010-02-23', '2015-08-12', '8')
-insert into player_record values ('79', '77', '2015-11-17', '2016-06-26', '8')
-insert into player_record values ('79', '77', '2018-06-03', '2022-05-28', '8')
-insert into player_record values ('79', '77', '2018-06-03', '2022-05-28', '8')
-insert into player_record values ('80', '57', '2021-05-03', '2022-05-16', '6')
-insert into player_record values ('80', '57', '2022-09-09', '2022-11-08', '6')
-insert into player_record values ('80', '57', '2023-04-24', '2023-07-24', '6')
-insert into player_record values ('80', '57', '2023-04-24', '2023-07-24', '6')
-insert into player_record values ('81', '66', '2018-01-10', '2019-06-05', '7')
-insert into player_record values ('81', '66', '2019-12-27', '2020-07-05', '7')
-insert into player_record values ('81', '66', '2021-01-15', '2021-11-12', '7')
-insert into player_record values ('81', '66', '2021-01-15', '2021-11-12', '7')
-insert into player_record values ('82', '70', '2014-10-01', '2014-11-30', '7')
-insert into player_record values ('82', '70', '2017-11-29', '2020-10-16', '7')
-insert into player_record values ('82', '70', '2022-04-07', '2023-04-19', '7')
-insert into player_record values ('82', '70', '2022-04-07', '2023-04-19', '7')
-insert into player_record values ('83', '1', '2018-01-12', '2018-03-04', '1')
-insert into player_record values ('83', '1', '2021-01-04', '2022-01-15', '1')
-insert into player_record values ('83', '1', '2022-09-17', '2023-08-19', '1')
-insert into player_record values ('83', '1', '2022-09-17', '2023-08-19', '1')
-insert into player_record values ('84', '58', '2013-08-16', '2014-07-19', '6')
-insert into player_record values ('84', '58', '2020-03-28', '2020-09-21', '6')
-insert into player_record values ('84', '58', '2021-07-23', '2022-08-13', '6')
-insert into player_record values ('84', '58', '2021-07-23', '2022-08-13', '6')
-insert into player_record values ('85', '43', '2010-02-25', '2011-04-16', '5')
-insert into player_record values ('85', '43', '2015-02-20', '2016-05-08', '5')
-insert into player_record values ('85', '43', '2019-09-23', '2023-09-09', '5')
-insert into player_record values ('85', '43', '2019-09-23', '2023-09-09', '5')
-insert into player_record values ('86', '77', '2011-01-09', '2015-05-12', '8')
-insert into player_record values ('86', '77', '2018-07-18', '2021-09-16', '8')
-insert into player_record values ('86', '77', '2021-10-29', '2022-06-04', '8')
-insert into player_record values ('86', '77', '2021-10-29', '2022-06-04', '8')
-insert into player_record values ('87', '22', '2015-07-31', '2015-11-24', '3')
-insert into player_record values ('87', '22', '2016-12-24', '2017-06-08', '3')
-insert into player_record values ('87', '22', '2017-08-27', '2017-11-03', '3')
-insert into player_record values ('87', '22', '2017-08-27', '2017-11-03', '3')
-insert into player_record values ('88', '65', '2009-08-25', '2010-09-24', '7')
-insert into player_record values ('88', '65', '2012-03-06', '2013-04-29', '7')
-insert into player_record values ('88', '65', '2020-05-16', '2020-09-02', '7')
-insert into player_record values ('88', '65', '2020-05-16', '2020-09-02', '7')
-insert into player_record values ('89', '40', '2013-07-15', '2014-06-02', '4')
-insert into player_record values ('89', '40', '2015-03-27', '2015-11-24', '4')
-insert into player_record values ('89', '40', '2017-02-17', '2021-07-13', '4')
-insert into player_record values ('89', '40', '2017-02-17', '2021-07-13', '4')
-insert into player_record values ('90', '79', '2011-03-08', '2011-09-22', '8')
-insert into player_record values ('90', '79', '2013-11-19', '2013-12-03', '8')
-insert into player_record values ('90', '79', '2015-01-23', '2021-11-03', '8')
-insert into player_record values ('90', '79', '2015-01-23', '2021-11-03', '8')
-insert into player_record values ('91', '44', '2012-09-30', '2014-03-04', '5')
-insert into player_record values ('91', '44', '2016-05-31', '2017-02-23', '5')
-insert into player_record values ('91', '44', '2019-10-15', '2023-01-22', '5')
-insert into player_record values ('91', '44', '2019-10-15', '2023-01-22', '5')
-insert into player_record values ('92', '9', '2013-07-06', '2013-11-30', '1')
-insert into player_record values ('92', '9', '2014-07-13', '2015-03-31', '1')
-insert into player_record values ('92', '9', '2019-08-12', '2020-06-29', '1')
-insert into player_record values ('92', '9', '2019-08-12', '2020-06-29', '1')
-insert into player_record values ('93', '8', '2017-04-27', '2017-10-11', '1')
-insert into player_record values ('93', '8', '2019-04-03', '2019-05-31', '1')
-insert into player_record values ('93', '8', '2019-12-20', '2023-03-21', '1')
-insert into player_record values ('93', '8', '2019-12-20', '2023-03-21', '1')
-insert into player_record values ('94', '41', '2015-11-01', '2016-06-10', '5')
-insert into player_record values ('94', '41', '2016-11-28', '2021-09-02', '5')
-insert into player_record values ('94', '41', '2021-11-01', '2022-02-17', '5')
-insert into player_record values ('94', '41', '2021-11-01', '2022-02-17', '5')
-insert into player_record values ('95', '35', '2019-04-02', '2019-07-07', '4')
-insert into player_record values ('95', '35', '2020-02-18', '2021-01-28', '4')
-insert into player_record values ('95', '35', '2021-03-24', '2023-05-18', '4')
-insert into player_record values ('95', '35', '2021-03-24', '2023-05-18', '4')
-insert into player_record values ('96', '86', '2010-05-28', '2016-04-07', '9')
-insert into player_record values ('96', '86', '2016-06-02', '2016-08-02', '9')
-insert into player_record values ('96', '86', '2019-11-01', '2020-11-04', '9')
-insert into player_record values ('96', '86', '2019-11-01', '2020-11-04', '9')
-insert into player_record values ('97', '28', '2016-12-05', '2016-12-15', '3')
-insert into player_record values ('97', '28', '2018-05-08', '2019-03-11', '3')
-insert into player_record values ('97', '28', '2021-04-30', '2021-07-02', '3')
-insert into player_record values ('97', '28', '2021-04-30', '2021-07-02', '3')
-insert into player_record values ('98', '36', '2016-05-08', '2016-09-11', '4')
-insert into player_record values ('98', '36', '2016-11-05', '2020-03-11', '4')
-insert into player_record values ('98', '36', '2021-01-11', '2021-08-15', '4')
-insert into player_record values ('98', '36', '2021-01-11', '2021-08-15', '4')
-insert into player_record values ('99', '71', '2018-11-11', '2019-02-11', '8')
-insert into player_record values ('99', '71', '2019-09-14', '2020-08-25', '8')
-insert into player_record values ('99', '71', '2021-06-30', '2023-10-30', '8')
-insert into player_record values ('99', '71', '2021-06-30', '2023-10-30', '8')
-insert into player_record values ('100', '99', '2016-04-25', '2017-02-23', '10')
-insert into player_record values ('100', '99', '2017-03-08', '2017-11-29', '10')
-insert into player_record values ('100', '99', '2019-08-20', '2021-03-13', '10')
-insert into player_record values ('100', '99', '2019-08-20', '2021-03-13', '10')
-insert into player_record values ('101', '90', '2008-03-21', '2008-07-31', '9')
-insert into player_record values ('101', '90', '2017-09-12', '2018-04-06', '9')
-insert into player_record values ('101', '90', '2018-07-27', '2020-10-07', '9')
-insert into player_record values ('101', '90', '2018-07-27', '2020-10-07', '9')
-insert into player_record values ('102', '45', '2006-10-22', '2008-10-21', '5')
-insert into player_record values ('102', '45', '2008-12-17', '2010-04-01', '5')
-insert into player_record values ('102', '45', '2022-08-09', '2023-09-22', '5')
-insert into player_record values ('102', '45', '2022-08-09', '2023-09-22', '5')
-insert into player_record values ('103', '19', '2009-10-01', '2011-02-28', '2')
-insert into player_record values ('103', '19', '2013-02-27', '2016-12-12', '2')
-insert into player_record values ('103', '19', '2016-12-30', '2018-01-30', '2')
-insert into player_record values ('103', '19', '2016-12-30', '2018-01-30', '2')
-insert into player_record values ('104', '60', '2019-01-18', '2019-11-26', '6')
-insert into player_record values ('104', '60', '2020-01-31', '2020-07-28', '6')
-insert into player_record values ('104', '60', '2021-03-18', '2023-02-07', '6')
-insert into player_record values ('104', '60', '2021-03-18', '2023-02-07', '6')
-insert into player_record values ('105', '35', '2019-01-17', '2020-01-25', '4')
-insert into player_record values ('105', '35', '2021-07-14', '2022-03-20', '4')
-insert into player_record values ('105', '35', '2022-05-24', '2023-10-13', '4')
-insert into player_record values ('105', '35', '2022-05-24', '2023-10-13', '4')
-insert into player_record values ('106', '57', '2020-12-16', '2021-09-30', '6')
-insert into player_record values ('106', '57', '2021-12-23', '2022-05-15', '6')
-insert into player_record values ('106', '57', '2023-03-28', '2023-08-22', '6')
-insert into player_record values ('106', '57', '2023-03-28', '2023-08-22', '6')
-insert into player_record values ('107', '60', '2017-10-09', '2021-03-25', '6')
-insert into player_record values ('107', '60', '2023-01-12', '2023-01-13', '6')
-insert into player_record values ('107', '60', '2023-08-26', '2023-09-02', '6')
-insert into player_record values ('107', '60', '2023-08-26', '2023-09-02', '6')
-insert into player_record values ('108', '26', '2014-03-16', '2014-11-28', '3')
-insert into player_record values ('108', '26', '2016-10-18', '2016-10-30', '3')
-insert into player_record values ('108', '26', '2022-07-04', '2023-05-10', '3')
-insert into player_record values ('108', '26', '2022-07-04', '2023-05-10', '3')
-insert into player_record values ('109', '21', '2017-09-28', '2019-01-06', '3')
-insert into player_record values ('109', '21', '2020-06-20', '2022-08-11', '3')
-insert into player_record values ('109', '21', '2023-08-25', '2023-09-07', '3')
-insert into player_record values ('109', '21', '2023-08-25', '2023-09-07', '3')
-insert into player_record values ('110', '65', '2014-08-31', '2018-02-11', '7')
-insert into player_record values ('110', '65', '2019-10-05', '2019-12-19', '7')
-insert into player_record values ('110', '65', '2021-03-06', '2022-01-29', '7')
-insert into player_record values ('110', '65', '2021-03-06', '2022-01-29', '7')
-insert into player_record values ('111', '83', '2016-07-15', '2017-03-24', '9')
-insert into player_record values ('111', '83', '2018-01-15', '2019-05-19', '9')
-insert into player_record values ('111', '83', '2020-03-17', '2022-11-17', '9')
-insert into player_record values ('111', '83', '2020-03-17', '2022-11-17', '9')
-insert into player_record values ('112', '39', '2006-12-27', '2007-07-16', '4')
-insert into player_record values ('112', '39', '2014-05-29', '2015-01-28', '4')
-insert into player_record values ('112', '39', '2020-12-03', '2023-11-26', '4')
-insert into player_record values ('112', '39', '2020-12-03', '2023-11-26', '4')
-insert into player_record values ('113', '50', '2014-04-22', '2014-07-11', '5')
-insert into player_record values ('113', '50', '2015-02-04', '2015-06-13', '5')
-insert into player_record values ('113', '50', '2018-05-10', '2020-03-11', '5')
-insert into player_record values ('113', '50', '2018-05-10', '2020-03-11', '5')
-insert into player_record values ('114', '36', '2012-06-04', '2015-12-23', '4')
-insert into player_record values ('114', '36', '2017-05-01', '2019-12-01', '4')
-insert into player_record values ('114', '36', '2021-06-13', '2023-11-10', '4')
-insert into player_record values ('114', '36', '2021-06-13', '2023-11-10', '4')
-insert into player_record values ('115', '80', '2017-07-06', '2018-06-24', '8')
-insert into player_record values ('115', '80', '2018-12-01', '2018-12-17', '8')
-insert into player_record values ('115', '80', '2019-11-07', '2020-05-19', '8')
-insert into player_record values ('115', '80', '2019-11-07', '2020-05-19', '8')
-insert into player_record values ('116', '17', '2012-06-07', '2013-06-03', '2')
-insert into player_record values ('116', '17', '2015-10-01', '2020-09-18', '2')
-insert into player_record values ('116', '17', '2022-06-11', '2023-06-20', '2')
-insert into player_record values ('116', '17', '2022-06-11', '2023-06-20', '2')
-insert into player_record values ('117', '86', '2012-01-11', '2014-05-06', '9')
-insert into player_record values ('117', '86', '2015-12-11', '2019-07-09', '9')
-insert into player_record values ('117', '86', '2022-09-14', '2023-02-09', '9')
-insert into player_record values ('117', '86', '2022-09-14', '2023-02-09', '9')
-insert into player_record values ('118', '60', '2017-09-13', '2017-09-30', '6')
-insert into player_record values ('118', '60', '2018-04-30', '2019-01-03', '6')
-insert into player_record values ('118', '60', '2021-10-06', '2023-06-22', '6')
-insert into player_record values ('118', '60', '2021-10-06', '2023-06-22', '6')
-insert into player_record values ('119', '1', '2016-04-18', '2018-03-30', '1')
-insert into player_record values ('119', '1', '2019-07-29', '2020-05-17', '1')
-insert into player_record values ('119', '1', '2022-02-25', '2022-03-31', '1')
-insert into player_record values ('119', '1', '2022-02-25', '2022-03-31', '1')
-insert into player_record values ('120', '39', '2009-05-12', '2010-07-24', '4')
-insert into player_record values ('120', '39', '2015-01-02', '2015-07-20', '4')
-insert into player_record values ('120', '39', '2017-10-22', '2019-07-24', '4')
-insert into player_record values ('120', '39', '2017-10-22', '2019-07-24', '4')
-insert into player_record values ('121', '52', '2011-07-13', '2015-07-09', '6')
-insert into player_record values ('121', '52', '2015-10-24', '2015-12-27', '6')
-insert into player_record values ('121', '52', '2017-06-08', '2019-11-04', '6')
-insert into player_record values ('121', '52', '2017-06-08', '2019-11-04', '6')
-insert into player_record values ('122', '80', '2018-07-03', '2019-10-11', '8')
-insert into player_record values ('122', '80', '2019-11-07', '2020-03-27', '8')
-insert into player_record values ('122', '80', '2020-11-11', '2022-05-14', '8')
-insert into player_record values ('122', '80', '2020-11-11', '2022-05-14', '8')
-insert into player_record values ('123', '47', '2010-08-25', '2012-02-26', '5')
-insert into player_record values ('123', '47', '2012-06-08', '2015-03-26', '5')
-insert into player_record values ('123', '47', '2017-05-28', '2022-12-31', '5')
-insert into player_record values ('123', '47', '2017-05-28', '2022-12-31', '5')
-insert into player_record values ('124', '77', '2010-03-25', '2011-11-02', '8')
-insert into player_record values ('124', '77', '2017-01-18', '2017-06-19', '8')
-insert into player_record values ('124', '77', '2020-06-25', '2022-06-14', '8')
-insert into player_record values ('124', '77', '2020-06-25', '2022-06-14', '8')
-insert into player_record values ('125', '44', '2013-08-26', '2013-11-29', '5')
-insert into player_record values ('125', '44', '2017-07-23', '2020-02-14', '5')
-insert into player_record values ('125', '44', '2021-03-20', '2021-05-27', '5')
-insert into player_record values ('125', '44', '2021-03-20', '2021-05-27', '5')
-insert into player_record values ('126', '65', '2010-06-07', '2013-06-20', '7')
-insert into player_record values ('126', '65', '2019-02-24', '2022-08-19', '7')
-insert into player_record values ('126', '65', '2022-12-20', '2023-05-31', '7')
-insert into player_record values ('126', '65', '2022-12-20', '2023-05-31', '7')
-insert into player_record values ('127', '29', '2012-11-23', '2013-08-31', '3')
-insert into player_record values ('127', '29', '2014-04-17', '2015-09-22', '3')
-insert into player_record values ('127', '29', '2021-02-20', '2022-04-25', '3')
-insert into player_record values ('127', '29', '2021-02-20', '2022-04-25', '3')
-insert into player_record values ('128', '57', '2019-09-01', '2021-07-17', '6')
-insert into player_record values ('128', '57', '2022-01-15', '2022-01-25', '6')
-insert into player_record values ('128', '57', '2022-12-13', '2023-04-02', '6')
-insert into player_record values ('128', '57', '2022-12-13', '2023-04-02', '6')
-insert into player_record values ('129', '64', '2010-06-29', '2012-03-10', '7')
-insert into player_record values ('129', '64', '2014-10-12', '2017-04-16', '7')
-insert into player_record values ('129', '64', '2018-12-26', '2023-11-26', '7')
-insert into player_record values ('129', '64', '2018-12-26', '2023-11-26', '7')
-insert into player_record values ('130', '28', '2011-11-22', '2017-10-20', '3')
-insert into player_record values ('130', '28', '2020-06-04', '2021-10-01', '3')
-insert into player_record values ('130', '28', '2022-11-02', '2023-03-13', '3')
-insert into player_record values ('130', '28', '2022-11-02', '2023-03-13', '3')
-insert into player_record values ('131', '55', '2013-08-31', '2016-07-03', '6')
-insert into player_record values ('131', '55', '2017-02-07', '2019-10-27', '6')
-insert into player_record values ('131', '55', '2022-01-23', '2022-09-18', '6')
-insert into player_record values ('131', '55', '2022-01-23', '2022-09-18', '6')
-insert into player_record values ('132', '38', '2014-09-28', '2016-03-05', '4')
-insert into player_record values ('132', '38', '2017-03-25', '2019-01-05', '4')
-insert into player_record values ('132', '38', '2019-02-27', '2019-12-19', '4')
-insert into player_record values ('132', '38', '2019-02-27', '2019-12-19', '4')
-insert into player_record values ('133', '80', '2018-08-08', '2021-01-20', '8')
-insert into player_record values ('133', '80', '2021-05-09', '2021-10-31', '8')
-insert into player_record values ('133', '80', '2022-10-12', '2023-07-24', '8')
-insert into player_record values ('133', '80', '2022-10-12', '2023-07-24', '8')
-insert into player_record values ('134', '32', '2010-12-31', '2011-02-24', '4')
-insert into player_record values ('134', '32', '2012-08-05', '2015-07-11', '4')
-insert into player_record values ('134', '32', '2016-07-18', '2022-09-08', '4')
-insert into player_record values ('134', '32', '2016-07-18', '2022-09-08', '4')
-insert into player_record values ('135', '54', '2009-08-13', '2010-11-21', '6')
-insert into player_record values ('135', '54', '2010-12-24', '2011-07-14', '6')
-insert into player_record values ('135', '54', '2016-04-29', '2020-08-20', '6')
-insert into player_record values ('135', '54', '2016-04-29', '2020-08-20', '6')
-insert into player_record values ('136', '44', '2011-07-13', '2013-01-12', '5')
-insert into player_record values ('136', '44', '2013-05-23', '2013-08-15', '5')
-insert into player_record values ('136', '44', '2015-01-29', '2015-07-05', '5')
-insert into player_record values ('136', '44', '2015-01-29', '2015-07-05', '5')
-insert into player_record values ('137', '25', '2018-06-24', '2021-05-01', '3')
-insert into player_record values ('137', '25', '2022-08-26', '2022-09-15', '3')
-insert into player_record values ('137', '25', '2022-11-01', '2023-04-03', '3')
-insert into player_record values ('137', '25', '2022-11-01', '2023-04-03', '3')
-insert into player_record values ('138', '33', '2008-08-04', '2012-10-06', '4')
-insert into player_record values ('138', '33', '2013-12-03', '2015-01-11', '4')
-insert into player_record values ('138', '33', '2016-07-27', '2018-02-18', '4')
-insert into player_record values ('138', '33', '2016-07-27', '2018-02-18', '4')
-insert into player_record values ('139', '3', '2017-11-12', '2018-10-21', '1')
-insert into player_record values ('139', '3', '2020-05-05', '2020-09-21', '1')
-insert into player_record values ('139', '3', '2021-09-09', '2022-08-31', '1')
-insert into player_record values ('139', '3', '2021-09-09', '2022-08-31', '1')
-insert into player_record values ('140', '11', '2017-07-04', '2017-11-27', '2')
-insert into player_record values ('140', '11', '2019-02-12', '2019-08-22', '2')
-insert into player_record values ('140', '11', '2020-05-25', '2021-04-09', '2')
-insert into player_record values ('140', '11', '2020-05-25', '2021-04-09', '2')
-insert into player_record values ('141', '72', '2010-01-31', '2012-04-24', '8')
-insert into player_record values ('141', '72', '2015-02-13', '2018-07-21', '8')
-insert into player_record values ('141', '72', '2019-04-20', '2023-10-27', '8')
-insert into player_record values ('141', '72', '2019-04-20', '2023-10-27', '8')
-insert into player_record values ('142', '18', '2014-03-03', '2016-05-01', '2')
-insert into player_record values ('142', '18', '2019-02-14', '2019-06-18', '2')
-insert into player_record values ('142', '18', '2021-09-02', '2021-09-27', '2')
-insert into player_record values ('142', '18', '2021-09-02', '2021-09-27', '2')
-insert into player_record values ('143', '3', '2017-12-25', '2018-05-21', '1')
-insert into player_record values ('143', '3', '2020-02-16', '2020-04-28', '1')
-insert into player_record values ('143', '3', '2021-09-22', '2023-11-18', '1')
-insert into player_record values ('143', '3', '2021-09-22', '2023-11-18', '1')
-insert into player_record values ('144', '49', '2016-02-09', '2017-08-28', '5')
-insert into player_record values ('144', '49', '2018-05-25', '2019-06-18', '5')
-insert into player_record values ('144', '49', '2020-05-16', '2023-07-26', '5')
-insert into player_record values ('144', '49', '2020-05-16', '2023-07-26', '5')
-insert into player_record values ('145', '90', '2008-03-03', '2015-07-21', '9')
-insert into player_record values ('145', '90', '2017-05-15', '2018-05-26', '9')
-insert into player_record values ('145', '90', '2023-02-10', '2023-10-12', '9')
-insert into player_record values ('145', '90', '2023-02-10', '2023-10-12', '9')
-insert into player_record values ('146', '77', '2011-10-05', '2012-04-23', '8')
-insert into player_record values ('146', '77', '2013-06-08', '2019-07-31', '8')
-insert into player_record values ('146', '77', '2022-03-08', '2023-09-13', '8')
-insert into player_record values ('146', '77', '2022-03-08', '2023-09-13', '8')
-insert into player_record values ('147', '95', '2017-01-30', '2018-03-08', '10')
-insert into player_record values ('147', '95', '2018-09-28', '2020-06-21', '10')
-insert into player_record values ('147', '95', '2021-09-30', '2021-12-28', '10')
-insert into player_record values ('147', '95', '2021-09-30', '2021-12-28', '10')
-insert into player_record values ('148', '37', '2014-01-10', '2016-03-29', '4')
-insert into player_record values ('148', '37', '2018-05-23', '2019-07-01', '4')
-insert into player_record values ('148', '37', '2020-03-14', '2022-01-28', '4')
-insert into player_record values ('148', '37', '2020-03-14', '2022-01-28', '4')
-insert into player_record values ('149', '6', '2013-10-10', '2014-06-15', '1')
-insert into player_record values ('149', '6', '2015-06-02', '2018-02-04', '1')
-insert into player_record values ('149', '6', '2018-07-28', '2021-12-17', '1')
-insert into player_record values ('149', '6', '2018-07-28', '2021-12-17', '1')
-insert into player_record values ('150', '41', '2014-04-21', '2018-02-25', '5')
-insert into player_record values ('150', '41', '2018-07-13', '2019-01-24', '5')
-insert into player_record values ('150', '41', '2020-04-15', '2021-08-12', '5')
-insert into player_record values ('150', '41', '2020-04-15', '2021-08-12', '5')
-insert into player_record values ('151', '62', '2019-07-19', '2019-07-28', '7')
-insert into player_record values ('151', '62', '2022-11-27', '2023-08-03', '7')
-insert into player_record values ('151', '62', '2023-08-31', '2023-11-23', '7')
-insert into player_record values ('151', '62', '2023-08-31', '2023-11-23', '7')
-insert into player_record values ('152', '74', '2011-03-10', '2012-02-27', '8')
-insert into player_record values ('152', '74', '2016-10-06', '2018-12-07', '8')
-insert into player_record values ('152', '74', '2019-08-02', '2020-06-10', '8')
-insert into player_record values ('152', '74', '2019-08-02', '2020-06-10', '8')
-insert into player_record values ('153', '88', '2011-11-28', '2012-06-03', '9')
-insert into player_record values ('153', '88', '2014-03-09', '2015-03-16', '9')
-insert into player_record values ('153', '88', '2019-07-15', '2022-08-18', '9')
-insert into player_record values ('153', '88', '2019-07-15', '2022-08-18', '9')
-insert into player_record values ('154', '67', '2018-09-17', '2019-05-22', '7')
-insert into player_record values ('154', '67', '2019-06-14', '2019-08-30', '7')
-insert into player_record values ('154', '67', '2021-04-22', '2021-05-17', '7')
-insert into player_record values ('154', '67', '2021-04-22', '2021-05-17', '7')
-insert into player_record values ('155', '75', '2013-11-08', '2015-05-16', '8')
-insert into player_record values ('155', '75', '2016-09-17', '2019-09-03', '8')
-insert into player_record values ('155', '75', '2021-07-17', '2021-11-18', '8')
-insert into player_record values ('155', '75', '2021-07-17', '2021-11-18', '8')
-insert into player_record values ('156', '98', '2007-07-10', '2007-11-17', '10')
-insert into player_record values ('156', '98', '2015-01-22', '2017-02-01', '10')
-insert into player_record values ('156', '98', '2019-05-28', '2022-07-14', '10')
-insert into player_record values ('156', '98', '2019-05-28', '2022-07-14', '10')
-insert into player_record values ('157', '44', '2014-06-28', '2015-10-12', '5')
-insert into player_record values ('157', '44', '2017-01-21', '2018-04-05', '5')
-insert into player_record values ('157', '44', '2018-09-13', '2021-02-28', '5')
-insert into player_record values ('157', '44', '2018-09-13', '2021-02-28', '5')
-insert into player_record values ('158', '4', '2011-10-16', '2013-05-13', '1')
-insert into player_record values ('158', '4', '2019-09-11', '2020-10-17', '1')
-insert into player_record values ('158', '4', '2020-11-04', '2022-07-25', '1')
-insert into player_record values ('158', '4', '2020-11-04', '2022-07-25', '1')
-insert into player_record values ('159', '78', '2008-08-11', '2014-12-30', '8')
-insert into player_record values ('159', '78', '2016-07-22', '2017-07-02', '8')
-insert into player_record values ('159', '78', '2019-08-31', '2022-12-30', '8')
-insert into player_record values ('159', '78', '2019-08-31', '2022-12-30', '8')
-insert into player_record values ('160', '26', '2018-04-01', '2019-06-09', '3')
-insert into player_record values ('160', '26', '2020-12-16', '2022-02-23', '3')
-insert into player_record values ('160', '26', '2022-12-12', '2023-04-18', '3')
-insert into player_record values ('160', '26', '2022-12-12', '2023-04-18', '3')
-insert into player_record values ('161', '41', '2014-03-26', '2018-03-12', '5')
-insert into player_record values ('161', '41', '2020-08-16', '2021-12-07', '5')
-insert into player_record values ('161', '41', '2022-02-02', '2023-01-03', '5')
-insert into player_record values ('161', '41', '2022-02-02', '2023-01-03', '5')
-insert into player_record values ('162', '42', '2016-05-08', '2018-04-19', '5')
-insert into player_record values ('162', '42', '2019-05-13', '2022-06-19', '5')
-insert into player_record values ('162', '42', '2022-08-16', '2023-02-24', '5')
-insert into player_record values ('162', '42', '2022-08-16', '2023-02-24', '5')
-insert into player_record values ('163', '5', '2010-08-08', '2014-02-13', '1')
-insert into player_record values ('163', '5', '2015-08-29', '2017-07-10', '1')
-insert into player_record values ('163', '5', '2018-12-07', '2019-02-04', '1')
-insert into player_record values ('163', '5', '2018-12-07', '2019-02-04', '1')
-insert into player_record values ('164', '46', '2006-04-13', '2007-01-17', '5')
-insert into player_record values ('164', '46', '2008-11-19', '2019-09-22', '5')
-insert into player_record values ('164', '46', '2020-12-19', '2021-04-20', '5')
-insert into player_record values ('164', '46', '2020-12-19', '2021-04-20', '5')
-insert into player_record values ('165', '85', '2012-02-06', '2014-04-03', '9')
-insert into player_record values ('165', '85', '2016-03-01', '2021-05-28', '9')
-insert into player_record values ('165', '85', '2022-01-30', '2023-02-13', '9')
-insert into player_record values ('165', '85', '2022-01-30', '2023-02-13', '9')
-insert into player_record values ('166', '18', '2011-11-08', '2015-02-02', '2')
-insert into player_record values ('166', '18', '2016-10-29', '2018-06-06', '2')
-insert into player_record values ('166', '18', '2020-02-20', '2021-07-31', '2')
-insert into player_record values ('166', '18', '2020-02-20', '2021-07-31', '2')
-insert into player_record values ('167', '24', '2007-05-04', '2007-05-18', '3')
-insert into player_record values ('167', '24', '2012-11-13', '2015-03-31', '3')
-insert into player_record values ('167', '24', '2019-05-31', '2019-09-19', '3')
-insert into player_record values ('167', '24', '2019-05-31', '2019-09-19', '3')
-insert into player_record values ('168', '91', '2011-10-08', '2012-06-26', '10')
-insert into player_record values ('168', '91', '2016-08-24', '2016-12-09', '10')
-insert into player_record values ('168', '91', '2021-07-07', '2023-03-16', '10')
-insert into player_record values ('168', '91', '2021-07-07', '2023-03-16', '10')
-insert into player_record values ('169', '1', '2016-07-27', '2018-02-04', '1')
-insert into player_record values ('169', '1', '2018-07-08', '2020-05-03', '1')
-insert into player_record values ('169', '1', '2020-11-11', '2021-11-10', '1')
-insert into player_record values ('169', '1', '2020-11-11', '2021-11-10', '1')
-insert into player_record values ('170', '28', '2013-02-09', '2015-01-15', '3')
-insert into player_record values ('170', '28', '2016-12-22', '2017-11-20', '3')
-insert into player_record values ('170', '28', '2018-09-11', '2023-03-27', '3')
-insert into player_record values ('170', '28', '2018-09-11', '2023-03-27', '3')
-insert into player_record values ('171', '78', '2009-06-05', '2010-04-23', '8')
-insert into player_record values ('171', '78', '2011-08-27', '2012-02-05', '8')
-insert into player_record values ('171', '78', '2012-08-30', '2020-07-09', '8')
-insert into player_record values ('171', '78', '2012-08-30', '2020-07-09', '8')
-insert into player_record values ('172', '98', '2008-07-07', '2009-11-20', '10')
-insert into player_record values ('172', '98', '2011-06-04', '2017-09-22', '10')
-insert into player_record values ('172', '98', '2019-05-07', '2022-09-23', '10')
-insert into player_record values ('172', '98', '2019-05-07', '2022-09-23', '10')
-insert into player_record values ('173', '35', '2021-10-16', '2022-02-01', '4')
-insert into player_record values ('173', '35', '2022-04-01', '2022-04-29', '4')
-insert into player_record values ('173', '35', '2022-06-26', '2023-11-08', '4')
-insert into player_record values ('173', '35', '2022-06-26', '2023-11-08', '4')
-insert into player_record values ('174', '14', '2011-09-29', '2013-06-17', '2')
-insert into player_record values ('174', '14', '2014-08-21', '2017-04-21', '2')
-insert into player_record values ('174', '14', '2017-08-09', '2021-05-07', '2')
-insert into player_record values ('174', '14', '2017-08-09', '2021-05-07', '2')
-insert into player_record values ('175', '63', '2008-01-19', '2008-09-17', '7')
-insert into player_record values ('175', '63', '2009-01-08', '2010-07-22', '7')
-insert into player_record values ('175', '63', '2014-11-03', '2021-11-01', '7')
-insert into player_record values ('175', '63', '2014-11-03', '2021-11-01', '7')
-insert into player_record values ('176', '82', '2014-10-26', '2014-11-04', '9')
-insert into player_record values ('176', '82', '2018-10-12', '2019-03-28', '9')
-insert into player_record values ('176', '82', '2019-04-28', '2021-02-01', '9')
-insert into player_record values ('176', '82', '2019-04-28', '2021-02-01', '9')
-insert into player_record values ('177', '51', '2016-10-28', '2017-02-04', '6')
-insert into player_record values ('177', '51', '2018-03-26', '2019-02-14', '6')
-insert into player_record values ('177', '51', '2019-09-15', '2020-09-16', '6')
-insert into player_record values ('177', '51', '2019-09-15', '2020-09-16', '6')
-insert into player_record values ('178', '83', '2016-06-22', '2017-12-23', '9')
-insert into player_record values ('178', '83', '2020-12-23', '2022-04-30', '9')
-insert into player_record values ('178', '83', '2022-07-06', '2023-09-21', '9')
-insert into player_record values ('178', '83', '2022-07-06', '2023-09-21', '9')
-insert into player_record values ('179', '91', '2010-06-20', '2011-09-24', '10')
-insert into player_record values ('179', '91', '2012-04-19', '2017-05-22', '10')
-insert into player_record values ('179', '91', '2019-09-10', '2023-02-04', '10')
-insert into player_record values ('179', '91', '2019-09-10', '2023-02-04', '10')
-insert into player_record values ('180', '82', '2015-03-30', '2017-01-08', '9')
-insert into player_record values ('180', '82', '2017-12-21', '2019-09-27', '9')
-insert into player_record values ('180', '82', '2021-10-21', '2022-11-21', '9')
-insert into player_record values ('180', '82', '2021-10-21', '2022-11-21', '9')
-insert into player_record values ('181', '57', '2019-06-04', '2019-11-06', '6')
-insert into player_record values ('181', '57', '2020-01-28', '2020-03-20', '6')
-insert into player_record values ('181', '57', '2021-07-11', '2022-03-25', '6')
-insert into player_record values ('181', '57', '2021-07-11', '2022-03-25', '6')
-insert into player_record values ('182', '89', '2017-01-12', '2017-02-28', '9')
-insert into player_record values ('182', '89', '2018-03-07', '2018-08-08', '9')
-insert into player_record values ('182', '89', '2019-10-10', '2022-08-22', '9')
-insert into player_record values ('182', '89', '2019-10-10', '2022-08-22', '9')
-insert into player_record values ('183', '18', '2011-09-11', '2013-11-23', '2')
-insert into player_record values ('183', '18', '2014-08-19', '2015-10-31', '2')
-insert into player_record values ('183', '18', '2017-04-18', '2017-09-18', '2')
-insert into player_record values ('183', '18', '2017-04-18', '2017-09-18', '2')
-insert into player_record values ('184', '52', '2010-11-25', '2011-05-21', '6')
-insert into player_record values ('184', '52', '2012-04-18', '2012-08-26', '6')
-insert into player_record values ('184', '52', '2018-12-30', '2023-09-02', '6')
-insert into player_record values ('184', '52', '2018-12-30', '2023-09-02', '6')
-insert into player_record values ('185', '49', '2017-01-04', '2017-11-01', '5')
-insert into player_record values ('185', '49', '2018-07-11', '2018-10-05', '5')
-insert into player_record values ('185', '49', '2020-02-05', '2022-05-19', '5')
-insert into player_record values ('185', '49', '2020-02-05', '2022-05-19', '5')
-insert into player_record values ('186', '25', '2019-04-13', '2019-08-05', '3')
-insert into player_record values ('186', '25', '2019-08-30', '2019-12-07', '3')
-insert into player_record values ('186', '25', '2020-04-26', '2021-03-19', '3')
-insert into player_record values ('186', '25', '2020-04-26', '2021-03-19', '3')
-insert into player_record values ('187', '4', '2011-06-18', '2021-04-12', '1')
-insert into player_record values ('187', '4', '2021-06-15', '2022-07-14', '1')
-insert into player_record values ('187', '4', '2023-01-29', '2023-06-15', '1')
-insert into player_record values ('187', '4', '2023-01-29', '2023-06-15', '1')
-insert into player_record values ('188', '36', '2014-09-05', '2017-01-19', '4')
-insert into player_record values ('188', '36', '2018-07-05', '2019-05-04', '4')
-insert into player_record values ('188', '36', '2019-10-23', '2020-08-30', '4')
-insert into player_record values ('188', '36', '2019-10-23', '2020-08-30', '4')
-insert into player_record values ('189', '5', '2011-12-31', '2015-09-30', '1')
-insert into player_record values ('189', '5', '2017-10-18', '2018-02-20', '1')
-insert into player_record values ('189', '5', '2019-02-25', '2023-07-08', '1')
-insert into player_record values ('189', '5', '2019-02-25', '2023-07-08', '1')
-insert into player_record values ('190', '6', '2017-04-13', '2017-08-02', '1')
-insert into player_record values ('190', '6', '2018-08-02', '2020-01-06', '1')
-insert into player_record values ('190', '6', '2020-12-21', '2021-09-09', '1')
-insert into player_record values ('190', '6', '2020-12-21', '2021-09-09', '1')
-insert into player_record values ('191', '10', '2012-06-25', '2014-07-04', '1')
-insert into player_record values ('191', '10', '2015-10-21', '2016-10-14', '1')
-insert into player_record values ('191', '10', '2019-04-10', '2022-08-01', '1')
-insert into player_record values ('191', '10', '2019-04-10', '2022-08-01', '1')
-insert into player_record values ('192', '41', '2018-03-28', '2019-04-06', '5')
-insert into player_record values ('192', '41', '2020-12-09', '2021-09-01', '5')
-insert into player_record values ('192', '41', '2022-09-25', '2022-12-03', '5')
-insert into player_record values ('192', '41', '2022-09-25', '2022-12-03', '5')
-insert into player_record values ('193', '27', '2007-05-26', '2012-08-23', '3')
-insert into player_record values ('193', '27', '2017-05-27', '2018-10-22', '3')
-insert into player_record values ('193', '27', '2020-03-15', '2023-01-22', '3')
-insert into player_record values ('193', '27', '2020-03-15', '2023-01-22', '3')
-insert into player_record values ('194', '6', '2013-01-30', '2014-06-15', '1')
-insert into player_record values ('194', '6', '2016-01-12', '2019-09-18', '1')
-insert into player_record values ('194', '6', '2021-05-09', '2021-10-10', '1')
-insert into player_record values ('194', '6', '2021-05-09', '2021-10-10', '1')
-insert into player_record values ('195', '4', '2014-04-19', '2014-11-17', '1')
-insert into player_record values ('195', '4', '2015-02-19', '2017-11-14', '1')
-insert into player_record values ('195', '4', '2018-01-23', '2018-02-14', '1')
-insert into player_record values ('195', '4', '2018-01-23', '2018-02-14', '1')
-insert into player_record values ('196', '10', '2012-08-27', '2015-06-25', '1')
-insert into player_record values ('196', '10', '2018-06-27', '2020-05-16', '1')
-insert into player_record values ('196', '10', '2020-06-27', '2021-11-13', '1')
-insert into player_record values ('196', '10', '2020-06-27', '2021-11-13', '1')
-insert into player_record values ('197', '96', '2008-08-31', '2013-11-05', '10')
-insert into player_record values ('197', '96', '2014-05-26', '2016-04-19', '10')
-insert into player_record values ('197', '96', '2023-02-15', '2023-10-03', '10')
-insert into player_record values ('197', '96', '2023-02-15', '2023-10-03', '10')
-insert into player_record values ('198', '94', '2018-09-10', '2019-03-23', '10')
-insert into player_record values ('198', '94', '2020-12-02', '2022-07-18', '10')
-insert into player_record values ('198', '94', '2023-07-29', '2023-11-05', '10')
-insert into player_record values ('198', '94', '2023-07-29', '2023-11-05', '10')
-insert into player_record values ('199', '58', '2013-05-11', '2015-01-26', '6')
-insert into player_record values ('199', '58', '2016-02-21', '2018-09-02', '6')
-insert into player_record values ('199', '58', '2021-04-21', '2022-04-02', '6')
-insert into player_record values ('199', '58', '2021-04-21', '2022-04-02', '6')
-insert into player_record values ('200', '94', '2019-05-15', '2020-01-24', '10')
-insert into player_record values ('200', '94', '2020-04-30', '2023-05-16', '10')
-insert into player_record values ('200', '94', '2023-07-21', '2023-10-02', '10')
-insert into player_record values ('200', '94', '2023-07-21', '2023-10-02', '10')
-insert into player_record values ('201', '12', '2009-04-05', '2014-10-02', '2')
-insert into player_record values ('201', '12', '2017-12-19', '2020-03-29', '2')
-insert into player_record values ('201', '12', '2020-04-02', '2022-08-08', '2')
-insert into player_record values ('201', '12', '2020-04-02', '2022-08-08', '2')
-insert into player_record values ('202', '13', '2011-06-05', '2013-07-02', '2')
-insert into player_record values ('202', '13', '2014-07-03', '2017-12-09', '2')
-insert into player_record values ('202', '13', '2022-09-13', '2023-05-30', '2')
-insert into player_record values ('202', '13', '2022-09-13', '2023-05-30', '2')
-insert into player_record values ('203', '59', '2019-06-21', '2020-07-08', '6')
-insert into player_record values ('203', '59', '2020-07-16', '2021-02-26', '6')
-insert into player_record values ('203', '59', '2021-09-24', '2023-08-16', '6')
-insert into player_record values ('203', '59', '2021-09-24', '2023-08-16', '6')
-insert into player_record values ('204', '93', '2014-10-02', '2016-02-13', '10')
-insert into player_record values ('204', '93', '2016-05-06', '2017-09-27', '10')
-insert into player_record values ('204', '93', '2020-07-02', '2022-09-30', '10')
-insert into player_record values ('204', '93', '2020-07-02', '2022-09-30', '10')
-insert into player_record values ('205', '41', '2016-05-21', '2016-08-22', '5')
-insert into player_record values ('205', '41', '2019-07-27', '2020-12-26', '5')
-insert into player_record values ('205', '41', '2021-11-11', '2022-03-10', '5')
-insert into player_record values ('205', '41', '2021-11-11', '2022-03-10', '5')
-insert into player_record values ('206', '5', '2018-10-21', '2020-01-20', '1')
-insert into player_record values ('206', '5', '2020-04-20', '2022-10-05', '1')
-insert into player_record values ('206', '5', '2023-05-25', '2023-08-16', '1')
-insert into player_record values ('206', '5', '2023-05-25', '2023-08-16', '1')
-insert into player_record values ('207', '60', '2017-11-24', '2018-08-15', '6')
-insert into player_record values ('207', '60', '2019-08-04', '2023-03-01', '6')
-insert into player_record values ('207', '60', '2023-06-07', '2023-06-09', '6')
-insert into player_record values ('207', '60', '2023-06-07', '2023-06-09', '6')
-insert into player_record values ('208', '10', '2012-12-04', '2013-09-17', '1')
-insert into player_record values ('208', '10', '2017-07-31', '2017-11-13', '1')
-insert into player_record values ('208', '10', '2017-11-27', '2023-10-11', '1')
-insert into player_record values ('208', '10', '2017-11-27', '2023-10-11', '1')
-insert into player_record values ('209', '6', '2016-12-21', '2018-01-06', '1')
-insert into player_record values ('209', '6', '2018-01-06', '2020-07-11', '1')
-insert into player_record values ('209', '6', '2021-01-26', '2023-05-01', '1')
-insert into player_record values ('209', '6', '2021-01-26', '2023-05-01', '1')
-insert into player_record values ('210', '100', '2018-01-10', '2020-12-16', '10')
-insert into player_record values ('210', '100', '2021-03-09', '2022-10-08', '10')
-insert into player_record values ('210', '100', '2023-01-09', '2023-04-08', '10')
-insert into player_record values ('210', '100', '2023-01-09', '2023-04-08', '10')
-insert into player_record values ('211', '52', '2012-11-12', '2015-04-12', '6')
-insert into player_record values ('211', '52', '2016-02-29', '2020-09-03', '6')
-insert into player_record values ('211', '52', '2021-07-31', '2022-04-28', '6')
-insert into player_record values ('211', '52', '2021-07-31', '2022-04-28', '6')
-insert into player_record values ('212', '39', '2011-05-07', '2018-09-20', '4')
-insert into player_record values ('212', '39', '2019-10-27', '2022-01-18', '4')
-insert into player_record values ('212', '39', '2022-03-05', '2023-08-16', '4')
-insert into player_record values ('212', '39', '2022-03-05', '2023-08-16', '4')
-insert into player_record values ('213', '46', '2006-11-24', '2012-01-17', '5')
-insert into player_record values ('213', '46', '2013-11-25', '2017-11-27', '5')
-insert into player_record values ('213', '46', '2020-04-09', '2022-01-24', '5')
-insert into player_record values ('213', '46', '2020-04-09', '2022-01-24', '5')
-insert into player_record values ('214', '10', '2012-07-20', '2013-11-25', '1')
-insert into player_record values ('214', '10', '2017-09-18', '2017-10-09', '1')
-insert into player_record values ('214', '10', '2018-07-27', '2021-11-13', '1')
-insert into player_record values ('214', '10', '2018-07-27', '2021-11-13', '1')
-insert into player_record values ('215', '72', '2011-07-12', '2012-11-02', '8')
-insert into player_record values ('215', '72', '2013-09-01', '2017-02-17', '8')
-insert into player_record values ('215', '72', '2019-07-05', '2021-08-11', '8')
-insert into player_record values ('215', '72', '2019-07-05', '2021-08-11', '8')
-insert into player_record values ('216', '77', '2010-06-01', '2011-01-29', '8')
-insert into player_record values ('216', '77', '2015-12-13', '2017-11-17', '8')
-insert into player_record values ('216', '77', '2018-09-16', '2023-11-04', '8')
-insert into player_record values ('216', '77', '2018-09-16', '2023-11-04', '8')
-insert into player_record values ('217', '60', '2017-08-27', '2018-09-22', '6')
-insert into player_record values ('217', '60', '2019-02-20', '2020-09-23', '6')
-insert into player_record values ('217', '60', '2020-10-25', '2023-02-04', '6')
-insert into player_record values ('217', '60', '2020-10-25', '2023-02-04', '6')
-insert into player_record values ('218', '64', '2012-06-15', '2013-05-25', '7')
-insert into player_record values ('218', '64', '2015-01-31', '2018-02-08', '7')
-insert into player_record values ('218', '64', '2022-09-09', '2023-04-23', '7')
-insert into player_record values ('218', '64', '2022-09-09', '2023-04-23', '7')
-insert into player_record values ('219', '34', '2016-11-06', '2017-12-28', '4')
-insert into player_record values ('219', '34', '2018-08-23', '2021-09-07', '4')
-insert into player_record values ('219', '34', '2022-01-04', '2023-09-19', '4')
-insert into player_record values ('219', '34', '2022-01-04', '2023-09-19', '4')
-insert into player_record values ('220', '85', '2012-02-09', '2012-08-31', '9')
-insert into player_record values ('220', '85', '2018-12-16', '2023-03-06', '9')
-insert into player_record values ('220', '85', '2023-04-26', '2023-07-18', '9')
-insert into player_record values ('220', '85', '2023-04-26', '2023-07-18', '9')
-insert into player_record values ('221', '3', '2019-11-05', '2020-07-01', '1')
-insert into player_record values ('221', '3', '2022-09-07', '2023-04-05', '1')
-insert into player_record values ('221', '3', '2023-07-02', '2023-07-27', '1')
-insert into player_record values ('221', '3', '2023-07-02', '2023-07-27', '1')
-insert into player_record values ('222', '33', '2010-08-08', '2015-03-09', '4')
-insert into player_record values ('222', '33', '2017-04-26', '2018-06-11', '4')
-insert into player_record values ('222', '33', '2020-03-22', '2022-06-02', '4')
-insert into player_record values ('222', '33', '2020-03-22', '2022-06-02', '4')
-insert into player_record values ('223', '43', '2011-01-02', '2011-06-06', '5')
-insert into player_record values ('223', '43', '2011-12-06', '2012-09-27', '5')
-insert into player_record values ('223', '43', '2016-11-16', '2023-08-03', '5')
-insert into player_record values ('223', '43', '2016-11-16', '2023-08-03', '5')
-insert into player_record values ('224', '90', '2009-05-17', '2011-08-16', '9')
-insert into player_record values ('224', '90', '2015-08-28', '2016-07-09', '9')
-insert into player_record values ('224', '90', '2020-07-02', '2020-11-28', '9')
-insert into player_record values ('224', '90', '2020-07-02', '2020-11-28', '9')
-insert into player_record values ('225', '56', '2007-09-01', '2012-01-07', '6')
-insert into player_record values ('225', '56', '2012-09-12', '2015-06-05', '6')
-insert into player_record values ('225', '56', '2015-11-08', '2018-06-08', '6')
-insert into player_record values ('225', '56', '2015-11-08', '2018-06-08', '6')
-insert into player_record values ('226', '90', '2009-05-14', '2010-12-21', '9')
-insert into player_record values ('226', '90', '2012-05-24', '2019-01-24', '9')
-insert into player_record values ('226', '90', '2019-08-11', '2023-02-17', '9')
-insert into player_record values ('226', '90', '2019-08-11', '2023-02-17', '9')
-insert into player_record values ('227', '89', '2018-02-26', '2018-06-12', '9')
-insert into player_record values ('227', '89', '2019-08-09', '2019-10-08', '9')
-insert into player_record values ('227', '89', '2020-05-18', '2020-07-14', '9')
-insert into player_record values ('227', '89', '2020-05-18', '2020-07-14', '9')
-insert into player_record values ('228', '14', '2012-02-07', '2016-02-06', '2')
-insert into player_record values ('228', '14', '2018-02-21', '2019-08-08', '2')
-insert into player_record values ('228', '14', '2020-07-24', '2020-09-14', '2')
-insert into player_record values ('228', '14', '2020-07-24', '2020-09-14', '2')
-insert into player_record values ('229', '25', '2018-06-09', '2018-12-26', '3')
-insert into player_record values ('229', '25', '2020-03-23', '2021-10-06', '3')
-insert into player_record values ('229', '25', '2022-08-17', '2023-03-20', '3')
-insert into player_record values ('229', '25', '2022-08-17', '2023-03-20', '3')
-insert into player_record values ('230', '48', '2007-07-26', '2009-10-27', '5')
-insert into player_record values ('230', '48', '2014-11-26', '2017-08-03', '5')
-insert into player_record values ('230', '48', '2019-10-10', '2019-11-15', '5')
-insert into player_record values ('230', '48', '2019-10-10', '2019-11-15', '5')
-insert into player_record values ('231', '71', '2018-05-06', '2018-11-24', '8')
-insert into player_record values ('231', '71', '2019-07-08', '2020-06-30', '8')
-insert into player_record values ('231', '71', '2022-03-10', '2022-04-24', '8')
-insert into player_record values ('231', '71', '2022-03-10', '2022-04-24', '8')
-insert into player_record values ('232', '10', '2015-06-19', '2016-07-11', '1')
-insert into player_record values ('232', '10', '2017-08-04', '2020-06-19', '1')
-insert into player_record values ('232', '10', '2022-03-13', '2023-01-29', '1')
-insert into player_record values ('232', '10', '2022-03-13', '2023-01-29', '1')
-insert into player_record values ('233', '9', '2013-11-15', '2016-10-19', '1')
-insert into player_record values ('233', '9', '2017-05-26', '2018-08-31', '1')
-insert into player_record values ('233', '9', '2022-04-16', '2022-07-01', '1')
-insert into player_record values ('233', '9', '2022-04-16', '2022-07-01', '1')
-insert into player_record values ('234', '87', '2015-02-26', '2017-11-15', '9')
-insert into player_record values ('234', '87', '2018-08-28', '2021-01-22', '9')
-insert into player_record values ('234', '87', '2022-01-25', '2022-10-19', '9')
-insert into player_record values ('234', '87', '2022-01-25', '2022-10-19', '9')
-insert into player_record values ('235', '93', '2012-11-03', '2014-02-24', '10')
-insert into player_record values ('235', '93', '2014-12-20', '2020-10-08', '10')
-insert into player_record values ('235', '93', '2022-04-18', '2023-10-15', '10')
-insert into player_record values ('235', '93', '2022-04-18', '2023-10-15', '10')
-insert into player_record values ('236', '35', '2018-10-29', '2019-01-18', '4')
-insert into player_record values ('236', '35', '2020-01-14', '2021-02-05', '4')
-insert into player_record values ('236', '35', '2022-09-14', '2023-08-05', '4')
-insert into player_record values ('236', '35', '2022-09-14', '2023-08-05', '4')
-insert into player_record values ('237', '59', '2018-06-03', '2019-09-18', '6')
-insert into player_record values ('237', '59', '2022-01-25', '2022-03-25', '6')
-insert into player_record values ('237', '59', '2022-04-12', '2022-08-10', '6')
-insert into player_record values ('237', '59', '2022-04-12', '2022-08-10', '6')
-insert into player_record values ('238', '82', '2016-05-13', '2019-01-01', '9')
-insert into player_record values ('238', '82', '2020-05-05', '2020-07-22', '9')
-insert into player_record values ('238', '82', '2022-08-29', '2023-04-27', '9')
-insert into player_record values ('238', '82', '2022-08-29', '2023-04-27', '9')
-insert into player_record values ('239', '89', '2016-11-17', '2018-05-01', '9')
-insert into player_record values ('239', '89', '2019-09-27', '2020-07-19', '9')
-insert into player_record values ('239', '89', '2020-11-18', '2021-03-12', '9')
-insert into player_record values ('239', '89', '2020-11-18', '2021-03-12', '9')
-insert into player_record values ('240', '3', '2020-05-21', '2020-06-08', '1')
-insert into player_record values ('240', '3', '2020-07-20', '2020-08-23', '1')
-insert into player_record values ('240', '3', '2020-11-27', '2022-03-28', '1')
-insert into player_record values ('240', '3', '2020-11-27', '2022-03-28', '1')
-insert into player_record values ('241', '42', '2014-11-25', '2016-04-09', '5')
-insert into player_record values ('241', '42', '2017-10-16', '2020-02-01', '5')
-insert into player_record values ('241', '42', '2020-09-30', '2021-07-11', '5')
-insert into player_record values ('241', '42', '2020-09-30', '2021-07-11', '5')
-insert into player_record values ('242', '34', '2016-04-09', '2017-05-11', '4')
-insert into player_record values ('242', '34', '2020-05-01', '2021-06-11', '4')
-insert into player_record values ('242', '34', '2021-12-02', '2022-06-14', '4')
-insert into player_record values ('242', '34', '2021-12-02', '2022-06-14', '4')
-insert into player_record values ('243', '2', '2007-03-06', '2008-05-31', '1')
-insert into player_record values ('243', '2', '2011-06-16', '2013-04-06', '1')
-insert into player_record values ('243', '2', '2016-11-30', '2020-02-17', '1')
-insert into player_record values ('243', '2', '2016-11-30', '2020-02-17', '1')
-insert into player_record values ('244', '61', '2009-06-07', '2012-05-29', '7')
-insert into player_record values ('244', '61', '2016-02-27', '2017-01-02', '7')
-insert into player_record values ('244', '61', '2021-11-20', '2023-10-07', '7')
-insert into player_record values ('244', '61', '2021-11-20', '2023-10-07', '7')
-insert into player_record values ('245', '84', '2016-03-06', '2016-09-29', '9')
-insert into player_record values ('245', '84', '2018-02-23', '2020-04-26', '9')
-insert into player_record values ('245', '84', '2021-03-21', '2022-05-05', '9')
-insert into player_record values ('245', '84', '2021-03-21', '2022-05-05', '9')
-insert into player_record values ('246', '13', '2009-09-11', '2010-05-29', '2')
-insert into player_record values ('246', '13', '2011-02-04', '2016-02-13', '2')
-insert into player_record values ('246', '13', '2018-09-13', '2019-03-22', '2')
-insert into player_record values ('246', '13', '2018-09-13', '2019-03-22', '2')
-insert into player_record values ('247', '64', '2012-06-24', '2012-06-30', '7')
-insert into player_record values ('247', '64', '2014-01-09', '2018-10-26', '7')
-insert into player_record values ('247', '64', '2020-05-18', '2022-07-09', '7')
-insert into player_record values ('247', '64', '2020-05-18', '2022-07-09', '7')
-insert into player_record values ('248', '31', '2013-11-05', '2014-08-12', '4')
-insert into player_record values ('248', '31', '2017-04-20', '2018-01-08', '4')
-insert into player_record values ('248', '31', '2020-04-28', '2021-11-22', '4')
-insert into player_record values ('248', '31', '2020-04-28', '2021-11-22', '4')
-insert into player_record values ('249', '21', '2016-09-08', '2017-06-10', '3')
-insert into player_record values ('249', '21', '2019-04-23', '2020-02-14', '3')
-insert into player_record values ('249', '21', '2021-07-01', '2023-09-25', '3')
-insert into player_record values ('249', '21', '2021-07-01', '2023-09-25', '3')
-insert into player_record values ('250', '73', '2017-09-09', '2020-06-02', '8')
-insert into player_record values ('250', '73', '2020-06-27', '2022-02-20', '8')
-insert into player_record values ('250', '73', '2022-05-13', '2022-05-23', '8')
-insert into player_record values ('250', '73', '2022-05-13', '2022-05-23', '8')
-insert into player_record values ('251', '30', '2014-05-25', '2015-09-16', '3')
-insert into player_record values ('251', '30', '2018-08-28', '2020-10-09', '3')
-insert into player_record values ('251', '30', '2022-08-11', '2022-09-08', '3')
-insert into player_record values ('251', '30', '2022-08-11', '2022-09-08', '3')
-insert into player_record values ('252', '42', '2014-09-08', '2014-09-10', '5')
-insert into player_record values ('252', '42', '2015-06-26', '2016-08-12', '5')
-insert into player_record values ('252', '42', '2019-01-29', '2020-06-23', '5')
-insert into player_record values ('252', '42', '2019-01-29', '2020-06-23', '5')
-insert into player_record values ('253', '50', '2011-10-21', '2013-01-04', '5')
-insert into player_record values ('253', '50', '2016-02-28', '2016-04-12', '5')
-insert into player_record values ('253', '50', '2017-12-18', '2022-02-14', '5')
-insert into player_record values ('253', '50', '2017-12-18', '2022-02-14', '5')
-insert into player_record values ('254', '25', '2018-01-11', '2018-02-28', '3')
-insert into player_record values ('254', '25', '2020-02-12', '2020-06-20', '3')
-insert into player_record values ('254', '25', '2020-12-17', '2023-05-30', '3')
-insert into player_record values ('254', '25', '2020-12-17', '2023-05-30', '3')
-insert into player_record values ('255', '100', '2018-05-02', '2019-03-03', '10')
-insert into player_record values ('255', '100', '2019-08-12', '2021-04-28', '10')
-insert into player_record values ('255', '100', '2022-10-06', '2023-06-09', '10')
-insert into player_record values ('255', '100', '2022-10-06', '2023-06-09', '10')
-insert into player_record values ('256', '34', '2015-10-25', '2017-03-28', '4')
-insert into player_record values ('256', '34', '2020-12-11', '2021-12-22', '4')
-insert into player_record values ('256', '34', '2022-01-18', '2022-06-30', '4')
-insert into player_record values ('256', '34', '2022-01-18', '2022-06-30', '4')
-insert into player_record values ('257', '57', '2019-02-02', '2019-07-03', '6')
-insert into player_record values ('257', '57', '2021-08-13', '2022-07-26', '6')
-insert into player_record values ('257', '57', '2023-01-03', '2023-06-02', '6')
-insert into player_record values ('257', '57', '2023-01-03', '2023-06-02', '6')
-insert into player_record values ('258', '29', '2011-08-19', '2012-02-23', '3')
-insert into player_record values ('258', '29', '2014-08-30', '2015-07-27', '3')
-insert into player_record values ('258', '29', '2016-02-05', '2023-08-13', '3')
-insert into player_record values ('258', '29', '2016-02-05', '2023-08-13', '3')
-insert into player_record values ('259', '54', '2009-11-15', '2012-09-23', '6')
-insert into player_record values ('259', '54', '2016-05-22', '2016-12-25', '6')
-insert into player_record values ('259', '54', '2021-03-29', '2022-07-22', '6')
-insert into player_record values ('259', '54', '2021-03-29', '2022-07-22', '6')
-insert into player_record values ('260', '14', '2013-07-18', '2014-09-05', '2')
-insert into player_record values ('260', '14', '2018-12-08', '2022-05-24', '2')
-insert into player_record values ('260', '14', '2023-02-24', '2023-10-07', '2')
-insert into player_record values ('260', '14', '2023-02-24', '2023-10-07', '2')
-insert into player_record values ('261', '3', '2019-03-31', '2019-06-03', '1')
-insert into player_record values ('261', '3', '2019-07-29', '2019-08-16', '1')
-insert into player_record values ('261', '3', '2020-10-28', '2021-12-17', '1')
-insert into player_record values ('261', '3', '2020-10-28', '2021-12-17', '1')
-insert into player_record values ('262', '11', '2016-02-01', '2020-03-14', '2')
-insert into player_record values ('262', '11', '2021-06-29', '2021-07-13', '2')
-insert into player_record values ('262', '11', '2021-11-11', '2022-02-19', '2')
-insert into player_record values ('262', '11', '2021-11-11', '2022-02-19', '2')
-insert into player_record values ('263', '42', '2015-05-11', '2015-08-09', '5')
-insert into player_record values ('263', '42', '2019-06-09', '2020-05-27', '5')
-insert into player_record values ('263', '42', '2020-09-07', '2021-01-03', '5')
-insert into player_record values ('263', '42', '2020-09-07', '2021-01-03', '5')
-insert into player_record values ('264', '36', '2017-04-05', '2017-12-11', '4')
-insert into player_record values ('264', '36', '2017-12-26', '2018-03-03', '4')
-insert into player_record values ('264', '36', '2019-07-05', '2023-04-09', '4')
-insert into player_record values ('264', '36', '2019-07-05', '2023-04-09', '4')
-insert into player_record values ('265', '88', '2011-03-26', '2013-07-24', '9')
-insert into player_record values ('265', '88', '2014-09-05', '2019-09-21', '9')
-insert into player_record values ('265', '88', '2020-10-28', '2023-07-13', '9')
-insert into player_record values ('265', '88', '2020-10-28', '2023-07-13', '9')
-insert into player_record values ('266', '78', '2009-02-23', '2012-03-08', '8')
-insert into player_record values ('266', '78', '2014-09-24', '2014-12-11', '8')
-insert into player_record values ('266', '78', '2019-11-07', '2020-11-21', '8')
-insert into player_record values ('266', '78', '2019-11-07', '2020-11-21', '8')
-insert into player_record values ('267', '3', '2019-06-25', '2019-06-26', '1')
-insert into player_record values ('267', '3', '2021-12-14', '2022-02-10', '1')
-insert into player_record values ('267', '3', '2022-06-29', '2022-07-25', '1')
-insert into player_record values ('267', '3', '2022-06-29', '2022-07-25', '1')
-insert into player_record values ('268', '9', '2013-12-18', '2015-07-22', '1')
-insert into player_record values ('268', '9', '2015-11-23', '2020-08-14', '1')
-insert into player_record values ('268', '9', '2022-05-14', '2023-03-17', '1')
-insert into player_record values ('268', '9', '2022-05-14', '2023-03-17', '1')
-insert into player_record values ('269', '54', '2013-10-30', '2014-08-08', '6')
-insert into player_record values ('269', '54', '2015-05-16', '2020-04-11', '6')
-insert into player_record values ('269', '54', '2021-11-24', '2023-02-16', '6')
-insert into player_record values ('269', '54', '2021-11-24', '2023-02-16', '6')
-insert into player_record values ('270', '53', '2018-04-02', '2018-10-25', '6')
-insert into player_record values ('270', '53', '2021-08-03', '2021-10-11', '6')
-insert into player_record values ('270', '53', '2022-05-07', '2023-02-01', '6')
-insert into player_record values ('270', '53', '2022-05-07', '2023-02-01', '6')
-insert into player_record values ('271', '86', '2010-04-27', '2010-10-03', '9')
-insert into player_record values ('271', '86', '2012-09-19', '2014-05-07', '9')
-insert into player_record values ('271', '86', '2018-11-17', '2022-05-30', '9')
-insert into player_record values ('271', '86', '2018-11-17', '2022-05-30', '9')
-insert into player_record values ('272', '99', '2014-01-29', '2016-01-08', '10')
-insert into player_record values ('272', '99', '2017-07-05', '2018-05-06', '10')
-insert into player_record values ('272', '99', '2018-06-27', '2018-09-12', '10')
-insert into player_record values ('272', '99', '2018-06-27', '2018-09-12', '10')
-insert into player_record values ('273', '29', '2012-03-18', '2012-04-15', '3')
-insert into player_record values ('273', '29', '2017-01-20', '2017-02-26', '3')
-insert into player_record values ('273', '29', '2023-04-11', '2023-05-23', '3')
-insert into player_record values ('273', '29', '2023-04-11', '2023-05-23', '3')
-insert into player_record values ('274', '22', '2014-11-13', '2015-03-14', '3')
-insert into player_record values ('274', '22', '2015-04-13', '2022-08-12', '3')
-insert into player_record values ('274', '22', '2023-03-15', '2023-04-22', '3')
-insert into player_record values ('274', '22', '2023-03-15', '2023-04-22', '3')
-insert into player_record values ('275', '83', '2014-01-09', '2015-03-21', '9')
-insert into player_record values ('275', '83', '2019-10-03', '2020-07-23', '9')
-insert into player_record values ('275', '83', '2020-10-04', '2022-04-21', '9')
-insert into player_record values ('275', '83', '2020-10-04', '2022-04-21', '9')
-insert into player_record values ('276', '82', '2014-10-03', '2015-09-26', '9')
-insert into player_record values ('276', '82', '2016-09-17', '2016-12-17', '9')
-insert into player_record values ('276', '82', '2021-02-15', '2021-11-25', '9')
-insert into player_record values ('276', '82', '2021-02-15', '2021-11-25', '9')
-insert into player_record values ('277', '50', '2012-09-22', '2015-07-03', '5')
-insert into player_record values ('277', '50', '2017-08-07', '2019-07-26', '5')
-insert into player_record values ('277', '50', '2022-11-05', '2023-07-01', '5')
-insert into player_record values ('277', '50', '2022-11-05', '2023-07-01', '5')
-insert into player_record values ('278', '92', '2018-08-03', '2018-12-30', '10')
-insert into player_record values ('278', '92', '2019-07-12', '2020-07-28', '10')
-insert into player_record values ('278', '92', '2022-03-01', '2023-08-14', '10')
-insert into player_record values ('278', '92', '2022-03-01', '2023-08-14', '10')
-insert into player_record values ('279', '70', '2015-12-06', '2018-04-26', '7')
-insert into player_record values ('279', '70', '2019-10-17', '2020-04-05', '7')
-insert into player_record values ('279', '70', '2023-05-26', '2023-11-06', '7')
-insert into player_record values ('279', '70', '2023-05-26', '2023-11-06', '7')
-insert into player_record values ('280', '51', '2018-05-21', '2020-02-26', '6')
-insert into player_record values ('280', '51', '2021-01-05', '2023-04-19', '6')
-insert into player_record values ('280', '51', '2023-05-20', '2023-07-17', '6')
-insert into player_record values ('280', '51', '2023-05-20', '2023-07-17', '6')
-insert into player_record values ('281', '91', '2010-12-12', '2015-06-18', '10')
-insert into player_record values ('281', '91', '2016-03-01', '2020-03-13', '10')
-insert into player_record values ('281', '91', '2020-05-20', '2021-09-23', '10')
-insert into player_record values ('281', '91', '2020-05-20', '2021-09-23', '10')
-insert into player_record values ('282', '86', '2013-01-24', '2016-07-21', '9')
-insert into player_record values ('282', '86', '2018-09-08', '2018-10-02', '9')
-insert into player_record values ('282', '86', '2022-01-02', '2022-12-04', '9')
-insert into player_record values ('282', '86', '2022-01-02', '2022-12-04', '9')
-insert into player_record values ('283', '86', '2012-12-04', '2013-08-06', '9')
-insert into player_record values ('283', '86', '2014-05-16', '2015-06-06', '9')
-insert into player_record values ('283', '86', '2018-06-16', '2023-02-24', '9')
-insert into player_record values ('283', '86', '2018-06-16', '2023-02-24', '9')
-insert into player_record values ('284', '11', '2016-08-10', '2018-06-28', '2')
-insert into player_record values ('284', '11', '2018-09-15', '2018-10-22', '2')
-insert into player_record values ('284', '11', '2020-06-09', '2021-07-08', '2')
-insert into player_record values ('284', '11', '2020-06-09', '2021-07-08', '2')
-insert into player_record values ('285', '46', '2009-05-14', '2010-10-15', '5')
-insert into player_record values ('285', '46', '2012-02-11', '2018-01-15', '5')
-insert into player_record values ('285', '46', '2021-12-23', '2023-08-27', '5')
-insert into player_record values ('285', '46', '2021-12-23', '2023-08-27', '5')
-insert into player_record values ('286', '74', '2010-10-07', '2013-08-16', '8')
-insert into player_record values ('286', '74', '2016-06-30', '2018-09-11', '8')
-insert into player_record values ('286', '74', '2022-09-29', '2022-12-06', '8')
-insert into player_record values ('286', '74', '2022-09-29', '2022-12-06', '8')
-insert into player_record values ('287', '70', '2015-11-07', '2017-04-05', '7')
-insert into player_record values ('287', '70', '2017-05-31', '2020-08-13', '7')
-insert into player_record values ('287', '70', '2022-02-25', '2022-12-21', '7')
-insert into player_record values ('287', '70', '2022-02-25', '2022-12-21', '7')
-insert into player_record values ('288', '98', '2006-09-08', '2007-12-13', '10')
-insert into player_record values ('288', '98', '2009-03-15', '2009-03-23', '10')
-insert into player_record values ('288', '98', '2010-08-29', '2014-04-03', '10')
-insert into player_record values ('288', '98', '2010-08-29', '2014-04-03', '10')
-insert into player_record values ('289', '40', '2013-02-22', '2013-11-14', '4')
-insert into player_record values ('289', '40', '2013-12-31', '2020-11-09', '4')
-insert into player_record values ('289', '40', '2020-11-26', '2022-07-23', '4')
-insert into player_record values ('289', '40', '2020-11-26', '2022-07-23', '4')
-insert into player_record values ('290', '63', '2012-12-13', '2016-08-07', '7')
-insert into player_record values ('290', '63', '2017-04-14', '2019-02-23', '7')
-insert into player_record values ('290', '63', '2019-03-30', '2021-10-22', '7')
-insert into player_record values ('290', '63', '2019-03-30', '2021-10-22', '7')
-insert into player_record values ('291', '66', '2018-04-13', '2018-12-22', '7')
-insert into player_record values ('291', '66', '2019-07-14', '2021-02-11', '7')
-insert into player_record values ('291', '66', '2022-02-02', '2023-01-20', '7')
-insert into player_record values ('291', '66', '2022-02-02', '2023-01-20', '7')
-insert into player_record values ('292', '31', '2013-11-17', '2014-10-18', '4')
-insert into player_record values ('292', '31', '2015-10-26', '2017-06-14', '4')
-insert into player_record values ('292', '31', '2018-02-08', '2019-06-13', '4')
-insert into player_record values ('292', '31', '2018-02-08', '2019-06-13', '4')
-insert into player_record values ('293', '40', '2012-10-03', '2015-02-01', '4')
-insert into player_record values ('293', '40', '2017-10-31', '2018-01-16', '4')
-insert into player_record values ('293', '40', '2021-04-20', '2021-06-07', '4')
-insert into player_record values ('293', '40', '2021-04-20', '2021-06-07', '4')
-insert into player_record values ('294', '10', '2011-10-17', '2012-03-29', '1')
-insert into player_record values ('294', '10', '2012-06-04', '2012-12-18', '1')
-insert into player_record values ('294', '10', '2019-03-20', '2020-02-04', '1')
-insert into player_record values ('294', '10', '2019-03-20', '2020-02-04', '1')
-insert into player_record values ('295', '16', '2008-03-14', '2010-09-04', '2')
-insert into player_record values ('295', '16', '2017-01-01', '2017-10-15', '2')
-insert into player_record values ('295', '16', '2019-09-04', '2020-07-03', '2')
-insert into player_record values ('295', '16', '2019-09-04', '2020-07-03', '2')
-insert into player_record values ('296', '27', '2009-10-20', '2010-12-10', '3')
-insert into player_record values ('296', '27', '2013-12-06', '2014-09-13', '3')
-insert into player_record values ('296', '27', '2016-04-10', '2018-02-18', '3')
-insert into player_record values ('296', '27', '2016-04-10', '2018-02-18', '3')
-insert into player_record values ('297', '7', '2008-09-18', '2011-09-07', '1')
-insert into player_record values ('297', '7', '2012-02-22', '2017-05-23', '1')
-insert into player_record values ('297', '7', '2022-01-12', '2023-08-06', '1')
-insert into player_record values ('297', '7', '2022-01-12', '2023-08-06', '1')
-insert into player_record values ('298', '49', '2016-05-31', '2016-09-06', '5')
-insert into player_record values ('298', '49', '2019-11-12', '2020-09-22', '5')
-insert into player_record values ('298', '49', '2020-10-11', '2021-09-09', '5')
-insert into player_record values ('298', '49', '2020-10-11', '2021-09-09', '5')
-insert into player_record values ('299', '80', '2017-04-29', '2017-06-14', '8')
-insert into player_record values ('299', '80', '2017-10-03', '2021-12-27', '8')
-insert into player_record values ('299', '80', '2022-10-26', '2023-11-30', '8')
-insert into player_record values ('299', '80', '2022-10-26', '2023-11-30', '8')
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (1, 5, 1, '2011-07-27', 1, 804);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (1, 15, 1, '2012-07-26', 1, 551);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (2, 58, 1, '2015-02-19', 3, 969);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (2, 44, 1, '2018-02-18', 3, 945);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (3, 41, 9, '2010-02-17', 2, 972);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (3, 58, 8, '2012-02-17', 3, 951);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (4, 30, 3, '2016-01-23', 1, 942);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (4, 6, 1, '2017-01-22', 3, 902);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (5, 38, 3, '2006-07-06', 1, 602);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (5, 40, 10, '2007-07-06', 3, 620);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (6, 20, 4, '2020-10-10', 2, 602);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (6, 95, 3, '2022-10-10', 3, 646);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (7, 22, 8, '2020-01-14', 2, 673);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (7, 69, 8, '2022-01-13', 1, 571);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (8, 2, 10, '2021-11-06', 2, 672);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (8, 58, 1, '2023-11-06', 1, 965);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (9, 6, 2, '2023-01-02', 2, 746);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (9, 1, 6, '2025-01-01', 1, 976);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (10, 70, 10, '2015-04-07', 1, 576);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (10, 23, 9, '2016-04-06', 1, 926);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (11, 10, 1, '2019-01-22', 2, 822);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (11, 86, 6, '2021-01-21', 3, 509);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (12, 61, 2, '2009-05-12', 1, 727);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (12, 64, 6, '2010-05-12', 3, 547);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (13, 41, 6, '2022-07-19', 2, 659);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (13, 26, 6, '2024-07-18', 2, 673);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (14, 95, 7, '2023-01-29', 2, 913);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (14, 95, 10, '2025-01-28', 1, 789);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (15, 45, 4, '2015-09-11', 2, 940);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (15, 91, 6, '2017-09-10', 3, 893);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (16, 35, 5, '2020-01-14', 2, 640);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (16, 29, 1, '2022-01-13', 1, 588);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (17, 100, 8, '2023-09-23', 1, 853);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (17, 66, 2, '2024-09-22', 2, 820);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (18, 92, 2, '2014-01-27', 1, 745);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (18, 47, 7, '2015-01-27', 3, 561);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (19, 22, 8, '2013-04-23', 2, 891);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (19, 87, 2, '2015-04-23', 1, 939);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (20, 38, 5, '2020-12-05', 3, 905);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (20, 18, 4, '2023-12-05', 3, 944);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (21, 23, 9, '2019-08-14', 3, 975);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (21, 57, 2, '2022-08-13', 1, 771);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (22, 70, 10, '2014-06-04', 3, 880);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (22, 30, 4, '2017-06-03', 3, 693);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (23, 85, 2, '2016-04-02', 1, 690);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (23, 23, 4, '2017-04-02', 2, 621);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (24, 17, 2, '2012-08-23', 1, 899);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (24, 61, 7, '2013-08-23', 2, 760);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (25, 53, 4, '2015-02-08', 2, 830);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (25, 49, 8, '2017-02-07', 3, 869);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (26, 21, 9, '2012-10-27', 2, 893);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (26, 41, 3, '2014-10-27', 1, 621);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (27, 4, 1, '2016-01-03', 2, 995);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (27, 55, 2, '2018-01-02', 1, 692);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (28, 7, 10, '2012-05-18', 1, 976);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (28, 47, 7, '2013-05-18', 3, 945);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (29, 8, 2, '2016-05-13', 1, 905);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (29, 49, 1, '2017-05-13', 3, 622);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (30, 8, 7, '2018-01-03', 3, 921);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (30, 98, 5, '2021-01-02', 2, 669);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (31, 18, 1, '2017-09-17', 1, 880);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (31, 49, 3, '2018-09-17', 2, 724);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (32, 74, 7, '2021-01-09', 2, 896);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (32, 25, 4, '2023-01-09', 1, 786);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (33, 66, 9, '2019-12-25', 3, 503);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (33, 96, 9, '2022-12-24', 3, 797);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (34, 31, 6, '2018-06-03', 2, 747);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (34, 89, 9, '2020-06-02', 3, 686);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (35, 90, 2, '2021-08-02', 2, 693);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (35, 87, 1, '2023-08-02', 1, 511);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (36, 7, 6, '2019-05-27', 1, 579);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (36, 25, 5, '2020-05-26', 2, 670);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (37, 26, 3, '2021-06-17', 3, 848);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (37, 30, 5, '2024-06-16', 3, 917);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (38, 49, 3, '2020-08-14', 1, 509);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (38, 32, 2, '2021-08-14', 1, 534);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (39, 29, 6, '2016-01-23', 3, 995);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (39, 2, 10, '2019-01-22', 2, 879);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (40, 15, 9, '2016-09-14', 1, 767);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (40, 76, 7, '2017-09-14', 3, 976);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (41, 14, 5, '2019-11-22', 3, 935);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (41, 65, 9, '2022-11-21', 2, 844);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (42, 50, 8, '2017-04-22', 3, 961);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (42, 3, 2, '2020-04-21', 1, 744);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (43, 71, 6, '2019-10-23', 1, 510);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (43, 5, 4, '2020-10-22', 2, 819);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (44, 87, 3, '2016-10-10', 3, 984);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (44, 92, 5, '2019-10-10', 2, 819);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (45, 59, 3, '2016-04-25', 3, 993);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (45, 80, 1, '2019-04-25', 3, 548);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (46, 84, 5, '2021-02-20', 2, 782);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (46, 77, 2, '2023-02-20', 3, 871);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (47, 45, 3, '2017-05-02', 2, 538);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (47, 46, 8, '2019-05-02', 1, 773);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (48, 55, 2, '2023-03-12', 1, 536);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (48, 68, 10, '2024-03-11', 1, 846);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (49, 61, 2, '2016-05-07', 3, 526);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (49, 76, 6, '2019-05-07', 1, 958);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (50, 20, 5, '2020-10-08', 2, 674);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (50, 20, 2, '2022-10-08', 1, 910);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (51, 15, 6, '2022-03-03', 2, 808);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (51, 85, 4, '2024-03-02', 3, 606);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (52, 79, 1, '2020-08-11', 3, 945);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (52, 5, 6, '2023-08-11', 2, 699);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (53, 59, 6, '2011-01-27', 1, 829);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (53, 99, 9, '2012-01-27', 1, 753);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (54, 2, 2, '2018-09-05', 1, 911);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (54, 10, 1, '2019-09-05', 2, 818);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (55, 91, 5, '2012-10-03', 1, 911);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (55, 11, 1, '2013-10-03', 2, 993);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (56, 49, 9, '2014-05-11', 3, 664);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (56, 93, 4, '2017-05-10', 3, 610);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (57, 50, 8, '2011-08-27', 2, 809);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (57, 13, 4, '2013-08-26', 1, 638);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (58, 46, 1, '2017-10-14', 1, 591);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (58, 71, 4, '2018-10-14', 2, 708);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (59, 4, 10, '2021-06-14', 2, 595);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (59, 12, 3, '2023-06-14', 2, 681);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (60, 50, 5, '2020-12-28', 2, 756);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (60, 27, 10, '2022-12-28', 3, 574);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (61, 68, 9, '2012-04-21', 1, 777);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (61, 29, 8, '2013-04-21', 3, 819);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (62, 30, 6, '2019-10-12', 2, 822);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (62, 3, 4, '2021-10-11', 3, 823);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (63, 52, 4, '2016-06-16', 1, 833);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (63, 17, 7, '2017-06-16', 2, 647);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (64, 51, 7, '2019-10-10', 3, 838);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (64, 79, 8, '2022-10-09', 3, 807);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (65, 4, 5, '2015-07-10', 3, 633);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (65, 35, 9, '2018-07-09', 2, 692);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (66, 42, 1, '2014-08-16', 2, 841);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (66, 98, 1, '2016-08-15', 3, 507);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (67, 51, 10, '2010-12-14', 3, 786);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (67, 60, 1, '2013-12-13', 1, 679);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (68, 3, 8, '2018-07-29', 3, 637);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (68, 27, 3, '2021-07-28', 1, 879);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (69, 47, 8, '2010-07-11', 3, 727);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (69, 11, 8, '2013-07-10', 3, 551);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (70, 68, 4, '2017-10-21', 2, 625);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (70, 70, 5, '2019-10-21', 2, 662);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (71, 97, 3, '2023-11-16', 3, 886);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (71, 94, 7, '2026-11-15', 3, 558);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (72, 20, 6, '2015-09-28', 3, 650);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (72, 28, 1, '2018-09-27', 3, 751);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (73, 63, 6, '2021-02-05', 3, 523);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (73, 92, 9, '2024-02-05', 2, 828);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (74, 73, 7, '2023-01-14', 1, 819);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (74, 67, 3, '2024-01-14', 3, 505);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (75, 51, 2, '2020-10-13', 3, 937);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (75, 72, 7, '2023-10-13', 1, 899);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (76, 10, 5, '2014-04-09', 2, 892);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (76, 82, 1, '2016-04-08', 3, 917);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (77, 36, 3, '2019-05-16', 1, 718);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (77, 74, 8, '2020-05-15', 2, 990);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (78, 78, 9, '2014-01-24', 1, 773);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (78, 82, 3, '2015-01-24', 1, 891);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (79, 29, 7, '2022-05-07', 2, 871);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (79, 38, 8, '2024-05-06', 1, 909);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (80, 11, 10, '2019-09-26', 1, 701);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (80, 13, 3, '2020-09-25', 3, 978);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (81, 89, 4, '2014-04-21', 2, 633);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (81, 67, 7, '2016-04-20', 2, 943);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (82, 24, 2, '2012-08-28', 2, 719);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (82, 79, 10, '2014-08-28', 2, 697);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (83, 56, 5, '2020-03-18', 3, 773);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (83, 41, 7, '2023-03-18', 1, 524);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (84, 40, 2, '2017-05-27', 1, 896);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (84, 26, 9, '2018-05-27', 3, 882);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (85, 63, 9, '2015-04-23', 2, 943);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (85, 21, 5, '2017-04-22', 3, 549);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (86, 24, 8, '2016-02-20', 2, 991);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (86, 32, 2, '2018-02-19', 1, 539);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (87, 68, 8, '2012-01-17', 3, 608);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (87, 94, 1, '2015-01-16', 1, 808);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (88, 78, 6, '2016-05-01', 2, 795);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (88, 12, 3, '2018-05-01', 2, 566);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (89, 53, 8, '2014-09-19', 2, 502);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (89, 2, 3, '2016-09-18', 1, 939);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (90, 32, 2, '2023-01-27', 3, 825);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (90, 35, 10, '2026-01-26', 1, 942);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (91, 67, 9, '2018-08-17', 1, 625);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (91, 48, 9, '2019-08-17', 1, 827);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (92, 91, 8, '2010-04-22', 1, 721);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (92, 76, 2, '2011-04-22', 1, 835);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (93, 45, 4, '2022-05-26', 1, 613);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (93, 14, 3, '2023-05-26', 3, 682);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (94, 42, 4, '2018-04-11', 1, 609);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (94, 100, 2, '2019-04-11', 3, 977);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (95, 86, 9, '2020-05-11', 2, 562);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (95, 91, 7, '2022-05-11', 2, 949);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (96, 100, 10, '2017-01-07', 2, 837);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (96, 41, 9, '2019-01-07', 3, 926);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (97, 17, 1, '2022-10-22', 1, 629);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (97, 64, 3, '2023-10-22', 2, 741);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (98, 18, 6, '2012-04-02', 1, 863);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (98, 46, 10, '2013-04-02', 2, 756);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (99, 55, 5, '2019-06-23', 2, 965);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (99, 25, 1, '2021-06-22', 3, 596);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (100, 44, 4, '2016-12-21', 1, 845);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (100, 91, 5, '2017-12-21', 1, 615);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (101, 10, 8, '2023-01-30', 1, 526);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (101, 30, 2, '2024-01-30', 1, 789);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (102, 20, 5, '2021-11-28', 3, 550);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (102, 84, 1, '2024-11-27', 1, 990);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (103, 97, 5, '2019-10-01', 1, 711);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (103, 51, 1, '2020-09-30', 1, 668);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (104, 90, 2, '2013-09-05', 1, 800);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (104, 43, 3, '2014-09-05', 1, 743);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (105, 67, 6, '2013-11-25', 1, 899);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (105, 41, 6, '2014-11-25', 2, 892);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (106, 58, 5, '2019-05-10', 1, 658);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (106, 94, 10, '2020-05-09', 3, 838);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (107, 13, 4, '2018-03-09', 3, 701);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (107, 15, 9, '2021-03-08', 1, 770);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (108, 79, 10, '2022-11-07', 1, 605);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (108, 79, 2, '2023-11-07', 2, 917);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (109, 77, 4, '2011-11-17', 1, 625);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (109, 71, 9, '2012-11-16', 2, 655);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (110, 61, 8, '2017-12-30', 2, 998);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (110, 80, 2, '2019-12-30', 1, 772);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (111, 31, 10, '2018-11-24', 3, 719);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (111, 50, 5, '2021-11-23', 1, 773);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (112, 35, 4, '2011-03-04', 3, 856);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (112, 100, 6, '2014-03-03', 1, 693);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (113, 30, 10, '2021-01-15', 2, 651);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (113, 75, 9, '2023-01-15', 1, 618);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (114, 76, 2, '2012-01-03', 3, 537);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (114, 39, 3, '2015-01-02', 2, 612);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (115, 80, 4, '2012-05-10', 3, 861);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (115, 74, 3, '2015-05-10', 2, 581);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (116, 65, 3, '2014-11-17', 3, 666);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (116, 77, 9, '2017-11-16', 1, 919);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (117, 44, 1, '2022-06-15', 2, 888);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (117, 61, 9, '2024-06-14', 2, 864);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (118, 33, 4, '2016-11-06', 1, 790);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (118, 31, 8, '2017-11-06', 3, 932);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (119, 33, 7, '2014-04-23', 2, 630);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (119, 65, 7, '2016-04-22', 2, 624);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (120, 98, 5, '2015-10-25', 3, 729);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (120, 32, 3, '2018-10-24', 1, 677);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (121, 37, 2, '2017-01-21', 1, 984);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (121, 76, 6, '2018-01-21', 2, 941);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (122, 81, 7, '2019-01-01', 3, 659);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (122, 48, 7, '2021-12-31', 2, 530);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (123, 62, 8, '2015-01-19', 3, 799);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (123, 63, 6, '2018-01-18', 1, 724);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (124, 3, 3, '2014-10-11', 3, 807);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (124, 100, 2, '2017-10-10', 3, 541);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (125, 15, 1, '2022-08-20', 2, 758);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (125, 50, 10, '2024-08-19', 1, 772);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (126, 93, 9, '2018-04-04', 3, 646);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (126, 82, 3, '2021-04-03', 1, 640);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (127, 15, 4, '2016-09-17', 1, 990);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (127, 96, 4, '2017-09-17', 1, 706);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (128, 98, 1, '2009-01-22', 1, 773);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (128, 48, 9, '2010-01-22', 1, 794);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (129, 44, 3, '2017-04-19', 3, 852);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (129, 63, 3, '2020-04-18', 2, 870);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (130, 38, 2, '2010-06-15', 1, 918);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (130, 82, 3, '2011-06-15', 3, 761);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (131, 94, 4, '2014-04-20', 3, 607);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (131, 35, 8, '2017-04-19', 2, 797);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (132, 1, 10, '2009-11-12', 1, 693);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (132, 55, 1, '2010-11-12', 2, 835);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (133, 99, 10, '2006-04-20', 1, 831);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (133, 13, 3, '2007-04-20', 2, 620);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (134, 94, 8, '2021-02-27', 3, 748);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (134, 31, 5, '2024-02-27', 3, 764);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (135, 78, 3, '2019-07-01', 3, 994);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (135, 38, 4, '2022-06-30', 1, 598);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (136, 62, 5, '2023-05-20', 3, 948);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (136, 49, 9, '2026-05-19', 3, 585);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (137, 11, 7, '2015-09-30', 3, 827);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (137, 68, 6, '2018-09-29', 3, 521);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (138, 36, 10, '2023-10-21', 1, 839);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (138, 31, 3, '2024-10-20', 2, 952);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (139, 17, 3, '2010-08-11', 2, 778);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (139, 68, 1, '2012-08-10', 1, 865);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (140, 43, 10, '2012-12-28', 2, 532);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (140, 99, 7, '2014-12-28', 1, 502);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (141, 91, 9, '2022-07-15', 1, 707);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (141, 76, 8, '2023-07-15', 3, 593);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (142, 24, 6, '2015-07-14', 3, 889);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (142, 99, 9, '2018-07-13', 1, 937);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (143, 31, 9, '2017-09-13', 3, 803);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (143, 46, 6, '2020-09-12', 3, 984);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (144, 80, 1, '2006-04-20', 3, 878);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (144, 15, 8, '2009-04-19', 3, 755);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (145, 71, 3, '2020-04-15', 2, 693);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (145, 54, 2, '2022-04-15', 2, 770);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (146, 33, 5, '2021-04-25', 3, 614);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (146, 50, 5, '2024-04-24', 1, 658);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (147, 82, 1, '2013-04-15', 1, 638);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (147, 98, 6, '2014-04-15', 1, 707);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (148, 14, 4, '2023-05-22', 3, 511);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (148, 83, 10, '2026-05-21', 3, 587);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (149, 54, 3, '2019-06-20', 2, 579);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (149, 21, 8, '2021-06-19', 2, 580);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (150, 67, 4, '2011-12-14', 3, 624);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (150, 33, 9, '2014-12-13', 2, 513);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (151, 12, 3, '2015-03-23', 1, 633);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (151, 51, 2, '2016-03-22', 3, 665);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (152, 73, 9, '2010-03-10', 3, 718);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (152, 24, 7, '2013-03-09', 3, 565);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (153, 21, 2, '2018-12-30', 2, 748);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (153, 60, 3, '2020-12-29', 2, 578);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (154, 67, 9, '2013-12-15', 1, 635);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (154, 49, 7, '2014-12-15', 3, 848);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (155, 71, 7, '2021-12-19', 1, 818);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (155, 41, 6, '2022-12-19', 2, 546);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (156, 55, 8, '2021-06-22', 1, 921);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (156, 76, 4, '2022-06-22', 3, 852);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (157, 76, 8, '2012-02-16', 1, 690);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (157, 19, 1, '2013-02-15', 2, 935);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (158, 26, 5, '2022-11-04', 2, 870);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (158, 16, 5, '2024-11-03', 2, 676);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (159, 56, 7, '2009-01-23', 2, 762);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (159, 23, 9, '2011-01-23', 3, 933);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (160, 74, 8, '2010-05-16', 1, 677);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (160, 31, 7, '2011-05-16', 3, 642);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (161, 77, 9, '2017-02-21', 2, 527);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (161, 26, 2, '2019-02-21', 3, 504);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (162, 13, 1, '2011-08-31', 2, 523);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (162, 81, 2, '2013-08-30', 2, 894);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (163, 99, 10, '2016-06-25', 3, 622);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (163, 30, 4, '2019-06-25', 3, 902);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (164, 8, 5, '2019-02-23', 1, 561);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (164, 96, 8, '2020-02-23', 1, 764);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (165, 44, 1, '2018-11-17', 3, 572);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (165, 66, 5, '2021-11-16', 2, 876);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (166, 4, 9, '2011-04-24', 2, 885);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (166, 80, 4, '2013-04-23', 3, 565);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (167, 68, 3, '2012-04-20', 1, 683);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (167, 42, 10, '2013-04-20', 1, 873);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (168, 97, 1, '2017-08-12', 3, 620);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (168, 87, 5, '2020-08-11', 1, 984);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (169, 2, 1, '2020-02-24', 1, 833);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (169, 37, 2, '2021-02-23', 3, 664);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (170, 14, 7, '2013-04-22', 1, 564);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (170, 14, 3, '2014-04-22', 1, 593);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (171, 12, 9, '2019-02-18', 3, 679);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (171, 92, 8, '2022-02-17', 1, 714);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (172, 96, 9, '2016-07-16', 1, 649);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (172, 93, 10, '2017-07-16', 2, 762);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (173, 96, 3, '2023-03-09', 3, 555);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (173, 41, 9, '2026-03-08', 3, 517);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (174, 59, 2, '2020-05-02', 2, 580);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (174, 72, 2, '2022-05-02', 2, 823);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (175, 42, 9, '2013-03-22', 3, 649);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (175, 47, 9, '2016-03-21', 3, 662);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (176, 61, 7, '2007-01-13', 1, 659);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (176, 21, 5, '2008-01-13', 3, 739);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (177, 75, 10, '2010-02-17', 1, 566);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (177, 13, 7, '2011-02-17', 2, 509);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (178, 93, 1, '2019-05-15', 3, 690);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (178, 41, 9, '2022-05-14', 2, 539);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (179, 79, 4, '2011-03-10', 2, 544);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (179, 21, 2, '2013-03-09', 3, 734);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (180, 71, 8, '2017-08-19', 3, 515);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (180, 89, 2, '2020-08-18', 2, 884);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (181, 95, 9, '2014-12-30', 3, 595);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (181, 4, 2, '2017-12-29', 3, 818);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (182, 59, 3, '2023-03-01', 2, 741);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (182, 46, 8, '2025-02-28', 2, 744);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (183, 32, 2, '2010-02-01', 2, 787);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (183, 56, 7, '2012-02-01', 2, 979);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (184, 94, 9, '2006-10-25', 3, 803);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (184, 95, 4, '2009-10-24', 1, 822);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (185, 7, 1, '2014-10-24', 2, 587);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (185, 27, 9, '2016-10-23', 1, 637);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (186, 54, 9, '2020-12-17', 3, 542);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (186, 60, 1, '2023-12-17', 1, 968);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (187, 79, 2, '2021-03-23', 2, 977);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (187, 76, 1, '2023-03-23', 1, 888);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (188, 44, 3, '2022-09-10', 3, 504);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (188, 17, 1, '2025-09-09', 2, 718);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (189, 28, 1, '2023-09-20', 1, 978);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (189, 83, 4, '2024-09-19', 2, 776);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (190, 80, 8, '2023-01-16', 3, 657);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (190, 2, 3, '2026-01-15', 3, 705);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (191, 64, 1, '2009-07-01', 1, 863);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (191, 60, 1, '2010-07-01', 2, 973);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (192, 32, 5, '2023-05-06', 1, 620);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (192, 88, 7, '2024-05-05', 3, 632);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (193, 32, 7, '2022-09-15', 2, 962);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (193, 96, 8, '2024-09-14', 2, 664);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (194, 83, 3, '2020-03-16', 1, 977);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (194, 6, 2, '2021-03-16', 2, 705);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (195, 97, 10, '2017-05-10', 2, 724);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (195, 32, 1, '2019-05-10', 3, 966);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (196, 49, 3, '2021-10-11', 2, 998);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (196, 39, 2, '2023-10-11', 2, 615);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (197, 54, 7, '2019-07-01', 3, 583);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (197, 17, 7, '2022-06-30', 1, 513);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (198, 59, 3, '2018-10-22', 3, 953);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (198, 61, 1, '2021-10-21', 3, 707);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (199, 37, 3, '2014-03-17', 3, 589);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (199, 75, 10, '2017-03-16', 1, 648);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (200, 62, 8, '2010-09-02', 3, 506);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (200, 9, 4, '2013-09-01', 3, 553);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (201, 64, 7, '2022-11-08', 2, 707);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (201, 64, 5, '2024-11-07', 2, 868);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (202, 68, 7, '2021-07-14', 2, 541);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (202, 28, 8, '2023-07-14', 3, 906);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (203, 33, 5, '2008-03-09', 1, 681);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (203, 96, 6, '2009-03-09', 3, 769);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (204, 62, 9, '2019-06-28', 1, 930);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (204, 25, 4, '2020-06-27', 2, 952);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (205, 66, 4, '2023-03-26', 3, 723);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (205, 5, 9, '2026-03-25', 3, 692);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (206, 41, 5, '2015-03-25', 3, 731);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (206, 93, 5, '2018-03-24', 1, 834);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (207, 56, 10, '2020-04-26', 3, 921);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (207, 90, 1, '2023-04-26', 3, 751);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (208, 59, 9, '2022-11-03', 2, 818);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (208, 18, 8, '2024-11-02', 1, 658);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (209, 74, 7, '2016-03-01', 1, 544);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (209, 78, 9, '2017-03-01', 2, 812);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (210, 98, 7, '2020-11-26', 1, 505);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (210, 50, 3, '2021-11-26', 1, 845);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (211, 100, 10, '2016-10-24', 2, 590);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (211, 82, 9, '2018-10-24', 2, 941);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (212, 15, 2, '2023-07-16', 2, 557);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (212, 91, 1, '2025-07-15', 2, 756);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (213, 48, 7, '2016-10-20', 3, 857);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (213, 73, 3, '2019-10-20', 1, 800);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (214, 28, 8, '2021-07-27', 2, 627);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (214, 63, 9, '2023-07-27', 1, 533);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (215, 40, 9, '2019-11-11', 3, 968);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (215, 5, 5, '2022-11-10', 3, 960);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (216, 10, 9, '2019-02-23', 1, 896);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (216, 2, 9, '2020-02-23', 2, 597);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (217, 38, 4, '2016-10-03', 2, 935);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (217, 32, 5, '2018-10-03', 2, 918);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (218, 84, 4, '2021-07-19', 2, 722);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (218, 78, 9, '2023-07-19', 1, 578);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (219, 41, 1, '2023-03-02', 3, 521);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (219, 18, 10, '2026-03-01', 3, 836);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (220, 22, 2, '2013-01-07', 3, 533);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (220, 92, 5, '2016-01-07', 2, 827);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (221, 74, 5, '2021-04-21', 1, 865);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (221, 65, 4, '2022-04-21', 1, 966);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (222, 23, 9, '2014-04-22', 1, 761);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (222, 56, 7, '2015-04-22', 1, 926);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (223, 89, 4, '2019-07-03', 3, 715);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (223, 64, 8, '2022-07-02', 1, 943);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (224, 51, 2, '2023-08-19', 1, 925);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (224, 60, 4, '2024-08-18', 2, 558);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (225, 97, 8, '2022-02-04', 3, 912);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (225, 86, 8, '2025-02-03', 2, 969);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (226, 14, 4, '2023-11-17', 3, 501);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (226, 67, 7, '2026-11-16', 3, 538);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (227, 90, 3, '2018-01-31', 1, 863);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (227, 5, 3, '2019-01-31', 3, 712);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (228, 100, 4, '2020-11-06', 1, 615);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (228, 3, 4, '2021-11-06', 3, 666);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (229, 64, 1, '2017-06-23', 2, 762);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (229, 87, 10, '2019-06-23', 3, 999);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (230, 29, 1, '2008-09-22', 3, 614);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (230, 3, 3, '2011-09-22', 2, 596);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (231, 39, 6, '2010-02-12', 2, 933);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (231, 45, 3, '2012-02-12', 3, 532);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (232, 23, 9, '2020-12-06', 3, 849);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (232, 94, 7, '2023-12-06', 2, 812);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (233, 18, 10, '2019-03-23', 1, 648);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (233, 1, 5, '2020-03-22', 3, 941);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (234, 5, 1, '2023-01-08', 2, 753);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (234, 91, 8, '2025-01-07', 3, 835);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (235, 10, 7, '2017-02-02', 2, 698);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (235, 52, 3, '2019-02-02', 2, 797);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (236, 96, 6, '2023-09-16', 1, 558);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (236, 59, 4, '2024-09-15', 1, 947);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (237, 14, 7, '2009-08-10', 3, 701);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (237, 30, 6, '2012-08-09', 1, 778);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (238, 7, 3, '2013-03-27', 1, 723);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (238, 37, 3, '2014-03-27', 2, 766);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (239, 86, 3, '2019-02-10', 2, 625);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (239, 48, 2, '2021-02-09', 1, 693);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (240, 14, 2, '2020-03-27', 3, 901);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (240, 9, 7, '2023-03-27', 3, 592);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (241, 29, 6, '2009-04-14', 1, 558);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (241, 57, 5, '2010-04-14', 2, 612);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (242, 94, 1, '2023-05-21', 2, 940);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (242, 72, 5, '2025-05-20', 1, 537);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (243, 85, 8, '2017-08-20', 1, 812);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (243, 67, 1, '2018-08-20', 1, 696);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (244, 69, 7, '2021-12-08', 2, 544);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (244, 49, 3, '2023-12-08', 3, 958);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (245, 7, 5, '2022-11-23', 3, 531);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (245, 49, 3, '2025-11-22', 3, 988);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (246, 55, 9, '2019-05-10', 3, 932);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (246, 12, 6, '2022-05-09', 1, 635);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (247, 4, 7, '2023-01-24', 2, 972);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (247, 17, 8, '2025-01-23', 3, 705);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (248, 88, 2, '2010-04-26', 3, 582);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (248, 61, 2, '2013-04-25', 3, 672);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (249, 53, 10, '2009-12-12', 3, 592);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (249, 52, 6, '2012-12-11', 1, 912);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (250, 45, 6, '2019-03-25', 1, 836);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (250, 7, 5, '2020-03-24', 3, 692);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (251, 12, 4, '2010-08-06', 2, 942);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (251, 18, 10, '2012-08-05', 1, 966);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (252, 24, 6, '2017-10-19', 2, 502);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (252, 51, 10, '2019-10-19', 1, 560);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (253, 46, 5, '2019-04-10', 2, 725);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (253, 50, 5, '2021-04-09', 1, 599);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (254, 93, 7, '2022-11-14', 2, 692);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (254, 19, 4, '2024-11-13', 3, 638);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (255, 53, 8, '2014-02-08', 2, 860);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (255, 23, 10, '2016-02-08', 2, 736);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (256, 7, 6, '2013-12-12', 3, 808);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (256, 10, 3, '2016-12-11', 2, 872);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (257, 32, 1, '2019-10-28', 1, 927);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (257, 62, 6, '2020-10-27', 3, 918);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (258, 32, 8, '2013-02-26', 1, 875);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (258, 77, 6, '2014-02-26', 1, 939);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (259, 94, 2, '2023-11-19', 3, 654);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (259, 38, 5, '2026-11-18', 3, 997);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (260, 25, 2, '2006-10-05', 3, 672);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (260, 61, 5, '2009-10-04', 2, 601);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (261, 5, 1, '2016-02-27', 2, 914);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (261, 18, 4, '2018-02-26', 2, 666);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (262, 84, 7, '2017-04-04', 2, 886);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (262, 19, 6, '2019-04-04', 2, 894);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (263, 8, 2, '2015-08-17', 3, 856);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (263, 26, 9, '2018-08-16', 2, 768);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (264, 22, 8, '2014-10-08', 1, 919);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (264, 55, 6, '2015-10-08', 2, 881);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (265, 58, 6, '2022-07-10', 3, 654);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (265, 63, 4, '2025-07-09', 2, 590);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (266, 4, 3, '2018-05-25', 1, 789);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (266, 84, 7, '2019-05-25', 2, 656);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (267, 23, 5, '2021-10-08', 3, 848);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (267, 81, 5, '2024-10-07', 2, 643);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (268, 85, 7, '2022-03-01', 1, 622);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (268, 17, 6, '2023-03-01', 2, 709);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (269, 79, 7, '2018-01-01', 1, 601);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (269, 50, 1, '2019-01-01', 2, 529);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (270, 36, 1, '2006-06-01', 1, 571);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (270, 34, 1, '2007-06-01', 1, 734);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (271, 50, 5, '2017-09-27', 3, 1000);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (271, 12, 1, '2020-09-26', 3, 608);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (272, 90, 9, '2019-11-07', 2, 794);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (272, 32, 10, '2021-11-06', 1, 638);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (273, 29, 2, '2018-12-25', 2, 776);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (273, 81, 2, '2020-12-24', 1, 621);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (274, 31, 5, '2011-02-06', 1, 513);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (274, 3, 9, '2012-02-06', 1, 645);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (275, 28, 10, '2010-01-05', 1, 840);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (275, 79, 10, '2011-01-05', 2, 797);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (276, 13, 4, '2023-10-25', 2, 871);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (276, 46, 6, '2025-10-24', 1, 505);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (277, 89, 4, '2017-12-13', 2, 909);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (277, 39, 1, '2019-12-13', 1, 709);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (278, 42, 3, '2018-11-25', 2, 695);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (278, 43, 4, '2020-11-24', 1, 944);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (279, 15, 3, '2019-12-27', 1, 971);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (279, 40, 3, '2020-12-26', 3, 609);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (280, 8, 1, '2018-08-14', 3, 739);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (280, 52, 10, '2021-08-13', 1, 780);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (281, 8, 5, '2022-03-23', 3, 540);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (281, 75, 3, '2025-03-22', 1, 569);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (282, 23, 3, '2020-02-15', 2, 633);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (282, 84, 4, '2022-02-14', 2, 586);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (283, 32, 6, '2023-07-31', 3, 705);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (283, 4, 1, '2026-07-30', 1, 543);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (284, 40, 3, '2016-11-28', 2, 701);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (284, 47, 4, '2018-11-28', 2, 979);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (285, 77, 4, '2016-10-02', 1, 668);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (285, 55, 9, '2017-10-02', 1, 507);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (286, 100, 4, '2017-06-29', 2, 744);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (286, 3, 7, '2019-06-29', 1, 673);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (287, 95, 8, '2019-03-29', 3, 773);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (287, 19, 5, '2022-03-28', 1, 858);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (288, 68, 6, '2016-07-31', 2, 762);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (288, 42, 4, '2018-07-31', 3, 807);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (289, 90, 7, '2013-12-09', 2, 788);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (289, 61, 6, '2015-12-09', 3, 957);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (290, 81, 1, '2021-07-21', 2, 680);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (290, 76, 3, '2023-07-21', 3, 901);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (291, 94, 7, '2020-10-07', 1, 973);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (291, 50, 3, '2021-10-07', 3, 898);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (292, 63, 7, '2018-07-31', 1, 698);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (292, 56, 1, '2019-07-31', 2, 958);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (293, 14, 3, '2018-07-17', 2, 984);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (293, 67, 1, '2020-07-16', 2, 704);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (294, 95, 8, '2022-03-27', 1, 711);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (294, 83, 8, '2023-03-27', 2, 726);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (295, 97, 8, '2023-02-08', 3, 794);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (295, 67, 4, '2026-02-07', 2, 696);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (296, 93, 7, '2012-12-19', 2, 863);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (296, 39, 2, '2014-12-19', 3, 698);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (297, 46, 4, '2008-08-13', 1, 675);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (297, 45, 1, '2009-08-13', 2, 644);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (298, 87, 7, '2017-01-21', 2, 746);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (298, 13, 10, '2019-01-21', 1, 792);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (299, 78, 6, '2016-02-13', 2, 507);
+insert into player_agent (player_id, agent_id, team_id, contract_date, contract_term, contract_payment) values (299, 63, 10, '2018-02-12', 2, 749);
 
-insert into player_record values ('1', '1', '2016-05-13', '2020-05-02', '1')
-insert into player_record values ('2', '1', '2022-02-15', '2022-05-21', '1')
-insert into player_record values ('3', '2', '2009-02-02', '2011-06-04', '1')
-insert into player_record values ('4', '2', '2017-02-03', '2018-07-11', '1')
-insert into player_record values ('5', '3', '2017-11-07', '2020-01-12', '1')
-insert into player_record values ('6', '3', '2021-07-01', '2023-06-05', '1')
-insert into player_record values ('7', '4', '2010-02-17', '2011-05-26', '1')
-insert into player_record values ('8', '4', '2023-05-19', '2023-11-08', '1')
-insert into player_record values ('9', '5', '2008-02-23', '2012-12-16', '1')
-insert into player_record values ('10', '5', '2013-07-17', '2016-09-08', '1')
-insert into player_record values ('11', '6', '2014-01-01', '2015-03-13', '1')
-insert into player_record values ('12', '6', '2020-04-15', '2023-05-19', '1')
-insert into player_record values ('13', '7', '2008-07-23', '2013-02-23', '1')
-insert into player_record values ('14', '7', '2018-03-31', '2022-06-17', '1')
-insert into player_record values ('15', '8', '2018-08-04', '2020-10-16', '1')
-insert into player_record values ('16', '8', '2022-06-10', '2023-06-26', '1')
-insert into player_record values ('17', '9', '2015-12-09', '2018-02-27', '1')
-insert into player_record values ('18', '9', '2022-09-26', '2022-12-12', '1')
-insert into player_record values ('19', '10', '2011-06-09', '2013-08-08', '1')
-insert into player_record values ('20', '10', '2017-09-09', '2023-07-19', '1')
-insert into player_record values ('21', '11', '2016-02-16', '2017-06-21', '2')
-insert into player_record values ('22', '11', '2021-03-09', '2023-01-22', '2')
-insert into player_record values ('23', '12', '2013-01-23', '2018-01-14', '2')
-insert into player_record values ('24', '12', '2018-03-04', '2018-11-17', '2')
-insert into player_record values ('25', '13', '2012-02-24', '2016-07-08', '2')
-insert into player_record values ('26', '13', '2019-04-25', '2020-12-16', '2')
-insert into player_record values ('27', '14', '2010-11-20', '2015-09-08', '2')
-insert into player_record values ('28', '14', '2018-03-20', '2021-06-05', '2')
-insert into player_record values ('29', '15', '2011-08-06', '2016-12-02', '2')
-insert into player_record values ('30', '15', '2019-10-23', '2021-11-22', '2')
-insert into player_record values ('31', '16', '2010-11-23', '2015-11-30', '2')
-insert into player_record values ('32', '16', '2017-11-23', '2019-08-21', '2')
-insert into player_record values ('33', '17', '2009-04-11', '2011-10-03', '2')
-insert into player_record values ('34', '17', '2013-09-05', '2017-05-01', '2')
-insert into player_record values ('35', '18', '2012-08-11', '2021-10-16', '2')
-insert into player_record values ('36', '18', '2021-12-01', '2023-04-22', '2')
-insert into player_record values ('37', '19', '2007-04-19', '2010-01-31', '2')
-insert into player_record values ('38', '19', '2014-10-22', '2022-08-28', '2')
-insert into player_record values ('39', '20', '2016-12-03', '2018-04-02', '2')
-insert into player_record values ('40', '20', '2021-02-13', '2021-08-02', '2')
-insert into player_record values ('41', '21', '2017-01-17', '2017-04-01', '3')
-insert into player_record values ('42', '21', '2018-02-23', '2023-07-22', '3')
-insert into player_record values ('43', '22', '2016-02-03', '2016-06-22', '3')
-insert into player_record values ('44', '22', '2019-02-19', '2019-07-27', '3')
-insert into player_record values ('45', '23', '2010-03-21', '2011-01-29', '3')
-insert into player_record values ('46', '23', '2011-08-04', '2012-03-18', '3')
-insert into player_record values ('47', '24', '2007-02-25', '2012-02-09', '3')
-insert into player_record values ('48', '24', '2013-10-12', '2016-09-03', '3')
-insert into player_record values ('49', '25', '2019-04-07', '2022-03-29', '3')
-insert into player_record values ('50', '25', '2023-04-30', '2023-07-15', '3')
-insert into player_record values ('51', '26', '2014-12-17', '2017-02-23', '3')
-insert into player_record values ('52', '26', '2020-05-11', '2021-08-26', '3')
-insert into player_record values ('53', '27', '2009-12-07', '2015-07-18', '3')
-insert into player_record values ('54', '27', '2015-10-23', '2023-03-19', '3')
-insert into player_record values ('55', '28', '2014-01-29', '2015-10-06', '3')
-insert into player_record values ('56', '28', '2019-05-05', '2022-08-17', '3')
-insert into player_record values ('57', '29', '2012-07-15', '2013-02-11', '3')
-insert into player_record values ('58', '29', '2017-06-11', '2023-03-19', '3')
-insert into player_record values ('59', '30', '2017-01-24', '2019-10-06', '3')
-insert into player_record values ('60', '30', '2022-04-18', '2022-10-24', '3')
-insert into player_record values ('61', '31', '2020-02-08', '2020-03-31', '4')
-insert into player_record values ('62', '31', '2020-09-02', '2022-04-17', '4')
-insert into player_record values ('63', '32', '2010-11-18', '2015-02-23', '4')
-insert into player_record values ('64', '32', '2017-12-12', '2023-01-18', '4')
-insert into player_record values ('65', '33', '2007-06-07', '2012-03-27', '4')
-insert into player_record values ('66', '33', '2017-03-18', '2018-09-14', '4')
-insert into player_record values ('67', '34', '2020-05-07', '2020-05-19', '4')
-insert into player_record values ('68', '34', '2020-12-13', '2023-04-09', '4')
-insert into player_record values ('69', '35', '2019-09-27', '2022-05-26', '4')
-insert into player_record values ('70', '35', '2023-05-02', '2023-11-25', '4')
-insert into player_record values ('71', '36', '2016-07-30', '2020-05-14', '4')
-insert into player_record values ('72', '36', '2021-05-26', '2022-12-03', '4')
-insert into player_record values ('73', '37', '2014-03-17', '2017-12-07', '4')
-insert into player_record values ('74', '37', '2021-02-21', '2023-03-28', '4')
-insert into player_record values ('75', '38', '2014-03-13', '2014-11-30', '4')
-insert into player_record values ('76', '38', '2015-02-04', '2020-05-28', '4')
-insert into player_record values ('77', '39', '2009-02-21', '2015-11-13', '4')
-insert into player_record values ('78', '39', '2019-12-04', '2023-05-27', '4')
-insert into player_record values ('79', '40', '2012-09-03', '2013-01-31', '4')
-insert into player_record values ('80', '40', '2015-06-03', '2022-07-14', '4')
-insert into player_record values ('81', '41', '2014-09-29', '2017-04-27', '5')
-insert into player_record values ('82', '41', '2017-07-11', '2022-05-02', '5')
-insert into player_record values ('83', '42', '2015-10-27', '2018-06-03', '5')
-insert into player_record values ('84', '42', '2020-07-07', '2023-02-15', '5')
-insert into player_record values ('85', '43', '2013-05-09', '2017-12-22', '5')
-insert into player_record values ('86', '43', '2019-11-08', '2020-10-05', '5')
-insert into player_record values ('87', '44', '2011-10-16', '2012-02-20', '5')
-insert into player_record values ('88', '44', '2012-03-22', '2019-02-22', '5')
-insert into player_record values ('89', '45', '2006-01-24', '2010-07-03', '5')
-insert into player_record values ('90', '45', '2011-05-06', '2013-09-12', '5')
-insert into player_record values ('91', '46', '2010-12-14', '2013-06-22', '5')
-insert into player_record values ('92', '46', '2014-07-29', '2021-10-01', '5')
-insert into player_record values ('93', '47', '2011-04-14', '2017-05-09', '5')
-insert into player_record values ('94', '47', '2018-07-21', '2018-08-22', '5')
-insert into player_record values ('95', '48', '2009-07-07', '2009-07-08', '5')
-insert into player_record values ('96', '48', '2020-03-14', '2023-09-29', '5')
-insert into player_record values ('97', '49', '2016-03-25', '2019-01-21', '5')
-insert into player_record values ('98', '49', '2022-04-18', '2023-10-09', '5')
-insert into player_record values ('99', '50', '2018-05-27', '2019-12-22', '5')
-insert into player_record values ('100', '50', '2019-12-29', '2021-10-16', '5')
-insert into player_record values ('101', '51', '2016-02-20', '2016-09-10', '6')
-insert into player_record values ('102', '51', '2017-07-28', '2021-05-12', '6')
-insert into player_record values ('103', '52', '2009-11-20', '2010-07-02', '6')
-insert into player_record values ('104', '52', '2015-08-03', '2021-10-31', '6')
-insert into player_record values ('105', '53', '2018-05-26', '2019-09-08', '6')
-insert into player_record values ('106', '53', '2021-11-29', '2022-08-17', '6')
-insert into player_record values ('107', '54', '2012-09-04', '2015-05-10', '6')
-insert into player_record values ('108', '54', '2016-11-04', '2021-02-12', '6')
-insert into player_record values ('109', '55', '2013-04-14', '2017-11-21', '6')
-insert into player_record values ('110', '55', '2018-04-04', '2021-06-20', '6')
-insert into player_record values ('111', '56', '2008-03-22', '2010-07-17', '6')
-insert into player_record values ('112', '56', '2015-01-14', '2022-02-19', '6')
-insert into player_record values ('113', '57', '2021-02-20', '2021-07-17', '6')
-insert into player_record values ('114', '57', '2022-09-23', '2023-03-12', '6')
-insert into player_record values ('115', '58', '2015-02-28', '2015-09-17', '6')
-insert into player_record values ('116', '58', '2017-11-21', '2021-02-04', '6')
-insert into player_record values ('117', '59', '2019-04-13', '2021-03-26', '6')
-insert into player_record values ('118', '59', '2021-10-06', '2023-08-08', '6')
-insert into player_record values ('119', '60', '2019-04-03', '2019-04-06', '6')
-insert into player_record values ('120', '60', '2022-07-11', '2022-11-27', '6')
-insert into player_record values ('121', '61', '2009-10-13', '2014-12-09', '7')
-insert into player_record values ('122', '61', '2020-07-05', '2021-04-09', '7')
-insert into player_record values ('123', '62', '2020-04-21', '2020-06-24', '7')
-insert into player_record values ('124', '62', '2022-06-19', '2023-10-19', '7')
-insert into player_record values ('125', '63', '2007-07-12', '2017-09-17', '7')
-insert into player_record values ('126', '63', '2021-03-27', '2022-07-15', '7')
-insert into player_record values ('127', '64', '2012-06-20', '2018-03-12', '7')
-insert into player_record values ('128', '64', '2018-04-03', '2019-01-17', '7')
-insert into player_record values ('129', '65', '2009-04-30', '2010-11-27', '7')
-insert into player_record values ('130', '65', '2011-08-24', '2014-07-31', '7')
-insert into player_record values ('131', '66', '2021-08-14', '2021-12-08', '7')
-insert into player_record values ('132', '66', '2023-01-08', '2023-09-30', '7')
-insert into player_record values ('133', '67', '2018-10-16', '2020-04-06', '7')
-insert into player_record values ('134', '67', '2021-06-23', '2023-04-10', '7')
-insert into player_record values ('135', '68', '2009-09-03', '2010-08-25', '7')
-insert into player_record values ('136', '68', '2012-03-20', '2017-11-22', '7')
-insert into player_record values ('137', '69', '2013-08-09', '2015-07-28', '7')
-insert into player_record values ('138', '69', '2016-09-10', '2016-11-12', '7')
-insert into player_record values ('139', '70', '2014-01-24', '2014-11-17', '7')
-insert into player_record values ('140', '70', '2016-12-25', '2018-01-13', '7')
-insert into player_record values ('141', '71', '2018-07-15', '2019-05-03', '8')
-insert into player_record values ('142', '71', '2022-06-17', '2023-11-16', '8')
-insert into player_record values ('143', '72', '2010-12-16', '2017-06-16', '8')
-insert into player_record values ('144', '72', '2017-08-07', '2017-12-08', '8')
-insert into player_record values ('145', '73', '2019-03-31', '2021-10-25', '8')
-insert into player_record values ('146', '73', '2023-07-13', '2023-09-15', '8')
-insert into player_record values ('147', '74', '2010-12-29', '2012-10-23', '8')
-insert into player_record values ('148', '74', '2021-02-23', '2022-08-07', '8')
-insert into player_record values ('149', '75', '2011-06-11', '2013-05-19', '8')
-insert into player_record values ('150', '75', '2014-01-17', '2016-01-26', '8')
-insert into player_record values ('151', '76', '2009-12-18', '2010-08-30', '8')
-insert into player_record values ('152', '76', '2019-06-27', '2019-11-28', '8')
-insert into player_record values ('153', '77', '2012-04-23', '2014-08-13', '8')
-insert into player_record values ('154', '77', '2018-03-29', '2018-04-27', '8')
-insert into player_record values ('155', '78', '2014-08-06', '2020-04-17', '8')
-insert into player_record values ('156', '78', '2021-07-04', '2022-06-21', '8')
-insert into player_record values ('157', '79', '2008-01-16', '2010-11-08', '8')
-insert into player_record values ('158', '79', '2013-09-23', '2013-12-19', '8')
-insert into player_record values ('159', '80', '2018-03-06', '2019-10-28', '8')
-insert into player_record values ('160', '80', '2022-01-13', '2022-04-27', '8')
-insert into player_record values ('161', '81', '2016-03-27', '2018-07-12', '9')
-insert into player_record values ('162', '81', '2018-10-16', '2023-10-23', '9')
-insert into player_record values ('163', '82', '2015-06-14', '2017-02-02', '9')
-insert into player_record values ('164', '82', '2017-03-30', '2023-06-18', '9')
-insert into player_record values ('165', '83', '2017-09-18', '2018-01-21', '9')
-insert into player_record values ('166', '83', '2018-10-07', '2021-02-19', '9')
-insert into player_record values ('167', '84', '2016-07-14', '2017-05-18', '9')
-insert into player_record values ('168', '84', '2018-01-26', '2020-05-19', '9')
-insert into player_record values ('169', '85', '2012-10-24', '2018-05-09', '9')
-insert into player_record values ('170', '85', '2020-12-27', '2021-06-20', '9')
-insert into player_record values ('171', '86', '2012-08-13', '2013-09-14', '9')
-insert into player_record values ('172', '86', '2014-08-27', '2022-05-08', '9')
-insert into player_record values ('173', '87', '2015-10-01', '2018-10-17', '9')
-insert into player_record values ('174', '87', '2020-06-20', '2021-07-03', '9')
-insert into player_record values ('175', '88', '2012-01-30', '2013-05-19', '9')
-insert into player_record values ('176', '88', '2018-06-03', '2018-12-03', '9')
-insert into player_record values ('177', '89', '2017-08-25', '2017-11-29', '9')
-insert into player_record values ('178', '89', '2019-05-23', '2021-10-01', '9')
-insert into player_record values ('179', '90', '2006-06-27', '2009-06-08', '9')
-insert into player_record values ('180', '90', '2010-06-21', '2013-07-27', '9')
-insert into player_record values ('181', '91', '2019-07-17', '2019-10-25', '10')
-insert into player_record values ('182', '91', '2020-04-16', '2021-07-11', '10')
-insert into player_record values ('183', '92', '2013-11-05', '2016-02-18', '10')
-insert into player_record values ('184', '92', '2019-03-30', '2021-03-09', '10')
-insert into player_record values ('185', '93', '2014-10-24', '2017-03-30', '10')
-insert into player_record values ('186', '93', '2018-10-29', '2023-08-31', '10')
-insert into player_record values ('187', '94', '2019-02-05', '2019-06-30', '10')
-insert into player_record values ('188', '94', '2021-04-26', '2023-11-12', '10')
-insert into player_record values ('189', '95', '2017-06-03', '2018-01-24', '10')
-insert into player_record values ('190', '95', '2018-05-05', '2019-07-31', '10')
-insert into player_record values ('191', '96', '2006-09-05', '2007-03-01', '10')
-insert into player_record values ('192', '96', '2008-12-04', '2010-09-13', '10')
-insert into player_record values ('193', '97', '2017-01-15', '2017-01-17', '10')
-insert into player_record values ('194', '97', '2020-05-21', '2021-09-08', '10')
-insert into player_record values ('195', '98', '2008-09-24', '2016-06-02', '10')
-insert into player_record values ('196', '98', '2020-01-14', '2021-05-13', '10')
-insert into player_record values ('197', '99', '2016-12-12', '2017-07-02', '10')
-insert into player_record values ('198', '99', '2020-12-22', '2023-05-12', '10')
-insert into player_record values ('199', '100', '2020-02-14', '2021-02-08', '10')
-insert into player_record values ('200', '100', '2021-05-05', '2022-12-03', '10')
+insert into player_record (player_id, start_date, end_date, team_id) values (1, '2011-11-11', '2015-10-23', 1);
+insert into player_record (player_id, start_date, end_date, team_id) values (1, '2017-10-17', '2021-04-30', 1);
+insert into player_record (player_id, start_date, end_date, team_id) values (2, '2015-08-31', '2018-03-10', 1);
+insert into player_record (player_id, start_date, end_date, team_id) values (2, '2020-04-07', '2022-08-19', 1);
+insert into player_record (player_id, start_date, end_date, team_id) values (3, '2013-12-21', '2015-05-10', 1);
+insert into player_record (player_id, start_date, end_date, team_id) values (3, '2021-10-28', '2023-06-22', 1);
+insert into player_record (player_id, start_date, end_date, team_id) values (4, '2009-10-13', '2010-11-17', 1);
+insert into player_record (player_id, start_date, end_date, team_id) values (4, '2014-04-15', '2023-08-18', 1);
+insert into player_record (player_id, start_date, end_date, team_id) values (5, '2018-12-22', '2019-01-13', 1);
+insert into player_record (player_id, start_date, end_date, team_id) values (5, '2022-08-20', '2023-04-25', 1);
+insert into player_record (player_id, start_date, end_date, team_id) values (6, '2007-06-01', '2016-05-28', 1);
+insert into player_record (player_id, start_date, end_date, team_id) values (6, '2020-08-01', '2022-10-08', 1);
+insert into player_record (player_id, start_date, end_date, team_id) values (7, '2016-11-25', '2020-11-18', 1);
+insert into player_record (player_id, start_date, end_date, team_id) values (7, '2021-01-16', '2023-04-17', 1);
+insert into player_record (player_id, start_date, end_date, team_id) values (8, '2011-01-11', '2015-08-21', 1);
+insert into player_record (player_id, start_date, end_date, team_id) values (8, '2018-10-06', '2019-05-10', 1);
+insert into player_record (player_id, start_date, end_date, team_id) values (9, '2009-08-17', '2013-01-13', 1);
+insert into player_record (player_id, start_date, end_date, team_id) values (9, '2018-07-08', '2019-07-09', 1);
+insert into player_record (player_id, start_date, end_date, team_id) values (10, '2013-03-26', '2014-02-01', 1);
+insert into player_record (player_id, start_date, end_date, team_id) values (10, '2017-01-18', '2019-04-07', 1);
+insert into player_record (player_id, start_date, end_date, team_id) values (11, '2013-07-22', '2014-08-22', 2);
+insert into player_record (player_id, start_date, end_date, team_id) values (11, '2017-07-12', '2022-07-19', 2);
+insert into player_record (player_id, start_date, end_date, team_id) values (12, '2015-02-18', '2015-12-20', 2);
+insert into player_record (player_id, start_date, end_date, team_id) values (12, '2018-08-26', '2019-01-22', 2);
+insert into player_record (player_id, start_date, end_date, team_id) values (13, '2009-01-31', '2016-08-22', 2);
+insert into player_record (player_id, start_date, end_date, team_id) values (13, '2023-03-11', '2023-06-26', 2);
+insert into player_record (player_id, start_date, end_date, team_id) values (14, '2011-08-26', '2018-02-16', 2);
+insert into player_record (player_id, start_date, end_date, team_id) values (14, '2020-01-19', '2022-02-19', 2);
+insert into player_record (player_id, start_date, end_date, team_id) values (15, '2019-12-25', '2023-01-13', 2);
+insert into player_record (player_id, start_date, end_date, team_id) values (15, '2023-03-11', '2023-08-25', 2);
+insert into player_record (player_id, start_date, end_date, team_id) values (16, '2013-05-19', '2013-08-10', 2);
+insert into player_record (player_id, start_date, end_date, team_id) values (16, '2017-11-12', '2018-01-17', 2);
+insert into player_record (player_id, start_date, end_date, team_id) values (17, '2009-03-24', '2016-06-11', 2);
+insert into player_record (player_id, start_date, end_date, team_id) values (17, '2017-09-17', '2020-04-07', 2);
+insert into player_record (player_id, start_date, end_date, team_id) values (18, '2013-09-26', '2016-07-17', 2);
+insert into player_record (player_id, start_date, end_date, team_id) values (18, '2018-06-05', '2020-09-16', 2);
+insert into player_record (player_id, start_date, end_date, team_id) values (19, '2016-01-30', '2016-05-07', 2);
+insert into player_record (player_id, start_date, end_date, team_id) values (19, '2017-10-07', '2022-05-23', 2);
+insert into player_record (player_id, start_date, end_date, team_id) values (20, '2012-09-08', '2014-08-15', 2);
+insert into player_record (player_id, start_date, end_date, team_id) values (20, '2014-10-21', '2018-05-09', 2);
+insert into player_record (player_id, start_date, end_date, team_id) values (21, '2006-03-02', '2007-08-21', 3);
+insert into player_record (player_id, start_date, end_date, team_id) values (21, '2014-08-11', '2017-11-19', 3);
+insert into player_record (player_id, start_date, end_date, team_id) values (22, '2013-05-12', '2013-10-01', 3);
+insert into player_record (player_id, start_date, end_date, team_id) values (22, '2018-03-06', '2018-09-03', 3);
+insert into player_record (player_id, start_date, end_date, team_id) values (23, '2011-01-04', '2011-10-18', 3);
+insert into player_record (player_id, start_date, end_date, team_id) values (23, '2012-06-26', '2021-04-27', 3);
+insert into player_record (player_id, start_date, end_date, team_id) values (24, '2018-05-06', '2022-12-07', 3);
+insert into player_record (player_id, start_date, end_date, team_id) values (24, '2023-04-08', '2023-11-07', 3);
+insert into player_record (player_id, start_date, end_date, team_id) values (25, '2019-11-12', '2020-08-28', 3);
+insert into player_record (player_id, start_date, end_date, team_id) values (25, '2021-11-09', '2022-07-07', 3);
+insert into player_record (player_id, start_date, end_date, team_id) values (26, '2012-08-03', '2015-01-31', 3);
+insert into player_record (player_id, start_date, end_date, team_id) values (26, '2020-08-19', '2021-10-14', 3);
+insert into player_record (player_id, start_date, end_date, team_id) values (27, '2008-08-23', '2018-09-10', 3);
+insert into player_record (player_id, start_date, end_date, team_id) values (27, '2019-03-29', '2023-10-20', 3);
+insert into player_record (player_id, start_date, end_date, team_id) values (28, '2014-10-31', '2015-04-14', 3);
+insert into player_record (player_id, start_date, end_date, team_id) values (28, '2019-04-19', '2020-01-23', 3);
+insert into player_record (player_id, start_date, end_date, team_id) values (29, '2012-02-25', '2012-10-03', 3);
+insert into player_record (player_id, start_date, end_date, team_id) values (29, '2016-05-04', '2017-01-07', 3);
+insert into player_record (player_id, start_date, end_date, team_id) values (30, '2011-06-20', '2014-03-27', 3);
+insert into player_record (player_id, start_date, end_date, team_id) values (30, '2015-06-05', '2017-12-12', 3);
+insert into player_record (player_id, start_date, end_date, team_id) values (31, '2014-07-01', '2017-07-25', 4);
+insert into player_record (player_id, start_date, end_date, team_id) values (31, '2022-08-30', '2023-06-26', 4);
+insert into player_record (player_id, start_date, end_date, team_id) values (32, '2016-01-27', '2019-07-04', 4);
+insert into player_record (player_id, start_date, end_date, team_id) values (32, '2022-08-09', '2023-05-09', 4);
+insert into player_record (player_id, start_date, end_date, team_id) values (33, '2012-03-20', '2012-08-27', 4);
+insert into player_record (player_id, start_date, end_date, team_id) values (33, '2015-10-18', '2018-04-22', 4);
+insert into player_record (player_id, start_date, end_date, team_id) values (34, '2016-05-15', '2021-08-14', 4);
+insert into player_record (player_id, start_date, end_date, team_id) values (34, '2023-05-26', '2023-06-08', 4);
+insert into player_record (player_id, start_date, end_date, team_id) values (35, '2011-04-17', '2016-10-01', 4);
+insert into player_record (player_id, start_date, end_date, team_id) values (35, '2018-02-18', '2021-12-16', 4);
+insert into player_record (player_id, start_date, end_date, team_id) values (36, '2009-06-28', '2015-07-09', 4);
+insert into player_record (player_id, start_date, end_date, team_id) values (36, '2017-08-05', '2020-11-19', 4);
+insert into player_record (player_id, start_date, end_date, team_id) values (37, '2017-04-12', '2018-02-15', 4);
+insert into player_record (player_id, start_date, end_date, team_id) values (37, '2019-01-25', '2021-05-14', 4);
+insert into player_record (player_id, start_date, end_date, team_id) values (38, '2019-05-23', '2019-12-18', 4);
+insert into player_record (player_id, start_date, end_date, team_id) values (38, '2019-12-24', '2020-06-03', 4);
+insert into player_record (player_id, start_date, end_date, team_id) values (39, '2013-11-24', '2017-05-16', 4);
+insert into player_record (player_id, start_date, end_date, team_id) values (39, '2020-04-12', '2020-09-17', 4);
+insert into player_record (player_id, start_date, end_date, team_id) values (40, '2018-01-29', '2020-04-04', 4);
+insert into player_record (player_id, start_date, end_date, team_id) values (40, '2021-11-19', '2022-05-07', 4);
+insert into player_record (player_id, start_date, end_date, team_id) values (41, '2015-10-06', '2019-11-09', 5);
+insert into player_record (player_id, start_date, end_date, team_id) values (41, '2020-04-13', '2022-04-17', 5);
+insert into player_record (player_id, start_date, end_date, team_id) values (42, '2010-11-27', '2014-05-03', 5);
+insert into player_record (player_id, start_date, end_date, team_id) values (42, '2015-03-02', '2022-11-15', 5);
+insert into player_record (player_id, start_date, end_date, team_id) values (43, '2012-03-13', '2019-08-24', 5);
+insert into player_record (player_id, start_date, end_date, team_id) values (43, '2020-11-19', '2022-04-21', 5);
+insert into player_record (player_id, start_date, end_date, team_id) values (44, '2016-03-04', '2016-07-18', 5);
+insert into player_record (player_id, start_date, end_date, team_id) values (44, '2018-01-10', '2021-03-02', 5);
+insert into player_record (player_id, start_date, end_date, team_id) values (45, '2011-05-06', '2014-09-04', 5);
+insert into player_record (player_id, start_date, end_date, team_id) values (45, '2017-12-21', '2021-03-31', 5);
+insert into player_record (player_id, start_date, end_date, team_id) values (46, '2018-07-28', '2020-02-13', 5);
+insert into player_record (player_id, start_date, end_date, team_id) values (46, '2021-11-28', '2022-10-25', 5);
+insert into player_record (player_id, start_date, end_date, team_id) values (47, '2010-12-22', '2015-01-13', 5);
+insert into player_record (player_id, start_date, end_date, team_id) values (47, '2018-06-19', '2020-11-07', 5);
+insert into player_record (player_id, start_date, end_date, team_id) values (48, '2012-06-07', '2012-12-13', 5);
+insert into player_record (player_id, start_date, end_date, team_id) values (48, '2021-08-23', '2023-07-10', 5);
+insert into player_record (player_id, start_date, end_date, team_id) values (49, '2006-02-07', '2010-06-12', 5);
+insert into player_record (player_id, start_date, end_date, team_id) values (49, '2020-02-01', '2022-04-23', 5);
+insert into player_record (player_id, start_date, end_date, team_id) values (50, '2010-10-02', '2013-09-28', 5);
+insert into player_record (player_id, start_date, end_date, team_id) values (50, '2018-06-27', '2020-07-31', 5);
+insert into player_record (player_id, start_date, end_date, team_id) values (51, '2011-12-07', '2012-02-16', 6);
+insert into player_record (player_id, start_date, end_date, team_id) values (51, '2017-06-23', '2021-01-12', 6);
+insert into player_record (player_id, start_date, end_date, team_id) values (52, '2009-05-12', '2010-07-16', 6);
+insert into player_record (player_id, start_date, end_date, team_id) values (52, '2011-11-05', '2023-03-26', 6);
+insert into player_record (player_id, start_date, end_date, team_id) values (53, '2017-11-24', '2018-02-28', 6);
+insert into player_record (player_id, start_date, end_date, team_id) values (53, '2018-03-18', '2023-08-09', 6);
+insert into player_record (player_id, start_date, end_date, team_id) values (54, '2014-12-18', '2020-08-20', 6);
+insert into player_record (player_id, start_date, end_date, team_id) values (54, '2021-08-05', '2021-08-22', 6);
+insert into player_record (player_id, start_date, end_date, team_id) values (55, '2010-09-28', '2017-02-02', 6);
+insert into player_record (player_id, start_date, end_date, team_id) values (55, '2017-02-26', '2018-08-23', 6);
+insert into player_record (player_id, start_date, end_date, team_id) values (56, '2009-04-21', '2012-04-01', 6);
+insert into player_record (player_id, start_date, end_date, team_id) values (56, '2021-07-08', '2023-07-09', 6);
+insert into player_record (player_id, start_date, end_date, team_id) values (57, '2015-02-16', '2016-06-22', 6);
+insert into player_record (player_id, start_date, end_date, team_id) values (57, '2018-03-26', '2023-06-30', 6);
+insert into player_record (player_id, start_date, end_date, team_id) values (58, '2014-09-13', '2017-09-10', 6);
+insert into player_record (player_id, start_date, end_date, team_id) values (58, '2021-03-19', '2023-09-04', 6);
+insert into player_record (player_id, start_date, end_date, team_id) values (59, '2013-08-24', '2019-06-22', 6);
+insert into player_record (player_id, start_date, end_date, team_id) values (59, '2019-08-31', '2021-10-02', 6);
+insert into player_record (player_id, start_date, end_date, team_id) values (60, '2008-07-20', '2012-07-14', 6);
+insert into player_record (player_id, start_date, end_date, team_id) values (60, '2016-11-08', '2020-12-23', 6);
+insert into player_record (player_id, start_date, end_date, team_id) values (61, '2011-07-04', '2012-11-26', 7);
+insert into player_record (player_id, start_date, end_date, team_id) values (61, '2016-03-15', '2019-11-06', 7);
+insert into player_record (player_id, start_date, end_date, team_id) values (62, '2010-07-18', '2012-02-21', 7);
+insert into player_record (player_id, start_date, end_date, team_id) values (62, '2019-06-09', '2022-04-11', 7);
+insert into player_record (player_id, start_date, end_date, team_id) values (63, '2007-11-19', '2009-04-20', 7);
+insert into player_record (player_id, start_date, end_date, team_id) values (63, '2011-07-10', '2014-02-18', 7);
+insert into player_record (player_id, start_date, end_date, team_id) values (64, '2010-08-21', '2011-01-03', 7);
+insert into player_record (player_id, start_date, end_date, team_id) values (64, '2011-02-04', '2019-03-02', 7);
+insert into player_record (player_id, start_date, end_date, team_id) values (65, '2017-11-18', '2018-05-31', 7);
+insert into player_record (player_id, start_date, end_date, team_id) values (65, '2020-09-27', '2021-02-22', 7);
+insert into player_record (player_id, start_date, end_date, team_id) values (66, '2007-03-21', '2007-08-17', 7);
+insert into player_record (player_id, start_date, end_date, team_id) values (66, '2007-12-30', '2021-06-22', 7);
+insert into player_record (player_id, start_date, end_date, team_id) values (67, '2019-05-21', '2019-07-17', 7);
+insert into player_record (player_id, start_date, end_date, team_id) values (67, '2019-10-13', '2021-06-27', 7);
+insert into player_record (player_id, start_date, end_date, team_id) values (68, '2006-10-17', '2013-02-15', 7);
+insert into player_record (player_id, start_date, end_date, team_id) values (68, '2017-07-10', '2018-08-19', 7);
+insert into player_record (player_id, start_date, end_date, team_id) values (69, '2016-01-26', '2020-07-05', 7);
+insert into player_record (player_id, start_date, end_date, team_id) values (69, '2022-06-19', '2023-10-26', 7);
+insert into player_record (player_id, start_date, end_date, team_id) values (70, '2012-05-04', '2016-08-09', 7);
+insert into player_record (player_id, start_date, end_date, team_id) values (70, '2017-11-03', '2023-01-15', 7);
+insert into player_record (player_id, start_date, end_date, team_id) values (71, '2012-02-27', '2014-12-04', 8);
+insert into player_record (player_id, start_date, end_date, team_id) values (71, '2020-07-29', '2022-05-01', 8);
+insert into player_record (player_id, start_date, end_date, team_id) values (72, '2019-08-30', '2020-03-12', 8);
+insert into player_record (player_id, start_date, end_date, team_id) values (72, '2022-02-18', '2023-09-20', 8);
+insert into player_record (player_id, start_date, end_date, team_id) values (73, '2015-01-01', '2015-04-15', 8);
+insert into player_record (player_id, start_date, end_date, team_id) values (73, '2016-05-18', '2022-08-19', 8);
+insert into player_record (player_id, start_date, end_date, team_id) values (74, '2019-05-24', '2019-06-07', 8);
+insert into player_record (player_id, start_date, end_date, team_id) values (74, '2022-11-29', '2022-12-11', 8);
+insert into player_record (player_id, start_date, end_date, team_id) values (75, '2008-04-26', '2009-02-20', 8);
+insert into player_record (player_id, start_date, end_date, team_id) values (75, '2011-03-05', '2017-03-01', 8);
+insert into player_record (player_id, start_date, end_date, team_id) values (76, '2019-07-10', '2020-05-25', 8);
+insert into player_record (player_id, start_date, end_date, team_id) values (76, '2022-11-06', '2023-10-02', 8);
+insert into player_record (player_id, start_date, end_date, team_id) values (77, '2015-01-22', '2015-06-12', 8);
+insert into player_record (player_id, start_date, end_date, team_id) values (77, '2016-07-08', '2017-10-12', 8);
+insert into player_record (player_id, start_date, end_date, team_id) values (78, '2010-07-23', '2013-03-20', 8);
+insert into player_record (player_id, start_date, end_date, team_id) values (78, '2018-01-24', '2020-05-10', 8);
+insert into player_record (player_id, start_date, end_date, team_id) values (79, '2016-05-29', '2017-08-03', 8);
+insert into player_record (player_id, start_date, end_date, team_id) values (79, '2020-03-27', '2023-04-06', 8);
+insert into player_record (player_id, start_date, end_date, team_id) values (80, '2009-08-10', '2012-04-09', 8);
+insert into player_record (player_id, start_date, end_date, team_id) values (80, '2015-07-26', '2021-06-10', 8);
+insert into player_record (player_id, start_date, end_date, team_id) values (81, '2015-06-03', '2021-11-23', 9);
+insert into player_record (player_id, start_date, end_date, team_id) values (81, '2022-08-22', '2023-07-06', 9);
+insert into player_record (player_id, start_date, end_date, team_id) values (82, '2007-06-27', '2007-09-22', 9);
+insert into player_record (player_id, start_date, end_date, team_id) values (82, '2021-10-13', '2023-08-08', 9);
+insert into player_record (player_id, start_date, end_date, team_id) values (83, '2011-05-16', '2014-07-31', 9);
+insert into player_record (player_id, start_date, end_date, team_id) values (83, '2020-05-03', '2022-05-29', 9);
+insert into player_record (player_id, start_date, end_date, team_id) values (84, '2015-03-26', '2016-01-01', 9);
+insert into player_record (player_id, start_date, end_date, team_id) values (84, '2016-08-31', '2020-11-07', 9);
+insert into player_record (player_id, start_date, end_date, team_id) values (85, '2014-12-24', '2017-08-17', 9);
+insert into player_record (player_id, start_date, end_date, team_id) values (85, '2021-05-13', '2023-08-04', 9);
+insert into player_record (player_id, start_date, end_date, team_id) values (86, '2008-04-04', '2012-02-04', 9);
+insert into player_record (player_id, start_date, end_date, team_id) values (86, '2018-11-28', '2019-08-01', 9);
+insert into player_record (player_id, start_date, end_date, team_id) values (87, '2013-03-18', '2015-10-03', 9);
+insert into player_record (player_id, start_date, end_date, team_id) values (87, '2018-05-21', '2022-04-17', 9);
+insert into player_record (player_id, start_date, end_date, team_id) values (88, '2011-08-19', '2013-09-30', 9);
+insert into player_record (player_id, start_date, end_date, team_id) values (88, '2015-10-27', '2021-07-15', 9);
+insert into player_record (player_id, start_date, end_date, team_id) values (89, '2019-02-13', '2020-05-23', 9);
+insert into player_record (player_id, start_date, end_date, team_id) values (89, '2020-11-29', '2021-04-30', 9);
+insert into player_record (player_id, start_date, end_date, team_id) values (90, '2013-10-29', '2016-11-22', 9);
+insert into player_record (player_id, start_date, end_date, team_id) values (90, '2019-09-11', '2022-02-02', 9);
+insert into player_record (player_id, start_date, end_date, team_id) values (91, '2017-03-02', '2020-08-10', 10);
+insert into player_record (player_id, start_date, end_date, team_id) values (91, '2022-06-08', '2022-09-28', 10);
+insert into player_record (player_id, start_date, end_date, team_id) values (92, '2021-01-20', '2021-03-24', 10);
+insert into player_record (player_id, start_date, end_date, team_id) values (92, '2023-03-09', '2023-11-25', 10);
+insert into player_record (player_id, start_date, end_date, team_id) values (93, '2016-10-12', '2018-11-05', 10);
+insert into player_record (player_id, start_date, end_date, team_id) values (93, '2019-08-04', '2023-05-27', 10);
+insert into player_record (player_id, start_date, end_date, team_id) values (94, '2020-05-03', '2021-02-15', 10);
+insert into player_record (player_id, start_date, end_date, team_id) values (94, '2023-05-12', '2023-10-18', 10);
+insert into player_record (player_id, start_date, end_date, team_id) values (95, '2019-06-04', '2020-12-25', 10);
+insert into player_record (player_id, start_date, end_date, team_id) values (95, '2021-01-29', '2022-12-24', 10);
+insert into player_record (player_id, start_date, end_date, team_id) values (96, '2013-03-13', '2013-12-12', 10);
+insert into player_record (player_id, start_date, end_date, team_id) values (96, '2017-06-08', '2020-07-11', 10);
+insert into player_record (player_id, start_date, end_date, team_id) values (97, '2017-09-18', '2019-03-27', 10);
+insert into player_record (player_id, start_date, end_date, team_id) values (97, '2020-03-01', '2023-02-03', 10);
+insert into player_record (player_id, start_date, end_date, team_id) values (98, '2014-01-28', '2019-02-23', 10);
+insert into player_record (player_id, start_date, end_date, team_id) values (98, '2022-12-19', '2023-02-11', 10);
+insert into player_record (player_id, start_date, end_date, team_id) values (99, '2012-06-12', '2013-09-05', 10);
+insert into player_record (player_id, start_date, end_date, team_id) values (99, '2016-05-29', '2020-07-25', 10);
+insert into player_record (player_id, start_date, end_date, team_id) values (100, '2015-02-13', '2017-07-02', 10);
+insert into player_record (player_id, start_date, end_date, team_id) values (100, '2017-08-11', '2023-03-24', 10);
 
-insert into team values ('1', 'team#1', '1', '1', '1991')
-insert into team values ('2', 'team#2', '2', '2', '1991')
-insert into team values ('3', 'team#3', '3', '3', '1986')
-insert into team values ('4', 'team#4', '4', '4', '1970')
-insert into team values ('5', 'team#5', '5', '5', '1990')
-insert into team values ('6', 'team#6', '6', '6', '1985')
-insert into team values ('7', 'team#7', '7', '7', '2005')
-insert into team values ('8', 'team#8', '8', '8', '2004')
-insert into team values ('9', 'team#9', '9', '9', '1975')
-insert into team values ('10', 'team#10', '10', '10', '1969')
+insert into team (team_name, owner_id, director_id, establishment_year) values ('team#1', 1, 1, 2007);
+insert into team (team_name, owner_id, director_id, establishment_year) values ('team#2', 2, 2, 1984);
+insert into team (team_name, owner_id, director_id, establishment_year) values ('team#3', 3, 3, 1964);
+insert into team (team_name, owner_id, director_id, establishment_year) values ('team#4', 4, 4, 1956);
+insert into team (team_name, owner_id, director_id, establishment_year) values ('team#5', 5, 5, 1972);
+insert into team (team_name, owner_id, director_id, establishment_year) values ('team#6', 6, 6, 1952);
+insert into team (team_name, owner_id, director_id, establishment_year) values ('team#7', 7, 7, 2003);
+insert into team (team_name, owner_id, director_id, establishment_year) values ('team#8', 8, 8, 1951);
+insert into team (team_name, owner_id, director_id, establishment_year) values ('team#9', 9, 9, 1984);
+insert into team (team_name, owner_id, director_id, establishment_year) values ('team#10', 10, 10, 1997);
 
-insert into awards values ('1', '2', '2019', '10')
-insert into awards values ('2', '97', '2022', '8')
-insert into awards values ('3', '87', '2022', '6')
-insert into awards values ('4', '42', '2015', '4')
-insert into awards values ('5', '70', '2019', '2')
-insert into awards values ('6', '75', '2021', '5')
-insert into awards values ('7', '29', '2015', '10')
-insert into awards values ('8', '15', '2015', '6')
-insert into awards values ('9', '38', '2015', '6')
-insert into awards values ('10', '39', '2019', '9')
-insert into awards values ('11', '62', '2022', '2')
-insert into awards values ('12', '33', '2021', '8')
-insert into awards values ('13', '51', '2016', '9')
-insert into awards values ('14', '21', '2020', '2')
-insert into awards values ('15', '19', '2019', '8')
-insert into awards values ('16', '61', '2017', '7')
-insert into awards values ('17', '88', '2022', '4')
-insert into awards values ('18', '16', '2023', '2')
-insert into awards values ('19', '87', '2021', '5')
+insert into team_award (awards_id, year, team_id) values ('4', 2016, 4);
+insert into team_award (awards_id, year, team_id) values ('91', 2017, 10);
+insert into team_award (awards_id, year, team_id) values ('21', 2019, 2);
+insert into team_award (awards_id, year, team_id) values ('92', 2020, 8);
+insert into team_award (awards_id, year, team_id) values ('77', 2019, 6);
+insert into team_award (awards_id, year, team_id) values ('80', 2018, 2);
+insert into team_award (awards_id, year, team_id) values ('10', 2018, 10);
+insert into team_award (awards_id, year, team_id) values ('95', 2016, 4);
+insert into team_award (awards_id, year, team_id) values ('45', 2015, 5);
+insert into team_award (awards_id, year, team_id) values ('18', 2021, 4);
+insert into team_award (awards_id, year, team_id) values ('60', 2020, 8);
+insert into team_award (awards_id, year, team_id) values ('34', 2023, 9);
+insert into team_award (awards_id, year, team_id) values ('29', 2017, 10);
+insert into team_award (awards_id, year, team_id) values ('28', 2016, 3);
+insert into team_award (awards_id, year, team_id) values ('95', 2022, 5);
+insert into team_award (awards_id, year, team_id) values ('86', 2022, 1);
+insert into team_award (awards_id, year, team_id) values ('65', 2023, 2);
+insert into team_award (awards_id, year, team_id) values ('40', 2020, 2);
+insert into team_award (awards_id, year, team_id) values ('19', 2017, 9);
 
