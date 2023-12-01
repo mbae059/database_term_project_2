@@ -35,6 +35,7 @@ class Player(UserInterface):
 
     def get_menu(self):
         print('Menu:')
+
         print('1. Register')
         print('2. Read')
         print('3. Update')

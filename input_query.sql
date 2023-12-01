@@ -10,6 +10,9 @@ drop table if exists Individual_Award;
 drop table if exists Awards;
 drop table if exists Baseball_Records;
 drop table if exists Baseball_Stadium;
+
+-- SERIAL
+-- auto increment int
 CREATE TABLE Player (
     player_id SERIAL PRIMARY KEY,
     player_name VARCHAR(10),
