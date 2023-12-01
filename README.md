@@ -34,10 +34,13 @@ Schema
 Player(player_name, team_name, **team_id**, position, uniform_number, birth, income, agent_id)
 > team_id(Team) : on delete set null.
 
+```
+Deprecated
+Though the generator still exists, it will no longer be used
 Player_record(**player_id**, start_date, end_date, **team_id**)
 > player_id(Player) : on delete no action
 > team_id(Team) : on delete no action
-
+```
 Agent(agent_name, age, contact_info)
 
 Owner(**team_id**, owner_name, owner_age, budget)
