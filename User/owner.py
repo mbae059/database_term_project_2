@@ -5,46 +5,63 @@ from user_interface import UserInterface
 class Owner(UserInterface):
     register_schema_functions = {
         'player': (create.player, read.player),
-        'player_record': (create.player_record, read.player_record),
         'team': (create.team, read.team),
+        'belongs_to': (create.belongs_to, read.belongs_to),
+        'owner': (create.owner, read.owner),
+        'owns': (create.owns, read.owns),
         'director': (create.director, read.director),
+        'directs': (create.directs, read.directs),
+        'awards': (create.awards, read.awards),
+        'player_won': (create.player_won, read.player_won),
+        'team_won': (create.team_won, read.team_won),
+        'client': (create.client, read.client),
     }
     read_schema_functions = {
         'player': read.player,
-        'player_record': read.player_record,
-        'agent': read.agent,
-        'owner': read.owner,
         'team': read.team,
+        'belongs_to': read.belongs_to,
+        'owner': read.owner,
+        'owns': read.owns,
         'director': read.director,
-        'player_agent': read.player_agent,
-        'player_trading': read.player_trading,
-        'team_awards': read.team_awards,
-        'individual_awards': read.individual_awards,
-        'awards_name': read.awards_name,
-        'baseball_records': read.baseball_records,
-        'baseball_stadium': read.baseball_stadium,
+        'directs': read.directs,
+        'awards': read.awards,
+        'player_won': read.player_won,
+        'team_won': read.team_won,
+        'client': read.client,
     }
+
     update_schema_functions = {
         'player': (update.player, read.player),
-        'player_record': (update.player_record, read.player_record),
-        'owner': (update.owner, read.owner),
         'team': (update.team, read.team),
+        'belongs_to': (update.belongs_to, read.belongs_to),
+        'owner': (update.owner, read.owner),
+        'owns': (update.owns, read.owns),
         'director': (update.director, read.director),
+        'directs': (update.directs, read.directs),
+        'awards': (update.awards, read.awards),
+        'player_won': (update.player_won, read.player_won),
+        'team_won': (update.team_won, read.team_won),
+        'client': (update.client, read.client),
     }
+
     delete_schema_functions = {
         'player': (delete.player, read.player),
-        'player_record': (delete.player_record, read.player_record),
-        'agent': (delete.agent, read.agent),
         'team': (delete.team, read.team),
+        'belongs_to': (delete.belongs_to, read.belongs_to),
+        'owner': (delete.owner, read.owner),
+        'owns': (delete.owns, read.owns),
         'director': (delete.director, read.director),
+        'directs': (delete.directs, read.directs),
+        'awards': (delete.awards, read.awards),
+        'player_won': (delete.player_won, read.player_won),
+        'team_won': (delete.team_won, read.team_won),
+        'client': (delete.client, read.client),
     }
     register_schema_functions_list = list(register_schema_functions)
     read_schema_functions_list = list(read_schema_functions)
     update_schema_functions_list = list(update_schema_functions)
     delete_schema_functions_list = list(delete_schema_functions)
 
-    def __init__(self):
-        super(self)
 
     def get_menu(self):
         print('Menu:')

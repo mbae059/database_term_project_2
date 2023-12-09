@@ -28,7 +28,7 @@ class User:
         self.user_type = ""
         self.user_interface = user_interface  # using Dependency Injection
 
-    def login(self, cursor):
+    def login(self, cursor: psycopg2.extensions.cursor):
         id = input("ID: ")
         # password = getpass.getpass("password: ")
         password = input("password: ")

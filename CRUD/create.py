@@ -1,15 +1,15 @@
+import psycopg2
+
+
 def player(cursor):
     print('create user')
-    player_name = input('player name : ')
-    team_name = input('team name : ')
-    team_id = input('team id : ')
+    name = input('player name : ')
     position = input('position : ')
-    uniform_number = input('uniform number : ')
     birth = input('birth : ')
-    income = input('income : ')
-    agent_id = input('agent_id : ')
-
     # create query
+
+    query = f"INSERT INTO players (name, position, birth) VALUES ('{name}', '{position}', '{birth}')"
+    cursor.execute(query)
 
 
 def team(cursor):
@@ -54,8 +54,6 @@ def directs(cursor):
     income = input('income : ')
 
 
-
-
 def player_agent(cursor):  # budget 이 예산? 그렇다면 signing bonus...
     print('create player_agent')
     agent_id = input('agent ID : ')
@@ -64,8 +62,6 @@ def player_agent(cursor):  # budget 이 예산? 그렇다면 signing bonus...
     contract_date = input('contract date : ')
     contract_term = input('contract term : ')
     signing_bonus = input('signing bonus : ')
-
-
 
 
 def awards(cursor):
@@ -81,6 +77,7 @@ def player_won(cursor):
 def team_won(cursor):
     # todo
     pass
+
 
 def client(cursor):
     print('create user')
@@ -98,27 +95,46 @@ def player_trading_history(cursor):
     player_state = input('player state : ')
 
 
-def register_data_menu(register_schema_functions_list):
+create_schema_functions = {
+    'player': player,
+    'team': team,
+    'belongs_to': belongs_to,
+    'owner': owner,
+    'owns': owns,
+    'director': director,
+    'directs': directs,
+    'awards': awards,
+    'player_won': player_won,
+    'team_won': team_won,
+    'client': client,
+}
+
+li = []
+def create_data_menu():
     print('**** Register Data ****')
-    for i in range(0, len(register_schema_functions_list)):
-        print(f'{i + 1}. {register_schema_functions_list[i]}')
+    for i in range(0, len(li)):
+        print(f'{i + 1}. {li[i]}')
 
 
-def register_data_process(register_schema_functions_list, cursor):
+def create_data_process(cursor: psycopg2.extensions.cursor):
     try:
         index = int(input())
-        create_func, read_func = register_schema_functions_list[index]
-        create_func(cursor)
-        read_func(cursor)
+        index -= 1
+        create_func = li[index]
+        create_schema_functions[create_func](cursor)
     except ValueError:
         print('Not a valid integer')
     except IndexError:
         print('Index Out of Bound')
 
 
-def register_data(register_schema_functions_list, cursor):
-    if not register_schema_functions_list:
+def create_data(create_schema_functions: dict, cursor):
+    if not create_schema_functions:
         print('No Authorization')
         return
-    register_data_menu(register_schema_functions_list)
-    register_data_process(register_schema_functions_list, cursor)
+
+    global li
+    li.clear()
+    li = list(create_schema_functions)
+    create_data_menu()
+    create_data_process(cursor)
