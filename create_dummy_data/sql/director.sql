@@ -1,0 +1,10 @@
+insert into director (director_name, director_year, team_id, income) values ('EvIkrw', '2000', 1, 705);
+insert into director (director_name, director_year, team_id, income) values ('UvmQVTl5', '2002', 2, 816);
+insert into director (director_name, director_year, team_id, income) values ('iUCqh0B', '1999', 3, 566);
+insert into director (director_name, director_year, team_id, income) values ('aLA4PDZ4u', '1998', 4, 731);
+insert into director (director_name, director_year, team_id, income) values ('u3y4TQ', '1980', 5, 688);
+insert into director (director_name, director_year, team_id, income) values ('KvOTJTXy', '1998', 6, 728);
+insert into director (director_name, director_year, team_id, income) values ('BFEsdNC', '1992', 7, 931);
+insert into director (director_name, director_year, team_id, income) values ('k4nwsm27', '1996', 8, 601);
+insert into director (director_name, director_year, team_id, income) values ('IKo0XGzW', '1991', 9, 565);
+insert into director (director_name, director_year, team_id, income) values ('WU3q2OcB', '1991', 10, 688);

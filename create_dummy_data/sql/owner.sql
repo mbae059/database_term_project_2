@@ -1,0 +1,10 @@
+insert into owner (team_id, owner_name, owner_age, budget) values (1, 'bo7w5o', 62, 778);
+insert into owner (team_id, owner_name, owner_age, budget) values (2, 'OODovz', 34, 805);
+insert into owner (team_id, owner_name, owner_age, budget) values (3, '2ESxQ0e', 65, 890);
+insert into owner (team_id, owner_name, owner_age, budget) values (4, '4OwbtMj', 57, 615);
+insert into owner (team_id, owner_name, owner_age, budget) values (5, 'ZdDkulnkQ', 34, 633);
+insert into owner (team_id, owner_name, owner_age, budget) values (6, 'NUxQEL2I', 30, 556);
+insert into owner (team_id, owner_name, owner_age, budget) values (7, 'd23Tva', 56, 744);
+insert into owner (team_id, owner_name, owner_age, budget) values (8, 'Nz9dzTKL9', 44, 763);
+insert into owner (team_id, owner_name, owner_age, budget) values (9, 'OnvqFB', 67, 910);
+insert into owner (team_id, owner_name, owner_age, budget) values (10, 'FqvyW', 34, 705);

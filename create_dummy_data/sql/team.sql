@@ -1,0 +1,10 @@
+insert into team (team_name, owner_id, director_id, establishment_year) values ('team#1', 1, 1, 2007);
+insert into team (team_name, owner_id, director_id, establishment_year) values ('team#2', 2, 2, 1984);
+insert into team (team_name, owner_id, director_id, establishment_year) values ('team#3', 3, 3, 1964);
+insert into team (team_name, owner_id, director_id, establishment_year) values ('team#4', 4, 4, 1956);
+insert into team (team_name, owner_id, director_id, establishment_year) values ('team#5', 5, 5, 1972);
+insert into team (team_name, owner_id, director_id, establishment_year) values ('team#6', 6, 6, 1952);
+insert into team (team_name, owner_id, director_id, establishment_year) values ('team#7', 7, 7, 2003);
+insert into team (team_name, owner_id, director_id, establishment_year) values ('team#8', 8, 8, 1951);
+insert into team (team_name, owner_id, director_id, establishment_year) values ('team#9', 9, 9, 1984);
+insert into team (team_name, owner_id, director_id, establishment_year) values ('team#10', 10, 10, 1997);
