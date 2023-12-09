@@ -13,9 +13,7 @@ Schema
 - player
 - director
 - owner
-- agent
 - general user
-- team
 
 # Function
 - to lazy to write this down. See PDF
