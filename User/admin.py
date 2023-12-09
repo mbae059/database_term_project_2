@@ -5,7 +5,6 @@ from CRUD import read, delete, update, create
 class Admin(UserInterface):
     register_schema_functions = {
         'player': (create.player, read.player),
-        'player_record': (create.player_record, read.player_record),
         'agent': (create.agent, read.agent),
         'owner': (create.owner, read.owner),
         'team': (create.team, read.team),
@@ -20,7 +19,6 @@ class Admin(UserInterface):
     }
     read_schema_functions = {
         'player': read.player,
-        'player_record': read.player_record,
         'agent': read.agent,
         'owner': read.owner,
         'team': read.team,
@@ -35,7 +33,6 @@ class Admin(UserInterface):
     }
     update_schema_functions = {
         'player': (update.player, read.player),
-        'player_record': (update.player_record, read.player_record),
         'agent': (update.agent, read.agent),
         'owner': (update.owner, read.owner),
         'team': (update.team, read.team),
@@ -50,7 +47,6 @@ class Admin(UserInterface):
     }
     delete_schema_functions = {
         'player': (delete.player, read.player),
-        'player_record': (delete.player_record, read.player_record),
         'agent': (delete.agent, read.agent),
         'owner': (delete.owner, read.owner),
         'team': (delete.team, read.team),
@@ -67,9 +63,6 @@ class Admin(UserInterface):
     read_schema_functions_list = list(read_schema_functions)
     update_schema_functions_list = list(update_schema_functions)
     delete_schema_functions_list = list(delete_schema_functions)
-
-    def __init__(self):
-        super(self)
 
     def get_menu(self):
         print('Menu:')
