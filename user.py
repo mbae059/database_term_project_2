@@ -57,8 +57,6 @@ class User:
             self.set_user_type(Director())
         elif user_type == 'owner':
             self.set_user_type(Owner())
-        elif user_type == 'agent':
-            self.set_user_type(Agent())
         elif user_type == 'general_user':
             self.set_user_type(GeneralUser())
         else:
