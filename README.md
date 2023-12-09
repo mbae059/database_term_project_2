@@ -31,58 +31,51 @@ Schema
 > FK explanation<br>
 > field(schema) : on delete ...
 
-Player(player_name, team_name, **team_id**, position, uniform_number, birth, income, agent_id)
+player(id, name, position, birth)
 > team_id(Team) : on delete set null.
 
-```
-Deprecated
-Though the generator still exists, it will no longer be used
-Player_record(**player_id**, start_date, end_date, **team_id**)
-> player_id(Player) : on delete no action
-> team_id(Team) : on delete no action
-```
-Agent(agent_name, age, contact_info)
+team(id, name, establishment_year)
 
-Owner(**team_id**, owner_name, owner_age, budget)
-> team_id(Team) : on delete cascade
+belongs_to(id, **player_id**, **team_id**, start_date, uniform_number, contract_term, contract_payment)
+> player_id(player) : on delete set null
+> team_id(team) : on delete set null
 
-Team(team_name, **owner_id**, **director_id**, establishment_year)
-> owner_id(Owner) : on delete set null (or cascade?)
-> director_id(Director) : on delete set null
+owner(id, name, age, budget)
 
-Director(director_name, director_year, **team_id**, income)
+owns(id, **owner_id**, **team_id**)
+> owner_id(owner) : on delete set null
+> team_id(team) : on delete set null
+
+director(id, name, start_date) 
+> start_date means what year did this director start directing baseball teams
+
+directs(id, **director_id**, **team_id**, contract_term, start_date, contract_payment)
+> director_id(director) : on delete set null
+> team_id(team) : on delete set null
+
+awards(id, name)
+
+player_won(id, **player_id**, **awards_id**)
+> player_id(player) : on delete cascade
+> awards_id(awards) : on delete cascade
+
+team_won(id, **team_id**, **awards_id)
+> team_id(team) : on delete cascade
+> awards_id(awards) : on delete cascade
+
+client(id, name, password, **team_id**, client_type)
 > team_id(Team) : on delete set null
-
-Client(client_name, client_password, **team_id**, client_type)
-> team_id(Team) : on delete set null
-
+> team_id indicates what team this client is part of or supports.
+> 
 ```
 list of client_type
 admin
 player
 director
 owner
-agent
 general_user
-GM (general_manager)
 ```
-Player_Agent(**player_id**, **agent_id**, team_id, contract_date, contract_term, contract_payment)
-> player_id(Player) : on delete no action
-> agent_id(Agent) : on delete no action
 
-Team_Award(**awards_id**, year, **team_id**)
-> awards_id(Award) : on delete cascade
-> team_id(Team) : on delete cascade
 
-Individual_Award(**awards_id**, year, **player_id**)
-> awards_id(Award) : on delete cascade
-> player_id(Player) : on delete cascade
 
-Awards(awards_name)
 
-Baseball_Records(**team1_id**, **team2_id**, **baseball_stadium_id**, score)
-> team1_id(Team) : on delete cascade
-> team2_id(Team) : on delete cascade
-> baseball_stadium_id(Baseball_Stadium) : on delete no action
-
-Baseball_Stadium(location, area, capacity)
