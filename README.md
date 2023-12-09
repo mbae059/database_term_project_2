@@ -57,7 +57,7 @@ player_won(id, **player_id**, **awards_id**)
 > player_id(player) : on delete cascade
 > awards_id(awards) : on delete cascade
 
-team_won(id, **team_id**, **awards_id)
+team_won(id, **team_id**, **awards_id**)
 > team_id(team) : on delete cascade
 > awards_id(awards) : on delete cascade
 
