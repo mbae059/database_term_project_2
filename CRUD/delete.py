@@ -12,20 +12,17 @@ def player(cursor):
     # create query
 
 
-def player_record(cursor):
-    print('create player_record')
-    player_id = input('player id : ')
-    start_date = input('start date : ')
-    end_date = input('end date(NULLABLE) : ')
-    team_id = input('team id : ')
+def team(cursor):
+    print('create team')
+    team_name = input('team name : ')
+    owner_ID = input('owner id : ')
+    director_ID = input('director id : ')
+    establishment_year = input('establishment year : ')
 
 
-def agent(cursor):
-    print('create agent')
-    agent_name = input('agent name : ')
-    age = input('age : ')
-    player_id = input('player id : ')  # shouldn't this be deleted?
-    contact_info = input('contact info : ')
+def belongs_to(cursor):
+    # todo
+    pass
 
 
 def owner(cursor):
@@ -36,12 +33,9 @@ def owner(cursor):
     budget = input('budget : ')
 
 
-def team(cursor):
-    print('create team')
-    team_name = input('team name : ')
-    owner_ID = input('owner id : ')
-    director_ID = input('director id : ')
-    establishment_year = input('establishment year : ')
+def owns(cursor):
+    # todo
+    pass
 
 
 def director(cursor):
@@ -52,22 +46,14 @@ def director(cursor):
     income = input('income : ')
 
 
-"""
-There should be various user types
-User(user_ID, user_name, team_id, type)
-
-type kind:
-
-admin, player, agent, owner, director 
-"""
-
-
-def user(cursor):
-    print('create user')
-    user_ID = input('user ID : ')
-    user_name = input('user name : ')
+def directs(cursor):
+    print('create director')
+    director_name = input('director name : ')
+    director_year = input('director year : ')
     team_id = input('team id : ')
-    type = input('user type : ')
+    income = input('income : ')
+
+
 
 
 def player_agent(cursor):  # budget 이 예산? 그렇다면 signing bonus...
@@ -80,46 +66,37 @@ def player_agent(cursor):  # budget 이 예산? 그렇다면 signing bonus...
     signing_bonus = input('signing bonus : ')
 
 
-def player_trading(cursor):
+
+
+def awards(cursor):
+    print('create awards name')
+    awards_name = input('awards name : ')
+
+
+def player_won(cursor):
+    # todo
+    pass
+
+
+def team_won(cursor):
+    # todo
+    pass
+
+def client(cursor):
+    print('create user')
+    user_ID = input('user ID : ')
+    user_name = input('user name : ')
+    team_id = input('team id : ')
+    type = input('user type : ')
+
+
+def player_trading_history(cursor):
     print('create player trading')
     date = input('date(0000-00-00) : ')
     team_id = input('team ID : ')
     player_id = input('player ID : ')
     player_state = input('player state : ')
 
-
-def team_awards(cursor):
-    print('create team awards')
-    awards_id = input('awards id : ')
-    year = input('year : ')
-    team_id = input('team id : ')
-
-
-def individual_awards(cursor):
-    print('create individual awards')
-    awards_id = input('awards id : ')
-    year = input('year : ')
-    player_id = input('player id : ')
-
-
-def awards_name(cursor):
-    print('create awards name')
-    awards_name = input('awards name : ')
-
-
-def baseball_records(cursor):
-    print('create baseball records')
-    team1_id = input('team1 id : ')
-    team2_id = input('team2 id : ')
-    baseball_stadium_id = input('baseball stadium id : ')
-    score = input('score(0, 0) : ')
-
-
-def baseball_stadium(cursor):
-    print('create baseball stadium')
-    location = input('location : ')
-    area = input('area : ')
-    capacity = input('capacity : ')
 def delete_data_menu(delete_schema_functions_list):
     print('**** Delete Data ****')
     for i in range(0, len(delete_schema_functions_list)):

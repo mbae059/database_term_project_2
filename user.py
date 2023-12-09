@@ -3,8 +3,9 @@ import getpass
 import psycopg2
 
 from user_interface import UserInterface
+
+# roles
 from User.admin import Admin
-from User.agent import Agent
 from User.director import Director
 from User.general_user import GeneralUser
 from User.owner import Owner
