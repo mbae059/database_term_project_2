@@ -1,123 +1,220 @@
-def player(cursor):
-    print('create user')
-    player_name = input('player name : ')
-    team_name = input('team name : ')
-    team_id = input('team id : ')
-    position = input('position : ')
-    uniform_number = input('uniform number : ')
-    birth = input('birth : ')
-    income = input('income : ')
-    agent_id = input('agent_id : ')
+import psycopg2
 
-    # create query
+
+def player(cursor):
+    print('create user records...')
+    name = input('player name : ')
+    position = input('position : ')
+    birth = input('birth(0000-00-00): ')
+
+    query = f"INSERT INTO player (name, position, birth) VALUES ('{name}', '{position}', '{birth}')"
+
+    try:
+        cursor.execute(query)
+        print("player records created!")
+    except Exception as e:
+        print(e)
 
 
 def team(cursor):
-    print('create team')
-    team_name = input('team name : ')
-    owner_ID = input('owner id : ')
-    director_ID = input('director id : ')
-    establishment_year = input('establishment year : ')
+    print('create team records...')
+    name = input('team name : ')
+    establishment_year = input('establishment year(1900~2023) : ')
+
+    query = f"INSERT INTO team (name, establishment_year) VALUES ('{name}', {establishment_year})"
+
+    try:
+        cursor.execute(query)
+        print("team records created!")
+    except Exception as e:
+        print(e)
 
 
 def belongs_to(cursor):
-    # todo
-    pass
+    print('create belongs_to records...')
+    print('This is a table about player that belongs to a certain team')
+    print('DO NOT TRY TO CREATE TUPLE UNLESS YOU HAVE INFORMATION ABOUT PLAYER ID AND TEAM ID AS THIS TABLE REQUIRES THIS')
+
+    player_id = input('player id : ')
+    team_id = input('team id : ')
+    start_date = input('start date(0000-00-00) : ')
+    uniform_number = input('uniform number : ')
+    contract_term = input('contract term : ')
+    contract_payment = input('contract payment : ')
+
+    query = (f"INSERT INTO belongs_to (player_id, team_id, start_date, uniform_number, contract_term, contract_payment) "
+             f"VALUES ({player_id}, {team_id}, '{start_date}', {uniform_number}, {contract_term}, {contract_payment})")
+
+    try:
+        cursor.execute(query)
+        print("belongs_to records created!")
+    except Exception as e:
+        print(e)
 
 
 def owner(cursor):
-    print('create owner')
-    team_id = input('team id : ')
-    owner_name = input('owner name : ')
-    owner_age = input('owner age : ')
+    print('create owner records...')
+    name = input('name : ')
+    age = input('age : ')
     budget = input('budget : ')
+
+    query = f"INSERT INTO owner (name, age, budget) VALUES ({name}, {age}, {budget})"
+
+    try:
+        cursor.execute(query)
+        print("owner records created!")
+    except Exception as e:
+        print(e)
 
 
 def owns(cursor):
-    # todo
-    pass
+    print('create owns records...')
+    print('DO NOT TRY TO CREATE TUPLE UNLESS YOU HAVE INFORMATION ABOUT OWNER ID THIS TABLE REQUIRES THIS')
+
+    owner_id = input('owner id : ')
+    team_id = input('team id : ')
+
+    query = f"INSERT INTO owns (owner_id, team_id) VALUES ({owner_id}, {team_id})"
+
+    try:
+        cursor.execute(query)
+        print("owns records created!")
+    except Exception as e:
+        print(e)
 
 
 def director(cursor):
-    print('create director')
-    director_name = input('director name : ')
-    director_year = input('director year : ')
-    team_id = input('team id : ')
-    income = input('income : ')
+    print('create director records...')
+    name = input('director name : ')
+    start_date = input('director start date(0000-00-00) : ')
+
+    query = f"INSERT INTO director (name, start_date) VALUES ({name}, '{start_date}')"
+
+    try:
+        cursor.execute(query)
+        print("director records created!")
+    except Exception as e:
+        print(e)
 
 
 def directs(cursor):
-    print('create director')
-    director_name = input('director name : ')
-    director_year = input('director year : ')
+    print('create directs records...')
+    print('DO NOT TRY TO CREATE TUPLE UNLESS YOU HAVE INFORMATION ABOUT DIRECTOR ID AND TEAM ID AS THIS TABLE REQUIRES THIS')
+
+    director_id = input('director id : ')
     team_id = input('team id : ')
-    income = input('income : ')
-
-
-
-
-def player_agent(cursor):  # budget 이 예산? 그렇다면 signing bonus...
-    print('create player_agent')
-    agent_id = input('agent ID : ')
-    player_id = input('player ID : ')
-    team_id = input('team ID : ')
-    contract_date = input('contract date : ')
     contract_term = input('contract term : ')
-    signing_bonus = input('signing bonus : ')
+    start_date = input('start date(0000-00-00) : ')
+    contract_payment = input('contract payment : ')
 
+    query = (f"INSERT INTO directs (director_id, team_id, contract_term, start_date, contract_payment) "
+             f"VALUES ({director_id}, {team_id}, {contract_term}, '{start_date}', {contract_payment})")
 
-
+    try:
+        cursor.execute(query)
+        print("directs records created!")
+    except Exception as e:
+        print(e)
 
 def awards(cursor):
-    print('create awards name')
-    awards_name = input('awards name : ')
+    print('create awards records...')
+    name = input('awards name : ')
+
+    query = f"INSERT INTO awards (name) VALUES ('{name}')"
+
+    try:
+        cursor.execute(query)
+        print("directs records created!")
+    except Exception as e:
+        print(e)
 
 
 def player_won(cursor):
-    # todo
-    pass
+    print('create player_won records...')
+    print('DO NOT TRY TO CREATE TUPLE UNLESS YOU HAVE INFORMATION ABOUT PLAYER ID AND AWARD ID AS THIS TABLE REQUIRES THIS')
+    player_id = input('player id : ')
+    awards_id = input('awards id : ')
+
+    query = f"INSERT INTO player_won (player_id, awards_id) VALUES ({player_id},{awards_id})"
+
+    try:
+        cursor.execute(query)
+        print("player_won records created!")
+    except Exception as e:
+        print(e)
 
 
 def team_won(cursor):
-    # todo
-    pass
+    print('create team_won records...')
+    print('DO NOT TRY TO CREATE TUPLE UNLESS YOU HAVE INFORMATION ABOUT TEAM ID AND AWARD ID AS THIS TABLE REQUIRES THIS')
+    team_id = input('player id : ')
+    awards_id = input('awards id : ')
+
+    query = f"INSERT INTO team_won (team_id, awards_id) VALUES ({team_id},{awards_id})"
+
+    try:
+        cursor.execute(query)
+        print("team_won records created!")
+    except Exception as e:
+        print(e)
+
 
 def client(cursor):
-    print('create user')
-    user_ID = input('user ID : ')
-    user_name = input('user name : ')
+    print('create client records...')
+
+    name = input('client ID : ')
+    password = input('client password : ')
     team_id = input('team id : ')
-    type = input('user type : ')
+    client_type = input('client type(admin, player, director, owner, general_user) : ')
 
+    query = f"INSERT INTO client (name, password, team_id, client_type) VALUES ('{name}', '{password}', {team_id}, '{client_type}')"
 
-def player_trading_history(cursor):
-    print('create player trading')
-    date = input('date(0000-00-00) : ')
-    team_id = input('team ID : ')
-    player_id = input('player ID : ')
-    player_state = input('player state : ')
+    try:
+        cursor.execute(query)
+        print("client records created!")
+    except Exception as e:
+        print(e)
 
+update_schema_functions = {
+    'player': player,
+    'team': team,
+    'belongs_to': belongs_to,
+    'owner': owner,
+    'owns': owns,
+    'director': director,
+    'directs': directs,
+    'awards': awards,
+    'player_won': player_won,
+    'team_won': team_won,
+    'client': client,
+}
 
-def update_data_menu(update_schema_functions_list):
+li = []
+def update_data_menu():
     print('**** Update Data ****')
-    for i in range(0, len(update_schema_functions_list)):
-        print(f'{i + 1}. {update_schema_functions_list[i]}')
+    for i in range(0, len(li)):
+        print(f'{i + 1}. {li[i]}')
 
 
-def update_data_process(update_schema_functions_list, cursor):
+def update_data_process(cursor: psycopg2.extensions.cursor):
     try:
         index = int(input())
-        update_func = update_schema_functions_list[index]
-        update_func(cursor)
+        index -= 1
+        update_func = li[index]
+        update_schema_functions[update_func](cursor)
     except ValueError:
         print('Not a valid integer')
     except IndexError:
         print('Index Out of Bound')
 
 
-def update_data(update_schema_functions_list, cursor):
-    if not update_schema_functions_list:
+def update_data(updates_schema_functions: dict, cursor):
+    if not updates_schema_functions:
         print('No Authorization')
         return
-    update_data_menu(update_schema_functions_list)
-    update_data_process(update_schema_functions_list, cursor)
+
+    global li
+    li.clear()
+    li = list(updates_schema_functions)
+    update_data_menu()
+    update_data_process(cursor)

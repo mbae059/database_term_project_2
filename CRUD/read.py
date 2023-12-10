@@ -1,123 +1,255 @@
-def player(cursor):
-    print('create user')
-    player_name = input('player name : ')
-    team_name = input('team name : ')
-    team_id = input('team id : ')
-    position = input('position : ')
-    uniform_number = input('uniform number : ')
-    birth = input('birth : ')
-    income = input('income : ')
-    agent_id = input('agent_id : ')
+import psycopg2
 
-    # create query
+
+def player(cursor):
+    print('read user records...')
+
+    query = f"select * from player"
+
+    try:
+        cursor.execute(query)
+
+        rows = cursor.fetchall()
+
+        print([desc[0] for desc in cursor.description])
+
+        # Print each row
+        for row in rows:
+            print(row)
+    except Exception as e:
+        print(e)
 
 
 def team(cursor):
-    print('create team')
-    team_name = input('team name : ')
-    owner_ID = input('owner id : ')
-    director_ID = input('director id : ')
-    establishment_year = input('establishment year : ')
+    print('read team records...')
+
+    query = f"select * from team"
+
+    try:
+        cursor.execute(query)
+
+        rows = cursor.fetchall()
+
+        print([desc[0] for desc in cursor.description])
+
+        # Print each row
+        for row in rows:
+            print(row)
+    except Exception as e:
+        print(e)
 
 
 def belongs_to(cursor):
-    # todo
-    pass
+    print('read belongs_to records...')
+
+    query = f"select * from belongs_to"
+
+    try:
+        cursor.execute(query)
+
+        rows = cursor.fetchall()
+
+        print([desc[0] for desc in cursor.description])
+
+        # Print each row
+        for row in rows:
+            print(row)
+    except Exception as e:
+        print(e)
 
 
 def owner(cursor):
-    print('create owner')
-    team_id = input('team id : ')
-    owner_name = input('owner name : ')
-    owner_age = input('owner age : ')
-    budget = input('budget : ')
+    print('read owner records...')
+
+    query = f"select * from owner"
+
+    try:
+        cursor.execute(query)
+
+        rows = cursor.fetchall()
+
+        print([desc[0] for desc in cursor.description])
+
+        # Print each row
+        for row in rows:
+            print(row)
+    except Exception as e:
+        print(e)
 
 
 def owns(cursor):
-    # todo
-    pass
+    print('read owns records...')
+
+    query = f"select * from owns"
+
+    try:
+        cursor.execute(query)
+
+        rows = cursor.fetchall()
+
+        print([desc[0] for desc in cursor.description])
+
+        # Print each row
+        for row in rows:
+            print(row)
+    except Exception as e:
+        print(e)
 
 
 def director(cursor):
-    print('create director')
-    director_name = input('director name : ')
-    director_year = input('director year : ')
-    team_id = input('team id : ')
-    income = input('income : ')
+    print('read director records...')
+
+    query = f"select * from director"
+
+    try:
+        cursor.execute(query)
+
+        rows = cursor.fetchall()
+
+        print([desc[0] for desc in cursor.description])
+
+        # Print each row
+        for row in rows:
+            print(row)
+    except Exception as e:
+        print(e)
 
 
 def directs(cursor):
-    print('create director')
-    director_name = input('director name : ')
-    director_year = input('director year : ')
-    team_id = input('team id : ')
-    income = input('income : ')
+    print('read directs records...')
+
+    query = f"select * from directs"
+
+    try:
+        cursor.execute(query)
+
+        rows = cursor.fetchall()
+
+        print([desc[0] for desc in cursor.description])
+
+        # Print each row
+        for row in rows:
+            print(row)
+    except Exception as e:
+        print(e)
 
 
+def awards(cursor):  # budget 이 예산? 그렇다면 signing bonus...
+    print('read awards records...')
 
+    query = f"select * from awards"
 
-def player_agent(cursor):  # budget 이 예산? 그렇다면 signing bonus...
-    print('create player_agent')
-    agent_id = input('agent ID : ')
-    player_id = input('player ID : ')
-    team_id = input('team ID : ')
-    contract_date = input('contract date : ')
-    contract_term = input('contract term : ')
-    signing_bonus = input('signing bonus : ')
+    try:
+        cursor.execute(query)
 
+        rows = cursor.fetchall()
 
+        print([desc[0] for desc in cursor.description])
 
-
-def awards(cursor):
-    print('create awards name')
-    awards_name = input('awards name : ')
+        # Print each row
+        for row in rows:
+            print(row)
+    except Exception as e:
+        print(e)
 
 
 def player_won(cursor):
-    # todo
-    pass
+    print('read player_won records...')
+
+    query = f"select * from player_won"
+
+    try:
+        cursor.execute(query)
+
+        rows = cursor.fetchall()
+
+        print([desc[0] for desc in cursor.description])
+
+        # Print each row
+        for row in rows:
+            print(row)
+    except Exception as e:
+        print(e)
 
 
 def team_won(cursor):
-    # todo
-    pass
+    print('read team_won records...')
+
+    query = f"select * from team_won"
+
+    try:
+        cursor.execute(query)
+
+        rows = cursor.fetchall()
+
+        print([desc[0] for desc in cursor.description])
+
+        # Print each row
+        for row in rows:
+            print(row)
+    except Exception as e:
+        print(e)
+
 
 def client(cursor):
-    print('create user')
-    user_ID = input('user ID : ')
-    user_name = input('user name : ')
-    team_id = input('team id : ')
-    type = input('user type : ')
+    print('read client records...')
+
+    query = f"select * from client"
+
+    try:
+        cursor.execute(query)
+
+        rows = cursor.fetchall()
+
+        print([desc[0] for desc in cursor.description])
+
+        # Print each row
+        for row in rows:
+            print(row)
+    except Exception as e:
+        print(e)
 
 
-def player_trading_history(cursor):
-    print('create player trading')
-    date = input('date(0000-00-00) : ')
-    team_id = input('team ID : ')
-    player_id = input('player ID : ')
-    player_state = input('player state : ')
+read_schema_functions = {
+    'player': player,
+    'team': team,
+    'belongs_to': belongs_to,
+    'owner': owner,
+    'owns': owns,
+    'director': director,
+    'directs': directs,
+    'awards': awards,
+    'player_won': player_won,
+    'team_won': team_won,
+    'client': client,
+}
 
-
-def read_data_menu(read_schema_functions_list):
-    print('**** Read Data ****')
-    for i in range(0, len(read_schema_functions_list)):
-        print(f'{i + 1}. {read_schema_functions_list[i]}')
-
-
-def read_data_process(read_schema_functions_list, cursor):
+li = []
+def read_data_process(cursor: psycopg2.extensions.cursor):
     try:
         index = int(input())
-        read_func = read_schema_functions_list[index]
-        read_func(cursor)
+        index -= 1
+        read_func = li[index]
+        read_schema_functions[read_func](cursor)
     except ValueError:
         print('Not a valid integer')
     except IndexError:
         print('Index Out of Bound')
 
 
-def read_data(read_schema_functions_list, cursor):
-    if not read_schema_functions_list:
+def read_data_menu():
+    print('**** read Data ****')
+    for i in range(0, len(li)):
+        print(f'{i + 1}. {li[i]}')
+
+
+def read_data(read_schema_functions: dict, cursor):
+    if not read_schema_functions:
         print('No Authorization')
         return
-    read_data_menu(read_schema_functions_list)
-    read_data_process(read_schema_functions_list, cursor)
+
+    global li
+    li.clear()
+    li = list(read_schema_functions)
+    read_data_menu()
+    read_data_process(cursor)

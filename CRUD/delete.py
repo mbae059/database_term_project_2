@@ -1,122 +1,198 @@
-def player(cursor):
-    print('create user')
-    player_name = input('player name : ')
-    team_name = input('team name : ')
-    team_id = input('team id : ')
-    position = input('position : ')
-    uniform_number = input('uniform number : ')
-    birth = input('birth : ')
-    income = input('income : ')
-    agent_id = input('agent_id : ')
+import psycopg2
 
-    # create query
+
+def player(cursor):
+    print('delete user records...')
+    id = input('player id : ')
+
+    query = f"delete from player where id = {id}"
+
+    try:
+        cursor.execute(query)
+        print("player records deleted!")
+    except Exception as e:
+        print(e)
 
 
 def team(cursor):
-    print('create team')
-    team_name = input('team name : ')
-    owner_ID = input('owner id : ')
-    director_ID = input('director id : ')
-    establishment_year = input('establishment year : ')
+    print('delete team records...')
+    id = input('team id : ')
+
+    query = f"delete from team where id = {id}"
+
+    try:
+        cursor.execute(query)
+        print("team records deleted!")
+    except Exception as e:
+        print(e)
 
 
 def belongs_to(cursor):
-    # todo
-    pass
+    print('delete belongs_to records...')
+
+    id = input('belongs_to id : ')
+
+    query = f"delete from belongs_to where id = {id}"
+
+    try:
+        cursor.execute(query)
+        print("belongs_to records deleted!")
+    except Exception as e:
+        print(e)
 
 
 def owner(cursor):
-    print('create owner')
-    team_id = input('team id : ')
-    owner_name = input('owner name : ')
-    owner_age = input('owner age : ')
-    budget = input('budget : ')
+    print('delete owner records...')
+
+    id = input('owner id : ')
+
+    query = f"delete from owner where id = {id}"
+
+    try:
+        cursor.execute(query)
+        print("owner records deleted!")
+    except Exception as e:
+        print(e)
 
 
 def owns(cursor):
-    # todo
-    pass
+    print('delete owns records...')
+
+    id = input('owns id : ')
+
+    query = f"delete from owns where id = {id}"
+
+    try:
+        cursor.execute(query)
+        print("owns records deleted!")
+    except Exception as e:
+        print(e)
 
 
 def director(cursor):
-    print('create director')
-    director_name = input('director name : ')
-    director_year = input('director year : ')
-    team_id = input('team id : ')
-    income = input('income : ')
+    print('delete director records...')
+
+    id = input('director id : ')
+
+    query = f"delete from director where id = {id}"
+
+    try:
+        cursor.execute(query)
+        print("director records deleted!")
+    except Exception as e:
+        print(e)
 
 
 def directs(cursor):
-    print('create director')
-    director_name = input('director name : ')
-    director_year = input('director year : ')
-    team_id = input('team id : ')
-    income = input('income : ')
+    print('delete directs records...')
+
+    id = input('directs id : ')
+
+    query = f"delete from directs where id = {id}"
+
+    try:
+        cursor.execute(query)
+        print("directs records deleted!")
+    except Exception as e:
+        print(e)
 
 
+def awards(cursor):  # budget 이 예산? 그렇다면 signing bonus...
+    print('delete awards records...')
 
+    id = input('awards id : ')
 
-def player_agent(cursor):  # budget 이 예산? 그렇다면 signing bonus...
-    print('create player_agent')
-    agent_id = input('agent ID : ')
-    player_id = input('player ID : ')
-    team_id = input('team ID : ')
-    contract_date = input('contract date : ')
-    contract_term = input('contract term : ')
-    signing_bonus = input('signing bonus : ')
+    query = f"delete from awards where id = {id}"
 
-
-
-
-def awards(cursor):
-    print('create awards name')
-    awards_name = input('awards name : ')
+    try:
+        cursor.execute(query)
+        print("awards records deleted!")
+    except Exception as e:
+        print(e)
 
 
 def player_won(cursor):
-    # todo
-    pass
+    print('delete player_won records...')
+
+    id = input('player_won id : ')
+
+    query = f"delete from player_won where id = {id}"
+
+    try:
+        cursor.execute(query)
+        print("player_won records deleted!")
+    except Exception as e:
+        print(e)
 
 
 def team_won(cursor):
-    # todo
-    pass
+    print('delete team_won records...')
+
+    id = input('team_won id : ')
+
+    query = f"delete from team_won where id = {id}"
+
+    try:
+        cursor.execute(query)
+        print("team_won records deleted!")
+    except Exception as e:
+        print(e)
+
 
 def client(cursor):
-    print('create user')
-    user_ID = input('user ID : ')
-    user_name = input('user name : ')
-    team_id = input('team id : ')
-    type = input('user type : ')
+    print('delete client records...')
+
+    id = input('client id : ')
+
+    query = f"delete from client where id = {id}"
+
+    try:
+        cursor.execute(query)
+        print("client records deleted!")
+    except Exception as e:
+        print(e)
 
 
-def player_trading_history(cursor):
-    print('create player trading')
-    date = input('date(0000-00-00) : ')
-    team_id = input('team ID : ')
-    player_id = input('player ID : ')
-    player_state = input('player state : ')
+delete_schema_functions = {
+    'player': player,
+    'team': team,
+    'belongs_to': belongs_to,
+    'owner': owner,
+    'owns': owns,
+    'director': director,
+    'directs': directs,
+    'awards': awards,
+    'player_won': player_won,
+    'team_won': team_won,
+    'client': client,
+}
 
-def delete_data_menu(delete_schema_functions_list):
+li = []
+def delete_data_menu():
     print('**** Delete Data ****')
-    for i in range(0, len(delete_schema_functions_list)):
-        print(f'{i + 1}. {delete_schema_functions_list[i]}')
+    for i in range(0, len(li)):
+        print(f'{i + 1}. {li[i]}')
 
 
-def delete_data_process(delete_schema_functions_list, cursor):
+def delete_data_process(cursor: psycopg2.extensions.cursor):
     try:
         index = int(input())
-        delete_func = delete_schema_functions_list[index]
-        delete_func(cursor)
+        index -= 1
+        delete_func = li[index]
+        delete_schema_functions[delete_func](cursor)
     except ValueError:
         print('Not a valid integer')
     except IndexError:
         print('Index Out of Bound')
 
 
-def delete_data(delete_schema_functions_list, cursor):
-    if not delete_schema_functions_list:
+def delete_data(delete_schema_functions: dict, cursor):
+    if not delete_schema_functions:
         print('No Authorization')
         return
-    delete_data_menu(delete_schema_functions_list)
-    delete_data_process(delete_schema_functions_list, cursor)
+
+    global li
+    li.clear()
+    li = list(delete_schema_functions)
+    delete_data_menu()
+    delete_data_process(cursor)

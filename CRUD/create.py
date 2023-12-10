@@ -2,7 +2,7 @@ import psycopg2
 
 
 def player(cursor):
-    print('create user')
+    print('create user records...')
     name = input('player name : ')
     position = input('position : ')
     birth = input('birth(0000-00-00): ')
@@ -11,13 +11,13 @@ def player(cursor):
 
     try:
         cursor.execute(query)
-        print("player created!")
+        print("player records created!")
     except Exception as e:
         print(e)
 
 
 def team(cursor):
-    print('create team')
+    print('create team records...')
     name = input('team name : ')
     establishment_year = input('establishment year(1900~2023) : ')
 
@@ -25,13 +25,13 @@ def team(cursor):
 
     try:
         cursor.execute(query)
-        print("team created!")
+        print("team records created!")
     except Exception as e:
         print(e)
 
 
 def belongs_to(cursor):
-    print('create belongs_to')
+    print('create belongs_to records...')
     print('This is a table about player that belongs to a certain team')
     print('DO NOT TRY TO CREATE TUPLE UNLESS YOU HAVE INFORMATION ABOUT PLAYER ID AND TEAM ID AS THIS TABLE REQUIRES THIS')
 
@@ -47,13 +47,13 @@ def belongs_to(cursor):
 
     try:
         cursor.execute(query)
-        print("belongs_to created!")
+        print("belongs_to records created!")
     except Exception as e:
         print(e)
 
 
 def owner(cursor):
-    print('create owner')
+    print('create owner records...')
     name = input('name : ')
     age = input('age : ')
     budget = input('budget : ')
@@ -62,13 +62,13 @@ def owner(cursor):
 
     try:
         cursor.execute(query)
-        print("owner created!")
+        print("owner records created!")
     except Exception as e:
         print(e)
 
 
 def owns(cursor):
-    print('create owns')
+    print('create owns records...')
     print('DO NOT TRY TO CREATE TUPLE UNLESS YOU HAVE INFORMATION ABOUT OWNER ID THIS TABLE REQUIRES THIS')
 
     owner_id = input('owner id : ')
@@ -78,13 +78,13 @@ def owns(cursor):
 
     try:
         cursor.execute(query)
-        print("owns created!")
+        print("owns records created!")
     except Exception as e:
         print(e)
 
 
 def director(cursor):
-    print('create director')
+    print('create director records...')
     name = input('director name : ')
     start_date = input('director start date(0000-00-00) : ')
 
@@ -92,13 +92,13 @@ def director(cursor):
 
     try:
         cursor.execute(query)
-        print("director created!")
+        print("director records created!")
     except Exception as e:
         print(e)
 
 
 def directs(cursor):
-    print('create directs')
+    print('create directs records...')
     print('DO NOT TRY TO CREATE TUPLE UNLESS YOU HAVE INFORMATION ABOUT DIRECTOR ID AND TEAM ID AS THIS TABLE REQUIRES THIS')
 
     director_id = input('director id : ')
@@ -112,25 +112,25 @@ def directs(cursor):
 
     try:
         cursor.execute(query)
-        print("directs created!")
+        print("directs records created!")
     except Exception as e:
         print(e)
 
-def awards(cursor):  # budget 이 예산? 그렇다면 signing bonus...
-    print('create awards')
+def awards(cursor):
+    print('create awards records...')
     name = input('awards name : ')
 
     query = f"INSERT INTO awards (name) VALUES ('{name}')"
 
     try:
         cursor.execute(query)
-        print("directs created!")
+        print("directs records created!")
     except Exception as e:
         print(e)
 
 
 def player_won(cursor):
-    print('create player_won')
+    print('create player_won records...')
     print('DO NOT TRY TO CREATE TUPLE UNLESS YOU HAVE INFORMATION ABOUT PLAYER ID AND AWARD ID AS THIS TABLE REQUIRES THIS')
     player_id = input('player id : ')
     awards_id = input('awards id : ')
@@ -139,13 +139,13 @@ def player_won(cursor):
 
     try:
         cursor.execute(query)
-        print("player_won created!")
+        print("player_won records created!")
     except Exception as e:
         print(e)
 
 
 def team_won(cursor):
-    print('create team_won')
+    print('create team_won records...')
     print('DO NOT TRY TO CREATE TUPLE UNLESS YOU HAVE INFORMATION ABOUT TEAM ID AND AWARD ID AS THIS TABLE REQUIRES THIS')
     team_id = input('player id : ')
     awards_id = input('awards id : ')
@@ -154,13 +154,13 @@ def team_won(cursor):
 
     try:
         cursor.execute(query)
-        print("team_won created!")
+        print("team_won records created!")
     except Exception as e:
         print(e)
 
 
 def client(cursor):
-    print('create client')
+    print('create client records...')
 
     name = input('client ID : ')
     password = input('client password : ')
@@ -171,7 +171,7 @@ def client(cursor):
 
     try:
         cursor.execute(query)
-        print("client created!")
+        print("client records created!")
     except Exception as e:
         print(e)
 
