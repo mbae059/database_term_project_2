@@ -12,8 +12,8 @@ CREATE TABLE team (
 );
 CREATE TABLE belongs_to (
     id SERIAL PRIMARY KEY,
-    player_id INT,
-    team_id INT,
+    player_id SERIAL,
+    team_id SERIAL,
     start_date DATE,
     uniform_number INT,
     contract_term INT,
@@ -30,8 +30,8 @@ CREATE TABLE owner (
 );
 CREATE TABLE owns (
     id SERIAL PRIMARY KEY,
-    owner_id INT,
-    team_id INT,
+    owner_id SERIAL,
+    team_id SERIAL,
 
     foreign key (owner_id) references owner(id) on delete cascade,
     foreign key (team_id) references team(id) on delete cascade
@@ -44,8 +44,8 @@ CREATE TABLE director (
 
 CREATE TABLE directs (
     id SERIAL PRIMARY KEY,
-    director_id INT,
-    team_id INT,
+    director_id SERIAL,
+    team_id SERIAL,
     contract_term INT,
     start_date DATE,
     contract_payment INT,
@@ -59,16 +59,16 @@ CREATE TABLE awards (
 );
 CREATE TABLE player_won (
     id SERIAL PRIMARY KEY,
-    player_id INT,
-    awards_id INT,
+    player_id SERIAL,
+    awards_id SERIAL,
 
     foreign key (player_id) references player(id) on delete cascade,
     foreign key (awards_id) references awards(id) on delete cascade
 );
 CREATE TABLE team_won (
     id SERIAL PRIMARY KEY,
-    team_id INT,
-    awards_id INT,
+    team_id SERIAL,
+    awards_id SERIAL,
 
     foreign key (team_id) references team(id) on delete cascade,
     foreign key (awards_id) references awards(id) on delete cascade
@@ -77,7 +77,7 @@ CREATE TABLE client (
     id SERIAL PRIMARY KEY,
     name VARCHAR(255),
     password VARCHAR(255),
-    team_id INT,
+    team_id SERIAL,
     client_type VARCHAR(255),
 
     foreign key (team_id) references team(id) on delete cascade
