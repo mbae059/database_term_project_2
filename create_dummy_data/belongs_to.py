@@ -29,11 +29,11 @@ for i in range(1,101):
     first_contract_term = random.randint(1,3)
     first_contract_payment = random.randint(1000,5000)
 
-    second_team_id = int(player_id) // 10 + (int(player_id) % 10 == 0)
+    second_team_id = (int(player_id)-1) // 10 + 1
     second_contract_date = (datetime.strptime(first_contract_date, '%Y-%m-%d').date() + timedelta(days=365*first_contract_term)).strftime('%Y-%m-%d')
     second_uniform_number = random.randint(1, 100)
     second_contract_term = random.randint(1,3)
     second_contract_payment = random.randint(1000,5000)
 
-    file.write(f"insert into belongs_to (player_id, team_id, start_date, uniform_number, contract_term, contract_payment) values ({i}, {first_team_id}, '{first_contract_date}', {first_team_id}, {first_contract_term}, {first_contract_payment});\n")
-    file.write(f"insert into belongs_to (player_id, team_id, start_date, uniform_number, contract_term, contract_payment) values ({i}, {second_team_id}, '{second_contract_date}', {second_team_id}, {second_contract_term}, {second_contract_payment});\n")
+    file.write(f"insert into belongs_to (player_id, team_id, start_date, uniform_number, contract_term, contract_payment) values ({player_id}, {first_team_id}, '{first_contract_date}', {first_team_id}, {first_contract_term}, {first_contract_payment});\n")
+    file.write(f"insert into belongs_to (player_id, team_id, start_date, uniform_number, contract_term, contract_payment) values ({player_id}, {second_team_id}, '{second_contract_date}', {second_team_id}, {second_contract_term}, {second_contract_payment});\n")
