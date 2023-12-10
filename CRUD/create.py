@@ -5,95 +5,175 @@ def player(cursor):
     print('create user')
     name = input('player name : ')
     position = input('position : ')
-    birth = input('birth : ')
-    # create query
+    birth = input('birth(0000-00-00): ')
 
-    query = f"INSERT INTO players (name, position, birth) VALUES ('{name}', '{position}', '{birth}')"
-    cursor.execute(query)
+    query = f"INSERT INTO player (name, position, birth) VALUES ('{name}', '{position}', '{birth}')"
+
+    try:
+        cursor.execute(query)
+        print("player created!")
+    except Exception as e:
+        print(e)
 
 
 def team(cursor):
     print('create team')
-    team_name = input('team name : ')
-    owner_ID = input('owner id : ')
-    director_ID = input('director id : ')
-    establishment_year = input('establishment year : ')
+    name = input('team name : ')
+    establishment_year = input('establishment year(1900~2023) : ')
+
+    query = f"INSERT INTO team (name, establishment_year) VALUES ('{name}', {establishment_year})"
+
+    try:
+        cursor.execute(query)
+        print("team created!")
+    except Exception as e:
+        print(e)
 
 
 def belongs_to(cursor):
-    # todo
-    pass
+    print('create belongs_to')
+    print('This is a table about player that belongs to a certain team')
+    print('DO NOT TRY TO CREATE TUPLE UNLESS YOU HAVE INFORMATION ABOUT PLAYER ID AND TEAM ID AS THIS TABLE REQUIRES THIS')
+
+    player_id = input('player id : ')
+    team_id = input('team id : ')
+    start_date = input('start date(0000-00-00) : ')
+    uniform_number = input('uniform number : ')
+    contract_term = input('contract term : ')
+    contract_payment = input('contract payment : ')
+
+    query = (f"INSERT INTO belongs_to (player_id, team_id, start_date, uniform_number, contract_term, contract_payment) "
+             f"VALUES ({player_id}, {team_id}, '{start_date}', {uniform_number}, {contract_term}, {contract_payment})")
+
+    try:
+        cursor.execute(query)
+        print("belongs_to created!")
+    except Exception as e:
+        print(e)
 
 
 def owner(cursor):
     print('create owner')
-    team_id = input('team id : ')
-    owner_name = input('owner name : ')
-    owner_age = input('owner age : ')
+    name = input('name : ')
+    age = input('age : ')
     budget = input('budget : ')
+
+    query = f"INSERT INTO owner (name, age, budget) VALUES ({name}, {age}, {budget})"
+
+    try:
+        cursor.execute(query)
+        print("owner created!")
+    except Exception as e:
+        print(e)
 
 
 def owns(cursor):
-    # todo
-    pass
+    print('create owns')
+    print('DO NOT TRY TO CREATE TUPLE UNLESS YOU HAVE INFORMATION ABOUT OWNER ID THIS TABLE REQUIRES THIS')
+
+    owner_id = input('owner id : ')
+    team_id = input('team id : ')
+
+    query = f"INSERT INTO owns (owner_id, team_id) VALUES ({owner_id}, {team_id})"
+
+    try:
+        cursor.execute(query)
+        print("owns created!")
+    except Exception as e:
+        print(e)
 
 
 def director(cursor):
     print('create director')
-    director_name = input('director name : ')
-    director_year = input('director year : ')
-    team_id = input('team id : ')
-    income = input('income : ')
+    name = input('director name : ')
+    start_date = input('director start date(0000-00-00) : ')
+
+    query = f"INSERT INTO director (name, start_date) VALUES ({name}, '{start_date}')"
+
+    try:
+        cursor.execute(query)
+        print("director created!")
+    except Exception as e:
+        print(e)
 
 
 def directs(cursor):
-    print('create director')
-    director_name = input('director name : ')
-    director_year = input('director year : ')
+    print('create directs')
+    print('DO NOT TRY TO CREATE TUPLE UNLESS YOU HAVE INFORMATION ABOUT DIRECTOR ID AND TEAM ID AS THIS TABLE REQUIRES THIS')
+
+    director_id = input('director id : ')
     team_id = input('team id : ')
-    income = input('income : ')
-
-
-def player_agent(cursor):  # budget 이 예산? 그렇다면 signing bonus...
-    print('create player_agent')
-    agent_id = input('agent ID : ')
-    player_id = input('player ID : ')
-    team_id = input('team ID : ')
-    contract_date = input('contract date : ')
     contract_term = input('contract term : ')
-    signing_bonus = input('signing bonus : ')
+    start_date = input('start date(0000-00-00) : ')
+    contract_payment = input('contract payment : ')
 
+    query = (f"INSERT INTO directs (director_id, team_id, contract_term, start_date, contract_payment) "
+             f"VALUES ({director_id}, {team_id}, {contract_term}, '{start_date}', {contract_payment})")
 
-def awards(cursor):
-    print('create awards name')
-    awards_name = input('awards name : ')
+    try:
+        cursor.execute(query)
+        print("directs created!")
+    except Exception as e:
+        print(e)
+
+def awards(cursor):  # budget 이 예산? 그렇다면 signing bonus...
+    print('create awards')
+    name = input('awards name : ')
+
+    query = f"INSERT INTO awards (name) VALUES ('{name}')"
+
+    try:
+        cursor.execute(query)
+        print("directs created!")
+    except Exception as e:
+        print(e)
 
 
 def player_won(cursor):
-    # todo
-    pass
+    print('create player_won')
+    print('DO NOT TRY TO CREATE TUPLE UNLESS YOU HAVE INFORMATION ABOUT PLAYER ID AND AWARD ID AS THIS TABLE REQUIRES THIS')
+    player_id = input('player id : ')
+    awards_id = input('awards id : ')
+
+    query = f"INSERT INTO player_won (player_id, awards_id) VALUES ({player_id},{awards_id})"
+
+    try:
+        cursor.execute(query)
+        print("player_won created!")
+    except Exception as e:
+        print(e)
 
 
 def team_won(cursor):
-    # todo
-    pass
+    print('create team_won')
+    print('DO NOT TRY TO CREATE TUPLE UNLESS YOU HAVE INFORMATION ABOUT TEAM ID AND AWARD ID AS THIS TABLE REQUIRES THIS')
+    team_id = input('player id : ')
+    awards_id = input('awards id : ')
+
+    query = f"INSERT INTO team_won (team_id, awards_id) VALUES ({team_id},{awards_id})"
+
+    try:
+        cursor.execute(query)
+        print("team_won created!")
+    except Exception as e:
+        print(e)
 
 
 def client(cursor):
-    print('create user')
-    user_ID = input('user ID : ')
-    user_name = input('user name : ')
+    print('create client')
+
+    name = input('client ID : ')
+    password = input('client password : ')
     team_id = input('team id : ')
-    type = input('user type : ')
+    client_type = input('client type(admin, player, director, owner, general_user) : ')
 
+    query = f"INSERT INTO client (name, password, team_id, client_type) VALUES ('{name}', '{password}', {team_id}, '{client_type}')"
 
-def player_trading_history(cursor):
-    print('create player trading')
-    date = input('date(0000-00-00) : ')
-    team_id = input('team ID : ')
-    player_id = input('player ID : ')
-    player_state = input('player state : ')
-
+    try:
+        cursor.execute(query)
+        print("client created!")
+    except Exception as e:
+        print(e)
 
 create_schema_functions = {
     'player': player,
