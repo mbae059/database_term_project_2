@@ -190,6 +190,8 @@ create_schema_functions = {
 }
 
 li = []
+
+
 def create_data_menu():
     print('**** Register Data ****')
     for i in range(0, len(li)):

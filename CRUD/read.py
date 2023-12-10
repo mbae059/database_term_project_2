@@ -225,6 +225,14 @@ read_schema_functions = {
 }
 
 li = []
+
+
+def read_data_menu():
+    print('**** read Data ****')
+    for i in range(0, len(li)):
+        print(f'{i + 1}. {li[i]}')
+
+
 def read_data_process(cursor: psycopg2.extensions.cursor):
     try:
         index = int(input())
@@ -237,10 +245,6 @@ def read_data_process(cursor: psycopg2.extensions.cursor):
         print('Index Out of Bound')
 
 
-def read_data_menu():
-    print('**** read Data ****')
-    for i in range(0, len(li)):
-        print(f'{i + 1}. {li[i]}')
 
 
 def read_data(read_schema_functions: dict, cursor):

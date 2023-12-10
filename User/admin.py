@@ -58,10 +58,6 @@ class Admin(UserInterface):
         'client': (delete.client, read.client),
     }
 
-    create_schema_functions_list = list(create_schema_functions)
-    read_schema_functions_list = list(read_schema_functions)
-    update_schema_functions_list = list(update_schema_functions)
-    delete_schema_functions_list = list(delete_schema_functions)
 
     def get_menu(self):
         print('Menu:')
@@ -77,11 +73,11 @@ class Admin(UserInterface):
         if choice == 1:
             create.create_data(self.create_schema_functions, cursor)
         elif choice == 2:
-            read.read_data(self.read_schema_functions_list, cursor)
+            read.read_data(self.read_schema_functions, cursor)
         elif choice == 3:
-            update.update_data(self.update_schema_functions_list, cursor)
+            update.update_data(self.update_schema_functions, cursor)
         elif choice == 4:
-            delete.delete_data(self.delete_schema_functions_list, cursor)
+            delete.delete_data(self.delete_schema_functions, cursor)
         else:
             return
 
