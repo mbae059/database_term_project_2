@@ -29,7 +29,7 @@ for i in range(1,101):
     first_contract_term = random.randint(1,3)
     first_contract_payment = random.randint(1000,5000)
 
-    second_team_id = int(player_id) // 10 + (int(player_id) % 10)
+    second_team_id = int(player_id) // 10 + (int(player_id) % 10 == 0)
     second_contract_date = (datetime.strptime(first_contract_date, '%Y-%m-%d').date() + timedelta(days=365*first_contract_term)).strftime('%Y-%m-%d')
     second_uniform_number = random.randint(1, 100)
     second_contract_term = random.randint(1,3)

@@ -34,7 +34,7 @@ class User:
         password = input("password: ")
 
         # TODO get user information using id and password
-        cursor.execute(f'select * from client where client_name = \'{id}\' and client_password = \'{password}\'')
+        cursor.execute(f'select * from client where name = \'{id}\' and password = \'{password}\'')
 
         result = cursor.fetchone()
 

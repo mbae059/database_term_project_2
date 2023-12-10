@@ -19,8 +19,8 @@ CREATE TABLE belongs_to (
     contract_term INT,
     contract_payment INT,
 
-    foreign key (player_id) references player(id),
-    foreign key (team_id) references team(id)
+    foreign key (player_id) references player(id) on delete cascade,
+    foreign key (team_id) references team(id) on delete cascade
 );
 CREATE TABLE owner (
     id SERIAL PRIMARY KEY,
@@ -33,8 +33,8 @@ CREATE TABLE owns (
     owner_id INT,
     team_id INT,
 
-    foreign key (owner_id) references owner(id),
-    foreign key (team_id) references team(id)
+    foreign key (owner_id) references owner(id) on delete cascade,
+    foreign key (team_id) references team(id) on delete cascade
 );
 CREATE TABLE director (
     id SERIAL PRIMARY KEY,
@@ -50,8 +50,8 @@ CREATE TABLE directs (
     start_date DATE,
     contract_payment INT,
 
-    foreign key (director_id) references director(id),
-    foreign key (team_id) references team(id)
+    foreign key (director_id) references director(id) on delete cascade,
+    foreign key (team_id) references team(id) on delete cascade
 );
 CREATE TABLE awards (
     id SERIAL PRIMARY KEY,
@@ -62,16 +62,16 @@ CREATE TABLE player_won (
     player_id INT,
     awards_id INT,
 
-    foreign key (player_id) references player(id),
-    foreign key (awards_id) references awards(id)
+    foreign key (player_id) references player(id) on delete cascade,
+    foreign key (awards_id) references awards(id) on delete cascade
 );
 CREATE TABLE team_won (
     id SERIAL PRIMARY KEY,
     team_id INT,
     awards_id INT,
 
-    foreign key (team_id) references team(id),
-    foreign key (awards_id) references awards(id)
+    foreign key (team_id) references team(id) on delete cascade,
+    foreign key (awards_id) references awards(id) on delete cascade
 );
 CREATE TABLE client (
     id SERIAL PRIMARY KEY,
@@ -80,6 +80,6 @@ CREATE TABLE client (
     team_id INT,
     client_type VARCHAR(255),
 
-    foreign key (team_id) references team(id)
+    foreign key (team_id) references team(id) on delete cascade
 );
 
