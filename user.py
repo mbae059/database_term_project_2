@@ -1,4 +1,5 @@
 import getpass
+import msvcrt
 
 import psycopg2
 
@@ -19,6 +20,29 @@ def get_user_information(user_information):
     client_id, client_name, client_password, team_id, client_type = user_information
     return client_name, team_id, client_type
 
+import msvcrt
+import sys
+
+def get_masked_input(prompt="Enter password: "):
+    sys.stdout.write(prompt)
+    sys.stdout.flush()
+    password = []
+    while True:
+        char = msvcrt.getch()
+        if char == b'\r' or char == b'\n':
+            break
+        elif char == b'\x08':  # Backspace
+            if password:
+                del password[-1]
+                sys.stdout.write('\b \b')  # Erase the last asterisk
+        else:
+            password.append(char)
+            sys.stdout.write('*')
+    sys.stdout.write('\n')
+    return b''.join(password).decode('utf-8')
+
+# Example usage
+
 
 class User:
     def __init__(self, user_interface: UserInterface = None):
@@ -30,10 +54,7 @@ class User:
 
     def login(self, cursor: psycopg2.extensions.cursor):
         id = input("ID: ")
-        # password = getpass.getpass("password: ")
-        password = input("password: ")
-
-        # TODO get user information using id and password
+        password = get_masked_input()
         cursor.execute(f'select * from client where name = \'{id}\' and password = \'{password}\'')
 
         result = cursor.fetchone()

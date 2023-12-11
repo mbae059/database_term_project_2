@@ -2,7 +2,7 @@ from user_interface import UserInterface
 from CRUD import create, read, update, delete
 
 
-class Admin(UserInterface):
+class GeneralUser(UserInterface):
     create_schema_functions = {
     }
     read_schema_functions = {

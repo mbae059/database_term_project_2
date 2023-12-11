@@ -2,7 +2,7 @@ import psycopg2
 
 
 def player(cursor):
-    print('delete user records...')
+    print('delete player records...')
     id = input('player id : ')
 
     query = f"delete from player where id = {id}"

@@ -2,7 +2,7 @@ from user_interface import UserInterface
 from CRUD import create, read, update, delete
 
 
-class Admin(UserInterface):
+class Director(UserInterface):
     create_schema_functions = {
         'belongs_to': (create.belongs_to, read.belongs_to),
         'directs': (create.directs, read.directs),

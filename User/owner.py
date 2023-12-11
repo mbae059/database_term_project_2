@@ -2,7 +2,7 @@ from user_interface import UserInterface
 from CRUD import create, read, update, delete
 
 
-class Admin(UserInterface):
+class Owner(UserInterface):
     create_schema_functions = {
         'player': (create.player, read.player),
         'team': (create.team, read.team),

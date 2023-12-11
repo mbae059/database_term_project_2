@@ -2,7 +2,7 @@ import psycopg2
 
 
 def player(cursor):
-    print('read user records...')
+    print('read player records...')
 
     query = f"select * from player"
 
